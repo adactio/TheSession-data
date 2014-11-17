@@ -725,8 +725,8 @@
 826,"One Off Session","2008-03-23 18:30:00","2008-03-23 22:00:00","Paddy's Point","Centro Commercial","La Zenia","Alicante","Spain",37.97747040,-0.68322712
 708,"Glencolmcille Traditional Arts Festival","2008-03-23 20:00:00","2008-03-29 00:00:00","Various Venues","","Glencolmcille","Donegal","Ireland",54.71106339,-8.72198391
 809,"Blind Willies","2008-03-24 20:00:00","2008-03-24 21:00:00","Parkside Lounge","317 East Houston St.","Manhattan","New York","USA",40.72107315,-73.98314667
-833,"Comhaltas Ceoltóirí Éireann 2008 North American Convention","2008-03-27 00:00:00","2008-03-30 00:00:00","Parsippany Hilton Hotel","1 Hilton Ct, Off Route 10 , At Rte 287","Parsippany","New Jersey","USA",40.85787582,-74.42598724
 655,"CCE North American Convention Weekend","2008-03-27 00:00:00","2008-03-30 00:00:00","Parsippany Hilton Hotel","1 Hilton Ct, Off Route 10 , At Rte 287","Parsippany","New Jersey","USA",40.85787582,-74.42598724
+833,"Comhaltas Ceoltóirí Éireann 2008 North American Convention","2008-03-27 00:00:00","2008-03-30 00:00:00","Parsippany Hilton Hotel","1 Hilton Ct, Off Route 10 , At Rte 287","Parsippany","New Jersey","USA",40.85787582,-74.42598724
 718,"The Flute Meeting","2008-03-27 00:00:00","2008-03-29 00:00:00","Various Venues","","Ballyvourney","Cork","Ireland",51.94549179,-9.16408920
 778,"Ar Ais Arís Traditional Arts Festival","2008-03-27 00:00:00","2008-03-30 00:00:00","Various Venues","Main Street","Buncrana","Donegal","Ireland",55.13595581,-7.45506620
 698,"The Flute Meeting - Cruinniú Na BhFliúit","2008-03-27 09:00:00","2008-03-29 22:00:00","Various Venues","","Macroom","Cork","Ireland",51.90531158,-8.95785809
@@ -1421,7 +1421,7 @@
 1569,"Trad Irish - Acoustic Music Night","2009-06-30 19:30:00","2009-06-30 22:30:00","Shamrock Bar","11-13 Alexandria Parade, Waitara (Sydney's North)","Waitara","New South Wales","Australia",-33.71102524,151.10429382
 1549,"Brogue","2009-06-30 20:00:00","2009-06-30 23:00:00","University Of Ottawa","85 University Street","Ottawa","Ontario","Canada",45.38679123,-75.69546509
 1586,"Maeve Donnelly, Geraldine Cotter, Charlie Harris & Conal O Grada","2009-07-01 13:00:00","2009-07-01 14:00:00","Clare Museum","Arthur's Row","Ennis","Clare","Ireland",52.84434891,-8.98299408
-1565,"At The Racket And Roscommon Flute Players","2009-07-01 20:00:00","2009-07-01 00:00:00","Abbey Hotel","Abbeytown","Roscommon","Roscommon","Ireland",53.62449265,-8.19502831
+1565,"At The Racket And Roscommon Flute Players","2009-07-01 20:00:00","2009-07-01 00:00:00","Abbey Hotel","Abbeytown","Roscommon","Roscommon","Ireland",53.62451935,-8.19496822
 1588,"Folk+Roots Music In The Cellar","2009-07-02 20:30:00","2009-07-02 23:30:00","The Constitution","42 St Pancras Way","Camden","London","England",51.54030609,-0.13551740
 1581,"An Seisiun","2009-07-03 00:00:00","2009-07-05 00:00:00","Various Venues","","Mesquer-Quimiac","Brittany","France",47.40235519,-2.49305081
 1589,"Newcastleton Folk Festival","2009-07-03 17:00:00","2009-07-05 00:00:00","Douglas Square","","Newcastleton","The Borders","Scotland",55.17930603,-2.81318569
@@ -2404,7 +2404,7 @@
 2537,"Scoil Cheoil Na Botha 2011","2011-10-14 21:00:00","2011-10-16 00:00:00","Various Venues","Main Street","Scotstown","Monaghan","Ireland",54.27807617,-7.06778383
 2602,"Workshops With  Brendan Begley & Caoimhín Ó Raghallaigh This Sunday Afternoon, October 16  In Chicago","2011-10-16 15:00:00","2011-10-16 00:00:00","Chief O'Neill's Pub","3471 N. Elston","Chicago","Illinois","USA",41.94462967,-87.70550537
 2601,"Concert With Brendan Begley & Caoimhín Ó Raghallaigh","2011-10-16 19:00:00","2011-10-16 00:00:00","Chief O'Neill's Pub","3471 N. Elston","Chicago","Illinois","USA",41.94462967,-87.70550537
-2550,"Oisin Mac Diarmada - One-man Performance","2011-10-16 20:00:00","2011-10-16 00:00:00","Coatesville Traditional Irish Music Series","143 E Lincoln Highway","Coatesville","Pennsylvania","USA",39.98326111,-75.82273865
+2550,"Oisin Mac Diarmada - One-man Performance","2011-10-16 20:00:00","2011-10-16 00:00:00","Coatesville Traditional Irish Music Series","143 E Lincoln Highway","Coatesville","Pennsylvania","USA",39.98321915,-75.82308197
 2543,"Andy Irvine In Concert","2011-10-20 19:00:00","2011-10-20 21:00:00","C'ville Coffee","1301 Harris St.","Charlottesville","Virginia","USA",38.04100418,-78.47763824
 2610,"Junctions - New Traditional Music Encounters","2011-10-20 20:00:00","2011-10-20 00:00:00","The Pavilion","13 Carey's Lane","Cork","Cork","Ireland",51.89864349,-8.47380733
 2588,"CRAIC LIVE","2011-10-21 20:00:00","2011-10-21 22:30:00","Alley Theatre","Railway Street","Strabane","Tyrone","Northern Ireland",54.82775879,-7.46512461
@@ -3510,12 +3510,18 @@
 3711,"Andrea Beaton, Cape Breton Fiddle; Dick Hensold, Northumbrian Smallpipes in concert","2014-11-21 19:30:00","2014-11-21 22:00:00","Richland Community Hall","8985 Gull Road","Richland","Michigan","USA",42.37595367,-85.45688629
 3737,"Our Dear Dark Mountain with the Sky Over it","2014-11-22 15:00:00","2014-11-22 15:00:00","The Court House","","Clones","Monaghan","Ireland",54.17369080,-7.21259308
 3754,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-23 19:45:00","2014-11-23 22:00:00","The Hawth Theatre","Hawth Avenue","Crawley","Sussex","England",51.10923386,-0.17478460
+3763,"Fundraiser trad music song, dance, storytelling, and lilting concert for The Join Our Boys Trust","2014-11-26 20:30:00","2014-11-26 20:30:00","Abbey Hotel","Abbeytown","Roscommon","Roscommon","Ireland",53.62451935,-8.19496822
 3736,"Megasesh (part of the Oxjam Music Festival)","2014-11-26 21:00:00","2014-11-26 23:45:00","Canons' Gait","232 Canongate","Edinburgh","Lothian","Scotland",55.95081329,-3.18235350
 3755,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-27 19:30:00","2014-11-27 21:45:00","Barningham Village Hall","","Richmond","Yorkshire","England",52.35551834,-1.17431974
 3756,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-28 19:30:00","2014-11-28 21:45:00","Lindow Hall","","Bowness On Solway","Cumbria","England",54.95302200,-3.21461701
 3727,"St Andrew's Ceilidh","2014-11-28 20:00:00","2014-11-28 20:00:00","St Andrews In The Square","1 St Andrew's Square","Glasgow","Glasgow","Scotland",55.85448074,-4.24334049
+3759,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-29 19:30:00","2014-11-29 21:45:00","Calderbridge Village Hall","Calderbridge","Seascale","Cumbria","England",54.44023132,-3.47840333
+3760,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-30 19:30:00","2014-11-30 21:45:00","Waberthwaite Village Hall","Waberthwaite","Millom","Cumbria","England",54.27862167,-3.34272385
+3761,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-12-03 19:30:00","2014-12-03 21:45:00","Soulby Village Hall","Soulby","Kirkby Stephen","Cumbria","England",54.49436188,-2.38722610
 3717,"Christmas With The Celts","2014-12-04 20:00:00","2014-12-04 20:00:00","The Ridgefield Playhouse","80 E. Ridge Rd","Ridgefield","Connecticut","USA",41.28235626,-73.49311829
+3762,"Plucked Instrument Workshop","2014-12-06 13:00:00","2014-12-06 13:00:00","Bath Street","30/7 Bath Street","Portobello","Edinburgh","Scotland",55.95316315,-3.11328363
 3744,"Perry Hall Folk Music Night, featuring The Chance","2014-12-06 19:00:00","2014-12-06 22:00:00","Perry Hall United Methodist Church ","9515 Belair Rd.","Baltimore","Maryland","USA",39.40904236,-76.46695709
+3758,"Kevin Burke, solo fiddle concert","2014-12-06 20:00:00","2014-12-06 20:00:00","Coatesville Traditional Irish Music Series","143 E Lincoln Highway","Coatesville","Pennsylvania","USA",39.98321915,-75.82308197
 3743,"A Celtic Nutcracker","2014-12-13 14:00:00","2014-12-13 14:00:00","Bowker Auditorium At UMass","100 Holdsworth Way","Amherst","Massachusetts","USA",42.39186859,-72.53038788
 3745,"Myton Hospice charity Ceili & Concert","2014-12-19 20:00:00","2014-12-19 20:00:00","Christ The King Parish Centre","Westhill Rd, Coundon","Coventry","West Midlands","England",52.42221069,-1.53542972
 3684,"8. Irish Folkfestival zum St. Brigid's Day","2015-01-24 19:30:00","2015-01-24 19:30:00","Refektorium","Klosterhof 10","Wahlsburg","Hessen","Germany",51.62538147,9.55704021
