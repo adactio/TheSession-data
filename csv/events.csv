@@ -197,7 +197,7 @@
 244,"The Next Stage Open House","2007-02-12 16:00:00","2007-02-12 21:00:00","Players Barn Theatre","32332 W. 12 Mile Rd","Farmington Hills","Michigan","USA",42.49985123,-83.36818695
 193,"Fiddle Workshop With Christian Lemaître","2007-02-16 18:00:00","2007-02-18 17:00:00","Elisabeth-hall","Berkenhagestraat 64","Zedelgem","Vlaanderen","Belgium",51.13560486,3.13553429
 245,"Annual Ceili Dance Irish Musicians Association Of Chicago","2007-02-16 20:00:00","2007-02-16 00:30:00","Gaelic Park","6119 W. 147th St.","Chicago","Illinois","USA",41.62430191,-87.77095032
-223,"Callahan, McComiskey and Kelly In Concert","2007-02-16 21:00:00","2007-02-16 23:45:00","Glucksman Irish House At New York University","One Washington Mews","Manhattan","New York","USA",40.73143768,-73.99708557
+223,"Callahan, McComiskey and Kelly In Concert","2007-02-16 21:00:00","2007-02-16 23:45:00","Glucksman Irish House At New York University","1 Washington Mews","Manhattan","New York","USA",40.73172760,-73.99650574
 241,"Bran Club","2007-02-17 17:00:00","2007-02-17 22:00:00","Jókai Klub","Hollós út 5","Budapest","Budapest","Hungary",47.49893951,18.98896599
 209,"The Gathering Festival","2007-02-21 00:00:00","2007-02-25 00:00:00","The Gleneagle Hotel","Muckross Road","Killarney","Kerry","Ireland",52.04892731,-9.50655556
 214,"Mór Ceol","2007-02-23 00:00:00","2007-02-23 00:00:00","Various Venues","","Ballinamore","Leitrim","Ireland",54.05221939,-7.80320454
@@ -1077,7 +1077,7 @@
 1180,"10th Return To Camden Town Festival","2008-10-24 00:00:00","2008-11-02 00:00:00","The London Irish Centre","50-52 Camden Square","Camden","London","England",51.54412079,-0.13344830
 1199,"Cooley-Collins Trad Festival","2008-10-24 00:00:00","2008-10-27 00:00:00","Various Venues","","Gort","Galway","Ireland",53.06830978,-8.81808949
 1104,"Willie Keane Memorial Weekend","2008-10-24 09:00:00","2008-10-27 11:00:00","Madigans","","Doonbeg","Clare","Ireland",52.72902298,-9.52653122
-974,"O'Flaherty Irish Music Retreat","2008-10-24 10:00:00","2008-10-26 10:00:00","Hoblitzelle Camp And Conference Center","8060 Singleton Rd","Midlothian","Texas","USA",32.39055252,-97.00142670
+974,"O'Flaherty Irish Music Retreat","2008-10-24 10:00:00","2008-10-26 10:00:00","Hoblitzelle Camp And Conference Center","8060 Singleton Rd","Midlothian","Texas","USA",32.39583206,-97.00829315
 1096,"Berkenhage Workshop with Jean-Michel Veillon & Emer Mayock","2008-10-24 18:00:00","2008-10-26 17:00:00","Berkenhagestraat 64","","Zedelgem","West Flanders","Belgium",51.14217758,3.13683963
 1132,"Arty McGlynn, Chris Newman, Nollaig Casey, Máire Ní Chathasaigh","2008-10-24 19:30:00","2008-10-24 23:00:00","The London Irish Centre","50-52 Camden Square","Camden","London","England",51.54412079,-0.13344830
 1121,"Wellington Folk Festival","2008-10-24 20:00:00","2008-10-27 13:00:00","Wainuiomata","Brookfield Scout Campsite","Wellington","Wellington","New Zealand",-41.28646088,174.77622986
@@ -3476,7 +3476,7 @@
 3678,"Long Time Courting","2014-10-20 19:00:00","2014-10-20 21:00:00","C'ville Coffee","1301 Harris St.","Charlottesville","Virginia","USA",38.04100418,-78.47763824
 3718,"Return to Camden Town Festival of Traditional Irish Music,Song and Dance","2014-10-22 00:00:00","2014-10-27 00:00:00","Various Venues","","Camden","London","England",51.55170441,-0.15882550
 3729,"Traditional Irish Music Night","2014-10-22 23:00:00","2014-10-22 23:00:00","The Wild Rover","Carrer Santa Mònica, 2,","Barcelona","Catalunya","Spain",41.37773514,2.17639089
-3617,"O'Flaherty Irish Music Retreat","2014-10-24 00:00:00","2014-10-26 00:00:00","Hoblitzelle Camp And Conference Center","8060 Singleton Rd","Midlothian","Texas","USA",32.39055252,-97.00142670
+3617,"O'Flaherty Irish Music Retreat","2014-10-24 00:00:00","2014-10-26 00:00:00","Hoblitzelle Camp And Conference Center","8060 Singleton Rd","Midlothian","Texas","USA",32.39583206,-97.00829315
 3715,"Fairfax Irish Festival","2014-10-24 00:00:00","2014-10-26 00:00:00","Various Venues","","Fairfax","California","USA",37.98714447,-122.58886719
 3709,"Scéalta na Samhna ","2014-10-24 19:30:00","2014-10-24 21:30:00","Gleeson Theatre","Kevin Street","Dublin","Dublin","Ireland",53.33828354,-6.27049255
 3644,"Kila","2014-10-24 20:00:00","2014-10-24 22:00:00","Newman University Church","87a St. Stephen's Green","Dublin","Dublin","Ireland",53.33684921,-6.26054335
@@ -3658,38 +3658,53 @@
 6079,"Tunes in the Church","2015-05-05 20:00:00","2015-05-05 20:00:00","John The Baptist Church","","Valentia Island","Kerry","Ireland",51.91077423,-10.35489941
 6080,"Tunes in the Church","2015-05-06 20:00:00","2015-05-06 20:00:00","St. Nicholas' Collegiate Church","Shop Street","Galway","Galway","Ireland",53.27285385,-9.05252647
 6049,"Baltimore Fiddle Fair 2015","2015-05-07 00:00:00","2015-05-10 00:00:00","Various Venues","","Baltimore","Cork","Ireland",51.48432922,-9.36610889
+6127,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2015-05-07 19:00:00","2015-05-07 19:00:00","Folklife Center At Crandall Public Library","251 Glen Street","Glens Falls","New York","USA",43.30009460,-73.53514099
 6081,"Tunes in the Church","2015-05-07 20:00:00","2015-05-07 20:00:00","The Holy Trinity","","Westport","Mayo","Ireland",53.80205536,-9.52184677
 6121,"Altan","2015-05-07 20:00:00","2015-05-07 20:00:00","Mac","Cannon Hill Park","Birmingham","West Midlands","England",52.45219040,-1.89889956
 6114,"Lunchtime Concert - DIT Irish Traditional Music Ensemble","2015-05-08 13:00:00","2015-05-08 14:00:00","National Concert Hall","Earlsfort Terrace","Dublin","Dublin","Ireland",53.33446503,-6.25827503
 6082,"Tunes in the Church","2015-05-08 20:00:00","2015-05-08 20:00:00","St. Columba's Church","Bindon Street","Ennis","Clare","Ireland",52.84566879,-8.98572063
 6112,"Monthly Céilí ","2015-05-08 20:00:00","2015-05-08 20:00:00","Niebyl-Proctor Marxist Library","6501 Telegraph Avenue","Oakland","California","USA",37.85320282,-122.24239349
+6122,"3rd annual South Downs Tionol with Brian McNamara","2015-05-08 20:00:00","2015-05-09 22:00:00","St Mary's Church And Church Hall","Church Street","West Chiltington","Sussex","England",50.95379257,-0.44889840
+6128,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2015-05-08 20:00:00","2015-05-08 20:00:00","Glucksman Irish House At New York University","1 Washington Mews","Manhattan","New York","USA",40.73172760,-73.99650574
 6099,"FluteFling Scottish Flute Day 2015","2015-05-09 09:30:00","2015-05-09 16:30:00","Portobello Old Parish Church","Bellfield Street","Portobello","Edinburgh","Scotland",55.95278549,-3.10759950
 6083,"Tunes in the Church","2015-05-09 20:00:00","2015-05-09 20:00:00","Dublin Unitarian Church","St.Stephens Green","Dublin","Dublin","Ireland",53.33918381,-6.26132536
 6084,"Tunes in the Church","2015-05-10 20:00:00","2015-05-10 20:00:00","St. Iberius Church","","Wexford","Wexford","Ireland",52.33691788,-6.46333790
+6130,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2015-05-11 19:00:00","2015-05-11 19:00:00","The Carriage House Hayloft","305 Stewart Avenue ","Ithaca","New York","USA",42.43476486,-76.49314880
 6085,"Tunes in the Church","2015-05-11 20:00:00","2015-05-11 20:00:00","St. Kevin's Church","","Hollywood","Wicklow","Ireland",53.02426910,-6.18069315
 6086,"Tunes in the Church","2015-05-12 20:00:00","2015-05-12 20:00:00","The Black Abbey","Abbey Street ","Kilkenny","Kilkenny","Ireland",52.65435410,-7.25655556
 6087,"Tunes in the Church","2015-05-13 20:00:00","2015-05-13 20:00:00","Newtown Hall","","Kilcock","Kildare","Ireland",53.39942551,-6.66812325
 6088,"Tunes in the Church","2015-05-14 20:00:00","2015-05-14 20:00:00","Carlingford Heritage Centre","Dundalk St","Carlingford","Louth","Ireland",54.03835297,-6.18599463
+6132,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2015-05-14 20:00:00","2015-05-14 20:00:00","Avalon Theatre","40 E. Dover Street","Easton","Maryland","USA",38.77405930,-76.07486725
 6117,"Skerries Traditional Music Weekend ","2015-05-15 00:00:00","2015-05-17 00:00:00","Various Venues","","Skerries","Dublin","Ireland",53.58055115,-6.10787773
 6116,"Fleadh 64—A Traditional Music Gathering ","2015-05-15 20:00:00","2015-05-17 00:00:00","Various Venues","","Clones","Monaghan","Ireland",54.17968369,-7.23066711
+6133,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2015-05-15 20:00:00","2015-05-15 20:00:00","The Minstrel At Morristown Unitarian Fellowship","21 Normandy Heights Rd","Morristown","New Jersey","USA",40.79548264,-74.44544983
 3788,"World Fiddle Day Scartaglin 2015","2015-05-15 22:00:00","2015-05-16 12:00:00","Sliabh Luachra Heritage Centre ","","Scartaglen","Kerry","Ireland",52.18024826,-9.40083981
 6102,"Perry Hall Folk Music Night, featuring Mac Walter","2015-05-16 19:00:00","2015-05-16 22:00:00","Perry Hall United Methodist Church ","9515 Belair Rd.","Baltimore","Maryland","USA",39.40933228,-76.46696472
+6134,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2015-05-16 20:00:00","2015-05-16 20:00:00","Old Songs Concert Series","37 South Main St.","Voorheesville","New York","USA",42.65273285,-73.92863464
 6119,"Fleadh Nua","2015-05-17 00:00:00","2015-05-25 00:00:00","Various Venues","","Ennis","Clare","Ireland",52.84742737,-8.98873806
+6125,"Roaring Kelly Band","2015-05-17 16:00:00","2015-05-17 18:00:00","O'Connor's Pub","210 NE 2nd St","Delray Beach","Florida","USA",26.46513748,-80.07074738
 6118,"Strung Series with Zoe Conway","2015-05-19 19:00:00","2015-05-19 19:00:00","Irish Georgian Society","58 South William Street","Dublin","Dublin","Ireland",53.34253311,-6.26227045
+6131,"Rebecca Lomnicky & David Brewer CD Release Concert","2015-05-23 19:00:00","2015-05-23 22:00:00","Private Home","","Gig Harbor","Washington","USA",47.32926559,-122.58013153
 6103,"The Brian Pickell Band featuring Shane Cook","2015-05-24 14:00:00","2015-05-24 14:00:00","Mapleview House Concerts","714506 Baseline Road","Markdale","Ontario","Canada",44.25716019,-80.60491180
 3795,"Minnesota Irish Music Weekend","2015-06-12 00:00:00","2015-06-14 00:00:00","Celtic Junction","836 N. Prior Avenue","Saint Paul","Minnesota","USA",44.96629333,-93.18195343
 6047,"The North Atlantic Tionól","2015-06-12 00:00:00","2015-06-14 00:00:00","Brackley Beach North Winds Inns And Suites","3828 Portage Road-Route 6","Brackley Beach","Prince Edward Island","Canada",46.40480042,-63.19856262
 6048,"Doolin Folk Festival","2015-06-12 00:00:00","2015-06-15 00:00:00","Hotel Doolin","Rivervale","Doolin","Clare","Ireland",53.01660919,-9.37574196
+6126,"The House Devils Live","2015-06-12 20:00:00","2015-06-12 20:00:00","D C Music Club","20 Camden Row","Dublin","Dublin","Ireland",53.33636475,-6.26874256
+6129,"Perry Hall Folk Music Night, featuring Knuckleberry Finn ","2015-06-13 19:00:00","2015-06-13 22:00:00","Perry Hall United Methodist Church ","9515 Belair Rd.","Baltimore","Maryland","USA",39.40933228,-76.46696472
 6058,"Eddie Moloney memorial concert","2015-06-20 20:00:00","2015-06-20 20:00:00","Town Hall Theatre","CourtHouse Square","Galway","Galway","Ireland",53.27603531,-9.05433273
 6040,"Tyrone county fleadh ","2015-06-25 19:00:00","2015-06-29 00:00:00","Various Venues","","Castlederg","Tyrone","Northern Ireland",54.60295868,-7.09410000
+6137,"Another Lancaster/David Lyth Weekend of Sessions ","2015-06-27 14:00:00","2015-06-28 18:00:00","Various Venues","","Lancaster","Lancashire","England",54.04657364,-2.80074000
 3750,"Public Ceilidh and Barn Dance","2015-07-04 19:30:00","2015-07-04 19:30:00","Occombe Farm","Preston Down Road","Paignton","Devon","England",50.45505142,-3.57446051
 3809,"The New Harmony Music Festival and School","2015-07-05 00:00:00","2015-07-12 00:00:00","Various Venues","","New Harmony","Indiana","USA",38.12976837,-87.93502808
+6123,"Raglan Road 28 Year Reunion Concert","2015-07-11 20:00:00","2015-07-11 20:00:00","Petersham Bowling Club","77 Brighton St. Petersham","Sydney","New South Wales","Australia",-33.89296341,151.15243530
 3778,"South Sligo Summer School of Traditional Music, Song and Dance","2015-07-12 00:00:00","2015-07-18 00:00:00","Various Venues","","Tubbercurry","Sligo","Ireland",54.05522537,-8.72982407
 6092,"What She Will - Music From The Theatre Production","2015-07-16 19:30:00","2015-07-16 23:00:00","The Slaughtered Lamb Pub","34-36 Great Sutton Street","Clerkenwell","London","England",51.52330399,-0.10142720
+6124,"Folk by the Water","2015-07-18 11:00:00","2015-07-19 20:00:00","The Bridge","High Street","Shoreham By Sea","Sussex","England",50.83202744,-0.27679279
 3818,"Cascadia Irish Music Week","2015-07-19 00:00:00","2015-07-25 00:00:00","Evergreen State College","The Evergreen State College","Olympia","Washington","USA",47.07185745,-122.97664642
 6068,"Burren Summer School of Music and Culture","2015-07-20 10:00:00","2015-07-26 23:00:00","Various Venues","Main Street","Ballyvaughan","Clare","Ireland",53.11553192,-9.14942360
 6096,"Carmel Gunning Int. Summer School of Traditional Music","2015-08-05 11:00:00","2015-08-08 01:00:00","Paul McTiernans Pub","Conways Cross","Geevagh","Sligo","Ireland",53.99674225,-8.29230595
 6091,"Boston Harbor Scottish Fiddle School","2015-08-09 00:00:00","2015-08-15 00:00:00","Various Venues","","Thompson Island","Massachusetts","USA",42.31596375,-71.00891876
 6095,"Fleadh Cheoil na hÉireann 2015","2015-08-09 00:00:00","2015-08-16 00:00:00","Various Venues","","Sligo","Sligo","Ireland",54.27661133,-8.47608852
 6014,"Flute Workshop","2015-09-12 10:00:00","2015-09-15 15:00:00","The Nesbitt Arms Hotel","","Ardara","Donegal","Ireland",54.76714706,-8.40928650
+6136,"O'Flaherty Irish Music Retreat","2015-10-16 00:00:00","2015-10-18 00:00:00","Hoblitzelle Camp And Conference Center","8060 Singleton Rd","Midlothian","Texas","USA",32.39583206,-97.00829315
 6059,"Wardle Folk Festival 2015","2015-10-23 19:00:00","2015-10-25 17:00:00","Wardle Academy","Birch Road","Rochdale","Lancashire","England",53.64202881,-2.12693143
