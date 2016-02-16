@@ -1,12 +1,12 @@
 #The Session data
 
-CSV files of data from [The Session](http://thesession.org/):
+CSV and JSON files of data from [The Session](https://thesession.org/):
 
-* [tunes](http://thesession.org/tunes/)
-* [sessions](http://thesession.org/sessions/)
-* [events](http://thesession.org/events/)
-* [recordings](http://thesession.org/recordings/)
+* [tunes](https://thesession.org/tunes/)
+* [sessions](https://thesession.org/sessions/)
+* [events](https://thesession.org/events/)
+* [recordings](https://thesession.org/recordings/)
 
 I'll try to update the files once a week.
 
-If anyone wants to convert the data to other formats like XML or JSON, feel free to fork the project and send me a pull request.
+If anyone wants to convert the data to other formats, feel free to fork the project and send me a pull request.
