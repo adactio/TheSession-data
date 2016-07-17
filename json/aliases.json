@@ -4042,8 +4042,9 @@
 {"tune_id":741,"alias":"Padghin O'Rafferty","name":"Paddy O'Rafferty"},
 {"tune_id":741,"alias":"Padgin O'Rafferty","name":"Paddy O'Rafferty"},
 {"tune_id":741,"alias":"Paidin O Raifeartai","name":"Paddy O'Rafferty"},
-{"tune_id":741,"alias":"Paidín Ó Raifeartaigh","name":"Paddy O'Rafferty"},
 {"tune_id":741,"alias":"Paidin O Raifeartaigh","name":"Paddy O'Rafferty"},
+{"tune_id":741,"alias":"Paidín Ó Raifeartaigh","name":"Paddy O'Rafferty"},
+{"tune_id":741,"alias":"Páidín Ó Reafartaigh","name":"Paddy O'Rafferty"},
 {"tune_id":741,"alias":"Paidin O' Raffairtaigh","name":"Paddy O'Rafferty"},
 {"tune_id":741,"alias":"Paidin O'Rafferty","name":"Paddy O'Rafferty"},
 {"tune_id":741,"alias":"Paidin O'Rafferty's","name":"Paddy O'Rafferty"},
@@ -6282,6 +6283,7 @@
 {"tune_id":1272,"alias":"Paddy Reynold's","name":"College Groves, The"},
 {"tune_id":1273,"alias":"Navvy On The Line","name":"Navvy On The Shore, The"},
 {"tune_id":1273,"alias":"Navvy On The Line, The","name":"Navvy On The Shore, The"},
+{"tune_id":1273,"alias":"Navvy's Farewell, The","name":"Navvy On The Shore, The"},
 {"tune_id":1273,"alias":"Péarla Na GCluainte","name":"Navvy On The Shore, The"},
 {"tune_id":1273,"alias":"Pride Of Cloontia, The","name":"Navvy On The Shore, The"},
 {"tune_id":1273,"alias":"Pride Of Cluinte, The","name":"Navvy On The Shore, The"},
@@ -19628,6 +19630,7 @@
 {"tune_id":9041,"alias":"Tolpagorni","name":"Tuolpagorni"},
 {"tune_id":9041,"alias":"Toulpagorni","name":"Tuolpagorni"},
 {"tune_id":9046,"alias":"Mabel Kelly","name":"Mild Mabel Kelly"},
+{"tune_id":9048,"alias":"Kitty Sean Cunningham's Barn Dance","name":"Kitty Sean Cunningham's"},
 {"tune_id":9048,"alias":"Kitty Séan's","name":"Kitty Sean Cunningham's"},
 {"tune_id":9048,"alias":"Kitty Séan's Barn Dance","name":"Kitty Sean Cunningham's"},
 {"tune_id":9048,"alias":"Kitty Sheain's","name":"Kitty Sean Cunningham's"},
@@ -23185,5 +23188,7 @@
 {"tune_id":15460,"alias":"Abbey Ceili Band Polka No. 1, The","name":"Abbey Ceili Band, The"},
 {"tune_id":15461,"alias":"Abbey Ceili Band Polka No. 2, The","name":"Abbey Ceili Band, The"},
 {"tune_id":15462,"alias":"Sráid Na Cathrach","name":"Straid Na Cathrach"},
-{"tune_id":15464,"alias":"Alex Menzies","name":"Alec Menzies"}
+{"tune_id":15464,"alias":"Alex Menzies","name":"Alec Menzies"},
+{"tune_id":15469,"alias":"Cá Bhfuil An Solas?","name":"Where's The Light?"},
+{"tune_id":15469,"alias":"Where Is The Light?","name":"Where's The Light?"}
 ]
