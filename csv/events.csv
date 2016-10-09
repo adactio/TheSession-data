@@ -442,7 +442,7 @@
 389,"Brechin Arts Festival 2007","2007-09-15 00:00:00","2007-09-30 00:00:00","Various Venues","","Brechin","Angus","Scotland",56.73334122,-2.65528893
 501,"Wendy MacIsaac: Master Fiddle Class","2007-09-15 11:00:00","2007-09-15 12:30:00","CelticMKE Center","1532 N. Wauwatosa Ave","Milwaukee","Wisconsin","USA",43.05168915,-88.00698853
 504,"Celtic Fest Chicago","2007-09-15 11:00:00","2007-09-16 21:30:00","Grant Park","","Chicago","Illinois","USA",41.87811279,-87.62979889
-502,"Half-way To St.Patrick's Day","2007-09-15 12:00:00","2007-09-16 01:00:00","Dublin Crossing Pub","Unit 101-18789 Fraser Hwy","Surrey","British Columbia","Canada",49.09535217,-122.62195587
+502,"Half-way To St.Patrick's Day","2007-09-15 12:00:00","2007-09-16 01:00:00","Dublin Crossing Pub","Unit 101-18789 Fraser Hwy","Surrey","British Columbia","Canada",49.12437057,-122.70211029
 293,"The Celtic Arts Center","2007-09-15 19:00:00","2007-09-15 22:00:00","The Ford Amphitheater","2580 Cahuenga Blvd.","Los Angeles","California","USA",34.13500977,-118.36118317
 485,"Niamh Ní Charra and Mike Galvin","2007-09-18 20:00:00","2007-09-18 00:00:00","Tech Amergin","","Waterville","Kerry","Ireland",51.82743454,-10.17198086
 437,"Paddy Keenan","2007-09-20 00:00:00","2007-09-20 00:00:00","Victoria Hall Theater","33 West Victoria Street","Santa Barbara","California","USA",34.42330933,-119.70644379
@@ -833,8 +833,8 @@
 856,"Sarah Burnell CD Launch Show","2008-06-09 20:00:00","2008-06-09 22:00:00","Petit Café Campus","Prince Arthur Street","Montreal","Quebec","Canada",45.51489258,-73.57157898
 958,"Tribute To The Irish Accordion","2008-06-09 20:00:00","2008-06-09 00:00:00","Club Passim","47 Palmer Street","Cambridge","Massachusetts","USA",42.37384796,-71.11998749
 959,"Aktionstag Der Realschule","2008-06-10 19:00:00","2008-06-10 19:00:00","Realschule","Hagenau 22","Weißenburg","Bayern","Germany",49.02650070,10.97655010
-905,"Martin Hayes And Dennis Cahill","2008-06-11 20:00:00","2008-06-11 23:00:00","Black Box","18-22 Hill Street","Belfast","Antrim","Northern Ireland",54.60131836,-5.92642593
-973,"Martin Hayes And Dennis Cahill","2008-06-11 20:00:00","2008-06-11 23:00:00","Black Box","18-22 Hill Street","Belfast","Antrim","Northern Ireland",54.60131836,-5.92642593
+905,"Martin Hayes And Dennis Cahill","2008-06-11 20:00:00","2008-06-11 23:00:00","The Black Box","18-22 Hill Street","Belfast","Antrim","Northern Ireland",54.71111679,-6.20284510
+973,"Martin Hayes And Dennis Cahill","2008-06-11 20:00:00","2008-06-11 23:00:00","The Black Box","18-22 Hill Street","Belfast","Antrim","Northern Ireland",54.71111679,-6.20284510
 956,"Fundraiser For The Dissolved Cluain Tarbh Branch Of CCE","2008-06-11 21:00:00","2008-06-11 00:00:00","The Cobblestone Bar","77 North King Street","Dublin","Dublin","Ireland",53.34968185,-6.27799797
 721,"Whapweasel Ceilidh","2008-06-12 20:00:00","2008-06-13 00:00:00","Riverside Café, Durham Students' Union","New Elvet","Durham","Durham","England",54.77515793,-1.57205045
 947,"CityFolk","2008-06-13 19:30:00","2008-06-13 10:00:00","Chetham's School Of Music","Long Millgate","Manchester","Lancashire","England",53.66425705,-2.16951990
@@ -1266,7 +1266,7 @@
 1397,"Learning Music By Ear - 10 Workshops","2009-03-22 14:00:00","2009-06-07 16:00:00","Riddler's Bar","Sarsfield Street","Limerick City","Limerick","Ireland",52.66413498,-8.62746239
 1398,"Irish Fiddle 101 - 10 Workshops To Get You On The Road","2009-03-22 16:30:00","2009-06-07 18:30:00","Riddler's Bar","Sarsfield Street","Limerick City","Limerick","Ireland",52.66413498,-8.62746239
 1342,"The Elders In Concert","2009-03-24 08:00:00","2009-03-24 00:00:00","Irish American Heritage Center","4626 N. Knox Avenue","Chicago","Illinois","USA",41.96532440,-87.74459076
-1369,"LAU","2009-03-25 20:00:00","2009-03-25 23:00:00","Black Box","18-22 Hill Street","Belfast","Antrim","Northern Ireland",54.60131836,-5.92642593
+1369,"LAU","2009-03-25 20:00:00","2009-03-25 23:00:00","The Black Box","18-22 Hill Street","Belfast","Antrim","Northern Ireland",54.71111679,-6.20284510
 1238,"Qristina and Quinn Bachand","2009-03-26 19:00:00","2009-03-26 20:00:00","Shoal Centre","","Sidney","British Columbia","Canada",48.65327072,-123.40361786
 1410,"Máire Ní Chathasaigh and Chris Newman","2009-03-27 19:30:00","2009-03-27 22:00:00","Elite Cinema","Railway Street","Leyburn","Yorkshire","England",54.30951309,-1.82906485
 1335,"Feile Barr Na Sraide","2009-03-27 20:00:00","2009-03-29 21:00:00","The Ring Of Kerry Hotel","Valentia Road","Cahersiveen","Kerry","Ireland",51.94192886,-10.23524380
@@ -4119,20 +4119,35 @@
 6583,"The Gloaming","2016-09-24 20:00:00","2016-09-24 20:00:00","Usher Hall","Lothian Road, EH1 2EA","Edinburgh","Lothian","Scotland",55.94738007,-3.20606184
 6566,"Zoe Conway, Donal Lunny & Mairtin OConnor Live","2016-09-25 19:00:00","2016-09-25 19:00:00","St Patricks Gateway Centre","Patrick Street","Waterford","Waterford","Ireland",52.26006317,-7.11457300
 6584,"The Gloaming","2016-09-25 19:30:00","2016-09-25 19:30:00","Symphony Hall","Broad Street","Birmingham","West Midlands","England",52.47677994,-1.91215801
+6627,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2016-09-28 19:00:00","2016-09-28 19:00:00","The Harwood Museum Of Art","238 Ledoux Street","Taos","New Mexico","USA",36.40599823,-105.57696533
 6598,"Cork Folk Festival","2016-09-29 00:00:00","2016-10-02 00:00:00","Various Venues","","Cork","Cork","Ireland",51.89689255,-8.48631573
 6624,"The Ballyfermot Rakes @ ThePurple Sessions","2016-09-29 21:30:00","2016-09-29 21:30:00","Boyle's Pub","","Slane","Meath","Ireland",53.70864868,-6.54365110
+6628,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2016-09-30 19:30:00","2016-09-30 19:30:00","GIG Performance Space","1808 2nd Street","Santa Fe","New Mexico","USA",35.66252899,-105.96537018
 6616,"Cormac McCarthy","2016-09-30 20:30:00","2016-09-30 20:30:00","Ionad Cultúrtha","","Ballyvourney","Cork","Ireland",51.94549179,-9.16408920
+6629,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2016-10-01 19:00:00","2016-10-01 19:00:00","Apple Mountain Music","10301 Comanche Rd.","Albuquerque","New Mexico","USA",35.12400436,-106.52539062
+6634,"Martin Hayes and Dennis Cahill","2016-10-01 19:00:00","2016-10-01 19:00:00","Handelsbeurs Concertzaal","Kouter 29","Ghent","East Flanders","Belgium",51.04983521,3.72255135
 6577,"Tom Creegan, Dale Russ and Cary Novotny - House Concert","2016-10-01 20:00:00","2016-10-01 23:45:00","Wee Ceili Room","","Tualatin","Oregon","USA",45.38400650,-122.76398468
+6635,"Martin Hayes and Dennis Cahill","2016-10-02 15:00:00","2016-10-02 15:00:00","Tiliander","Spoorlaan 82/c","Oisterwijk","Noord Brabant","Netherlands",51.58232117,5.19692802
 6545,"Jamie Laval","2016-10-06 19:30:00","2016-10-06 19:30:00","The Blue Cottage","Lynn Valley","North Vancouver","British Columbia","Canada",49.33729172,-123.03817749
+6631,"Paddy O Brien & Erin Hart","2016-10-06 20:00:00","2016-10-06 23:30:00","The Farnham Arms Hotel","Main Street","Cavan","Cavan","Ireland",53.99042511,-7.35958195
 6606,"Columbus Day Weekend CIAW  Fall Series  ","2016-10-07 00:00:00","2016-10-09 00:00:00","Various Venues","Route 145","East Durham","New York","USA",42.34797287,-74.02674103
+6630,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2016-10-07 19:30:00","2016-10-07 19:30:00","Unity Spiritual Center Denver","3021 S. University Blvd.","Denver","Colorado","USA",39.66275024,-104.95998383
 6540,"Gothard Sisters in Concert","2016-10-08 19:30:00","2016-10-08 22:00:00","Winona Grange","8340 SW Seneca St","Tualatin","Oregon","USA",45.38317871,-122.76230621
+6639,"Colly Moore and Enda McCabe","2016-10-12 21:00:00","2016-10-12 21:00:00","The Crane Bar","2 Sea Road","Galway","Galway","Ireland",53.26988220,-9.06050587
+6632,"Singing Your Heart Out","2016-10-14 20:00:00","2016-10-14 23:00:00","Our Lady Of Lourdes Church Centre","222 Trittiford Rd","Birmingham","West Midlands","England",52.41459656,-1.82079899
+6640,"Zoe Conway, Donal Lunny, and Martin O'Connor","2016-10-14 20:00:00","2016-10-14 20:00:00","The Black Box","18-22 Hill Street","Belfast","Antrim","Northern Ireland",54.71111679,-6.20284510
 6593,"BRAN KLUB","2016-10-15 17:00:00","2016-10-15 22:00:00","Jókai Klub","Hollós út 5","Budapest","Budapest","Hungary",47.49878693,18.98901176
-6626,"An exhibition of Kildare piper's","2016-10-15 19:30:00","2016-10-15 22:30:00","Downings House","Dr.Andrew Rynnes House/Downings House, Prosperous","Prosperous","Kildare","Ireland",53.28812408,-6.75500822
+6626,"An exhibition of Kildare pipers","2016-10-15 19:30:00","2016-10-15 22:30:00","Downings House","","Prosperous","Kildare","Ireland",53.28311539,-6.77168322
+6633,"Celtic Vespers","2016-10-18 19:00:00","2016-10-18 21:00:00","Fairlawn Avenue United Church","28 Fairlawn Avenue","Toronto","Ontario","Canada",43.73095703,-79.40495300
+6637,"Celebrating Goodman: Seminar and Launch","2016-10-20 14:00:00","2016-10-20 14:00:00","Irish Traditional Music Archive","73 Merrion Square","Dublin","Dublin","Ireland",53.33894730,-6.25038195
+6638,"The Goodman Trio","2016-10-20 19:00:00","2016-10-20 19:00:00","Irish Traditional Music Archive","73 Merrion Square","Dublin","Dublin","Ireland",53.33894730,-6.25038195
+6641,"The Dermot Byrne Trio","2016-10-20 20:00:00","2016-10-20 20:00:00","Draíocht","The Blanchardstown Centre","Blanchardstown","Dublin","Ireland",53.39140320,-6.39278460
 6625,"Strings at Witney (Mat Cranitch, Pete Cooper, Sam Sweeney, Sian Phillips)","2016-10-21 19:00:00","2016-10-23 17:00:00","Henry Box School","","Witney","Oxfordshire","England",51.78593826,-1.48505437
 6591,"Perry Hall Folk Music Night, featuring the Dave Benham Trio","2016-10-22 19:00:00","2016-10-22 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.","Baltimore","Maryland","USA",39.40933228,-76.46696472
 6597,"Jerry McCarthy—The Gortglass Rambler, presented by Paudie O Connor","2016-10-22 20:00:00","2016-10-22 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village","Scartaglen","Kerry","Ireland",52.18024826,-9.40083981
 6586,"Sligo Live","2016-10-26 00:00:00","2016-10-31 00:00:00","Various Venues","","Sligo","Sligo","Ireland",54.27661133,-8.47608852
 6621,"Caitlin and Ciaran","2016-10-30 20:00:00","2016-10-30 20:00:00","Wedgwood Presbyterian Church","8008 35th Ave NE","Seattle","Washington","USA",47.68690109,-122.29016113
+6642,"Frankie Gavin and De Dannan","2016-11-04 19:45:00","2016-11-04 19:45:00","Sirius Arts Centre","The Old Yacht Club","Cobh","Cork","Ireland",51.84914017,-8.29719353
 6524,"Old Time Fiddle Workshop","2016-11-05 10:00:00","2016-11-05 16:30:00","Shropshire Hills Discovery Centre","","Craven Arms","Shropshire","England",52.44008255,-2.83327985
 6561,"Ennis Trad Fest 2016","2016-11-10 00:00:00","2016-11-14 00:00:00","Various Venues","","Ennis","Clare","Ireland",52.84742737,-8.98873806
 6603,"William Kennedy Piping Festival","2016-11-17 00:00:00","2016-11-20 00:00:00","Various Venues","","Armagh City","Armagh","Northern Ireland",54.35028076,-6.65279198
