@@ -8051,7 +8051,7 @@
 {"tune_id":"1650","alias":"Lady Seaforth","name":"Lord Seaforth"},
 {"tune_id":"1650","alias":"Loch Ban","name":"Lord Seaforth"},
 {"tune_id":"1650","alias":"Lord Seaforth's","name":"Lord Seaforth"},
-{"tune_id":"1651","alias":"Aisling Maor Maelmhochéirighe","name":"Sergeant Early's Dream"},
+{"tune_id":"1651","alias":"Aisling Mhaor Mhaelmhochéirighe","name":"Sergeant Early's Dream"},
 {"tune_id":"1651","alias":"Distraction, The","name":"Sergeant Early's Dream"},
 {"tune_id":"1651","alias":"Kathleen Collins'","name":"Sergeant Early's Dream"},
 {"tune_id":"1651","alias":"Seargent Early's Dream","name":"Sergeant Early's Dream"},
@@ -11188,6 +11188,7 @@
 {"tune_id":"2824","alias":"Mrs. Jamieson's Favorite","name":"Mrs Jamieson's Favourite"},
 {"tune_id":"2824","alias":"Mrs. Jamieson's Favourite","name":"Mrs Jamieson's Favourite"},
 {"tune_id":"2825","alias":"Funny Days Of Easter, The","name":"Hornless Cow, The"},
+{"tune_id":"2825","alias":"John Blessing's","name":"Hornless Cow, The"},
 {"tune_id":"2825","alias":"One-Horned Cow, The","name":"Hornless Cow, The"},
 {"tune_id":"2826","alias":"Donald MacLeod","name":"Auld Pipe, The"},
 {"tune_id":"2826","alias":"Donald MacLeod's","name":"Auld Pipe, The"},
@@ -12768,6 +12769,7 @@
 {"tune_id":"3568","alias":"Creamer's","name":"Michael Cramer's"},
 {"tune_id":"3568","alias":"Michael Creamer's","name":"Michael Cramer's"},
 {"tune_id":"3570","alias":"Black Cat Piddled In The White Cat's Eye, The","name":"Winster Gallop, The"},
+{"tune_id":"3570","alias":"Morris Reel, The","name":"Winster Gallop, The"},
 {"tune_id":"3572","alias":"Mick Carr's Barndances","name":"Mick Carr's"},
 {"tune_id":"3573","alias":"Shepherd's Aid","name":"Shepherd's Hey"},
 {"tune_id":"3573","alias":"Shepherd's Aye","name":"Shepherd's Hey"},
@@ -20288,6 +20290,7 @@
 {"tune_id":"9009","alias":"Jolly Tradesman, The","name":"Jamaica"},
 {"tune_id":"9009","alias":"Jovial Broome Man","name":"Jamaica"},
 {"tune_id":"9009","alias":"Prodigals Resolution","name":"Jamaica"},
+{"tune_id":"9009","alias":"Slow Men Of London, The","name":"Jamaica"},
 {"tune_id":"9009","alias":"Sometimes I Am A Tappster New","name":"Jamaica"},
 {"tune_id":"9009","alias":"Sometimes I Am A Tapster New","name":"Jamaica"},
 {"tune_id":"9010","alias":"La Marseillaise March","name":"La Marseillaise"},
@@ -24395,5 +24398,8 @@
 {"tune_id":"16321","alias":"Green Cottage No.3, The","name":"Billy Mahony's"},
 {"tune_id":"16321","alias":"Newmarket, The","name":"Billy Mahony's"},
 {"tune_id":"16354","alias":"Holmes'","name":"Pirate's"},
-{"tune_id":"16354","alias":"Occidental","name":"Pirate's"}
+{"tune_id":"16354","alias":"Occidental","name":"Pirate's"},
+{"tune_id":"16364","alias":"Fáilte Go Sgalpaigh","name":"Welcome To Scalpay"},
+{"tune_id":"16371","alias":"Innes's","name":"Charmer, The"},
+{"tune_id":"16373","alias":"Thro' The Lang Muir","name":"Gloomy December"}
 ]
