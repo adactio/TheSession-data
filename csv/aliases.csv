@@ -560,6 +560,7 @@ tune_id,alias,name
 75,"Did You Ever Meet The Devil, Uncle Joe?","Miss McLeod's"
 75,"Dun Cow, The","Miss McLeod's"
 75,Eighthsome,"Miss McLeod's"
+75,"Have You Ever Seen The Devil, Uncle Joe?","Miss McLeod's"
 75,"Hop High Ladies","Miss McLeod's"
 75,"Iníon Mhic Leóid","Miss McLeod's"
 75,"May Day","Miss McLeod's"
@@ -2481,6 +2482,7 @@ tune_id,alias,name
 418,Leva's,"Ievan's Polkka"
 418,Levan,"Ievan's Polkka"
 418,"Levan Polkka","Ievan's Polkka"
+418,"Levan, The","Ievan's Polkka"
 418,Loituma's,"Ievan's Polkka"
 418,"Polka #2","Ievan's Polkka"
 418,"Savitaipaleen Polkka","Ievan's Polkka"
@@ -4219,7 +4221,7 @@ tune_id,alias,name
 705,"Barrowburn, The",Barrowburn
 706,"Lewis Bridal Song","Mairi's Wedding"
 706,"Lewis Bridal Song, The","Mairi's Wedding"
-706,"Mairie's March","Mairi's Wedding"
+706,Mairie's,"Mairi's Wedding"
 706,"Mairie's Wedding","Mairi's Wedding"
 706,"Marie's Wedding","Mairi's Wedding"
 706,"Mhari's Wedding","Mairi's Wedding"
@@ -11332,13 +11334,14 @@ tune_id,alias,name
 2669,Begley's,"Many A Wild Night"
 2669,"Many's A Wild Night","Many A Wild Night"
 2669,"Pa Keane's","Many A Wild Night"
-2677,"House Of Hamil","House Of Hamill, The"
+2677,"House Of Hamil, The","House Of Hamill, The"
 2677,"House Of Hammil, The","House Of Hamill, The"
 2677,"House Of Hammill, The","House Of Hamill, The"
 2679,"Black Donald","Domhnall Dubh"
 2679,"Domnall Dubh","Domhnall Dubh"
 2679,"Donal Dubh","Domhnall Dubh"
 2679,"Mor A'Cheannaich","Domhnall Dubh"
+2680,"Sheelina Gra Will You Be Mine","Price Of My Pig, The"
 2681,"Gypsy Rover","Raggle Taggle Gypsies, The"
 2681,"Raggle Taggle Gypsy","Raggle Taggle Gypsies, The"
 2681,"Raggle Taggle Gypsy-O","Raggle Taggle Gypsies, The"
@@ -13745,6 +13748,7 @@ tune_id,alias,name
 3829,"Brosna, The",Bowna
 3829,"Brosna, The",Bowna
 3829,"Rain A Sup",Bowna
+3829,Rain-A-Sup,Bowna
 3830,"My Love Is Like A Red Red Rose","My Love Is Like A Red Red Frog"
 3830,"My Love Is Like A Red, Red Rose","My Love Is Like A Red Red Frog"
 3830,"My Luv's Like A Red, Red Rose","My Love Is Like A Red Red Frog"
@@ -15332,7 +15336,8 @@ tune_id,alias,name
 4956,Sarah's,Sara's
 4957,"Three Good Fellows Beyond The Glen, The","Three Guid Fellows Doon In Yon Glen"
 4960,"Alba An Àigh","Scotland The Brave"
-4960,"Scotland The Brave March","Scotland The Brave"
+4960,"Scotland The Brave","Scotland The Brave"
+4960,"Start Off The Day With ...... Porridge Oats","Scotland The Brave"
 4962,"Earl Of Dunmore","Bride's, The"
 4962,"Lord Dunmore","Bride's, The"
 4967,"Geese In The Bog, The","Lad O'Beirne's Favourite"
@@ -16064,7 +16069,6 @@ tune_id,alias,name
 5479,"Boys Of Blue Hill","Boys Of School Hill"
 5479,"Boys Of The Blue Hill, The","Boys Of School Hill"
 5480,"After The Hare","An Ugly Customer"
-5480,Casagh,"An Ugly Customer"
 5480,"Casagh, The","An Ugly Customer"
 5480,"Eleventh Of October, The","An Ugly Customer"
 5480,"John Henry's","An Ugly Customer"
@@ -24373,6 +24377,7 @@ tune_id,alias,name
 13813,"Leanbh Mo Chroí","Jackson's Babby"
 13813,"Rake's March, The","Jackson's Babby"
 13818,"White Horses In The Wind","Big Sea Ballad"
+13820,"Dr John MacInnes","Dr. Iain MacAonghais"
 13828,"Northside Kitchen, The","Northside, The"
 13830,Marnoch,Marnoch's
 13833,McLaren,"Put On The Steam"
@@ -25395,6 +25400,7 @@ tune_id,alias,name
 16749,"New Day, The","An Lá Nua"
 16757,"Forógra Phoblachta Na H-Éireann","Proclamation, The"
 16776,"O Waly, Waly","Water Is Wide, The"
+16778,"Smile, Smile Crocodile","Kathleen's Crocodile"
 16779,"Gleanntan Frolics, The","Padraig O'Keefe's"
 16779,"Gleanntán Frolics, The","Padraig O'Keefe's"
 16779,"Glentown Frolics No. 1","Padraig O'Keefe's"
@@ -25895,6 +25901,7 @@ tune_id,alias,name
 18329,"Jimmy's Close In","Jimmy's Close-In"
 18332,"Mac Master's Tune","Mac Master's"
 18332,"Mack Master's","Mac Master's"
+18336,"Da Foostra","Lucky Can You Link Only"
 18352,"Mrs Sampson's Delight","Mrs. Sampson's Delight"
 18353,"Taka's Tune #1","Taka's Tune"
 18375,"Drummond Castle","Robert MacDonald's"
@@ -26004,3 +26011,6 @@ tune_id,alias,name
 18952,"Ralph's Shit Polka In Five Minutes","Fully Zested Lemon, The"
 18955,"Unquiet Grave, The","How Cold The Wind Doth Blow"
 18957,"Fiddler Dance The Light","Fiddler Play The Light"
+18959,"Knocknagree Fair, The","Knocknagree Fair"
+18963,"Laughing, The",Laughing
+18974,"Tadgh Stenson's","Tadhg Stenson's"
