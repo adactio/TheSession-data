@@ -3547,8 +3547,6 @@ tune_id,alias,name
 576,"Killavel Fields, The","Killavil Fancy, The"
 576,"Killavil House","Killavil Fancy, The"
 576,"Killavil, The","Killavil Fancy, The"
-576,"Mayes' Cross","Killavil Fancy, The"
-576,"Ryan's Reel No. 1","Killavil Fancy, The"
 576,"Ten Pound Float, The","Killavil Fancy, The"
 577,"Ah Surely !","Ah Surely"
 577,"Ah! Surely","Ah Surely"
@@ -3642,7 +3640,6 @@ tune_id,alias,name
 589,"Maude Millar's Highland Fling","Julia Delaney's"
 589,"Reel De La Sorciere","Julia Delaney's"
 589,"Reel Des Sorcières","Julia Delaney's"
-589,Voodoo,"Julia Delaney's"
 590,"Jackson's Thought","Cherish The Ladies"
 591,"Four Seasons, The","Pinch Of Snuff, The"
 593,"An Bairille","Rocky Road To Dublin, The"
@@ -3855,6 +3852,7 @@ tune_id,alias,name
 624,"Mrs. Galvin's Highland Fling","Miss Galvin's"
 624,"Woodford Fling","Miss Galvin's"
 625,"Snowy Mountain, The","Slieve Snaght"
+626,"Da Eye Wifey","Da Eye Wifie"
 627,"Freudian Slip, The","Freudian, The"
 628,"McGoldrick's No.2",McGoldrick's
 628,"Michael McGoldrick's",McGoldrick's
@@ -7637,9 +7635,7 @@ tune_id,alias,name
 1446,"Eels In The Sink","Eel In The Sink, The"
 1446,"Irish Blackthorn, The","Eel In The Sink, The"
 1447,"Grainne Mhaoil",Whelan's
-1447,"Leitrim, The",Whelan's
 1447,"Port Uí Fhaoláin",Whelan's
-1447,"Rookery, The",Whelan's
 1447,"Tommy Whelan's",Whelan's
 1447,"Uí Fhaoláin",Whelan's
 1447,Waylon's,Whelan's
@@ -8188,7 +8184,6 @@ tune_id,alias,name
 1584,"High Reel No. 2","Other High, The"
 1584,"Old High","Other High, The"
 1584,"Old High, The","Other High, The"
-1584,"Thatched Cottage, The","Other High, The"
 1586,"Stagshaw Bank","Stagshaw Bank Fair"
 1588,"Bantry Girls Lament","Rowan Tree, The"
 1589,"Song Of Dalby","Arrane Ghelby"
@@ -14306,6 +14301,7 @@ tune_id,alias,name
 4192,"Eagle's Whistle March, The","Eagle's Whistle, The"
 4192,"Eagles Whistle, The","Eagle's Whistle, The"
 4192,"Fead An Iolair","Eagle's Whistle, The"
+4192,"Gol Na Mban 'San Ar","Eagle's Whistle, The"
 4192,"O'Donovan Clan March, The","Eagle's Whistle, The"
 4193,"John Barron's","Mick Carr's"
 4193,"Mick Carr's #1","Mick Carr's"
@@ -14327,7 +14323,6 @@ tune_id,alias,name
 4195,"Polka D'Ours","Bear Dance, The"
 4198,"Happy To Meet, Sorry To Part","Mick O'Connor's"
 4198,"Mick O' Connor's","Mick O'Connor's"
-4201,"Da Eye Wifie","Da Eye Wifey"
 4203,"An Droighead Beag","An Droichead Bheag"
 4204,"Niamh's Frolic","Niamh's Capers"
 4206,"An Deanadh Im","A Deanadh Im"
@@ -20133,6 +20128,7 @@ tune_id,alias,name
 8268,"Spitfire Reel","Whistler And His Dog, The"
 8268,"Spitfire Reel, The","Whistler And His Dog, The"
 8268,"Spitfire, The","Whistler And His Dog, The"
+8269,"A Gallop","Granny In The Wood, The"
 8269,"Seamus Quinn's","Granny In The Wood, The"
 8269,"Tom Morrison's Maggie","Granny In The Wood, The"
 8271,"Ballintra Lass, The","Lasses Of Ballintra, The"
@@ -20656,6 +20652,7 @@ tune_id,alias,name
 8720,"Johnny Walker","Tennessee Wagoner"
 8720,"Reel Marie","Tennessee Wagoner"
 8720,"Texas Wagoner","Tennessee Wagoner"
+8722,"Poor Man's Fortune, The","Poor Man's Fortune, The"
 8723,"Aggie's Waltz",Aggie's
 8723,Aggies,Aggie's
 8723,Aggy's,Aggie's
@@ -22552,6 +22549,7 @@ tune_id,alias,name
 11178,"Jackson's Victory","Gulf Of Mexico, The"
 11179,"Bull At The Wagon, The","West Fork Gals"
 11179,"West Fork Girls","West Fork Gals"
+11179,"Westfork Gals","West Fork Gals"
 11180,"Brown Girl's, The","PJ MacNamara's"
 11180,"I Wish I Had A Kerry Cow","PJ MacNamara's"
 11180,"Old Kerry Cow, The","PJ MacNamara's"
@@ -23977,6 +23975,7 @@ tune_id,alias,name
 13113,"Buy Broom Besoms",Election
 13113,"Buy Broom Buzzems",Election
 13116,"Nell I Fear I'll Not Gain Your Favour","Nellie Your Favour I'm Afraid I'll Not Gain"
+13116,"Nellie Your Favour I'll No Longer Gain","Nellie Your Favour I'm Afraid I'll Not Gain"
 13116,"Nellie, I'm Afraid Your Favour I'll Not Gain","Nellie Your Favour I'm Afraid I'll Not Gain"
 13120,"Huntsman, The","Hunstsman, The"
 13126,"Girls Of Balladoole, The","Girls Of Balladoole"
@@ -25273,6 +25272,7 @@ tune_id,alias,name
 16077,"Clog Parizeau","Clog De Pariseau"
 16082,"La Ronde Des Voyageurs","Le Ronde Des Voyageurs"
 16083,"Alastair's March","Máirseáil Alasdruim"
+16084,"Earl Of Hyndford's, The","Earl Of Hyndford, The"
 16085,"Marche Du Mont St Louis","Marche Du Mont Saint-Louis"
 16086,Donside,"Don Side"
 16089,"Lack Of Food, Lack Of Mercy","Arctic, The"
@@ -26093,3 +26093,9 @@ tune_id,alias,name
 19034,"Walls Of St Malo, The","Walls Of St Malo"
 19035,"Dotted Paper","New Barracks"
 19070,"Jer Mac's No. 13","Jer Mac's"
+19081,"Devil In The Strawstack, The","Devil In The Straw Stack, The"
+19084,"Fish And Dolphin","Fish & Dolphin"
+19089,"Billy's Kitchen Polka #1","Billy's Kitchen"
+19089,"Billy's Kitchen Polka No. 1","Billy's Kitchen"
+19091,"Billy's Kitchen Polka #4","Billy's Kitchen"
+19091,"Billy's Kitchen Polka No. 4","Billy's Kitchen"
