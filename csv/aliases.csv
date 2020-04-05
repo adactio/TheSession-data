@@ -297,11 +297,8 @@ tune_id,alias,name
 39,"Easy Limerick, The","Kerry, The"
 39,Egan's,"Kerry, The"
 39,Egans,"Kerry, The"
-39,"FABA FABA","Kerry, The"
-39,"FABA, The","Kerry, The"
 39,"John Egan's","Kerry, The"
 39,"Peg Ryan's","Kerry, The"
-39,"Rose Tree, The","Kerry, The"
 40,"Fintan McManus's","Guns Of The Magnificent Seven, The"
 40,"Guns, The","Guns Of The Magnificent Seven, The"
 40,"Return Of The Magnificent Seven","Guns Of The Magnificent Seven, The"
@@ -403,10 +400,8 @@ tune_id,alias,name
 55,"Kincora, The","Kesh, The"
 55,"Mountaineers' March, The","Kesh, The"
 56,"Clare, The","Old Favourite, The"
-56,"Club Ceilí","Old Favourite, The"
 56,"Club Céili","Old Favourite, The"
-56,"Club Cèilidh","Old Favourite, The"
-56,"Jiggy Slide","Old Favourite, The"
+56,"Club Ceilí","Old Favourite, The"
 56,"Keane's Delight","Old Favourite, The"
 56,"Kilfenora Sexy, The","Old Favourite, The"
 56,"Kilfenora, The","Old Favourite, The"
@@ -985,6 +980,7 @@ tune_id,alias,name
 129,"Lord Gilbert's","Dr. Gilbert's"
 131,"Banshee That Wailed Over The Mangle Pit, The","Banshee's Wail Over The Mangle Pit, The"
 131,"Banshee Wailing Over The Mangle Pit, The","Banshee's Wail Over The Mangle Pit, The"
+131,"Banshee's Wail Over The Mango Pit, The","Banshee's Wail Over The Mangle Pit, The"
 131,"Banshee's Wail, The","Banshee's Wail Over The Mangle Pit, The"
 131,"Martin Hayes'","Banshee's Wail Over The Mangle Pit, The"
 131,"Scully Casey's","Banshee's Wail Over The Mangle Pit, The"
@@ -1145,7 +1141,6 @@ tune_id,alias,name
 156,Callaghan's,"Now She's Purring"
 156,"Denis Murphy's","Now She's Purring"
 156,"Now She Is Purring","Now She's Purring"
-156,"Now She's Purring","Now She's Purring"
 157,"Catherine Hehir's","Cathleen Hehir's"
 157,Coolea,"Cathleen Hehir's"
 157,Hehir's,"Cathleen Hehir's"
@@ -1596,14 +1591,8 @@ tune_id,alias,name
 246,"Shannon Waves","James Gannon's"
 246,"Shannon Waves, The","James Gannon's"
 248,"An Glaschú","Tam Lin"
-248,"Ceilidh Funk","Tam Lin"
-248,"Feet Of The Dancer","Tam Lin"
 248,Glasgow's,"Tam Lin"
-248,"Gloria Scott, The","Tam Lin"
 248,"Howling Wind","Tam Lin"
-248,"Indian Points","Tam Lin"
-248,"Low, The","Tam Lin"
-248,"Sneaky Priest, The","Tam Lin"
 248,"Tam Lin's","Tam Lin"
 248,"Tam Lin, The","Tam Lin"
 248,"Tam Linn","Tam Lin"
@@ -2215,6 +2204,7 @@ tune_id,alias,name
 365,Glountane,"Cat Rambles To The Child's Saucepan, The"
 365,"Mary Willie's","Cat Rambles To The Child's Saucepan, The"
 365,"Mary Willy's","Cat Rambles To The Child's Saucepan, The"
+365,"Mick Duggan's","Cat Rambles To The Child's Saucepan, The"
 367,"Feadoir An Meara Harrison","Mayor Harrison's Fedora"
 367,Fedora,"Mayor Harrison's Fedora"
 367,"Major Harrison's Fedora","Mayor Harrison's Fedora"
@@ -2466,7 +2456,6 @@ tune_id,alias,name
 417,Swedish,"Arthur Darley's"
 417,"Swedish, The","Arthur Darley's"
 418,"A Finnish","Ievan's Polkka"
-418,"Dennis Murphy's","Ievan's Polkka"
 418,Eva's,"Ievan's Polkka"
 418,"Finnish, The","Ievan's Polkka"
 418,Ieva's,"Ievan's Polkka"
@@ -2479,7 +2468,6 @@ tune_id,alias,name
 418,"Levan Polkka","Ievan's Polkka"
 418,"Levan, The","Ievan's Polkka"
 418,Loituma's,"Ievan's Polkka"
-418,"Polka #2","Ievan's Polkka"
 418,"Savitaipaleen Polkka","Ievan's Polkka"
 419,"Blue Water","President Garfield's"
 419,"Blue Water, The","President Garfield's"
@@ -3066,10 +3054,10 @@ tune_id,alias,name
 502,"Colleen Ban","Liffey Banks, The"
 502,"Colleen Bawn","Liffey Banks, The"
 502,"Dinny O'Brien's","Liffey Banks, The"
-504,"Maire Breathnach's",Branohm
-504,"Maire Breathnach's #1",Branohm
-504,"Máire Breatnach's",Branohm
-504,"Máire Breatnach's #1",Branohm
+504,"Máire Breathnach's",Branohm
+504,"Máire Breathnach's #1",Branohm
+504,"Maire Breatnach's",Branohm
+504,"Maire Breatnach's #1",Branohm
 505,"Máire Breathnach's #2",Branohm
 505,"Máire Breatnach's #2",Branohm
 505,"Turning Of The Tide, The",Branohm
@@ -5253,7 +5241,6 @@ tune_id,alias,name
 921,"Bridie Morley's","Knotted Cord, The"
 921,"Bridie Morley's Favorite","Knotted Cord, The"
 921,"Bridie Morley's Favourite","Knotted Cord, The"
-921,"Halfway House","Knotted Cord, The"
 921,"Jr Crehan's Favourite","Knotted Cord, The"
 921,"Junior Crehan's","Knotted Cord, The"
 921,"Junior Crehan's Favourite","Knotted Cord, The"
@@ -6647,7 +6634,6 @@ tune_id,alias,name
 1216,"Night Dance, The","Strike The Gay Harp"
 1216,"Piper's Welcome, The","Strike The Gay Harp"
 1216,"Rattle The Bottles","Strike The Gay Harp"
-1216,"Strike The Gay Harper","Strike The Gay Harp"
 1216,"Strike The Young Harp","Strike The Gay Harp"
 1217,"Brekken At Branton","Green Brechans O' Branton, The"
 1217,"Green Bracken","Green Brechans O' Branton, The"
@@ -8338,7 +8324,6 @@ tune_id,alias,name
 1630,"Tombigbee March, The",Tombigbee
 1630,TomBigee,Tombigbee
 1631,Andersons,Anderson's
-1631,"Posh Potman, The",Anderson's
 1631,"Pretty Girls Of The Village, The",Anderson's
 1631,"Purring Girls Of The Village, The",Anderson's
 1632,"Dawn Rising","Master's Return, The"
@@ -8419,7 +8404,6 @@ tune_id,alias,name
 1639,"Miss Ramsey's Highland","Four Provinces Fling, The"
 1639,"Miss Ramsey's Highland Fling","Four Provinces Fling, The"
 1639,"Queen's Shilling, The","Four Provinces Fling, The"
-1640,"Andy Irvine's","Siege Of Ennis, The"
 1640,"Banks Of Inverness, The","Siege Of Ennis, The"
 1640,Ceanagulla,"Siege Of Ennis, The"
 1640,"Ceanagulla, The","Siege Of Ennis, The"
@@ -8618,8 +8602,6 @@ tune_id,alias,name
 1707,"Keys To The Convent","Key Of The Convent, The"
 1707,"Keys To The Convent, The","Key Of The Convent, The"
 1707,"King Of The Pipes, The","Key Of The Convent, The"
-1708,Callaghan's,"Now She's Purring"
-1708,"Denis Murphy's","Now She's Purring"
 1709,"Belle Of The Kitchen","Road To Skye, The"
 1709,"Isle Of Skye","Road To Skye, The"
 1709,"Kitty Of Coleraine","Road To Skye, The"
@@ -8746,7 +8728,6 @@ tune_id,alias,name
 1747,"Collough A Thusa","Snug In The Blanket"
 1747,"Hag In The Blanket","Snug In The Blanket"
 1747,"Snug In A Blanket","Snug In The Blanket"
-1748,"Ballinasloe Fair, The","Humours Of Scarriff, The"
 1748,"Cooraclare, The","Humours Of Scarriff, The"
 1748,"Humors Of Scarriff, The","Humours Of Scarriff, The"
 1748,"Humours Of Scariff, The","Humours Of Scarriff, The"
@@ -9570,6 +9551,7 @@ tune_id,alias,name
 2006,"Junior Crehan's","Her Golden Hair Was Hanging Down Her Back"
 2006,"With Her Lovely Golden Hair Flowing Down Her Back","Her Golden Hair Was Hanging Down Her Back"
 2007,"Crossing The Oily River","Con Cassidy's"
+2007,"Lea Castle","Con Cassidy's"
 2007,"Sligo Quadrills: No.2","Con Cassidy's"
 2009,"Hushed Be Sorrow's Sigh","Nóra Críona"
 2009,"Lesbia Hath A Beaming Eye","Nóra Críona"
@@ -11604,6 +11586,7 @@ tune_id,alias,name
 2777,"For The Sake Of Auld Decency","For The Sake Of Old Decency"
 2777,"For The Sake Of Ol' Decency","For The Sake Of Old Decency"
 2777,"For The Sakes Of Old Decency","For The Sake Of Old Decency"
+2777,"P. Joe Hayes'","For The Sake Of Old Decency"
 2777,"P. Joe's","For The Sake Of Old Decency"
 2777,"Road To Old Decency, The","For The Sake Of Old Decency"
 2778,"Connie O'Connell's","Josephine Keegan's"
@@ -12562,7 +12545,6 @@ tune_id,alias,name
 3215,"Kiss'd Her Under The Coverlet","Kiss Her Under The Coverlet"
 3215,"Kissed Her Under The Coverlet","Kiss Her Under The Coverlet"
 3215,"Saw Ye Never A Bonny Lass","Kiss Her Under The Coverlet"
-3216,"Eleanor Rigby","Elanor Rigby"
 3221,"Paddy Kelly's Fancy","Paddy Kelly's"
 3221,"Paddy Kelly's Favourite","Paddy Kelly's"
 3221,"Paddy Kelly's Four-Part","Paddy Kelly's"
@@ -12749,6 +12731,7 @@ tune_id,alias,name
 3286,"Kilcar Varsovienne, The","Kilcar, The"
 3286,"Pat Harvey's","Kilcar, The"
 3287,"Tune For The Roast","Son Ar Rost"
+3289,"Clootie Dumplings","Bonnie Banchory"
 3290,"Mc Carthy's",McCarthy's
 3291,Cuckoo,"Thomond Bridge"
 3291,"Lady Hartwell Of Cantwell","Thomond Bridge"
@@ -12839,9 +12822,10 @@ tune_id,alias,name
 3333,"Hunt The Squirrel","Hunting The Squirrel"
 3333,"Ronan's March","Hunting The Squirrel"
 3337,"Clontarf Lass, The","Port Debby"
-3338,"Caha Mountains","Finbar Dwyer's"
-3338,"Caha Mountains, The","Finbar Dwyer's"
-3338,"John Dwyer's","Finbar Dwyer's"
+3338,"Caha Mountains, The","Caha Mountains"
+3338,"Finbar Dwyer's","Caha Mountains"
+3338,"Finbarr Dwyer's","Caha Mountains"
+3338,"John Dwyer's","Caha Mountains"
 3340,"Above In The Garret","Up In The Garret"
 3341,"Preston, The","Preston City, The"
 3343,"Boiled Cabbage, The","Mick Hoy's Recipe For Boiled Cabbage"
@@ -15464,8 +15448,8 @@ tune_id,alias,name
 5072,"Cuidich'n Righ March","Cuidich'n Righ"
 5072,"To Serve The King","Cuidich'n Righ"
 5075,"Gabe O' Sullivans","Gabe O'Sullivan's"
-5076,"Jenny Bell","Jenny Bell's"
-5076,"Jenny Bell, The","Jenny Bell's"
+5076,"Jenny Bell","St Lawrence Jig"
+5076,"Jenny Bell, The","St Lawrence Jig"
 5077,"Slain Le Maigh","Slan Le Maigh"
 5077,"Slán Le Máighe","Slan Le Maigh"
 5077,"Slán Le Mháigh","Slan Le Maigh"
@@ -16700,6 +16684,7 @@ tune_id,alias,name
 5997,"Lads Of Doocastle, The","Trip To Kinvara, The"
 5997,"Trip To Kinvarra","Trip To Kinvara, The"
 5998,"Belles Of Tipperary, The",Cronin's
+5998,"John Kelly's",Cronin's
 5999,"Give The Girl Her Four Pence","Pay The Girl Her Fourpence"
 5999,"Give The Girl Her Fourpence","Pay The Girl Her Fourpence"
 5999,"Give The Lady Her Fourpence","Pay The Girl Her Fourpence"
@@ -21067,6 +21052,7 @@ tune_id,alias,name
 9090,"Three Knights, The","An Try Marghak"
 9093,"Drunken Hussare","Drunken Hussar, The"
 9095,"Sean Ryan's Gooseberry Fair","Gooseberry Fair"
+9098,"Bog Above Bob Gorman's Bog, The","Pete Bradley's"
 9105,"A Dram At The Wake And Then We Dance","A Dram At The Wake"
 9110,O'Lochlainn's,"Kevin Loughlin's"
 9111,"Miss Drummond Of Perth's Favorite Scotch Measure","Miss Drummond Of Perth's Favourite Scotch Measure"
@@ -21133,6 +21119,8 @@ tune_id,alias,name
 9250,"Drovers Lads, The","Drover Lads"
 9250,"Droving Lads, The","Drover Lads"
 9250,"Gillan The Drover","Drover Lads"
+9250,"Gillean An Drobhair","Drover Lads"
+9250,"Gillean An Drobhair","Drover Lads"
 9250,"Gillean Nan Drobher","Drover Lads"
 9250,"Gillian An Drover","Drover Lads"
 9250,"Grumbling Carle, The","Drover Lads"
@@ -21543,6 +21531,7 @@ tune_id,alias,name
 9753,"Maidiunagad Liat","Grey Daylight, The"
 9757,"Pans Labyrinth","Swedish Lullaby"
 9760,"Boston Boys, The","Boston Boys"
+9763,"Goatherd, The","Goatherd And The Shepherd, The"
 9764,"Carolan's Nightcap","Carolan's Cap"
 9764,"Carolin's Nightcap","Carolan's Cap"
 9764,"O'Carolan's Cap","Carolan's Cap"
@@ -21902,6 +21891,7 @@ tune_id,alias,name
 10248,"Mrs A. MacPherson Of Inveran","Mrs MacPherson Of Inveran"
 10248,"Mrs. MacPherson Of Inveran","Mrs MacPherson Of Inveran"
 10249,"Levis Beaulieu","Levi Beaulieu"
+10249,"Reel Beaulieu","Levi Beaulieu"
 10257,"Bag Fed, The","Emily's Gigue"
 10259,"My Friend Buddy MacMaster","My Friend Buddy"
 10263,"Sean Ryan's","Sparkling Sea, The"
@@ -22655,6 +22645,7 @@ tune_id,alias,name
 11369,"Colm's #2",Colm's
 11369,"Colm's No. 2",Colm's
 11369,"Colm's Number 2",Colm's
+11375,"Humors Of Ennistymon","Old Man Of Ennistymon, The"
 11377,"Gerard Heintzman","Gerhard Heintzman Piano"
 11377,"Gerhard Heintzman Piano, The","Gerhard Heintzman Piano"
 11379,"All The World Loves Me","Conal O Grada's"
@@ -23915,7 +23906,6 @@ tune_id,alias,name
 13071,"Antigonish Polka No. 4, The","Angus Chisholm's"
 13071,"Antigonish, The","Angus Chisholm's"
 13071,"Polka From Angus Chisholm","Angus Chisholm's"
-13073,"Branch Line, The","Betsy Baker"
 13074,"An Aonac Rogaide","Fancy Fair, The"
 13074,"An Aonac Rogain","Fancy Fair, The"
 13074,"Dance At The Fair","Fancy Fair, The"
@@ -26069,3 +26059,8 @@ tune_id,alias,name
 19089,"Billy's Kitchen Polka No. 1","Billy's Kitchen"
 19091,"Billy's Kitchen Polka #4","Billy's Kitchen"
 19091,"Billy's Kitchen Polka No. 4","Billy's Kitchen"
+19116,"Races Of Ballyhooly, The","Races At Ballyhooley, The"
+19116,"Races Of Ballyhouley, The","Races At Ballyhooley, The"
+19123,"February Reel #2",February
+19125,"Carolyn O'Neill's","Caroline O'Neill's"
+19125,"Lost In Sligo Town","Caroline O'Neill's"
