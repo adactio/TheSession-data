@@ -1113,6 +1113,7 @@ tune_id,alias,name
 151,"High Road To Sligo, The","Tar Road To Sligo, The"
 151,"Humors Of The Whiskey, The","Tar Road To Sligo, The"
 151,"Road To Sligo, The","Tar Road To Sligo, The"
+152,"Cleaning The Chicken House","Cleaning The Hen House"
 152,"Cleaning The Henhouse","Cleaning The Hen House"
 153,"Cailini Deasa Mhuigheo","Sweet Biddy Of Ballyvourney"
 153,"Ceol Na Ceartan","Sweet Biddy Of Ballyvourney"
@@ -1568,6 +1569,7 @@ tune_id,alias,name
 243,"Faery Queen, The","Fairy Queen, The"
 244,"Carolan's Farewell","Carolan's Farewell To Music"
 244,"Farewell To Music","Carolan's Farewell To Music"
+244,"O'Carolan's Farewell","Carolan's Farewell To Music"
 244,"O'Carolan's Farewell To Music","Carolan's Farewell To Music"
 244,"O'Carolans Farewell","Carolan's Farewell To Music"
 244,"Slán Don Cheol","Carolan's Farewell To Music"
@@ -2824,15 +2826,14 @@ tune_id,alias,name
 467,"Sword In The Hand, The","Leitrim Fancy, The"
 468,"Sarah Kelly's","Sarah Kelly's Delight"
 468,"Sarah's Delight","Sarah Kelly's Delight"
-469,"Cuilin Ui Chaoimh",Cuilinn
-469,"Cuillinn Uí Caoimh",Cuilinn
-469,"Cullen, The",Cuilinn
-469,"Humours Of Glen, The",Cuilinn
-469,"Humours Of Glin, The",Cuilinn
-469,"Humours Of Glynn, The",Cuilinn
-469,"Padraig O'Keeffe's",Cuilinn
-469,"Port Chuilinn",Cuilinn
-469,"Snáthid An Phíobaire",Cuilinn
+469,"Cuillinn Uí Caoimh","Cuilin Ui Chaoimh"
+469,"Cullen, The","Cuilin Ui Chaoimh"
+469,"Humours Of Glen, The","Cuilin Ui Chaoimh"
+469,"Humours Of Glin, The","Cuilin Ui Chaoimh"
+469,"Humours Of Glynn, The","Cuilin Ui Chaoimh"
+469,"Padraig O'Keeffe's","Cuilin Ui Chaoimh"
+469,"Port Chuilinn","Cuilin Ui Chaoimh"
+469,"Snáthid An Phíobaire","Cuilin Ui Chaoimh"
 470,"Chi Mi Na Mor-bheanna","Mist On The Mountain, The"
 470,"Chi Mi Na Morbheanna","Mist On The Mountain, The"
 470,"Hush, Hush","Mist On The Mountain, The"
@@ -6650,17 +6651,17 @@ tune_id,alias,name
 1219,"Peter Carberry's","Eileen O'Callaghan's"
 1219,"Snow On The Hills","Eileen O'Callaghan's"
 1219,"Strone Johnny","Eileen O'Callaghan's"
-1220,"An D'Tiocfaid Tu Abaile Liom","Will You Come Home With Me ?"
-1220,"An D'Tiocfaidh Tú Abhaile Liom","Will You Come Home With Me ?"
-1220,"An DTiocfaidh Tú Abhaile Liom?","Will You Come Home With Me ?"
-1220,"An Tiochfaidh Tu Abhaile Liom","Will You Come Home With Me ?"
-1220,Michelle's,"Will You Come Home With Me ?"
-1220,"Tiocfaidh Tú Abhaile Liom","Will You Come Home With Me ?"
-1220,"Tiocfaidh Tú Abhaile Liom?","Will You Come Home With Me ?"
-1220,"Tiocfaidh Tú Abhaile?","Will You Come Home With Me ?"
-1220,"Will You Come Home With Me","Will You Come Home With Me ?"
-1220,"Will You Come With Me?","Will You Come Home With Me ?"
-1220,"Won't You Come Home With Me","Will You Come Home With Me ?"
+1220,"An D'Tiocfaid Tu Abaile Liom","Will You Come Home With Me?"
+1220,"An D'Tiocfaidh Tú Abhaile Liom","Will You Come Home With Me?"
+1220,"An DTiocfaidh Tú Abhaile Liom?","Will You Come Home With Me?"
+1220,"An Tiochfaidh Tu Abhaile Liom","Will You Come Home With Me?"
+1220,Michelle's,"Will You Come Home With Me?"
+1220,"Tiocfaidh Tú Abhaile Liom","Will You Come Home With Me?"
+1220,"Tiocfaidh Tú Abhaile Liom?","Will You Come Home With Me?"
+1220,"Tiocfaidh Tú Abhaile?","Will You Come Home With Me?"
+1220,"Will You Come Home With Me","Will You Come Home With Me?"
+1220,"Will You Come With Me?","Will You Come Home With Me?"
+1220,"Won't You Come Home With Me","Will You Come Home With Me?"
 1221,"Kitty O'Neil","Kitty O'Shea's"
 1221,"Kitty O'Neil's","Kitty O'Shea's"
 1221,"Kitty O'Neil's Champion Jig","Kitty O'Shea's"
@@ -7053,8 +7054,6 @@ tune_id,alias,name
 1311,"Jackson's Favorite",Jackson's
 1311,"Jackson's Favourite",Jackson's
 1311,"Jackson's No. 1",Jackson's
-1311,"Jackson's Reels",Jackson's
-1311,"Jacksono's Favourite",Jackson's
 1311,Jacksons,Jackson's
 1312,"Do Virgins Taste Better?","Irish Waterman, The"
 1312,"Irish Washerwoman, The","Irish Waterman, The"
@@ -7232,9 +7231,6 @@ tune_id,alias,name
 1361,Daily's,Daly's
 1361,Daley's,Daly's
 1362,"Corn Phíopa Na Gréine","Sunshine, The"
-1362,"Pansy Blossom","Sunshine, The"
-1362,Shunster's,"Sunshine, The"
-1362,"St. Elmo","Sunshine, The"
 1364,"Dionne, The",Dionne
 1364,"Les 5 Jumelles",Dionne
 1364,"Les Cinq Jumelles",Dionne
@@ -10878,6 +10874,7 @@ tune_id,alias,name
 2498,"In The Town Of Ballybay","She Said She Couldn't Dance"
 2498,"Limerick Races","She Said She Couldn't Dance"
 2498,"Limerick Races, The","She Said She Couldn't Dance"
+2498,"Paddy Bought A Pig","She Said She Couldn't Dance"
 2498,"Ringle Dingle Daddy","She Said She Couldn't Dance"
 2498,"Running The Goat #3","She Said She Couldn't Dance"
 2499,Allt-y-Caethiwed,"Kitty Jones'"
@@ -14948,6 +14945,7 @@ tune_id,alias,name
 4758,"Pote DIn Kuriakos","Never On A Sunday"
 4758,"Ta Paidiá Tou Peiraiá","Never On A Sunday"
 4758,"Ta Pedia Tou Pirea","Never On A Sunday"
+4760,"As I Was Kissed Yesterday","Oh As I Was Kissed Yest'reen"
 4760,"Kiss'd Yest'r E'en","Oh As I Was Kissed Yest'reen"
 4760,"Kissed Yestre'en","Oh As I Was Kissed Yest'reen"
 4760,"Kissed Yestreen","Oh As I Was Kissed Yest'reen"
@@ -15662,6 +15660,7 @@ tune_id,alias,name
 5246,"Tommy Coen's #2","Tommy Coen's"
 5246,"Tommy Cohen's","Tommy Coen's"
 5248,"Scottish Concerto","Charlie Lennon's Scottish Concerto"
+5249,"Mount Your Baggage","Off To The Hunt"
 5252,"Bó Mhín Na Toitean Highland Fling","Bó Mhín Na Toitean"
 5252,Doherty's,"Bó Mhín Na Toitean"
 5252,"Highland Lassie Going To The Fair","Bó Mhín Na Toitean"
@@ -16548,6 +16547,7 @@ tune_id,alias,name
 5957,"Stanla Markit","King Of The Cannibal Islands, The"
 5957,"Stanley Market","King Of The Cannibal Islands, The"
 5957,"Vulcan's Cave","King Of The Cannibal Islands, The"
+5958,"Jimmy Doyle's Favourite","Seamus Cooley's"
 5959,"Eräänä Kauniina Päivänä","On One Beautiful Day"
 5961,"Battle Of Killicrankie","Battle Of Killiecrankie, The"
 5961,"Battle Of Killicrankie, The","Battle Of Killiecrankie, The"
@@ -21601,6 +21601,9 @@ tune_id,alias,name
 9873,"Johnny Leary's","Munster Bank, The"
 9874,Sonatina,Sonantina
 9882,"Mrs Ramsey Of Barton","Mrs Ramsay Of Barton"
+9888,"Achill Sound","Mayo Lasses, The"
+9888,"Gearrchailiú Chontae Mhuigheo","Mayo Lasses, The"
+9888,"Girls Of County Mayo","Mayo Lasses, The"
 9889,"TG4 Advertisement Theme","Suil Eile"
 9898,"Ballygoughlin, The","Martin Mulvihill's"
 9899,"Cockerel And The Creel, The","Cockerel In The Creel, The"
@@ -22785,6 +22788,7 @@ tune_id,alias,name
 11674,"Philip O'Neill's",Quinn's
 11675,"Aċrann Idir  Ó Cearḃalláin & Bean Lóistín","Carolan's Quarrel With The Landlady"
 11675,"Aċrann Idir  Ó Cearḃalláin & Bean Taḃairne","Carolan's Quarrel With The Landlady"
+11675,"Quarrel With The Landlady","Carolan's Quarrel With The Landlady"
 11675,"Suidh Síos Ar Mo Dhídion","Carolan's Quarrel With The Landlady"
 11676,"Slaibh Lucan","Sliabh Lucan, The"
 11676,"Sliabh Lucan Polka #1, The","Sliabh Lucan, The"
@@ -25158,6 +25162,7 @@ tune_id,alias,name
 15871,"Chase The Rogue","Catch Me If You Can"
 15871,"Ruler With Which My Knuckles Were Smote, The","Catch Me If You Can"
 15878,"St. Peterburg Tune","Into The Way"
+15896,"Happy Clappy, The","Happy Clap, The"
 15899,"Sionnach Anns A' Mhin","Fox In The Flour"
 15908,"Faol Anns An Uisge-beatha","Wolf In The Whisky"
 15913,"Bessy Black","Betty Black"
@@ -25988,6 +25993,9 @@ tune_id,alias,name
 18894,Jiggermeister,"Jigermyster, The"
 18895,"Wrong Hoose, The","Wrong House, The"
 18911,"Simon Doherty's",Connolly's
+18913,"Jim MacAlister's","Jim McAllister's"
+18913,"Jim MacAllister's","Jim McAllister's"
+18913,"Jim McAlister's","Jim McAllister's"
 18917,""When I Saw My Bonny Lass To The Church Go"","Men Of The Forest, The"
 18923,"My Love Is Lost To Me","O, Were I On Parnassus Hill"
 18935,Gigue,"Gan Ainm"
@@ -26078,9 +26086,14 @@ tune_id,alias,name
 19195,"Planxty Daly","Planxty O'Daly"
 19229,"Connachtman's Rambles, The","Camchuairt An Connachtaigh"
 19229,"Rambling Connachtman","Camchuairt An Connachtaigh"
+19230,"Siobháinín Seó","Siobhainin Seo"
 19234,"Belle Of Claremont","Miss Brown"
 19234,"Belle Of Claremont, The","Miss Brown"
 19234,"Belles Of Clonallan, The","Miss Brown"
 19234,"Miss Brown's Fancy","Miss Brown"
 19247,"Quilty Fisherman","Quilty Fishermen"
 19247,"Quilty Fisherman, The","Quilty Fishermen"
+19264,"Dragon Lady, The","Dragon Lady"
+19279,International,"Kadril Van Mechelen"
+19279,"Kadril Von Mechelen","Kadril Van Mechelen"
+19281,"First Day Of Spring, The","First Of Spring, The"
