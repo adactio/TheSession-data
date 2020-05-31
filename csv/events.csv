@@ -1167,7 +1167,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1229,"Irish Times Celtic Show","2009-01-04 20:00:00","2009-01-04 21:00:00","Irish Times Pub","1200 Government Street",Victoria,"British Columbia",Canada,48.42575455,-123.36779785
 1292,"Session With The Pipers","2009-01-06 21:30:00","2009-01-06 23:30:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980392,-6.27785301
 1289,"Tommy Peoples and Kevin Moyna","2009-01-08 20:00:00","2009-01-08 23:00:00","Mr. Dennehy's","63 Carmine Street",Manhattan,"New York",USA,40.72972107,-74.00450897
-1242,"Cygnet Folk Festival","2009-01-09 00:00:00","2009-01-11 00:00:00","Various Venues",,Cygnet,Tasmania,Australia,-43.16185379,147.07710266
+1242,"Cygnet Folk Festival","2009-01-09 00:00:00","2009-01-11 00:00:00","Various Venues",,Cygnet,Tasmania,Australia,-43.16142654,147.07568359
 1290,"Boston Celtic Music Fest","2009-01-09 00:00:00","2009-01-10 00:00:00","Various Venues",,Cambridge,Massachusetts,USA,42.37397385,-71.12059021
 1228,"Squeeze The Bag Pipers Weekend","2009-01-09 09:00:00","2009-01-11 00:00:00","Shepherd University","210 N. King Street",Shepherdstown,"West Virginia",USA,39.43366623,-77.80443573
 1287,"Tommy Peoples Traditional Irish Music Workshop","2009-01-11 14:30:00","2009-01-11 16:00:00","J.P.O.Hanlon's Irish Pub And Restaurant","9 Main St",Ayer,Massachusetts,USA,42.55944824,-71.58750153
@@ -3860,7 +3860,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6326,"Christmas party with Talisk + floor spots","2015-12-16 20:00:00","2015-12-16 20:00:00","Swan Inn","Sheuchan Street",Stranraer,"Dumfries and Galloway",Scotland,54.91032410,-5.03814459
 6320,"Perry Hall Folk Music Night, featuring Kipyn Martin","2015-12-19 19:00:00","2015-12-19 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940094,-76.46701050
 6330,"Boxing Day acoustic get-together","2015-12-26 14:00:00","2015-12-26 14:00:00","The Britannia Inn","20 High Street",Crickhowell,Powys,Wales,51.85863113,-3.13750839
-6144,"Cygnet Folk Festival","2016-01-08 09:00:00","2016-01-10 19:00:00","Various Venues",,Cygnet,Tasmania,Australia,-43.16185379,147.07710266
+6144,"Cygnet Folk Festival","2016-01-08 09:00:00","2016-01-10 19:00:00","Various Venues",,Cygnet,Tasmania,Australia,-43.16142654,147.07568359
 6332,"Perry Hall Folk Music Night, featuring Mike Elosh","2016-01-16 19:00:00","2016-01-16 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940094,-76.46701050
 6338,"Séan Keane and Band","2016-01-16 20:30:00","2016-01-16 20:30:00","Armada Hotel",,"Spanish Point",Clare,Ireland,52.84664154,-9.43970108
 6331,"Celtic Connections on Campus","2016-01-19 00:00:00","2016-01-22 00:00:00","Glasgow Caledonian University Campus","Cowcaddens Road",Glasgow,Glasgow,Scotland,55.86676407,-4.25430918
@@ -5353,6 +5353,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7837,"Cancelled: Ceol Aneas Irish Music Festival","2020-05-29 18:00:00","2020-06-01 18:00:00","Nelson School Of Musical Arts","48 Nile Street",Nelson,Nelson,"New Zealand",-41.27643967,173.28651428
 7784,"Cancelled: Music on the Brain flute/tin whistle workshops","2020-05-29 20:00:00","2020-06-01 00:00:00","Town Hall","Avenue De Plaisance","Brain Sur Vilaine",Brittany,France,47.69657135,-1.89270747
 7896,"Cancelled: Andy Irvine and Donal Lunny","2020-05-30 00:00:00","2020-05-30 00:00:00","Mermaid Arts Centre","Main Street",Bray,Wicklow,Ireland,53.20347214,-6.10949135
+7908,"Patrick Flaherty Live Stream","2020-05-30 19:00:00","2020-05-30 22:00:00","Liberty Playhouse",,Condon,Oregon,USA,45.23585510,-120.18460083
 7877,"Cancelled: Doolin Folk Festival","2020-06-12 00:00:00","2020-06-14 00:00:00","Various Venues",,Doolin,Clare,Ireland,53.01632690,-9.37653828
 7859,"Online Gulf Coast Cruinniú","2020-06-12 19:00:00","2020-06-14 19:00:00","Various Venues",,Houston,Texas,USA,29.81702805,-95.41587830
 7878,"Cancelled: Jim Dowling Uilleann Pipe and Trad Festival 2020","2020-06-18 00:00:00","2020-06-21 00:00:00","Various Venues",,Glengarriff,Cork,Ireland,51.75002670,-9.55222225
@@ -5377,4 +5378,5 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7890,"Handed Down: “Rare Recordings from the Attic of Denis Murphy and Seamus Ennis”","2020-10-10 20:00:00","2020-10-10 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7789,"Button Boxes & Moothies","2020-10-16 00:00:00","2020-10-18 00:00:00","Various Venues",,Aberdeen,Aberdeenshire,Scotland,57.11746597,-2.15074015
 7888,"Patrick O’Keeffe Festival 2020","2020-10-23 00:00:00","2020-10-26 00:00:00","Various Venues",,Castleisland,Kerry,Ireland,52.23289871,-9.46014881
+7909,"Cancelled: Cygnet Folk Festival","2021-01-08 00:00:00","2021-01-08 00:00:00","Various Venues",,Cygnet,Tasmania,Australia,-43.16142654,147.07568359
 3091,"The Flurry – A Festival of Traditional Dancing and Music","2021-02-12 19:00:00","2021-02-14 18:00:00","Various Venues",,"Saratoga Springs","New York",USA,43.05521011,-73.80332184
