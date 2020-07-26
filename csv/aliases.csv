@@ -7,6 +7,7 @@ tune_id,alias,name
 1,"Luttrell's Pass",Cooley's
 1,"Put The Cake In The Dresser",Cooley's
 1,"Put The Cake On The Dresser",Cooley's
+1,"Reaping The Rye",Cooley's
 1,"Ríl Na Tulaí",Cooley's
 1,"Tulla, The",Cooley's
 2,"Bucks Of Aranmore, The","Bucks Of Oranmore, The"
@@ -627,6 +628,8 @@ tune_id,alias,name
 82,"Shamrock Barndance, The","Pride Of Petravore, The"
 83,"High Could Cat","Rights Of Man, The"
 83,"Right Of Man, The","Rights Of Man, The"
+83,"Rights Of Humankind, The","Rights Of Man, The"
+83,"Rights Of Womankind, The","Rights Of Man, The"
 84,"Barn Door, The","Rakes Of Kildare, The"
 84,"Barndoor, The","Rakes Of Kildare, The"
 84,"Cum Y çhenn Oanrey çheh","Rakes Of Kildare, The"
@@ -1726,6 +1729,7 @@ tune_id,alias,name
 278,"Ban Tinceiri","Tinker's Wife, The"
 278,"Bean A' Tinc","Tinker's Wife, The"
 278,"Bean Tinceara","Tinker's Wife, The"
+278,"Johnny Allen's","Tinker's Wife, The"
 278,"Reel In D","Tinker's Wife, The"
 278,"Tinker's Wife, The","Tinker's Wife, The"
 278,"Tinkerman's Wife, The","Tinker's Wife, The"
@@ -3888,6 +3892,7 @@ tune_id,alias,name
 640,"Loftus Jones","Loftus Jones"
 640,"Planxty Loftus Jones","Loftus Jones"
 641,"Going For Water","Scattery Island"
+641,"Going To The Well For Water","Scattery Island"
 641,"Guido's Unfavourite","Scattery Island"
 641,"Scattery Island, The","Scattery Island"
 641,"Sleamhnán Inis Cathaigh","Scattery Island"
@@ -3978,6 +3983,7 @@ tune_id,alias,name
 656,"Micho Russell's","Timmy Clifford's"
 656,"Tim Clifford's","Timmy Clifford's"
 657,"Maguire's Own","International, The"
+658,Sandymount,"Stone In The Field, The"
 658,"Stone On The Field, The","Stone In The Field, The"
 659,"Sligo Indians, The","Sligo Indians"
 660,"Burning Of The Piper's Hat, The","Burning Of The Piper's Hut, The"
@@ -4431,6 +4437,7 @@ tune_id,alias,name
 741,"Shannon, The","Paddy O'Rafferty"
 741,"Síos Chun Na Trá","Paddy O'Rafferty"
 741,"Ten Penny Money","Paddy O'Rafferty"
+741,"Three Little Drummers, The","Paddy O'Rafferty"
 743,"Stolen, The","Swallow's Nest, The"
 743,"Swallows Nest, The","Swallow's Nest, The"
 743,"Swallows' Nest, The","Swallow's Nest, The"
@@ -14205,7 +14212,7 @@ tune_id,alias,name
 4176,Tomy's,"Liz Kelly's"
 4178,"All About Weaving","Pedaling Patterns"
 4178,"Pedalling Patterns","Pedaling Patterns"
-4182,Dwyer's,Dwyer's
+4182,"An Gasur Mór",Dwyer's
 4182,Prime's,Dwyer's
 4182,"Waterford, The",Dwyer's
 4183,"Ladies Choice","Ladies' 2nd Choice"
@@ -15266,6 +15273,7 @@ tune_id,alias,name
 4948,"James Burke's","Brother Gildas'"
 4952,"Braes O' Binnorie, The","Loch Lomond"
 4952,"Red Is The Rose","Loch Lomond"
+4954,"Flowery Hills Of Scotland, The","Lady Gordon's"
 4954,"Lady Gordon","Lady Gordon's"
 4954,"Paddy Carty's","Lady Gordon's"
 4956,Sarah's,Sara's
@@ -15388,10 +15396,6 @@ tune_id,alias,name
 5051,"Quick March Scot's Royal","Kiss Me Fast, My Minnie's Coming"
 5057,"Union Street","Union Street Session"
 5057,"Union Street Session, The","Union Street Session"
-5062,"Across The Fence","Crossing The Fence"
-5062,"Cross The Fence","Crossing The Fence"
-5062,"Jack Came Over The Fence","Crossing The Fence"
-5062,McGlinchey's,"Crossing The Fence"
 5063,"Colonel Robertson's March","Colonel Robertson"
 5067,"Bell Table, The","Bell Table"
 5067,Belltable,"Bell Table"
@@ -16210,6 +16214,7 @@ tune_id,alias,name
 5713,"Smoky House, The","Johnny's Wedding"
 5714,"Lavarette, The","Leverette, The"
 5714,"Lavourette, The","Leverette, The"
+5714,"Leveret, The","Leverette, The"
 5718,"Mouse In The Church","Mary Shore"
 5719,"Snow In April",April
 5721,"Rodney Miller's","Border Collie, The"
@@ -21393,6 +21398,7 @@ tune_id,alias,name
 9601,"Donal O'Connor's","Walls Of Liscarroll, The"
 9601,"Old Walls Of Liscarroll, The","Walls Of Liscarroll, The"
 9601,"Walls Of Liscarrol, The","Walls Of Liscarroll, The"
+9603,Malarky,"Malarky, The"
 9606,"Buaid Mic Uill","Hull's Victory"
 9606,"Hulls Victory","Hull's Victory"
 9607,Alyth,Alyth's
@@ -21417,7 +21423,8 @@ tune_id,alias,name
 9629,"Furze In The Bloom, The","Furze In Bloom, The"
 9629,"Peter Horan","Furze In Bloom, The"
 9629,"Peter Horan's","Furze In Bloom, The"
-9632,"Im Aoner Seal","Alone And Lonely"
+9632,"Alone And Lonely","Reflection Of Being"
+9632,"Im Aoner Seal","Reflection Of Being"
 9633,"Caoineach An Spailpin","Spalpeen's Lament, The"
 9633,"Caoineadh An Spailpin","Spalpeen's Lament, The"
 9633,"Spailpin's Lament, The","Spalpeen's Lament, The"
@@ -21704,7 +21711,6 @@ tune_id,alias,name
 10039,"Planxty Bourke","Planxty Burke"
 10039,"Pleraca Buaircac","Planxty Burke"
 10046,"Cardigan Bower","Deildy Aberteifi"
-10049,"Three Little Drummers, The","Little Drummer, The"
 10052,"Steamroller Mac Teige's, The","Steamroller MacTeige's, The"
 10052,"Steamroller MacTeige","Steamroller MacTeige's, The"
 10053,"Francie Dearg's","Sterling Tom"
@@ -24539,7 +24545,7 @@ tune_id,alias,name
 14277,Molecatcher's,"Mole Catcher's, The"
 14277,"Molecatcher's, The","Mole Catcher's, The"
 14280,Herbert,"Herbert The Sherbert"
-14284,"ANNA IS MY DARLING","Anna Thug Mi Gradh Dhuit"
+14284,"Anna Is My Darling","Anna Thug Mi Gradh Dhuit"
 14284,"Annie Is My Darling","Anna Thug Mi Gradh Dhuit"
 14284,"Up Boyle's Hilleen","Anna Thug Mi Gradh Dhuit"
 14285,"Scan Tester's Country Stepdance","Scan Tester's Country Step Dance"
@@ -25288,6 +25294,7 @@ tune_id,alias,name
 16371,Innes's,"Charmer, The"
 16373,"Thro' The Lang Muir","Gloomy December"
 16376,"La Tuque Rouge","Reel Des Habitants"
+16381,"Short-Coated Mary","Short Coated Mary"
 16397,"Le Reel Des 2 Lisa","Reel Des Deux Lisas"
 16398,"Moudiewort, The","O, For Ane And Twenty Tam"
 16403,"Sunset Land","Air Of Sunset Land, The"
@@ -25954,7 +25961,8 @@ tune_id,alias,name
 18622,"Ronnie Power's No. 2","Ronnie Power's"
 18622,"Second Ronnie, The","Ronnie Power's"
 18624,"Miss Ann Amelia Stuart","Miss Ann Amelia Murray"
-18625,"Earl Marishal's (Keith) Reel (Iarla Marasgal)","Earl Marischal"
+18625,"Earl Marishal's","Earl Marischal"
+18625,"Iarla Marasgal","Earl Marischal"
 18636,"Mrs. Smyth Of Methven","Mrs. Smyth Of Methven's"
 18638,"Royal Circus","Drury Lane"
 18643,"Miss Oswald Of Auchincruive's Favorite","Mrs Oswald Of Auchincruive's Favourite"
@@ -26199,3 +26207,9 @@ tune_id,alias,name
 19547,"Festus Burke","Sir Festus Burke"
 19548,"Mrs Joyscream","Mrs. Joyscream"
 19552,"Miss Emily","Kiss Me Sweetheart"
+19563,"Star Gazer","Star Gazers, The"
+19563,Stargazer,"Star Gazers, The"
+19563,"Stargazers, The","Star Gazers, The"
+19569,"Malarky, The",Malarky
+19570,"Trip To Sproughton, The","Trip To Sproughton"
+19576,"Scansen, Skansen Group",Skansen's
