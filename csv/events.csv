@@ -504,7 +504,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 547,"Beoga In Concert","2007-10-20 20:30:00","2007-10-20 00:00:00","Cois Na HAbhna","Old Gort Road",Ennis,Clare,Ireland,52.85729980,-8.98359489
 527,"Na Fianna Traditional Irish Music","2007-10-20 21:00:00","2007-10-20 23:45:00","Velma Cafe","Gorriti 5520",Palermo,"Buenos Aires",Argentina,-34.58551788,-58.43642807
 574,"Comhaltas American Concert Tour","2007-10-21 14:00:00","2007-10-21 00:00:00","Roger's Centre For The Arts","Merrimack College","North Andover",Massachusetts,USA,42.66770554,-71.12257385
-564,"Comhaltas Irish Concert Tour","2007-10-21 20:00:00","2007-10-21 00:00:00","Town Hall",,Skibbereen,Cork,Ireland,51.54879761,-9.26371956
+564,"Comhaltas Irish Concert Tour","2007-10-21 20:00:00","2007-10-21 00:00:00","Town Hall",,Skibbereen,Cork,Ireland,51.54934692,-9.26580811
 565,"Comhaltas Irish Concert Tour","2007-10-22 20:00:00","2007-10-22 00:00:00","Cois Na HAbhna","Old Gort Road",Ennis,Clare,Ireland,52.85729980,-8.98359489
 572,"Comhaltas Irish Concert Tour","2007-10-23 20:00:00","2007-10-23 00:00:00","Halla Inse Bhán",,Templeglantine,Limerick,Ireland,52.40068436,-9.16934681
 470,"Sligo Live","2007-10-24 00:00:00","2007-10-29 00:00:00","Sligo City Hotel","Quay Street",Sligo,Sligo,Ireland,54.27320099,-8.47649956
@@ -5090,6 +5090,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7598,"HighTime - House concert","2019-09-14 20:00:00","2019-09-14 23:30:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.37799835,-122.78218079
 7620,"Sharon Shannon and Band with special guest Seckou Keita","2019-09-14 20:00:00","2019-09-14 20:00:00","Ropetackle Arts Centre",Ropetackle,"Shoreham By Sea",Sussex,England,50.83373642,-0.27973571
 7650,"Dervish with special guests","2019-09-19 00:00:00","2019-09-19 00:00:00","The London Palladium","Argyll Street",Westminster,London,England,51.51466370,-0.14080469
+7624,"Frank Harte Festival","2019-09-20 00:00:00","2019-09-22 00:00:00","The Teacher's Club","36 Parnell Square",Dublin,Dublin,Ireland,53.35309219,-6.26515913
 7632,"Llanfrothen & Croesor Harvest School","2019-09-20 00:00:00","2019-09-22 00:00:00","Various Venues",,Llanfrothen,Gwynedd,Wales,52.95176315,-4.05145597
 7665,"The Dinny Delaney Festival of Uilleann Pipers","2019-09-20 17:00:00","2019-09-22 00:00:00","Various Venues",,Ballinasloe,Galway,Ireland,53.32664108,-8.21951389
 7585,"A Weekend of Irish Music Sessions in Lancaster","2019-09-20 19:00:00","2019-09-22 18:00:00","Various Venues",,Lancaster,Lancashire,England,54.03943634,-2.78115702
@@ -5383,8 +5384,10 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7921,"Hamish Napier's Universal Scottish Flute and Whistle Course Online","2020-08-19 16:00:00","2020-08-21 20:30:00","Sabhal Mòr Ostaig",Teangue,Sleat,"Isle Of Skye",Scotland,57.11152649,-5.85412502
 7924,"Fyne Fiddles Summer School","2020-08-21 00:00:00","2020-08-23 00:00:00","Ardkinglas House",,"Loch Fyne",Argyll,Scotland,56.25099182,-4.94728613
 7919,"North East Fiddle School Virtual Summer School","2020-08-22 00:00:00","2020-08-23 00:00:00","Various Venues",,"Newcastle Upon Tyne","Tyne and Wear",England,54.97045135,-1.61733794
+7927,"Session for Sanity!","2020-08-31 00:00:00","2020-08-31 00:00:00","Private Studio",,Dublin,Dublin,Ireland,53.34980392,-6.26030970
+7930,"Steve Cooney and Dermot Byrne","2020-09-03 20:00:00","2020-09-03 21:00:00","Town Hall",,Skibbereen,Cork,Ireland,51.54934692,-9.26580811
 7925,"Greenwood Furnace Folk Gathering Online","2020-09-11 00:00:00","2020-09-12 00:00:00","Various Venues",,Huntingdon,Pennsylvania,USA,40.48479462,-78.01028442
-7624,"Frank Harte Festival","2020-09-25 00:00:00","2020-09-27 00:00:00","The Teacher's Club","36 Parnell Square",Dublin,Dublin,Ireland,53.35309219,-6.26515913
+7929,"Ye Vagabonds with Cormac Begley","2020-09-19 00:00:00","2020-09-19 00:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
 7826,"NASC Folk and Traditional Music Festival","2020-09-26 00:00:00","2020-09-26 00:00:00","Marley House","Marlay Park, Grange Road",Rathfarnham,Dublin,Ireland,53.27328491,-6.26886511
 7857,"The 41st Cork Folk Festival","2020-10-01 00:00:00","2020-10-04 00:00:00","Various Venues",,Cork,Cork,Ireland,51.89958954,-8.47320366
 7918,"UP workshop","2020-10-03 09:30:00","2020-10-03 17:30:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.27369690,-3.55272794
