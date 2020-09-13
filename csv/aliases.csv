@@ -542,14 +542,10 @@ tune_id,alias,name
 74,"Mason Laddie","Mason's Apron, The"
 74,"Mason's Apprentice, The","Mason's Apron, The"
 74,"Masons Apron","Mason's Apron, The"
-75,"Dance For Your Daddy My Little Laddie","Miss McLeod's"
 75,"Did You Ever Meet The Devil, Uncle Joe?","Miss McLeod's"
-75,"Dun Cow, The","Miss McLeod's"
-75,Eighthsome,"Miss McLeod's"
 75,"Have You Ever Seen The Devil, Uncle Joe?","Miss McLeod's"
 75,"Hop High Ladies","Miss McLeod's"
 75,"Iníon Mhic Leóid","Miss McLeod's"
-75,"May Day","Miss McLeod's"
 75,McCleod's,"Miss McLeod's"
 75,McCloud's,"Miss McLeod's"
 75,McLeod's,"Miss McLeod's"
@@ -576,7 +572,6 @@ tune_id,alias,name
 75,"Mrs. McLeods","Miss McLeod's"
 75,"Ms McCloud's","Miss McLeod's"
 75,"Ms. McLeod's","Miss McLeod's"
-75,"Old Mammy Knickerbocker","Miss McLeod's"
 75,"Uncle Joe's","Miss McLeod's"
 76,"Mummer's, The","My Darling Asleep"
 76,"Mummers', The","My Darling Asleep"
@@ -1233,6 +1228,7 @@ tune_id,alias,name
 173,"Danced With Me The Beautiful Maiden","Miss Lyall"
 173,"Faill Na Mban Hornpipe","Miss Lyall"
 173,"Hard By Seifin","Miss Lyall"
+173,"Miss Lyal","Miss Lyall"
 173,"Miss Lyall's","Miss Lyall"
 173,"Miss Lyle","Miss Lyall"
 173,"Miss Lyle's","Miss Lyall"
@@ -3094,6 +3090,7 @@ tune_id,alias,name
 511,Foxhunters,"Foxhunter, The"
 511,"Foxhunters', The","Foxhunter, The"
 511,"Foxhunters, The","Foxhunter, The"
+511,"Patrick Kelly's","Foxhunter, The"
 511,"Sealgaire An TSionnaigh","Foxhunter, The"
 512,"Paddy's Rambles","Paddy's Rambles Through The Park"
 512,"Paddy's Rambles In The Park","Paddy's Rambles Through The Park"
@@ -4482,6 +4479,7 @@ tune_id,alias,name
 750,"Figs For A Kiss","A Fig For A Kiss"
 750,"Gáire Na MBán","A Fig For A Kiss"
 750,"Glugar An Mheadair","A Fig For A Kiss"
+750,"Milk The Churn","A Fig For A Kiss"
 750,"Ní Maith Liom Pog","A Fig For A Kiss"
 750,"Old Dutch Churn, The","A Fig For A Kiss"
 750,"Rinnce Is Ceól","A Fig For A Kiss"
@@ -6653,6 +6651,7 @@ tune_id,alias,name
 1218,"Cock Of The North, The","Cock O' The North"
 1218,"S'mie Lhiam Cappan Dy Hey","Cock O' The North"
 1219,"Canny Highland Fling, The","Eileen O'Callaghan's"
+1219,Gagan's,"Eileen O'Callaghan's"
 1219,Geaghan's,"Eileen O'Callaghan's"
 1219,"Geaghan's Fancy","Eileen O'Callaghan's"
 1219,Geehan's,"Eileen O'Callaghan's"
@@ -9610,6 +9609,7 @@ tune_id,alias,name
 2029,"Cameron Got His Wife Again","Cameron's Got His Wife Again"
 2029,"Cameron's Highland Fling","Cameron's Got His Wife Again"
 2029,"John Cameron Has Lizzie Steel Again His Wife","Cameron's Got His Wife Again"
+2030,"John Kelly's","Hermit From Killarney, The"
 2033,"All Around Gortin","Moving In Old Decency"
 2033,"Eddie Maloney's","Moving In Old Decency"
 2033,"Eddie Maloney's No.2","Moving In Old Decency"
@@ -9808,9 +9808,10 @@ tune_id,alias,name
 2108,"Ninety-Nine March, The",Ninety-Nine
 2114,"I'd Rather Be Married Than Left Alone","I'd Rather Be Married Than Left"
 2114,"La Native","I'd Rather Be Married Than Left"
-2115,"Charlie Lennon's #4","Charlie Lennon's No. 4"
-2115,"Charlie Lennon's No.4","Charlie Lennon's No. 4"
-2115,"Lennon's No. 4","Charlie Lennon's No. 4"
+2115,"Charlie Lennon's #4","Charlie Lennon's"
+2115,"Charlie Lennon's No. 4","Charlie Lennon's"
+2115,"Charlie Lennon's No.4","Charlie Lennon's"
+2115,"Lennon's No. 4","Charlie Lennon's"
 2117,MacNab's,"Crossing The Minch"
 2117,MacNabb's,"Crossing The Minch"
 2117,"Mc Nabb's","Crossing The Minch"
@@ -10420,6 +10421,7 @@ tune_id,alias,name
 2305,"Gillie Callam Da Pheithein","Gillie Callum"
 2305,"Keelum Kallum","Gillie Callum"
 2305,"Keelum Kallum Taa Fein","Gillie Callum"
+2305,"Kheellum Khallum Taa Fein","Gillie Callum"
 2305,"Lad Malcolm, The","Gillie Callum"
 2305,"Lasses Gar Your Tails Todle","Gillie Callum"
 2305,"Sword Dance","Gillie Callum"
@@ -11416,17 +11418,18 @@ tune_id,alias,name
 2716,O'Mahoney's,"Carmel Mahoney Mulhaire"
 2716,"O'Mahoney's Fancy","Carmel Mahoney Mulhaire"
 2717,"Green Flag, The","Green Banner, The"
-2719,Dawn's,Lambert's
-2719,Foynes,Lambert's
-2719,Foynes',Lambert's
-2719,"Paddy Taylor's",Lambert's
-2719,"Paddy Taylor's #1",Lambert's
-2719,"Paddy Taylor's Favorite",Lambert's
-2719,"Paddy Taylor's Favourite",Lambert's
-2719,"Paddy Taylor's No 1",Lambert's
-2719,"Paddy Taylor's No. 1",Lambert's
-2719,"Paddy Taylor's No.1",Lambert's
-2719,Taylor's,Lambert's
+2719,Dawn's,"Paddy Taylor's"
+2719,Foynes,"Paddy Taylor's"
+2719,Foynes',"Paddy Taylor's"
+2719,Lambert's,"Paddy Taylor's"
+2719,"Paddy Taylor's","Paddy Taylor's"
+2719,"Paddy Taylor's #1","Paddy Taylor's"
+2719,"Paddy Taylor's Favorite","Paddy Taylor's"
+2719,"Paddy Taylor's Favourite","Paddy Taylor's"
+2719,"Paddy Taylor's No 1","Paddy Taylor's"
+2719,"Paddy Taylor's No. 1","Paddy Taylor's"
+2719,"Paddy Taylor's No.1","Paddy Taylor's"
+2719,Taylor's,"Paddy Taylor's"
 2720,"Benny McCarthy's","Blue-eyed Lassie, The"
 2720,"Tommy Peoples'","Blue-eyed Lassie, The"
 2721,Cicerenella,Tarantella
@@ -12567,7 +12570,6 @@ tune_id,alias,name
 3226,"Polc Chorca Dhuibhne",Paddy's
 3226,"Polc Chorcha Dhuibhne",Paddy's
 3226,"Polca Chorcha Dhuibhne",Paddy's
-3226,"West Kerry",Paddy's
 3226,"West Kerry, The",Paddy's
 3227,"Bill Malley's","Joe Bane's"
 3227,"Bill Malley's #2","Joe Bane's"
@@ -12836,6 +12838,7 @@ tune_id,alias,name
 3338,"John Dwyer's","Caha Mountains"
 3340,"Above In The Garret","Up In The Garret"
 3341,"Preston, The","Preston City, The"
+3342,"Winding Roads Of Advance, The","Ivory Flute, The"
 3343,"Boiled Cabbage, The","Mick Hoy's Recipe For Boiled Cabbage"
 3344,"Dermy Diamond's","Dermie Diamond's"
 3344,"Johnny Doherty's Fling","Dermie Diamond's"
@@ -13630,7 +13633,8 @@ tune_id,alias,name
 3765,"Buckleberry Ferry","Bucklebury, The"
 3765,"Buckleberry, The","Bucklebury, The"
 3765,"Bucklebury Ferry","Bucklebury, The"
-3766,Lover's,Lovers'
+3766,"Lover's, The","Lovers', The"
+3766,"Lovers', The","Lovers', The"
 3767,Apex,"Reel De Gaspé"
 3767,"Apex, The","Reel De Gaspé"
 3767,Gaspe,"Reel De Gaspé"
@@ -14852,6 +14856,7 @@ tune_id,alias,name
 4639,"Seán Coughlin's No. 2","John Donoghue's"
 4639,"Sheán Coughlan's No. 2","John Donoghue's"
 4640,"Hold On","Miss Victoria Ross"
+4640,"Lady Susan Stewart","Miss Victoria Ross"
 4646,"Paidushka Rhythm Is In 5/16 Time., The","Paidushko Horo"
 4648,"J. D. Burgess","John D. Burgess"
 4648,"J.D. Burgess","John D. Burgess"
@@ -19832,14 +19837,14 @@ tune_id,alias,name
 8070,"Martin Brennan's Delight","Johnny Gorman's"
 8072,"Commonality, The",Commonality
 8072,"Well-Bred Foal, The",Commonality
-8073,Hanter-dro,"Leprechaun's Step, The"
-8073,"La Ridée","Leprechaun's Step, The"
-8073,Laridé,"Leprechaun's Step, The"
-8073,"Laridé à Six Temps","Leprechaun's Step, The"
-8073,Ridée,"Leprechaun's Step, The"
-8073,"Ridée 6 Temps","Leprechaun's Step, The"
-8073,"Ridée à 6 Temps","Leprechaun's Step, The"
-8073,"Ridees 6 Temps","Leprechaun's Step, The"
+8073,Hanter-dro,"Leprechaun Step, The"
+8073,"La Ridée","Leprechaun Step, The"
+8073,Laridé,"Leprechaun Step, The"
+8073,"Laridé à Six Temps","Leprechaun Step, The"
+8073,Ridée,"Leprechaun Step, The"
+8073,"Ridée 6 Temps","Leprechaun Step, The"
+8073,"Ridée à 6 Temps","Leprechaun Step, The"
+8073,"Ridees 6 Temps","Leprechaun Step, The"
 8075,"Patrick's Annabel","Barabel Phadruig"
 8079,"Welcome Christmas Morning","A Welcome Christmas Morning"
 8080,"Jerry Holland's Pipe","Jerry's Pipe"
@@ -20830,6 +20835,7 @@ tune_id,alias,name
 8888,Culotte,"Brandy Culotté"
 8888,"Le Brandy Culotté","Brandy Culotté"
 8891,"She Hasn't The Thing She Thought She Had","Mrs Martin's"
+8895,"Johnny O'Leary's",Toureendarby
 8895,"Taureen Derby",Toureendarby
 8895,"There's Worse Than That Around",Toureendarby
 8895,Tooreenderby,Toureendarby
@@ -21170,7 +21176,7 @@ tune_id,alias,name
 9270,"Empty Wallet, The","Empty Wallet"
 9273,"Kinard, The","Kinnard, The"
 9274,"Sios Le Bruac Na Amne","Down By The River Side"
-9275,"""Come Into The Town, My Fair Lady""","Sean Dwyer's"
+9275,"Come Into The Town, My Fair Lady","Sean Dwyer's"
 9281,Rig-a-jig,"Rig A"
 9281,Rig-a-jig-jig,"Rig A"
 9283,"Clancy's Secret",Clancy's
@@ -22326,6 +22332,7 @@ tune_id,alias,name
 10779,"Braes Of Lochiel, The","Braes Of Locheil, The"
 10779,"Braigh Loch Iall","Braes Of Locheil, The"
 10784,Killorglin,"Knocknagoshel, The"
+10784,"Paddy Kenny's","Knocknagoshel, The"
 10784,"Polca Niall","Knocknagoshel, The"
 10791,"Portre Bay","Portree Bay"
 10791,Portree,"Portree Bay"
@@ -25625,6 +25632,7 @@ tune_id,alias,name
 17346,Spiders,Spider's
 17351,"Breuddwyd Y Frenhines","Queen's Dream, The"
 17354,"Cape Breton Jig (Generic)",Acadien
+17360,"Mrs. Grant Of Lagan's","Mrs. Grant Of Laggan"
 17361,"John Carty's","What Brought You In There"
 17368,"Gâteau Aux Bananes","Reel Des Bananes D'une Autre Saveur"
 17368,"Reel Du Gâteau Aux Bananes","Reel Des Bananes D'une Autre Saveur"
@@ -26042,6 +26050,8 @@ tune_id,alias,name
 18636,"Mrs. Smyth Of Methven","Mrs. Smyth Of Methven's"
 18638,"Royal Circus","Drury Lane"
 18643,"Miss Oswald Of Auchincruive's Favorite","Mrs Oswald Of Auchincruive's Favourite"
+18643,"Mrs Oswald Of Auchincruive's Favorite","Mrs Oswald Of Auchincruive's Favourite"
+18643,"Mrs. Oswald Of Auchincruive's Favourite","Mrs Oswald Of Auchincruive's Favourite"
 18648,"Punch In The Face","Punch In The Fèis"
 18648,"Punch In The Feis","Punch In The Fèis"
 18656,"Tommy Lord's","Tom Lord's"
@@ -26106,7 +26116,7 @@ tune_id,alias,name
 18913,"Jim MacAlister's","Jim McAllister's"
 18913,"Jim MacAllister's","Jim McAllister's"
 18913,"Jim McAlister's","Jim McAllister's"
-18917,"""When I Saw My Bonny Lass To The Church Go""","Men Of The Forest, The"
+18917,"When I Saw My Bonny Lass To The Church Go","Men Of The Forest, The"
 18923,"My Love Is Lost To Me","O, Were I On Parnassus Hill"
 18935,Gigue,"Gan Ainm"
 18949,"Orkney Favourite",Norwegian
@@ -26322,3 +26332,8 @@ tune_id,alias,name
 19682,"Jackie Daly's #2","Jackie Daly's"
 19684,"Jackie Daly's #6","Jackie Daly's"
 19685,"Jackie Daly's #7","Jackie Daly's"
+19707,"Who Breaks The Feet","Brise Pied"
+19718,"Ivory Flute, The","Winding Roads Of Advance, The"
+19723,"Mrs. Nicol's Fancy","Port Na Fainne"
+19723,"Wedding Ring, The","Port Na Fainne"
+19726,"Barricade, The","Reel De La Barricade"
