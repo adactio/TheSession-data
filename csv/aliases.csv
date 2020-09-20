@@ -82,9 +82,10 @@ tune_id,alias,name
 7,"Bonaparte Crossing The Alps","Bonaparte Crossing The Rhine"
 7,"Bonaparte Crossing The Rockies","Bonaparte Crossing The Rhine"
 7,"Bonaparte Crossing The Rocky Mountains","Bonaparte Crossing The Rhine"
-7,"Bonaparte's March","Bonaparte Crossing The Rhine"
-7,"Bonnie's March","Bonaparte Crossing The Rhine"
-7,"Caledonian March","Bonaparte Crossing The Rhine"
+7,Bonaparte's,"Bonaparte Crossing The Rhine"
+7,Bonnie's,"Bonaparte Crossing The Rhine"
+7,Caledonian,"Bonaparte Crossing The Rhine"
+7,"Cead Suí Do Mhag Uidhir","Bonaparte Crossing The Rhine"
 7,"Fare Thee Well Sweet Killaloe","Bonaparte Crossing The Rhine"
 7,"Hot Asphalt","Bonaparte Crossing The Rhine"
 7,"Johnny Get Up","Bonaparte Crossing The Rhine"
@@ -844,9 +845,6 @@ tune_id,alias,name
 108,"Wind Is Over The Ocean, The","Out On The Ocean"
 109,"10 Penny Bit","Tenpenny Bit, The"
 109,"Billy's Awake","Tenpenny Bit, The"
-109,"Coffee And Tea","Tenpenny Bit, The"
-109,"Jan Koop Mij Kermis","Tenpenny Bit, The"
-109,"Ten Franc Piece, The","Tenpenny Bit, The"
 109,"Ten Penney Bit","Tenpenny Bit, The"
 109,"Ten Penny Bit, The","Tenpenny Bit, The"
 109,"Three Little Drummer Boys, The","Tenpenny Bit, The"
@@ -2659,7 +2657,6 @@ tune_id,alias,name
 444,"Frank Thornton's","Terry 'Cuz' Teehan's"
 444,"Frank Thornton's Highland","Terry 'Cuz' Teehan's"
 444,"Kerry Fling","Terry 'Cuz' Teehan's"
-444,"Molloy's Favourites","Terry 'Cuz' Teehan's"
 444,"Teahan's Highland","Terry 'Cuz' Teehan's"
 444,Teehan's,"Terry 'Cuz' Teehan's"
 444,"Teehan's Highland","Terry 'Cuz' Teehan's"
@@ -2753,6 +2750,7 @@ tune_id,alias,name
 454,"Waltz Of The White Lilies","Give Me Your Hand"
 454,"White, Green, And Orange","Give Me Your Hand"
 454,"White, Orange, And Green","Give Me Your Hand"
+455,"Denis Murphy's","Going To The Well For Water"
 455,"Fetching Water From The Well","Going To The Well For Water"
 455,"Goin' To The Well","Going To The Well For Water"
 455,"Kaiser, The","Going To The Well For Water"
@@ -3115,6 +3113,7 @@ tune_id,alias,name
 514,"Follow Me Down To Galway","Down The Broom"
 514,"P. Flanagan's","Down The Broom"
 514,"Peter Flanagan's","Down The Broom"
+515,"Bill The Weaver","Rolling Waves, The"
 515,"Limerick Lass, The","Rolling Waves, The"
 515,"Lonesome, The","Rolling Waves, The"
 515,Maguire's,"Rolling Waves, The"
@@ -5221,6 +5220,7 @@ tune_id,alias,name
 916,"Darby Cross","John Clifford's"
 916,"John Egan's","John Clifford's"
 916,"John Egan's No 2","John Clifford's"
+916,"Scairteach An Ghlinne","John Clifford's"
 916,"Scartaglen, The","John Clifford's"
 917,"An Sleán","Turnpike, The"
 917,"Halfway House, The","Turnpike, The"
@@ -5544,6 +5544,7 @@ tune_id,alias,name
 997,"Sir Watkin Williams-Wynn","Ash Grove, The"
 997,"They Suffer The Wretched To Languish And Perish","Ash Grove, The"
 998,"Clog, The",O'Keefe's
+998,"Jim O'Keeffe's",O'Keefe's
 998,Keefe's,O'Keefe's
 998,Keeffe's,O'Keefe's
 998,O'Keeffe's,O'Keefe's
@@ -7554,6 +7555,7 @@ tune_id,alias,name
 1430,"Kitty Come Over","Cow That Ate The Blanket, The"
 1430,Sarsfield's,"Cow That Ate The Blanket, The"
 1432,"Conlon's Dream","Noisy Curlew, The"
+1432,"Crotach Glórach","Noisy Curlew, The"
 1432,"Jack Maguire's","Noisy Curlew, The"
 1432,"Jack McGuire's","Noisy Curlew, The"
 1432,"Mick McNamara's","Noisy Curlew, The"
@@ -7824,6 +7826,7 @@ tune_id,alias,name
 1511,Meelick,"Meelick Team, The"
 1514,"Hugh Travers'","Hughie Travers'"
 1514,"Hughie Traver's","Hughie Travers'"
+1514,"Jack Connell's","Hughie Travers'"
 1514,"Pat McMahon's","Hughie Travers'"
 1515,"Crosaire De Bhailis","Tournmore, The"
 1515,"Dave Hennessy's","Tournmore, The"
@@ -8577,8 +8580,9 @@ tune_id,alias,name
 1690,"Fred Finn's #2",Preston's
 1690,"Michael Preston's",Preston's
 1693,"Bill The Weavers","Cheer Up Old Hag"
-1693,"Cat In The Corner","Cheer Up Old Hag"
-1693,"Cheer Up Old Hag","Cheer Up Old Hag"
+1693,"Cat In The Corner, The","Cheer Up Old Hag"
+1693,"Humors Of Killarney, The","Cheer Up Old Hag"
+1693,"Humours Of Killarney, The","Cheer Up Old Hag"
 1698,"Seamus Murraigh's","Paddy Doory's"
 1700,"Miss Kelly","Five Points, The"
 1701,Harris',"Walter Sammon's Grandmother"
@@ -12234,6 +12238,7 @@ tune_id,alias,name
 3070,"Coyí D'un Artu Una Flor","Asturian Air"
 3070,"Coyí D'un Artu Una Flor","Asturian Air"
 3074,Dilwyn,"Not For Joe"
+3077,"An TAth Pat Ahern","At The Bend In The Road"
 3079,"Harry Oh",Harry-O
 3079,"Skip Parente's",Harry-O
 3079,"Skip Parenti's",Harry-O
@@ -12393,6 +12398,7 @@ tune_id,alias,name
 3127,"Lick The Ladle Susan","Lisdoonvarna, The"
 3127,"Susan Lick The Ladle","Lisdoonvarna, The"
 3128,"Borlin, The","Neily Cleere's"
+3128,"Neilí Cleirigh","Neily Cleere's"
 3128,"Nell Cleare's","Neily Cleere's"
 3128,"Nelly Cleare's","Neily Cleere's"
 3129,"Back O' The Haggard","Back Of The Haggard, The"
@@ -12854,6 +12860,7 @@ tune_id,alias,name
 3352,"Bluebell, The","Bluebell Polka, The"
 3353,"Maurice Scanlon's","Farewell To Lisheen"
 3353,"Morris Scanlon's","Farewell To Lisheen"
+3353,"Muiris Ó Scanláin","Farewell To Lisheen"
 3353,"Port A Bhand","Farewell To Lisheen"
 3353,"Port A' Bhand","Farewell To Lisheen"
 3353,"Port An Bhand","Farewell To Lisheen"
@@ -16373,6 +16380,7 @@ tune_id,alias,name
 5808,"You Hearty Boys Of Ballymoate","Hearty Boys Of Ballymote, The"
 5808,"You Hearty Boys Of Ballymote","Hearty Boys Of Ballymote, The"
 5809,Richie's,Richie's
+5810,"By The Slopes Of Slieve Gullion","Slopes Of Slieve Gullion, The"
 5821,"An Cruach Fraoch","Heathery Cruach, The"
 5821,"Hornless Cow","Heathery Cruach, The"
 5821,"Hornless Cow, The","Heathery Cruach, The"
@@ -16533,6 +16541,7 @@ tune_id,alias,name
 5943,"Cori McLenon's","Cori McLenon"
 5945,"Art O'Keeffe's","Echoes Of Killarney"
 5945,"Drake, The","Echoes Of Killarney"
+5945,"Is Leir Dom Intinn Cheataí","Echoes Of Killarney"
 5945,"Maggie In The Woods","Echoes Of Killarney"
 5945,"Well I Know What Kitty Wants","Echoes Of Killarney"
 5949,"Ailne Na H-Eireann","Beauties Of Ireland, The"
@@ -18902,6 +18911,7 @@ tune_id,alias,name
 7376,"White Fish In The Rapids","Whitefish In The Rapids"
 7376,"White Fish On The Rapids","Whitefish In The Rapids"
 7383,"March For One Bottle More","One Bottle More"
+7386,"Danu #2",Neili's
 7386,Neilí,Neili's
 7386,Nelly,Neili's
 7386,Nelly's,Neili's
@@ -19321,6 +19331,7 @@ tune_id,alias,name
 7670,"Tomy's (slide)",Dinni's
 7671,Charlestown,"Derry, The"
 7671,"Derry (G), The","Derry, The"
+7671,"Ríl Dhoire","Derry, The"
 7678,"Ballyket Courthouse","Ballykett Courthouse"
 7678,"Ballyket Courthouse, The","Ballykett Courthouse"
 7678,"Ballykett Courthouse, The","Ballykett Courthouse"
@@ -21855,6 +21866,7 @@ tune_id,alias,name
 10134,"P. J. King's","PJ King's"
 10134,"P.J Kings","PJ King's"
 10134,"P.J. Kings","PJ King's"
+10144,"Buachaill An Bhardail","Drake's Lad, The"
 10148,"La Valse Des Jouets","Valse Des Jouets"
 10148,"Waltz Of The Toys","Valse Des Jouets"
 10148,"Waltz Of The Toys, The","Valse Des Jouets"
@@ -21876,10 +21888,6 @@ tune_id,alias,name
 10172,"P Stands For Paddy","P Stands For Paddy, I Suppose"
 10172,"‘P' Stands For Paddy, I Suppose","P Stands For Paddy, I Suppose"
 10175,"Boobaby's Lullaby","Boo Baby's Lullaby"
-10178,"Cat In The Corner, The","Cheer Up Old Hag"
-10178,"Cheer Up Old Hag","Cheer Up Old Hag"
-10178,"Humors Of Killarney, The","Cheer Up Old Hag"
-10178,"Humours Of Killarney, The","Cheer Up Old Hag"
 10181,"Mrs. Hill's Delight",Bristol
 10182,"Flowers, The","Pibddawns Y Blodau"
 10184,"Gem Of Ireland",Clarkson's
@@ -22378,6 +22386,7 @@ tune_id,alias,name
 10851,"Crubeens For Breakfast","Cruibins For Breakfast"
 10855,Kilcummin,"Spring In The Bog"
 10855,"Kilcummin, The","Spring In The Bog"
+10855,"Mick Mahoney's 2","Spring In The Bog"
 10855,"Spring Of The Bog","Spring In The Bog"
 10857,"Goldsmith's Lament","Lament For Oliver Goldsmith"
 10857,"Oliver Goldsmith's Lament","Lament For Oliver Goldsmith"
@@ -23444,6 +23453,8 @@ tune_id,alias,name
 12233,"Ellen O'Learys","Ellen O'Leary's"
 12234,"Art O'Keeffe's","Julia Clifford's"
 12234,"Hare In The Corn, The","Julia Clifford's"
+12234,"Maulykeavane, The","Julia Clifford's"
+12234,"Port Mholl Uí Chíobháin","Julia Clifford's"
 12236,"Sweet Peggy","Sweet Is The Name Of Peggy"
 12236,"Sweet's The Name Of Peggy","Sweet Is The Name Of Peggy"
 12237,"Dermot Byrne's","Tumble The Tinker"
@@ -23961,6 +23972,7 @@ tune_id,alias,name
 13062,"Laird Of Brodie, The","Laird O'Brodie, The"
 13065,"Lady Louden","Lucy Campbell"
 13065,"Miss Lucy Campbell","Lucy Campbell"
+13070,"John Collin's Fancy","John Collin's"
 13071,Antigonish,"Angus Chisholm's"
 13071,"Antigonish Polka #4","Angus Chisholm's"
 13071,"Antigonish Polka #4, The","Angus Chisholm's"
@@ -24046,6 +24058,7 @@ tune_id,alias,name
 13195,"Christie Campbell's","Christy Campbell"
 13195,"Christy Campbell's","Christy Campbell"
 13206,"Diamond, The",Diamond
+13214,"Spanish Muineira","Pasacáis Del Xarreru"
 13215,"Scarlet Clog, The","Scarlet Clog"
 13221,"Tullaghan Lasses, The","Tullaghan Lassies, The"
 13224,"Irish Girl, The","Irish Lass, The"
@@ -24231,6 +24244,7 @@ tune_id,alias,name
 13474,Foam,"Reel De La Broue"
 13475,Caras,Crarae
 13476,"Lanachree And Megrum","Lamachree And Megrum"
+13477,"42 Beech Ave","42 Beech Avenue"
 13479,"Miss E Lyall","Miss Lyall"
 13479,"Miss Lyall's","Miss Lyall"
 13481,"Pull Down The Blinds","Pull Down The Blind"
@@ -24566,6 +24580,7 @@ tune_id,alias,name
 14050,"French Polca, The","Y Polca Ffrengig"
 14050,"French, The","Y Polca Ffrengig"
 14050,"Y Polca Ffrangeg","Y Polca Ffrengig"
+14051,"She Didn't Dance And Dance","Didn't She Dance And Dance"
 14052,"Muñeira Carcarosa","Muniera Carcarosa"
 14100,"Kinnycally Klansmen, The","Kinnycally Klansmen"
 14103,"Huntingtone Castle","Huntington Castle"
@@ -25368,6 +25383,8 @@ tune_id,alias,name
 16354,"Pirate, The",Pirate's
 16362,"Galway Girl","Minute 5"
 16364,"Fáilte Go Sgalpaigh","Welcome To Scalpay"
+16370,"Streams Of Pol-A-Phooka, The","Gan Ainm"
+16370,"Streams Of Poulaphouca","Gan Ainm"
 16371,Innes's,"Charmer, The"
 16373,"Thro' The Lang Muir","Gloomy December"
 16376,"La Tuque Rouge","Reel Des Habitants"
@@ -26294,9 +26311,9 @@ tune_id,alias,name
 19547,"Festus Burke","Sir Festus Burke"
 19548,"Mrs Joyscream","Mrs. Joyscream"
 19552,"Miss Emily","Kiss Me Sweetheart"
-19563,"Star Gazer","Star Gazers, The"
-19563,Stargazer,"Star Gazers, The"
-19563,"Stargazers, The","Star Gazers, The"
+19563,"Star Gazer","Stargazers, The"
+19563,"Star Gazers, The","Stargazers, The"
+19563,Stargazer,"Stargazers, The"
 19569,"Malarky, The",Malarky
 19570,"Trip To Sproughton, The","Trip To Sproughton"
 19576,"Scansen, Skansen Group",Skansen's
