@@ -7036,6 +7036,7 @@ tune_id,alias,name
 1307,"German, The","Lucy Farr's"
 1307,"Italian Schottische","Lucy Farr's"
 1307,"Italian Schottische, The","Lucy Farr's"
+1307,"Kilnamona, The","Lucy Farr's"
 1307,"Lucy Farr's","Lucy Farr's"
 1307,"Lucy Farr's Fling","Lucy Farr's"
 1307,"Maltese Schottische","Lucy Farr's"
@@ -8363,7 +8364,6 @@ tune_id,alias,name
 1636,"Am Comhra Donn","An Comhra Donn"
 1636,"An Comhra Don","An Comhra Donn"
 1636,"An Comhra Na DTonn","An Comhra Donn"
-1636,Andy's,"An Comhra Donn"
 1636,"Brown Box, The","An Comhra Donn"
 1636,"Brown Chest, The","An Comhra Donn"
 1636,"Brown Cover, The","An Comhra Donn"
@@ -10187,11 +10187,11 @@ tune_id,alias,name
 2244,"Berehaven, The","Finbarr Dwyer's"
 2245,"Tom Edwards","Twm Edwards"
 2245,"Tom Jones","Twm Edwards"
-2248,"Fair Haired Boy","Fairhaired Boy, The"
-2248,"Fair Haired Boy, The","Fairhaired Boy, The"
-2248,"Fair-Haired Boy, The","Fairhaired Boy, The"
-2248,"Joyful Hour, The","Fairhaired Boy, The"
-2248,"Micho Russell's","Fairhaired Boy, The"
+2248,"Fair Haired Boy","Micho Russell's"
+2248,"Fair Haired Boy, The","Micho Russell's"
+2248,"Fair-Haired Boy, The","Micho Russell's"
+2248,"Joyful Hour, The","Micho Russell's"
+2248,"Micho Russell's","Micho Russell's"
 2249,"Gilbert Clancy's","Sean Reid's"
 2249,"Gilibeart Mhac Fhlannchadha","Sean Reid's"
 2249,"Seán Reid's Fancy","Sean Reid's"
@@ -11210,6 +11210,7 @@ tune_id,alias,name
 2629,"Flora MacDonald's","Flora Macdonald"
 2629,McDonald's,"Flora Macdonald"
 2629,"Miss Flora MacDonald's","Flora Macdonald"
+2629,"Thearlaich! Nan Tigeadh Tu","Flora Macdonald"
 2630,"An Bóthar Nua","New Road, The"
 2630,"Roland's College Grove","New Road, The"
 2632,"Bad Luck To This Marching","Richard Brennan's"
@@ -11300,6 +11301,7 @@ tune_id,alias,name
 2669,Begley's,"Many A Wild Night"
 2669,"Many's A Wild Night","Many A Wild Night"
 2669,"Pa Keane's","Many A Wild Night"
+2671,"Pondering, The",Pondering
 2677,"House Of Hamil, The","House Of Hamill, The"
 2677,"House Of Hammil, The","House Of Hamill, The"
 2677,"House Of Hammill, The","House Of Hamill, The"
@@ -12800,6 +12802,7 @@ tune_id,alias,name
 3320,"Dublin Lads, The","Hold The Reins"
 3320,"Hould The Reins","Hold The Reins"
 3320,Thornton's,"Hold The Reins"
+3320,"Three Drops Of Brandy, The","Hold The Reins"
 3321,"Andrew Davey's","Joe Derrane's"
 3321,Derraine's,"Joe Derrane's"
 3321,Derrane's,"Joe Derrane's"
@@ -13203,6 +13206,7 @@ tune_id,alias,name
 3531,"Ballad Of Fred And Wilma, The","Sligo Creek"
 3531,Sam's,"Sligo Creek"
 3531,"Sam's Reel #1","Sligo Creek"
+3531,Sams,"Sligo Creek"
 3532,"Dancing Master, The","Aggie White's"
 3532,"Sean Ryan's","Aggie White's"
 3532,"Swan, The","Aggie White's"
@@ -13740,6 +13744,7 @@ tune_id,alias,name
 3828,"Clumsy Lover","Spicy, The"
 3829,Abhanbláth,Bowna
 3829,"Annablaha, The",Bowna
+3829,"Barna, The",Bowna
 3829,"Bowna, The",Bowna
 3829,"Bridgie The Weaver",Bowna
 3829,"Bridgie The Weaver's",Bowna
@@ -14724,6 +14729,7 @@ tune_id,alias,name
 4524,"Dowballs Milked It","Dowser's Favorite"
 4524,"Dowser's Favourite","Dowser's Favorite"
 4524,"Four Knocks, The","Dowser's Favorite"
+4525,"Best Of Both Parts, The","Ceilier, The"
 4531,"Lavery's No. 2",Mulhare's
 4531,"Martin Mulhaire's",Mulhare's
 4531,"Martin Mulhaire's #9",Mulhare's
@@ -16726,8 +16732,6 @@ tune_id,alias,name
 6009,"Pibroch Of Donuil Dubh, The","Pibroch Of Donald Dhu"
 6010,"Old Fashioned Habit","Last Night's Joy"
 6010,"Old Fashioned Habit, The","Last Night's Joy"
-6013,"Sam's Reel #1",Sam's
-6013,Sams,Sam's
 6014,"Seltan D'Uvieu","Salton D'Uvieu"
 6015,"As I Looked East And As I Looked West","I Looked East And I Looked West"
 6015,"As I Looked East And I Looked West","I Looked East And I Looked West"
@@ -21969,6 +21973,7 @@ tune_id,alias,name
 10298,"Brig Of Perth, The","Brig O' Perth, The"
 10301,"Liz Carroll's Slip","For The Love Of Music"
 10302,"Wine Shower, The","Wine Shower"
+10303,"Absinthe Makes The Heart Grow Fonder","Absynthe Makes The Heart Grow Fonder"
 10303,Absynthe,"Absynthe Makes The Heart Grow Fonder"
 10304,"Beatrice Hill's","Beatrice Hill's Three Handed"
 10304,"Beatrice Hill's 3-Hand","Beatrice Hill's Three Handed"
@@ -25325,6 +25330,7 @@ tune_id,alias,name
 16028,"7x8 Alexis","Newyorkers, The"
 16029,"7x8 Alexis D","Happy Ruinous House, The"
 16030,"5x8 Nito","Flying To Birmingham"
+16070,Beoga,"Exploding Bow, The"
 16077,"Clog De Parizeau","Clog De Pariseau"
 16077,"Clog Parizeau","Clog De Pariseau"
 16082,"La Ronde Des Voyageurs","Le Ronde Des Voyageurs"
@@ -26080,8 +26086,8 @@ tune_id,alias,name
 18699,Gollán,"Gullane, The"
 18699,"Gollán, The","Gullane, The"
 18699,"Goulaine, The","Gullane, The"
-18700,"Bonard, The","Bawnard, The"
-18700,"Clifford Slide #3","Bawnard, The"
+18700,"Bonard, The","Bonard, The"
+18700,"Clifford Slide #3","Bonard, The"
 18707,"Braes Of Mar, The","Braes Of Mar"
 18712,"Agnes Campbell","Forbes Morrison"
 18713,"Drummer, The","Limerick House"
@@ -26354,3 +26360,4 @@ tune_id,alias,name
 19723,"Mrs. Nicol's Fancy","Port Na Fainne"
 19723,"Wedding Ring, The","Port Na Fainne"
 19726,"Barricade, The","Reel De La Barricade"
+19771,"Old Rafferty's Apples","Old Rafferty's Apple"
