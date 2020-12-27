@@ -565,6 +565,7 @@ tune_id,alias,name
 76,"Mummers', The","My Darling Asleep"
 76,"My Darling's A Sheep","My Darling Asleep"
 76,"My Darling's Asleep","My Darling Asleep"
+76,Weverdans,"My Darling Asleep"
 77,"Dandy Apron, The","My Love Is In America"
 77,"Jenny Hind's","My Love Is In America"
 77,"My Love Is In Amerikay","My Love Is In America"
@@ -2573,7 +2574,6 @@ tune_id,alias,name
 438,"Mason's Men, The","Doon, The"
 438,"Ríl An Dúin","Doon, The"
 439,"Ferret, The","Andy Renwick's Ferret"
-440,"Christmas Eve","Christmas Eve"
 440,"Christmas Eve, The","Christmas Eve"
 440,"Christmas, The","Christmas Eve"
 440,"Oiche Nollag","Christmas Eve"
@@ -2951,9 +2951,9 @@ tune_id,alias,name
 494,"Funny, The","Crossing The Shannon"
 496,"Crane's Leg, The",Lafferty's
 496,"Girl I Left Behind, The",Lafferty's
+496,"Glen Of Aherlow, The",Lafferty's
 496,"Glenn Of Aherlow, The",Lafferty's
 496,"Glens Of Aherlow, The",Lafferty's
-496,Lafferty's,Lafferty's
 496,"Lafferty's Favourite",Lafferty's
 496,"Maid I Never Forgot, The",Lafferty's
 496,"Mary's Favourite",Lafferty's
@@ -5082,6 +5082,7 @@ tune_id,alias,name
 902,"Casey At The Party","Mama's Pet"
 902,"Mamma's Pet","Mama's Pet"
 902,"Mammy's Pet","Mama's Pet"
+902,"Paddy's Pet","Mama's Pet"
 902,"Peata Mamai","Mama's Pet"
 902,"Timothy Downing","Mama's Pet"
 904,"Upperchurch #1, The","Upperchurch, The"
@@ -11588,6 +11589,7 @@ tune_id,alias,name
 2881,Devanny,"Devanny's Goat"
 2881,"Gabhar An Dubhanaigh","Devanny's Goat"
 2886,"Northumbrian, The",Catalina
+2888,"A Fallaing Ċoṁ Glas","Her Mantle So Green"
 2888,"Mantle So Green, The","Her Mantle So Green"
 2889,Characters,Character's
 2889,Characters',Character's
@@ -21848,9 +21850,9 @@ tune_id,alias,name
 10444,"Wha Wouldna Fecht For Charlie","Heilan' Donald Kissed Kitty"
 10444,"What Wad'na Fect For Charlie?","Heilan' Donald Kissed Kitty"
 10444,"Will You Go And Marry Ketty","Heilan' Donald Kissed Kitty"
-10445,"Difyrrwch Gwyr Dufi","Delight Of The Men Of Dovey, The"
-10445,"Difyrrwch Gwyr Dyfi","Delight Of The Men Of Dovey, The"
-10445,Ymdeithgan,"Delight Of The Men Of Dovey, The"
+10445,"Caer Odo","Difyrrwch Gwyr Dyfi"
+10445,"Difyrrwch Gwyr Dyfi","Difyrrwch Gwyr Dyfi"
+10445,Ymdeithgan,"Difyrrwch Gwyr Dyfi"
 10446,Zycanthos,"Zakynthos, The"
 10447,"Amhran Na Bealtaine","Thugamar Fein An Samhradh Linn"
 10447,"Eibhlín Gheal Chiúin","Thugamar Fein An Samhradh Linn"
@@ -23908,6 +23910,7 @@ tune_id,alias,name
 13373,"An Gille Brighde","Oystercatcher, The"
 13373,"Oyster Catcher, The","Oystercatcher, The"
 13375,"Canadian No. 2, The","Canadian, The"
+13375,"Colonel McBain","Canadian, The"
 13376,"Finbarr Dwyer's","Joe O'Malley's Favourite"
 13378,"Kingdom Coming","Year Of Jubilo"
 13385,"Balancy Straw","Balance The Straw"
@@ -25978,6 +25981,7 @@ tune_id,alias,name
 19292,"Hotel California","Eagles, The"
 19295,"Return To The Stewartry, The","Return To The Stewartry"
 19298,"Babes In The Wood, The","Green Cottage, The"
+19298,"Din Tarrant's #2","Green Cottage, The"
 19298,"Green Cottage No. 3","Green Cottage, The"
 19303,"Seán's Tune","Sean's Tune"
 19305,"Birlin' In Brittany","Birlin In Brittany"
@@ -26101,6 +26105,7 @@ tune_id,alias,name
 19864,"Jer Mac's #5","Jer Mac's"
 19870,"Richard Dwyer's Fancy #2","Richard Dwyer's Fancy"
 19870,"Richard Dwyer's Fancy No.2","Richard Dwyer's Fancy"
+19872,"Ví Un Perru Correr","Saltón De Samartín"
 19907,"Primrose Lass, The","Primrose Girl, The"
 19909,"Bobby Treacey's Barn Dance","Bobby Treacey's"
 19911,"Mrs Garden Of Troup","Lady Gardener's Troop"
@@ -26146,3 +26151,4 @@ tune_id,alias,name
 20120,"Fish In The Pothole","Fish In A Pothole"
 20134,"Bon Voyage Monsieur Dumollet","Iontráil Na DTuismitheoirí"
 20134,"Entry Of The Parents","Iontráil Na DTuismitheoirí"
+20185,Thunderhead,"Breast Of St Marc, The"
