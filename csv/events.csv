@@ -1701,7 +1701,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1854,"Anna Massie And Mairearad Green","2010-03-10 20:00:00","2010-03-10 23:00:00","Pleasance Cabaret Bar","Pleasance Courtyard",Edinburgh,Lothian,Scotland,56.46298981,-4.22976780
 1868,"NYAH —7 - County Cavan Traditional Festival","2010-03-10 20:00:00","2010-03-17 00:00:00","The Farnham Arms Hotel","Main Street",Cavan,Cavan,Ireland,53.99045181,-7.35942078
 1879,"Eamonn Coyne And Friend(s)","2010-03-10 20:00:00","2010-03-10 23:00:00","Pleasance Cabaret Bar","Pleasance Courtyard",Edinburgh,Lothian,Scotland,56.46298981,-4.22976780
-1812,"Music Unites","2010-03-12 19:30:00","2010-03-12 22:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59566116,-5.91987085
+1812,"Music Unites","2010-03-12 19:30:00","2010-03-12 22:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59630203,-5.92081118
 1869,"NYAH A Showcase For The Traditional Arts","2010-03-12 20:00:00","2010-03-12 00:00:00","The Farnham Arms Hotel","Main Street",Cavan,Cavan,Ireland,53.99045181,-7.35942078
 1839,"Four bulla an a patty","2010-03-13 08:00:00","2010-03-14 11:00:00","Sydenham School","Darthmouth Road",Lewisham,London,England,51.43546295,-0.05603140
 1870,"Joe Burke and Ann Conroy","2010-03-13 20:00:00","2010-03-13 00:00:00","The Farnham Arms Hotel","Main Street",Cavan,Cavan,Ireland,53.99045181,-7.35942078
@@ -5271,7 +5271,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7812,"Irish Night—Row On for Brendan","2020-02-22 19:00:00","2020-02-22 19:00:00","Central Catholic High School","4720 Fifth Avenue",Pittsburgh,Pennsylvania,USA,40.44688416,-79.94580841
 7836,"Handed Down: “The Monks of the Screw, North Cork’s Finest” presented by Eóin Stan O Sullivan","2020-02-22 20:00:00","2020-02-22 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7854,"Michael McGoldrick, John Doyle, and John McCusker","2020-02-23 19:00:00","2020-02-23 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
-7819,"Gradam Ceoil 2020","2020-02-23 20:00:00","2020-02-23 20:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59566116,-5.91987085
+7819,"Gradam Ceoil 2020","2020-02-23 20:00:00","2020-02-23 20:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59630203,-5.92081118
 7816,Lúnasa,"2020-02-24 20:00:00","2020-02-24 20:00:00","The Ark","316 S. Main","Ann Arbor",Michigan,USA,42.27920914,-83.74900818
 7817,Lúnasa,"2020-02-26 00:00:00","2020-02-27 00:00:00","The Focal Point","2720 Sutton Blvd., Maplewood","St. Louis",Missouri,USA,38.61169815,-90.31974030
 7851,Réalta,"2020-02-27 20:00:00","2020-02-27 20:00:00","McAuliffe's Pub","3700 Meachem Rd.",Racine,Wisconsin,USA,42.68889999,-87.83697510
@@ -5513,10 +5513,14 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8035,"Fiddle Workshop (UK):Delicious Duets","2021-02-13 10:00:00","2021-02-13 22:45:00",,,,,,,
 8056,"Tune Supply Presents: Valentine's Day from Far Away","2021-02-14 18:00:00","2021-02-14 20:00:00",,,,,,,
 8053,"Matt and Shannon Heaton in Concert","2021-02-14 20:00:00","2021-02-14 21:30:00",,,,,,,
-8042,"Virtual Irish Fiddle Class!","2021-02-17 19:30:00","2021-03-31 20:30:00","Various Venues",,Portland,Oregon,USA,45.51784897,-122.65927124
+8064,"Arts in Action — Sharon Shannon","2021-02-17 13:00:00","2021-02-17 14:00:00",,,,,,,
+8042,"Virtual Irish Fiddle Class!","2021-02-17 19:30:00","2021-03-31 20:30:00",,,,,,,
 8045,"Fiddle Workshop (UK): Brilliant Bowing ","2021-02-17 19:45:00","2021-02-17 20:30:00",,,,,,,
+8061,"Laid Back Irish Session Tunes with Rowan Leslie","2021-02-17 20:30:00","2021-02-24 21:30:00",,,,,,,
+8060,"Norwich Slow Tune Session","2021-02-18 19:30:00","2021-02-18 19:30:00",,,,,,,
 8058,"Mary O’s Virtual Session #60: Colin Farrell and Matt Mancuso","2021-02-18 20:00:00","2021-02-18 21:30:00",,,,,,,
 8059,"Whelan Master Session 15: Caitlín Nic Gabhann and Ciarán Ó Maonaigh","2021-02-20 00:00:00","2021-02-20 00:00:00",,,,,,,
+8065,"Scoil Cheoil an Earraigh '21: Ceolchoirm an tSathairn","2021-02-20 20:00:00","2021-02-20 20:00:00",,,,,,,
 8046,"Steady Speed Session: English tunes with WiseWood Folk","2021-02-24 20:30:00","2021-02-24 21:30:00",,,,,,,
 8052,"The Wilderness Yet and Eimear McGeown & James Carty with Jonas Fromseier","2021-02-25 19:30:00","2021-02-25 19:30:00",,,,,,,
 8048,"Play it By Ear: Irish","2021-03-03 20:30:00","2021-03-03 21:30:00",,,,,,,
@@ -5524,4 +5528,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8054,"Abbots Cross Virtual Concert","2021-03-12 18:30:00","2021-03-12 18:30:00",,,,,,,
 8036,"Fiddle workshop (UK): Delicious Duets","2021-03-13 10:00:00","2021-03-13 10:45:00",,,,,,,
 8039,"Steady Speed St Patrick's Day Session","2021-03-17 20:30:00","2021-03-17 20:30:00",,,,,,,
-7852,"Andy Irvine and Paul Brady","2021-03-31 00:00:00","2021-03-31 00:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59566116,-5.91987085
+8062,"Scoil Gheimhridh Gaoth Dobhair","2021-04-01 00:00:00","2021-04-04 00:00:00",,,,,,,
+8063,"Perfectionnement au Uilleannpipe","2021-04-10 09:00:00","2021-04-10 17:00:00","Lise Diwan Karaez",,Carhaix,Bretagne,France,48.27182388,-3.55231166
+7852,"Andy Irvine and Paul Brady","2021-10-25 00:00:00","2021-10-25 00:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59630203,-5.92081118
