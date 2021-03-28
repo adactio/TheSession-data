@@ -7159,6 +7159,7 @@ tune_id,alias,name
 1367,"Jer An Rigeara","Ger The Rigger"
 1367,"Jer The Rigger","Ger The Rigger"
 1367,"Jet The Rigger","Ger The Rigger"
+1367,Thadelo's,"Ger The Rigger"
 1367,"Yer The Rigger","Ger The Rigger"
 1369,"An Gallóglach","Gallowglass, The"
 1369,Caherconnell,"Gallowglass, The"
@@ -7382,6 +7383,7 @@ tune_id,alias,name
 1426,"Breeches Buttoned On, The",Dálaigh's
 1426,"Britches Buttoned On, The",Dálaigh's
 1426,"Britches Full Of Stitches",Dálaigh's
+1426,"Captain Moonlight's Army",Dálaigh's
 1426,"Corcomroe Abbey",Dálaigh's
 1426,Dalaigh's,Dálaigh's
 1426,"Dálaigh's #4",Dálaigh's
@@ -7829,6 +7831,7 @@ tune_id,alias,name
 1531,"Jim Keeffe's","Jim Keefe's"
 1531,"Jim Keeffe's #1","Jim Keefe's"
 1531,"Jim Keeffe's No. 1","Jim Keefe's"
+1531,"Johnny Mickey's","Jim Keefe's"
 1531,Kanturk,"Jim Keefe's"
 1531,"Moyglass Fair, The","Jim Keefe's"
 1534,"Dark Girl","Dark Girl Dressed In Blue"
@@ -9846,7 +9849,8 @@ tune_id,alias,name
 2176,Breton,"Breton Wedding, The"
 2176,"Siege Of Guingamp","Breton Wedding, The"
 2177,"Fairy Fort, The","Around The Fairy Fort"
-2179,"Hexham Quadrille, The","I'll Get Wedded In My Auld Claes"
+2179,"Hexham Quadrille","I'll Get Wedded In My Auld Claes"
+2179,"I'll Get Wedded In My Auld Clothes","I'll Get Wedded In My Auld Claes"
 2180,"Funny Tailor, The","Drunken Gauger, The"
 2181,McKeon's,McKeown's
 2181,Umpi-Umpi,McKeown's
@@ -12459,6 +12463,7 @@ tune_id,alias,name
 3250,"Cornphíopa Doire","Derry, The"
 3250,Londonderry,"Derry, The"
 3250,"Londonderry, The","Derry, The"
+3250,"Quadrille De L'oncle Ti-Bé","Derry, The"
 3252,Moran's,"Leitrim Fancy, The"
 3252,"Moran's Fancy","Leitrim Fancy, The"
 3252,"Rogha Uí Ghallchobhair","Leitrim Fancy, The"
@@ -13831,7 +13836,6 @@ tune_id,alias,name
 4035,"Tom Fleming's","Heights Of Muingvuara, The"
 4035,"Tom Flemming's","Heights Of Muingvuara, The"
 4035,"Trip To London, The","Heights Of Muingvuara, The"
-4037,"Rory Gentle","Roly Gentle"
 4041,Duffy's,"Little House Around The Corner, The"
 4041,"House In The Glen, The","Little House Around The Corner, The"
 4041,"Little House In The Glen, The","Little House Around The Corner, The"
@@ -14049,7 +14053,12 @@ tune_id,alias,name
 4180,"Ducks And The Oats, The","Tenpenny Bit, The"
 4180,"Joe Conway's","Tenpenny Bit, The"
 4182,"An Gasur Mór",Dwyer's
+4182,"An Gasur Mor",Dwyer's
+4182,Dwyer's,Dwyer's
+4182,"O'Keefe's No 1",Dwyer's
 4182,Prime's,Dwyer's
+4182,Prime's,Dwyer's
+4182,"Waterford, The",Dwyer's
 4182,"Waterford, The",Dwyer's
 4183,"Ladies Choice","Ladies' 2nd Choice"
 4183,"Ladies' Choice","Ladies' 2nd Choice"
@@ -15341,11 +15350,6 @@ tune_id,alias,name
 5119,"Salmon Tails Up The Water","Banks Of Inverness, The"
 5119,"Siege Of Ennis, The","Banks Of Inverness, The"
 5119,"Walls Of Limerick, The","Banks Of Inverness, The"
-5125,"An Gasur Mor",O'Dwyer's
-5125,Dwyer's,O'Dwyer's
-5125,"O'Keefe's No 1",O'Dwyer's
-5125,Prime's,O'Dwyer's
-5125,"Waterford, The",O'Dwyer's
 5126,"Padraig O'Keeffe's","Knocknaboul, The"
 5130,"Gabe Arsenault's","Gabe Arsenault"
 5131,"Flowers Of Antrim, The",McDermott's
@@ -25312,6 +25316,7 @@ tune_id,alias,name
 16583,"Gallic Christmas Song","Nous Voici Dans La Ville"
 16585,"Old King's, The","Old King's"
 16585,"Old's King","Old King's"
+16593,"Corriechoillie's Welcome To The 49th Northern Meeting","Corriechoillie's Welcome To The Northern Meeting"
 16596,"Seán Ryan's","Sandhills, The"
 16599,"Il Est Né Le Divin Enfant","Il Est Né, Le Divin Enfant"
 16600,Stella's,Stella's
@@ -25394,9 +25399,9 @@ tune_id,alias,name
 16886,"Bally Kin Leer",Ballykinleer
 16886,Ballykinler,Ballykinleer
 16895,"Creator Of The Stars Of Night","Conditor Alme Siderum"
-16898,"Oh What A Peaceful Life Is This","Que Descansada Vida"
-16898,"Que Descansada Vida","Que Descansada Vida"
-16898,"Sephardic Song","Que Descansada Vida"
+16898,"Oh What A Peaceful Life Is This","Sephardic Song"
+16898,"Que Descansada Vida","Sephardic Song"
+16898,"Sephardic Song","Sephardic Song"
 16902,"An Siochán Sneachta","An Siocán Sneachta"
 16902,"Fieldfare, The","An Siocán Sneachta"
 16902,"Siocán Sneachta","An Siocán Sneachta"
@@ -25909,6 +25914,7 @@ tune_id,alias,name
 18581,Barking,"Kuortaneen Polkka"
 18581,"Barking, The","Kuortaneen Polkka"
 18581,Kuortaneen,"Kuortaneen Polkka"
+18588,Strathlorne,"Strathlorne Valley"
 18591,"Lucozade #1, The","Lucozade, The"
 18591,"Lucozade No. 1, The","Lucozade, The"
 18596,"First Ronnie, The","Ronnie Power's"
@@ -26406,6 +26412,11 @@ tune_id,alias,name
 20575,"Come, Till The Bottle-House","Come To The Bottle House"
 20577,"Sun & Wind","Sun And Wind"
 20584,"Kilkenny Air, The","Kilkenny Ayre, The"
+20584,"Kilkenny, The","Kilkenny Ayre, The"
 20584,"Louey Hesterman's","Kilkenny Ayre, The"
 20592,"Coillte An Fhoghmhair","Autumn Woods"
 20598,"Cois Leasa","Beside A Rath"
+20612,"An Bean Ghlantacháin","Charlady, The"
+20615,"Finbarr Dwyer's","Seamus Thompson's"
+20615,"Seamus Thompson's #1","Seamus Thompson's"
+20618,"Cridhe Ur Annag","Annie's New Heart"
