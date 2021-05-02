@@ -918,7 +918,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1042,"Stanstead Community Gardens Opening Event","2008-07-27 14:00:00","2008-07-27 17:00:00","Stanstead Community Gardens","Stanstead Road","Forest Hill",London,England,51.44207764,-0.03950220
 1040,"Noel Hill House Concert and Session","2008-07-27 19:30:00","2008-07-27 11:30:00","House Concert",,"Villa Hills",Kentucky,USA,39.06339264,-84.59300232
 827,"Scoil Acla Traditional Music Summer School","2008-07-28 00:00:00","2008-08-03 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.93051529,-9.92554379
-700,"Lark Camp","2008-08-01 00:00:00","2008-08-09 00:00:00","Mendocino Woodlands",,Mendocino,California,USA,39.30767441,-123.79946136
+700,"Lark Camp","2008-08-01 00:00:00","2008-08-09 00:00:00","Mendocino Woodlands","39350 Little Lake Rd",Mendocino,California,USA,39.30948257,-123.75035095
 1049,"Tradition DL","2008-08-01 00:00:00","2008-08-03 00:00:00",Gastropub,"6-7 Marine Road","Dún Laoghaire",Dublin,Ireland,53.29369354,-6.13477039
 1002,"Dublin Irish Festival","2008-08-01 11:00:00","2008-08-03 23:00:00","Coffman Park","6555 Shier Rings Rd",Dublin,Ohio,USA,40.09362030,-83.16799927
 1046,"Ceol Na GConallach - The Donegal Sessions","2008-08-02 20:00:00","2008-08-02 22:30:00","Kilcar Parish Hall","Main St.",Kilcar,Donegal,Ireland,54.63237000,-8.59368038
@@ -1469,7 +1469,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1530,"Angelina Carberry And Martin Quinn","2009-07-26 19:00:00","2009-07-26 22:00:00","Stony Run Friends Meeting House","5116 N. Charles Street",Baltimore,Maryland,USA,39.35657120,-76.62480927
 1584,"Scoil Acla Summer School","2009-07-27 00:00:00","2009-08-02 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.93051529,-9.92554379
 1622,"Kieran Kissane, Edel Vaughan, Brian Mooney & Liam Flanagan","2009-07-29 13:00:00","2009-07-29 14:00:00","Clare Museum",,Ennis,Clare,Ireland,52.84518433,-8.98152637
-1286,"Lark Camp World Music & Dance Camp","2009-07-31 00:00:00","2009-08-08 00:00:00","Mendocino Woodlands",,Mendocino,California,USA,39.30767441,-123.79946136
+1286,"Lark Camp World Music & Dance Camp","2009-07-31 00:00:00","2009-08-08 00:00:00","Mendocino Woodlands","39350 Little Lake Rd",Mendocino,California,USA,39.30948257,-123.75035095
 1394,"The James Morrison Festival","2009-07-31 00:00:00","2009-08-02 00:00:00","Various Venues",,Riverstown,Sligo,Ireland,54.13043976,-8.39525032
 1623,"Eamonn Cotter, Conor McCarthy, Oisín MacDiarmada and Padraic O'Reilly","2009-07-31 13:00:00","2009-07-31 14:00:00","Kilfinaghty Public Library","Church Street",Sixmilebridge,Clare,Ireland,52.74237823,-8.77407169
 1558,"Fiddle Weekend With Stewart Hardy","2009-07-31 16:00:00","2009-08-02 19:00:00",JSARTS,"31 Sidney Road",Staines,Middlesex,England,51.43531036,-0.50157231
@@ -2611,7 +2611,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2768,"Tunes In The Church Galway City","2012-07-16 20:00:00","2012-07-16 21:30:00","St. Nicholas' Collegiate Church","Shop Street",Galway,Galway,Ireland,53.27267075,-9.05346203
 2809,"A History Of Irish Folk Music In Chicago","2012-07-17 19:00:00","2012-07-17 21:00:00","The Hotel Weatherford","23 N. Leroux",Flagstaff,Arizona,USA,35.19841385,-111.64910126
 2769,"Tunes In The Church Galway City","2012-07-18 20:00:00","2012-07-18 21:30:00","St. Nicholas' Collegiate Church","Shop Street",Galway,Galway,Ireland,53.27267075,-9.05346203
-2751,"Mendocino Music Festival Presents Solas","2012-07-19 08:00:00","2012-07-19 10:00:00","Mendocino Headlands State Park","45100 Main St",Mendocino,California,USA,39.30479431,-123.80152130
+2751,"Mendocino Music Festival Presents Solas","2012-07-19 08:00:00","2012-07-19 10:00:00","Mendocino Headlands State Park","45100 Main St",Mendocino,California,USA,39.30479813,-123.80154419
 2810,"Brian Miller & Randy Gosa: Irish Music From The Lumber Camps","2012-07-19 19:00:00","2012-07-19 21:00:00","Riordan Mansion Visitor Center","409 W. Riordan Rd.",Flagstaff,Arizona,USA,35.18740463,-111.65950012
 2798,"Acoustic Music Session","2012-07-19 20:30:00","2012-07-19 23:00:00","Berry Brow Liberal Club","6 Parkgate, Berry Brow",Huddersfield,Yorkshire,England,53.61946487,-1.79522467
 2818,"Music At The Marina","2012-07-20 17:00:00","2012-07-20 20:00:00","McKinley Marina Overlook Pavilion","1600 North Lincoln Memorial Drive",Milwaukee,Wisconsin,USA,43.78443909,-88.78786469
@@ -3022,7 +3022,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3028,"Michelle Mulcahy - Concertina Master Class at The Steeple Sessions","2013-07-25 12:00:00","2013-07-25 16:00:00","Unitarian Church","112 St. Stephen's Green West",Dublin,Dublin,Ireland,53.33774185,-6.26249695
 3029,"Mick Mulcahy - Button Accordion Master Class at The Steeple Sessions","2013-07-25 12:00:00","2013-07-25 16:00:00","Unitarian Church","112 St. Stephen's Green West",Dublin,Dublin,Ireland,53.33774185,-6.26249695
 2997,"Mick and Michelle Mulcahy in Concert at The Steeple Sessions","2013-07-25 20:00:00","2013-07-25 21:30:00","Unitarian Church","112 St. Stephen's Green West",Dublin,Dublin,Ireland,53.33774185,-6.26249695
-3163,"Mendocino Music Festival Presents Cherish The Ladies","2013-07-25 20:00:00","2013-07-25 20:00:00","Mendocino Headlands State Park","45100 Main St",Mendocino,California,USA,39.30479431,-123.80152130
+3163,"Mendocino Music Festival Presents Cherish The Ladies","2013-07-25 20:00:00","2013-07-25 20:00:00","Mendocino Headlands State Park","45100 Main St",Mendocino,California,USA,39.30479813,-123.80154419
 3300,"Great American Irish Festival","2013-07-26 00:00:00","2013-07-28 00:00:00","Herkimer Fairgrounds",,Herkimer,"New York",USA,43.02562714,-74.98599243
 3251,"Micheal Ó Catháin at Tunes in the Church","2013-07-26 20:00:00","2013-07-26 21:30:00","St. Nicholas' Collegiate Church","Shop Street",Galway,Galway,Ireland,53.27267075,-9.05346203
 3269,"GROG traditional music group in Concert","2013-07-26 20:30:00","2013-07-26 23:00:00","St. John's Theatre","The Square",Listowel,Kerry,Ireland,52.44026184,-9.48394775
@@ -3360,7 +3360,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3608,"Catskill Irish Arts Week","2014-07-13 00:00:00","2014-07-19 00:00:00","Various Venues",,"East Durham","New York",USA,42.36819077,-74.08535767
 3610,"Grand Canyon Celtic Arts Academy","2014-07-14 09:30:00","2014-07-18 16:30:00","Flagstaff Arts And Leadership Academy","3401 N. Fort Valley Rd.",Flagstaff,Arizona,USA,35.23807144,-111.66876984
 3628,"Fairylands Celtic Festival","2014-07-16 21:00:00","2014-07-19 00:00:00","Via Roma, 1",,Guidonia,Lazio,Italy,41.99732590,12.72806263
-3533,"April Verch Band","2014-07-17 00:00:00","2014-07-17 00:00:00","Mendocino Headlands State Park","45100 Main St",Mendocino,California,USA,39.30479431,-123.80152130
+3533,"April Verch Band","2014-07-17 00:00:00","2014-07-17 00:00:00","Mendocino Headlands State Park","45100 Main St",Mendocino,California,USA,39.30479813,-123.80154419
 3609,"Summer Celtic Concerts","2014-07-17 19:30:00","2014-07-18 22:00:00","Shepherd of the Hills Lutheran Church","1601 N. San Francisco St.",Flagstaff,Arizona,USA,35.21357346,-111.64298248
 3592,"Cleveland Irish Cultural Festival - Temple Bar & Museum Sessions","2014-07-18 17:00:00","2014-07-20 23:00:00","Cuyahoga County Fairgrounds","Bagley Road",Cleveland,Ohio,USA,41.37155151,-81.80957031
 3546,Altan,"2014-07-19 20:00:00","2014-07-19 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33452988,-6.25823164
@@ -5609,10 +5609,18 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8163,"Liam O'Connor in concert with Paddy McEvoy","2021-04-23 20:00:00","2021-04-23 20:00:00",,,,,,,
 8126,"Siobhan Peoples and Murty Ryan (Whelan Master Session)","2021-04-24 00:00:00","2021-04-24 00:00:00",,,,,,,
 8165,"Celtic Music Session","2021-04-28 19:00:00","2021-04-28 21:00:00","Moira Bowls Club","1 Benalla Street",Benalla,Victoria,Australia,-36.54784393,145.97967529
+8169,"Norwich Slow Tune Session","2021-04-29 19:30:00","2021-04-29 19:30:00",,,,,,,
 8142,"Steady Speed Session: English tunes with WiseWood Folk (UK)","2021-04-29 20:30:00","2021-04-29 21:30:00",,,,,,,
 8129,"Nuadán at The Lock Inn","2021-04-30 19:30:00","2021-04-30 19:30:00",,,,,,,
 8127,"Martin Hayes (Whelan Master Session)","2021-05-01 00:00:00","2021-05-01 00:00:00",,,,,,,
+8170,"46th Girvan Folk Festival","2021-05-01 00:00:00","2021-05-02 00:00:00",,,,,,,
+8171,"Féile Chois Cuain","2021-05-01 00:00:00","2021-05-02 00:00:00",,,,,,,
+8179,"Ceolchoirm na Bealtaine — Éigse Ar Líne 2021","2021-05-01 20:00:00","2021-05-01 20:00:00",,,,,,,
+8177,"New York City Irish Dance Festival 2021","2021-05-02 14:00:00","2021-05-02 14:00:00",,,,,,,
+8178,"Piper Sunday with Chris McMullan","2021-05-02 19:00:00","2021-05-02 20:30:00",,,,,,,
 8140,"International Bones Competition","2021-05-03 20:00:00","2021-05-03 23:00:00",,,,,,,
+8173,"Drawing From The Well: Meet The Artists—Daoirí Farrell","2021-05-05 14:00:00","2021-05-05 15:00:00",,,,,,,
+8180,"Séamus Ennis at Two Degrees of Separation","2021-05-05 20:30:00","2021-05-05 20:30:00",,,,,,,
 8145,"Folk Nights at glór with Steve Cooney and Dermot Byrne","2021-05-06 20:00:00","2021-05-06 21:00:00",,,,,,,
 8167,"Steady Speed  Session: Scottish and Scandy tunes","2021-05-12 20:30:00","2021-05-12 20:30:00",,,,,,,
 8131,"The Boruma Trio at the Lock Inn","2021-05-14 19:30:00","2021-05-14 19:30:00",,,,,,,
@@ -5620,12 +5628,16 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8117,"May Mandolin Festival concert with Marla Fibish, Baron Collins-Hill, and David Surette","2021-05-15 19:30:00","2021-05-15 19:30:00",,,,,,,
 8113,"World Fiddle Day Scartaglin 2021 Online Sliabh Luachra Special","2021-05-22 19:00:00","2021-05-22 19:00:00",,,,,,,
 8155,"Tunes and Tales of Old East Galway","2021-05-23 14:00:00","2021-05-23 14:00:00","Summit Public Library","75 Maple Street",Summit,"New Jersey",USA,40.71520233,-74.36030579
+8172,"Na Píobairí Uilleann Annual Tionól 2021","2021-05-28 00:00:00","2021-05-29 00:00:00",,,,,,,
 8156,"Sydney Fleadh","2021-05-28 19:00:00","2021-05-30 00:00:00","The Gaelic Club","64 Devonshire St, Surry Hills",Sydney,"New South Wales",Australia,-33.88583374,151.20755005
 8132,"Saileog Ní Cheannabháin at the Lock Inn","2021-05-28 19:30:00","2021-05-28 19:30:00",,,,,,,
 8118,"Gulf Coast Cruinniú  2021","2021-06-18 00:00:00","2021-06-20 00:00:00",,,,,,,
 8078,"Perfectionnement au uilleannpipes","2021-06-19 09:00:00","2021-06-19 17:00:00","Lise Diwan Karaez",Keramphuil,Carhaix,Bretagne,France,48.27369690,-3.55272794
+8181,"Seosamh MacGabhann Summer School: A Week of “Facebook Lives”","2021-06-28 00:00:00","2021-07-02 00:00:00",,,,,,,
 8151,"Scoil Samhraidh Willie Clancy 2021","2021-07-04 00:00:00","2021-07-10 00:00:00",,,,,,,
+8168,"Cancelled: Lark Camp","2021-07-30 00:00:00","2021-08-07 00:00:00","Mendocino Woodlands","39350 Little Lake Rd",Mendocino,California,USA,39.30948257,-123.75035095
 8116,"FleadhFest Sligo 2021","2021-08-01 00:00:00","2021-08-09 00:00:00","Various Venues",,Sligo,Sligo,Ireland,54.27465057,-8.47510624
 8161,"Nasc Folk and Traditional Music Festival","2021-08-28 13:00:00","2021-08-28 22:00:00","Marlay Park","Grange Road",Rathfarnham,Dublin,Ireland,53.27375031,-6.27469683
+8174,"Andy Irvine","2021-09-17 20:00:00","2021-09-17 23:00:00",Dolan's,"3-4 Dock Road","Limerick City",Limerick,Ireland,52.65883255,-8.63820648
 8079,"Perfectionnement au uilleannpipes","2021-09-25 09:00:00","2021-09-25 17:00:00","Lise Diwan Karaez",Keramphuil,Carhaix,Bretagne,France,48.27369690,-3.55272794
 7852,"Andy Irvine and Paul Brady","2021-10-25 00:00:00","2021-10-25 00:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59630203,-5.92081118
