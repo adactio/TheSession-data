@@ -3339,7 +3339,6 @@ tune_id,alias,name
 557,"Old Ruined Cottage, The","Ruined Old Cottage In The Glen, The"
 557,"Ruined Old Cottage, The","Ruined Old Cottage In The Glen, The"
 558,"Cottage In The Glen, The","Coen's Memories"
-558,"Cottage In The Grove","Coen's Memories"
 558,"Cottage In The Grove, The","Coen's Memories"
 558,"Crosses Of Annagh, The","Coen's Memories"
 558,"Jack Doyle's Favourite","Coen's Memories"
@@ -6610,7 +6609,6 @@ tune_id,alias,name
 1230,"Merrier Harriers, The","Merry Harriers, The"
 1230,"Merry Harrier, The","Merry Harriers, The"
 1230,"Merry Harrier's","Merry Harriers, The"
-1231,Belfast,"Fair-haired Lass, The"
 1231,"Ciaran Kelly's","Fair-haired Lass, The"
 1231,"Dark Haired Lass, The","Fair-haired Lass, The"
 1231,"Fair Haired Lass, The","Fair-haired Lass, The"
@@ -6862,12 +6860,13 @@ tune_id,alias,name
 1293,"Exile From Ireland","Exile Of Erin, The"
 1293,"Ireland In Exile","Exile Of Erin, The"
 1293,"Peace In Erin","Exile Of Erin, The"
-1294,"Across The Fence To The Neighbour's Wife","Across The Fence"
-1294,"Cross The Fence","Across The Fence"
-1294,"Crossing The Fence","Across The Fence"
-1294,"Jack Came Over The Fence","Across The Fence"
-1294,McGlinchey's,"Across The Fence"
-1294,McGlinchy's,"Across The Fence"
+1294,"Across The Fence",Dwyer's
+1294,"Across The Fence To The Neighbour's Wife",Dwyer's
+1294,"Cross The Fence",Dwyer's
+1294,"Crossing The Fence",Dwyer's
+1294,"Jack Came Over The Fence",Dwyer's
+1294,McGlinchey's,Dwyer's
+1294,McGlinchy's,Dwyer's
 1296,"Little Old Man","Old French, The"
 1296,"Little Old Man, The","Old French, The"
 1296,"Rambler's Hornpipe","Old French, The"
@@ -12979,6 +12978,7 @@ tune_id,alias,name
 3508,"Chancellor - Hornpipes, The","Father Dollard's"
 3508,"Cornphíopa An Athar Dollard","Father Dollard's"
 3508,Dollards,"Father Dollard's"
+3508,"Harlequin, The","Father Dollard's"
 3509,"Gealach An Fhómhair","John Roarty's"
 3510,"Fermoy Lasses","Piper's Glass, The"
 3511,"Trotting To The Larne","Trotting To Larne"
@@ -13230,6 +13230,7 @@ tune_id,alias,name
 3636,"Blacksmith's Daughter, The","Blacksmith's, The"
 3636,"Blacksmiths, The","Blacksmith's, The"
 3636,"Ril An Ghabha","Blacksmith's, The"
+3637,"Cat, The","Keel Row, The"
 3637,"Cat's Got The Measles","Keel Row, The"
 3637,"Cat's Got The Measles, The","Keel Row, The"
 3637,"Devil's Fling, The","Keel Row, The"
@@ -15293,6 +15294,7 @@ tune_id,alias,name
 5079,"Ceo An Mhala","Mist In The Morning"
 5079,"Ceol An Mala","Mist In The Morning"
 5079,"Ceolan Mala","Mist In The Morning"
+5079,"Dancing At The Crossroads","Mist In The Morning"
 5079,"Foggy Morning, The","Mist In The Morning"
 5079,"Misty Morning, The","Mist In The Morning"
 5079,"Morning Mist, The","Mist In The Morning"
@@ -20821,6 +20823,7 @@ tune_id,alias,name
 9023,"Jackson's Walk To Limerick","Humours Of Glynn, The"
 9023,"Snathaid An Phiobaire","Humours Of Glynn, The"
 9023,"Snathaid An Phiopaire","Humours Of Glynn, The"
+9026,"Garrykennedy Castle","Humours Of Garrykennedy, The"
 9027,"Old Hag, The","Old Hag, The"
 9028,"Lennon's Love To Blaner","Lennox's Love To Blantyre"
 9028,"Lennox Love To Blantyre","Lennox's Love To Blantyre"
@@ -22690,6 +22693,7 @@ tune_id,alias,name
 11617,"Rocking The Baby","Rocking The Cradle"
 11621,"Alena MacAskill","Alina MacAskill"
 11623,"MacGregor Of Huara","MacGregor Of Rora"
+11623,"MacGregor Of Roro","MacGregor Of Rora"
 11623,"MacGregor Of Ruara","MacGregor Of Rora"
 11623,"MacGregor Of Ruaro","MacGregor Of Rora"
 11623,"MacGregor's Search","MacGregor Of Rora"
@@ -25699,7 +25703,6 @@ tune_id,alias,name
 17659,"Viva El West Side","Dédicado à Joe"
 17662,"Da Foula","Da Shaalds O Foula"
 17662,"Da Foula Shaalds","Da Shaalds O Foula"
-17663,Kilravock's,Kilrack's
 17664,"Dancing Dragon, The","White Dragon, The"
 17668,"Rebels' March, The","Rebels, The"
 17673,"Trouble At T'workplace","Currie Dance"
@@ -26494,3 +26497,6 @@ tune_id,alias,name
 20732,"Difyrrwch Gwŷr Dyfi","Difyrrwch Gwŷr Y Bontnewydd"
 20734,"Tettegouche Number 1, The","Tettegouche, The"
 20735,"Tettegouche Number 2, The","Tettegouche, The"
+20763,"Brown Hair'd Youth, The","Oigfhear A Chuil Duinn"
+20763,"Oigfhear A Chulduinn","Oigfhear A Chuil Duinn"
+20763,"Young Man Of The Brown Hair","Oigfhear A Chuil Duinn"
