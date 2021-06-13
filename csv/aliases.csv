@@ -6074,13 +6074,13 @@ tune_id,alias,name
 1115,"Uisge Beatha Is Tu An Diabhal",Fireman's
 1115,"Whiskey You're The Devil",Fireman's
 1115,"Whiskey, The",Fireman's
+1116,"Anne Walshe's","Lady Of The House, The"
 1116,"Annie Walsh's","Lady Of The House, The"
 1116,"Cows Are A-Milking, The","Lady Of The House, The"
 1116,"Cows Are Milking, The","Lady Of The House, The"
 1116,"Lasses Keep Your Legs Together","Lady Of The House, The"
-1116,"Misstress Of The House","Lady Of The House, The"
 1116,"Mistress Of The House","Lady Of The House, The"
-1116,"Woman Of The House, The","Lady Of The House, The"
+1116,"Mistress Of The House, The","Lady Of The House, The"
 1117,"Belfast City","Spanish Lady"
 1117,"Dublin City","Spanish Lady"
 1117,"Galway City","Spanish Lady"
@@ -9684,6 +9684,7 @@ tune_id,alias,name
 2108,"99 March, The",Ninety-Nine
 2108,"Ninety-Nine March, The",Ninety-Nine
 2114,"I'd Rather Be Married Than Left Alone","I'd Rather Be Married Than Left"
+2114,"I'd Rather Be Married Than Living Alone","I'd Rather Be Married Than Left"
 2114,"La Native","I'd Rather Be Married Than Left"
 2115,"Charlie Lennon's #4","Charlie Lennon's"
 2115,"Charlie Lennon's No. 4","Charlie Lennon's"
@@ -10229,10 +10230,8 @@ tune_id,alias,name
 2290,"St Patrick's An Dro","St. Patrick's An Dro"
 2290,"St. Patrick's En Dro","St. Patrick's An Dro"
 2291,"Mickey Doherty's","Mickey Docherty's"
-2292,"Club Ceili","North Clare"
-2292,"Dinny Mescall's","North Clare"
-2292,"North Clare, The","North Clare"
-2292,"Old Kilfenora, The","North Clare"
+2292,"Dinny Mescall's","North Clare, The"
+2292,"Old Kilfenora, The","North Clare, The"
 2295,"Boring The Leather","Humours Of Ayle House, The"
 2295,"Come With Me Now","Humours Of Ayle House, The"
 2295,"Kilfinane, The","Humours Of Ayle House, The"
@@ -11478,6 +11477,7 @@ tune_id,alias,name
 2788,"Bill Hart's","Bill Harte's"
 2788,"Bill Hart's Favourite","Bill Harte's"
 2788,"Bill Harte's Favourite","Bill Harte's"
+2788,"Hoffter Gwilym","Bill Harte's"
 2788,"Jim Beehan's","Bill Harte's"
 2788,"Port Liam Uí Airt","Bill Harte's"
 2788,"Rookery, The","Bill Harte's"
@@ -11802,7 +11802,9 @@ tune_id,alias,name
 2965,"My Love Is Fair And Handsome","Coming Home From The Bog"
 2967,"Griffin From The Bridge","Coleman's Cross"
 2968,"High, The","An Port Ard"
-2970,"Whiskey Welcome Back Again","Welcome Whiskey Back Again"
+2970,"Welcome Whiskey Back Again","Welcome Whisky Back Again"
+2970,"Welcome Whisky Back Again","Welcome Whisky Back Again"
+2970,"Whiskey Welcome Back Again","Welcome Whisky Back Again"
 2972,"Memories Of Paddy LeBlanc March","Memories Of Paddy LeBlanc"
 2972,"Paddy LeBlanc's","Memories Of Paddy LeBlanc"
 2972,"Paddy LeBlanc's March","Memories Of Paddy LeBlanc"
@@ -15355,6 +15357,7 @@ tune_id,alias,name
 5105,"Willie's Highland Fling","Willie's Fling"
 5107,"Drocketty's March","Drocketty March, The"
 5107,"Drogheda March, The","Drocketty March, The"
+5108,"Bridal March From Unst","Bridal March From Unst"
 5108,"Bridal March From Unst, The","Bridal March From Unst"
 5108,"Da Unst Bridal March","Bridal March From Unst"
 5108,"Unst Bridal March","Bridal March From Unst"
@@ -21083,7 +21086,8 @@ tune_id,alias,name
 9365,"Calleach An Dudain","Old Woman Of The Milldust"
 9365,"It Is My Lame Leg That I Left Behind","Old Woman Of The Milldust"
 9365,"Lame Leg","Old Woman Of The Milldust"
-9365,"Old Woman Of The Milldust, The","Old Woman Of The Milldust"
+9365,"Old Maid Of The Milldust","Old Woman Of The Milldust"
+9365,"Old Wife Of The Milldust","Old Woman Of The Milldust"
 9365,Tripper's,"Old Woman Of The Milldust"
 9365,Trippers,"Old Woman Of The Milldust"
 9365,"Trippers, The","Old Woman Of The Milldust"
@@ -21240,7 +21244,8 @@ tune_id,alias,name
 9545,"Gown And Apron","An Gun's T-Apron"
 9545,"Gown And Apron, The","An Gun's T-Apron"
 9547,"Fr. John Angus Rankin's March","Father John Angus Rankin's"
-9549,"La Muineira Do Areal, Muñeira Do Areal","La Muneira Do Areal"
+9549,"La Muineira Do Areal","La Muneira Do Areal"
+9549,"Muñeira Do Areal","La Muneira Do Areal"
 9550,"Tigers Eye","Tiger's Eye, The"
 9552,"Boys Of Chicago, The","Boys From Chicago, The"
 9553,"Anna Ni Niall","Annie O'Neill"
@@ -23491,6 +23496,7 @@ tune_id,alias,name
 12494,"Angus Allen And Dan J's","Miss Gordon Of Fochabers"
 12494,"Miss Gordon","Miss Gordon Of Fochabers"
 12494,"Miss Gordon Fochaber","Miss Gordon Of Fochabers"
+12494,"Miss Gordon Of Fochaber's","Miss Gordon Of Fochabers"
 12494,"Miss Gordon's","Miss Gordon Of Fochabers"
 12494,"Miss Gordon's - Fochabers","Miss Gordon Of Fochabers"
 12494,"Miss Gordon's Of Fochabar","Miss Gordon Of Fochabers"
@@ -23619,6 +23625,7 @@ tune_id,alias,name
 12610,"Donald Angus Beaton's","Donald Angus Beaton"
 12613,"Miss Cathy Chilcott","Miss Cathy Chilcott's"
 12615,"Aleman's Marsj",Zelda
+12615,Gigue,Zelda
 12615,Gigue,Zelda
 12615,"La Chapelle-des-Bois",Zelda
 12615,"La Chapelloise",Zelda
@@ -25571,9 +25578,8 @@ tune_id,alias,name
 17333,"Kendal Lilt, The","Kendal Lilt"
 17335,"Donegal Peter Street, The",Sally
 17346,Spiders,Spider's
-17351,"Breuddwyd Y Frenhines","Queen's Dream, The"
+17351,"Queen's Dream, The","Breuddwyd Y Frenhines"
 17353,"Rain Drops",Raindrops
-17353,Raindrops,Raindrops
 17354,"Cape Breton Jig (Generic)",Acadien
 17360,"Mrs. Grant Of Lagan's","Mrs. Grant Of Laggan"
 17361,"John Carty's","What Brought You In There"
@@ -25744,6 +25750,7 @@ tune_id,alias,name
 17762,"Irish (polka)","Ademar O'Connor's"
 17766,"Reel For Jim DeWan","Tune For Jim DeWan"
 17767,Prospero's,Prosper's
+17778,"Hen Ferchetan",Difyrrwch
 17785,Glwysen,"Fairest One, The"
 17801,"Namptwich Fair","Nantwich Fair"
 17804,"East Galway","Ard Aoibhinn"
@@ -26544,3 +26551,5 @@ tune_id,alias,name
 20850,"Fem Får, Fire Geder","Fem Får Og Fire Geder"
 20850,"Five Sheep And Four Goats","Fem Får Og Fire Geder"
 20850,"Five Sheep, Four Goats","Fem Får Og Fire Geder"
+20854,"Violet Tulloch's","Violet Tulloch"
+20856,"Mébh's Tune",Wolfwalkers
