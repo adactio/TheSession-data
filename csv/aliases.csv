@@ -2459,6 +2459,7 @@ tune_id,alias,name
 420,Glencolumbkille,Glencolmcille
 420,Glencolumkill,Glencolmcille
 420,Glencolumkille,Glencolmcille
+420,"Inver Races, The",Glencolmcille
 422,"Parcel Of Land","A Parcel Of Land"
 422,"Parcel Of Land, The","A Parcel Of Land"
 423,"French Mary","Mouth Of The Tobique, The"
@@ -4979,6 +4980,7 @@ tune_id,alias,name
 870,"An Sport",Spórt
 870,Coolea,Spórt
 870,"Peadar O'Riada's",Spórt
+872,"Ballymanus Fair",Fisher's
 872,"Blacksmith's, The",Fisher's
 872,"Engelsk Långdans Nr.1",Fisher's
 872,Fischers,Fisher's
@@ -6118,6 +6120,7 @@ tune_id,alias,name
 1123,"Paddy's Land","Rose Tree, The"
 1123,"Port Lairgè","Rose Tree, The"
 1123,Portlairge,"Rose Tree, The"
+1123,"Ril Tawe","Rose Tree, The"
 1124,"Seaweed At The Yellow Cliff","Seaweed On The Yellow Cliff"
 1124,"Seaweed Highland Fling, The","Seaweed On The Yellow Cliff"
 1126,"An Ḟallaigín Ṁuiṁneaċ","Munster Cloak, The"
@@ -6533,6 +6536,7 @@ tune_id,alias,name
 1214,McLoughlins,"Girl Of The House, The"
 1214,"Robbie Hannan's","Girl Of The House, The"
 1214,"Robbie Hannon's","Girl Of The House, The"
+1214,Sheehan's,"Girl Of The House, The"
 1216,"Catholic Boys, The","Strike The Gay Harp"
 1216,Fitzpatrick's,"Strike The Gay Harp"
 1216,"Gay Harp, The","Strike The Gay Harp"
@@ -8478,6 +8482,8 @@ tune_id,alias,name
 1693,"Humours Of Killarney, The","Cheer Up Old Hag"
 1693,"Is It Silk That's In Your Bag?","Cheer Up Old Hag"
 1693,"Pórt Phádraig Uí Chaoimh","Cheer Up Old Hag"
+1693,Sheehan's,"Cheer Up Old Hag"
+1693,"Silken Wallet, The","Cheer Up Old Hag"
 1693,"Sugra Cill Chainnaig","Cheer Up Old Hag"
 1698,"Drimroe Cross","Old Walls Of Liscarroll, The"
 1698,Feehans,"Old Walls Of Liscarroll, The"
@@ -9112,6 +9118,7 @@ tune_id,alias,name
 1892,"Niel Gow's Lament On The Death Of His Second Wife","Niel Gow's Lament For His Second Wife"
 1892,"Niel Gow's Second Wife","Niel Gow's Lament For His Second Wife"
 1893,"Gathering Nuts",Foghorn
+1893,"Last, The",Foghorn
 1894,"Hanly's Tweed","Hanley's Tweed"
 1895,"Biddy Maloney's","Maloney's Wife"
 1895,"Malowney's Wife","Maloney's Wife"
@@ -9602,10 +9609,12 @@ tune_id,alias,name
 2081,Laridé,Gavotte
 2081,"Laridé à Six Temps",Gavotte
 2081,Ridée,Gavotte
-2082,"Chanter's March, The","Chanter's Song"
+2082,"Chanter And Trip To Kilburn","Chanter's Song"
 2082,"Chanter's Song, The","Chanter's Song"
 2082,"Chanter's Tune","Chanter's Song"
 2082,"Chanter's Tune, The","Chanter's Song"
+2082,"Chanter's, The","Chanter's Song"
+2082,"Last Night Joy","Chanter's Song"
 2082,"Song Of The Chanter","Chanter's Song"
 2082,"Song Of The Chanter, The","Chanter's Song"
 2083,"Paddy Lynn's Delight","Sonny's Return"
@@ -12941,6 +12950,8 @@ tune_id,alias,name
 3482,"Rochester Schottische, The","Bluebird's Schottische, The"
 3482,"Texas Schottische, The","Bluebird's Schottische, The"
 3482,"What The Devil Ails You?","Bluebird's Schottische, The"
+3486,"Cackling Of The Hens","Hen's March Through The Midden, The"
+3486,"Hen's Concert, The","Hen's March Through The Midden, The"
 3486,"Hen's March O'er The Midden, The","Hen's March Through The Midden, The"
 3486,"Hen's March Over The Midden, The","Hen's March Through The Midden, The"
 3486,"Hen's March Ower The Midden, The","Hen's March Through The Midden, The"
@@ -12951,6 +12962,7 @@ tune_id,alias,name
 3486,"Hens March Through The Middens, The","Hen's March Through The Midden, The"
 3486,"Hens March To The Midden, The","Hen's March Through The Midden, The"
 3486,"Hens March To The Middens, The","Hen's March Through The Midden, The"
+3486,"Major Hen's","Hen's March Through The Midden, The"
 3488,"3 Headed Monster, The","Three-Headed Monster, The"
 3488,"Bunch Of Currants, The","Three-Headed Monster, The"
 3488,Esther's,"Three-Headed Monster, The"
@@ -22316,7 +22328,6 @@ tune_id,alias,name
 10943,"Pretty Peggy","Bonnie Lass O' Fyvie, The"
 10944,"Sliabh An Oir",Butterfly
 10944,"Tommy Whelan's",Butterfly
-10952,"It's A Braw Bricht Moonlicht Nicht","Jimmy Swan's"
 10953,"Silver And Gold Two Step","Silver, The"
 10954,"Muile Nam Mor Bheann","Mull Of The Mountains"
 10954,"Mull Of The Cool High Braes","Mull Of The Mountains"
@@ -22364,6 +22375,7 @@ tune_id,alias,name
 11032,"Ross's Reel #4",Ross's
 11035,"Duke Gordon","Old Lord Gordon's"
 11035,"Lord Gordon","Old Lord Gordon's"
+11039,McCarthy's,McCarty's
 11042,"Scotty's Shoreleave In Aberdeen","Kevin Riley's Welcome To Starfleet"
 11042,"Star Trek, The","Kevin Riley's Welcome To Starfleet"
 11043,"Dog Ate The Bird!, The","Dog Ate The Bird, The"
@@ -22465,6 +22477,7 @@ tune_id,alias,name
 11180,"P.J McNamara's","Scartaglen, The"
 11180,"PJ McNamara's","Scartaglen, The"
 11180,"Ríl Scairteach An Ghlinne","Scartaglen, The"
+11180,"Road To Town, The","Scartaglen, The"
 11181,"Sonia's Kitchen","Sonja's Kitchen"
 11184,"Monkey, The","William Southern Clarke's"
 11184,"Monkey's, The","William Southern Clarke's"
@@ -24090,6 +24103,7 @@ tune_id,alias,name
 13375,"Colonel McBain","Canadian, The"
 13376,"Finbarr Dwyer's","Joe O'Malley's Favourite"
 13378,"Kingdom Coming","Year Of Jubilo"
+13379,"Loch An Dùin","Gan Ainm"
 13385,"Balancy Straw","Balance The Straw"
 13387,"Balance A Straw","Balance The Straw"
 13387,"Balancy Straw","Balance The Straw"
@@ -24574,7 +24588,6 @@ tune_id,alias,name
 14332,"Aibe Grace","Ailbe Grace's"
 14333,"Common' Frae The Town","Comin' Thro' The Rye"
 14335,"Leitrim Lassie, The","Leitrim Lasses, The"
-14336,"Denis Murphy's","Road To Town, The"
 14343,"Noel Strange's","Spy Wednesday"
 14346,"English Country Garden","Country Gardens"
 14348,"Miss Catherine Stewart Of Pettyvaich","Miss Catherine Stewart Of Pittyvaich's"
@@ -26331,7 +26344,7 @@ tune_id,alias,name
 19980,"Wolf Hour, The",Konvulsionslåten
 19989,"Neil Smiths","Neil Smith's"
 19992,"Max's Tune","Max Collett's"
-20000,"Andy Balinsky's","20,000 Leagues"
+20000,"Captain Balinsky's","20,000 Leagues"
 20004,"Uilleachan, An Tig Thu Chaoidh","Willy Will You E'er Return"
 20030,"Bridget Flynn","Little Bridget Flynn"
 20030,"Bridgit Flynn","Little Bridget Flynn"
@@ -26553,3 +26566,6 @@ tune_id,alias,name
 20850,"Five Sheep, Four Goats","Fem Får Og Fire Geder"
 20854,"Violet Tulloch's","Violet Tulloch"
 20856,"Mébh's Tune",Wolfwalkers
+20861,"Crannciuil An Fiadaighe",Hunter's
+20861,"Crannciuil An Fiaguidhe",Hunter's
+20862,"Crannciuil Cill-Fhionain",Kilfinane
