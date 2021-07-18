@@ -58,7 +58,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 21,"Éigse Mrs. Crotty 2006","2006-08-16 00:00:00","2006-08-20 00:00:00","Various Venues",,Kilrush,Clare,Ireland,52.63629532,-9.48720360
 24,"Masters Of Tradition Festival","2006-08-16 00:00:00","2006-08-20 00:00:00","Bantry House","13 Glengarriff Road",Bantry,Cork,Ireland,51.68044281,-9.44899082
 14,"Mull Of Kintyre Music Festival","2006-08-17 00:00:00","2006-08-20 00:00:00",Campbeltown,,Campbeltown,Argyll,Scotland,55.42411804,-5.60537386
-75,"Whitby Folk Week","2006-08-19 00:00:00","2006-08-25 00:00:00","Various Venues",,Whitby,Yorkshire,England,54.48633575,-0.61334699
+75,"Whitby Folk Week","2006-08-19 00:00:00","2006-08-25 00:00:00","Various Venues",,Whitby,"North Yorkshire",England,54.48633575,-0.61334699
 82,"Darren Maloney With Vonnie Quinn, John Redmond And Dave Fahy","2006-08-19 20:00:00","2006-08-19 00:00:00","Katherine Cornell Theatre",,"Marthas Vineyard",Massachusetts,USA,41.38049698,-70.64546967
 91,"Ceol Na GConallach - The Donegal Sessions","2006-08-19 20:00:00","2006-08-19 22:15:00","Various Venues",,Kilcar,Donegal,Ireland,54.63311005,-8.60491085
 42,"Fleadh Cheoil Na HÉireann","2006-08-25 00:00:00","2006-08-27 00:00:00","Various Venues",,Letterkenny,Donegal,Ireland,54.95584106,-7.73427868
@@ -5693,8 +5693,12 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8249,"Laid Back Irish Session Tunes with Rowan Leslie","2021-07-14 00:00:00","2021-07-14 00:00:00",,,,,,,
 8248,"The Library: Irish Pub","2021-07-15 19:00:00","2021-07-15 19:00:00","The Library: Irish Pub","Georgenstr. 60",Amberg,Bayern,Germany,49.44423294,11.85226727
 8231,"MAD Week 2021: Comhaltas Ceoltóirí Éireann Irish Musical Arts and Dance Week","2021-07-18 00:00:00","2021-07-23 00:00:00",,,,,,,
+8257,"Slow session with Paudie O'Connor","2021-07-18 20:30:00","2021-07-18 20:30:00",,,,,,,
+8259,"Laid Back Irish Session Tunes with Rowan Leslie","2021-07-21 00:00:00","2021-07-21 00:00:00",,,,,,,
 8235,"Donal Lunny and Andy Irvine with Duo Zouk","2021-07-22 20:00:00","2021-07-22 20:00:00","Rathmullan House",,Rathmullan,Donegal,Ireland,55.10076141,-7.52929688
+8256,"The Dublin Trio","2021-07-22 20:00:00","2021-07-22 20:00:00","The Séamus Ennis Arts Centre",,Naul,Dublin,Ireland,53.58611298,-6.28988218
 8212,"Scoil Acla Summer School 2021","2021-07-26 00:00:00","2021-07-29 00:00:00",,,,,,,
+8255,"Tureencahill Summer School","2021-07-27 00:00:00","2021-07-29 00:00:00",,,,,,,
 8168,"Cancelled: Lark Camp","2021-07-30 00:00:00","2021-08-07 00:00:00","Mendocino Woodlands","39350 Little Lake Rd",Mendocino,California,USA,39.30948257,-123.75035095
 8250,"Mairéad Ní Mhaonaigh and Máirtín Tourish","2021-07-30 19:00:00","2021-07-30 19:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
 8116,"FleadhFest Sligo 2021","2021-08-01 00:00:00","2021-08-09 00:00:00","Various Venues",,Sligo,Sligo,Ireland,54.27465057,-8.47510624
@@ -5707,7 +5711,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8232,"Milwaukee Irish Fest Summer School","2021-08-14 00:00:00","2021-08-19 00:00:00",,,,,,,
 8253,"Gan Ainm","2021-08-27 19:00:00","2021-08-27 19:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
 8161,"Nasc Folk and Traditional Music Festival","2021-08-28 13:00:00","2021-08-28 22:00:00","Marlay Park","Grange Road",Rathfarnham,Dublin,Ireland,53.27375031,-6.27469683
+8260,"Lario Fiddle Workshop","2021-09-04 09:30:00","2021-09-04 17:30:00",Solzago,"Via Alessandro Manzoni 15",Como,Lombardia,Italy,45.81452560,9.08432770
 8174,"Andy Irvine","2021-09-17 20:00:00","2021-09-17 23:00:00",Dolan's,"3-4 Dock Road","Limerick City",Limerick,Ireland,52.65883255,-8.63820648
 8079,"Perfectionnement au uilleannpipes","2021-09-25 09:00:00","2021-09-25 17:00:00","Lise Diwan Karaez",Keramphuil,Carhaix,Bretagne,France,48.27254868,-3.55362129
 7852,"Andy Irvine and Paul Brady","2021-10-25 00:00:00","2021-10-25 00:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59630203,-5.92081118
 8244,"Cáceres Irish Fleadh 2021","2021-10-29 00:00:00","2021-10-31 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47315598,-6.37595415
+8254,"Fiddle workshop with Ben Paley","2022-10-29 10:45:00","2022-10-29 16:45:00","The Elephant & Castle","White Hill",Lewes,Sussex,England,50.87474823,0.00833260
