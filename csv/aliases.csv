@@ -2477,6 +2477,7 @@ tune_id,alias,name
 424,"Fairies' Dance, The","Fairy Dance, The"
 424,Fairy,"Fairy Dance, The"
 424,"Fairy, The","Fairy Dance, The"
+424,"Fairy, The","Fairy Dance, The"
 424,Gows,"Fairy Dance, The"
 424,"Largo's Fairy Dance","Fairy Dance, The"
 424,"Old Molly Hare","Fairy Dance, The"
@@ -6546,6 +6547,7 @@ tune_id,alias,name
 1214,"Robbie Hannan's","Girl Of The House, The"
 1214,"Robbie Hannon's","Girl Of The House, The"
 1214,Sheehan's,"Girl Of The House, The"
+1214,"Woman Of The Big House, The","Girl Of The House, The"
 1216,"Catholic Boys, The","Strike The Gay Harp"
 1216,Fitzpatrick's,"Strike The Gay Harp"
 1216,"Gay Harp, The","Strike The Gay Harp"
@@ -8484,8 +8486,6 @@ tune_id,alias,name
 1688,"Charlie McKerron's","Islay Rant"
 1688,"Islay Rant, The","Islay Rant"
 1688,"Islay Ranters, The","Islay Rant"
-1690,"Five Crossroads, The",Preston's
-1690,"Five Mile Cross",Preston's
 1690,"Fred Finn's #2",Preston's
 1690,"Michael Preston's",Preston's
 1693,"Bill The Weavers","Cheer Up Old Hag"
@@ -10439,7 +10439,6 @@ tune_id,alias,name
 2329,"Tommy Potts' Rambling Pitchfork","Rambling Pitchfork, The"
 2331,"Mrs. Cooty's",Cofey's
 2332,"Cornphíopa An Bhreathnaigh",Walsh's
-2332,"Shall We Step Out?",Walsh's
 2332,Walshe's,Walsh's
 2332,Welsh's,Walsh's
 2332,"Willy Walsh's",Walsh's
@@ -24170,6 +24169,7 @@ tune_id,alias,name
 13456,"A Taste Of Gaelic","Taste Of Gaelic"
 13456,"Blasad Na Gàidhlig","Taste Of Gaelic"
 13456,"Taste Of Gaelic, The","Taste Of Gaelic"
+13457,Sandworms,"Sand Worms"
 13461,"Scan Tester's No 1","Scan Tester's"
 13461,"Scan Tester's No. 1","Scan Tester's"
 13462,"Scan Tester's No 2","Scan Tester's"
@@ -25361,6 +25361,8 @@ tune_id,alias,name
 16467,"North Carolina Breakdown","North Caroline Breakdown"
 16472,"Grandfather Hambo, The","Vaarin Hambo"
 16474,"Penny Falls, The","Tom Kaley's Air"
+16478,"I'm Not Entirely Tired Of The Pacific Ocean Yet","I'm Not Fed Up With The Pacific Ocean"
+16478,"I'm Still Not Fed Up With The Pacific Ocean","I'm Not Fed Up With The Pacific Ocean"
 16481,"Christmas Cassette #2","Christmas Cassette"
 16481,"Joulukasetti #2","Christmas Cassette"
 16486,"Newly-wed's, The","Newly Wed's, The"
@@ -26099,6 +26101,7 @@ tune_id,alias,name
 18952,"Ralph's Shit Polka In Five Minutes","Fully Zested Lemon, The"
 18955,"Unquiet Grave, The","How Cold The Wind Doth Blow"
 18957,"Fiddler Dance The Light","Fiddler Play The Light"
+18957,"Hugaibh Oirbh","Fiddler Play The Light"
 18959,"Knocknagree Fair, The","Knocknagree Fair"
 18963,"Laughing, The",Laughing
 18964,"I've Got It Here Somewhere","I Have It Somewhere"
@@ -26380,6 +26383,7 @@ tune_id,alias,name
 20120,"Fish In The Pothole","Fish In A Pothole"
 20134,"Bon Voyage Monsieur Dumollet","Iontráil Na DTuismitheoirí"
 20134,"Entry Of The Parents","Iontráil Na DTuismitheoirí"
+20152,"Glen Feshie",Glenfeshie
 20185,Thunderhead,"Breast Of St Marc, The"
 20187,"Storstugans Marsch",Mungalåten
 20189,Shanvaghara,Shanvaghera
@@ -26583,3 +26587,6 @@ tune_id,alias,name
 20890,"Dans En Dro","Gwez-Kren En Noz"
 20894,"Swan & Dolphin","Swan And Dolphin"
 20903,"Eibhlín A Rún","Erin, The Tear And The Smile"
+20928,"Brian Tuesday 27th July","Ed's Big 5 0"
+20928,"Ed's Big Fifty","Ed's Big 5 0"
+20928,"Ed's Big Five-o","Ed's Big 5 0"
