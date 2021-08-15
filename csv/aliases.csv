@@ -2984,19 +2984,19 @@ tune_id,alias,name
 494,"Ag Trasnú An -t-Sionnain","Crossing The Shannon"
 494,"Cooley Crossing The Shannon","Crossing The Shannon"
 494,"Funny, The","Crossing The Shannon"
-496,"Crane's Leg, The","Glen Of Aherlow, The"
-496,"Girl I Left Behind, The","Glen Of Aherlow, The"
-496,"Glenn Of Aherlow, The","Glen Of Aherlow, The"
-496,"Glens Of Aherlow, The","Glen Of Aherlow, The"
-496,Lafferty's,"Glen Of Aherlow, The"
-496,"Lafferty's Favourite","Glen Of Aherlow, The"
-496,"Maid I Never Forgot, The","Glen Of Aherlow, The"
-496,"Mary's Favourite","Glen Of Aherlow, The"
-496,Reddican's,"Glen Of Aherlow, The"
-496,Rediggan's,"Glen Of Aherlow, The"
-496,"Ríl Uí Laithbheartaigh","Glen Of Aherlow, The"
-496,"Woman I Left Behind Me, The","Glen Of Aherlow, The"
-496,"Woman I Never Forgot, The","Glen Of Aherlow, The"
+496,"Crane's Leg, The",Lafferty's
+496,"Girl I Left Behind, The",Lafferty's
+496,"Glenn Of Aherlow, The",Lafferty's
+496,"Glens Of Aherlow, The",Lafferty's
+496,Lafferty's,Lafferty's
+496,"Lafferty's Favourite",Lafferty's
+496,"Maid I Never Forgot, The",Lafferty's
+496,"Mary's Favourite",Lafferty's
+496,Reddican's,Lafferty's
+496,Rediggan's,Lafferty's
+496,"Ríl Uí Laithbheartaigh",Lafferty's
+496,"Woman I Left Behind Me, The",Lafferty's
+496,"Woman I Never Forgot, The",Lafferty's
 498,"Bundle And Go","Larry O'Gaff's"
 498,"Dan O'Connell's","Larry O'Gaff's"
 498,"Daniel O'Connell","Larry O'Gaff's"
@@ -6882,13 +6882,13 @@ tune_id,alias,name
 1293,"Exile From Ireland","Exile Of Erin, The"
 1293,"Ireland In Exile","Exile Of Erin, The"
 1293,"Peace In Erin","Exile Of Erin, The"
-1294,"Across The Fence",Dwyer's
-1294,"Across The Fence To The Neighbour's Wife",Dwyer's
-1294,"Cross The Fence",Dwyer's
-1294,"Crossing The Fence",Dwyer's
-1294,"Jack Came Over The Fence",Dwyer's
-1294,McGlinchey's,Dwyer's
-1294,McGlinchy's,Dwyer's
+1294,"Across The Fence To The Neighbour's Wife","Across The Fence"
+1294,"Cross The Fence","Across The Fence"
+1294,"Crossing The Fence","Across The Fence"
+1294,Dwyer's,"Across The Fence"
+1294,"Jack Came Over The Fence","Across The Fence"
+1294,McGlinchey's,"Across The Fence"
+1294,McGlinchy's,"Across The Fence"
 1296,"Little Old Man","Old French, The"
 1296,"Little Old Man, The","Old French, The"
 1296,"Rambler's Hornpipe","Old French, The"
@@ -9025,6 +9025,7 @@ tune_id,alias,name
 1855,"Moycarkey, The","Gillan's Apples"
 1855,"Úllaí Uí Ghiolláin","Gillan's Apples"
 1856,"Clancy The Scotsman",Clancy's
+1856,Gorman's,Clancy's
 1856,"Katie's Rambles",Clancy's
 1856,"Katy's Rambles",Clancy's
 1857,"Lucky Seven","Moon And The Seven Stars, The"
@@ -9852,6 +9853,7 @@ tune_id,alias,name
 2155,"£10 Fiddle, The","Ten Pound Fiddle, The"
 2155,"10 £ Fiddle, The","Ten Pound Fiddle, The"
 2155,"10 Pound Fiddle, The","Ten Pound Fiddle, The"
+2156,"Clare, The","Father Kelly's"
 2156,"Father Kelly","Father Kelly's"
 2156,"Lough Derg","Father Kelly's"
 2157,"Harvey Street","Hills Of Coore, The"
@@ -9988,6 +9990,7 @@ tune_id,alias,name
 2217,"Daniel Michael Collins's Father's","Dan Collins' Father's"
 2217,"Harty Boys, The","Dan Collins' Father's"
 2217,"Hawk From Dundalk, The","Dan Collins' Father's"
+2217,"Hearty Boys","Dan Collins' Father's"
 2217,"Hearty Boys Of Ballymote, The","Dan Collins' Father's"
 2217,"Humours Of Ballymote, The","Dan Collins' Father's"
 2217,"Up In The Morning","Dan Collins' Father's"
@@ -11758,6 +11761,7 @@ tune_id,alias,name
 2930,"Lonesome Polka No. 1","Lisheen, The"
 2930,"Lonesome Polka No. 2","Lisheen, The"
 2930,"Maid On The Ladder","Lisheen, The"
+2930,"Saucy, The","Lisheen, The"
 2931,"Sweet Joan","Lovely Joan"
 2931,"Sweet Lovely Joan","Lovely Joan"
 2933,"An Old Woman Would","Harris Dance Tune"
@@ -16388,6 +16392,7 @@ tune_id,alias,name
 5942,"My First","Mayn Ershtn Tants Bay Dir"
 5942,"My First Dance With You","Mayn Ershtn Tants Bay Dir"
 5942,"My First Waltz With You","Mayn Ershtn Tants Bay Dir"
+5942,"Ozhidanie/Ozhidanya (transliteration From Cyrillic)","Mayn Ershtn Tants Bay Dir"
 5943,"Cori McLenon's","Cori McLenon"
 5945,"Art O'Keeffe's","Echoes Of Killarney"
 5945,"Drake, The","Echoes Of Killarney"
@@ -22319,6 +22324,7 @@ tune_id,alias,name
 10920,"Bonny Lass Of Bon Accord, The","Bonnie Lass O' Bon Accord, The"
 10920,"Lass Of Bon-Accord","Bonnie Lass O' Bon Accord, The"
 10920,"Lass Of Bon-Accord, The","Bonnie Lass O' Bon Accord, The"
+10921,"Bugle Hornpipe","Bugle, The"
 10921,"Cornphiopa An Bhuachalla","Bugle, The"
 10923,"Warrior's Birth","Tucandeira Dance"
 10925,"Nous étions Partis Pécher Le Hareng","Schottische Du Stockfish"
@@ -26271,6 +26277,7 @@ tune_id,alias,name
 19462,"Tin Hoose","Tin House"
 19471,"True Love Is Better Than Gold","Had She Been Aye"
 19497,"Toad In The Toilet, The","Toad In The Toilet"
+19499,"Polska Från Hälsingland","Polska Efter Johnny Schönning"
 19508,"Beidh Aonach Amalreach (There Will Be A Fair Tomorrow)","Beidh Aonach Amarach"
 19520,"Schottis I Nattskjortan Efter Anders Mattson","Nightshirt Schottische, The"
 19529,"Night Of The Fair","Duggan's Favourite"
