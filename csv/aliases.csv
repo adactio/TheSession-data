@@ -2986,6 +2986,7 @@ tune_id,alias,name
 494,"Funny, The","Crossing The Shannon"
 496,"Crane's Leg, The",Lafferty's
 496,"Girl I Left Behind, The",Lafferty's
+496,"Glen Of Aherlow, The",Lafferty's
 496,"Glenn Of Aherlow, The",Lafferty's
 496,"Glens Of Aherlow, The",Lafferty's
 496,Lafferty's,Lafferty's
@@ -5303,6 +5304,7 @@ tune_id,alias,name
 953,"Elizabeth Kelly's Favourite","Elizabeth Kelly's Delight"
 953,"Katherine Kelly's","Elizabeth Kelly's Delight"
 953,"Katherine Kelly's Delight","Elizabeth Kelly's Delight"
+953,"Kelly's Joy","Elizabeth Kelly's Delight"
 953,"Mary Kelly","Elizabeth Kelly's Delight"
 953,"Mary Kelly's","Elizabeth Kelly's Delight"
 953,"Wandering Spirit","Elizabeth Kelly's Delight"
@@ -5457,6 +5459,7 @@ tune_id,alias,name
 997,"Sir Watkin Williams-Wynn","Ash Grove, The"
 997,"They Suffer The Wretched To Languish And Perish","Ash Grove, The"
 998,"Clog, The",O'Keefe's
+998,"Jim Keeffe's",O'Keefe's
 998,"Jim O'Keeffe's",O'Keefe's
 998,Keefe's,O'Keefe's
 998,Keeffe's,O'Keefe's
@@ -15553,9 +15556,10 @@ tune_id,alias,name
 5221,"Ah Gee","Oh Gee"
 5228,"Devine's Favourite",Devine's
 5229,"Polduilly Bridge","Poldwilly Bridge"
-5231,"Bourée á Trios Temps",Minor
-5231,"Mazurka De Gilles Chabenat",Minor
-5231,"Mazurka Des Écoliers De Saint Genest",Minor
+5231,"Bourée á Trios Temps","Mazurka Des Écoliers De Saint Genest"
+5231,"Mazurka De Gilles Chabenat","Mazurka Des Écoliers De Saint Genest"
+5231,"Mazurka De Gilles Chabenat","Mazurka Des Écoliers De Saint Genest"
+5231,Minor,"Mazurka Des Écoliers De Saint Genest"
 5233,"Blauw Garen En Koperdraad",Bourree
 5233,"Parson's Farewell",Bourree
 5233,"Parsons Farewell",Bourree
@@ -16392,7 +16396,8 @@ tune_id,alias,name
 5942,"My First","Mayn Ershtn Tants Bay Dir"
 5942,"My First Dance With You","Mayn Ershtn Tants Bay Dir"
 5942,"My First Waltz With You","Mayn Ershtn Tants Bay Dir"
-5942,"Ozhidanie/Ozhidanya (transliteration From Cyrillic)","Mayn Ershtn Tants Bay Dir"
+5942,Ozhidanie,"Mayn Ershtn Tants Bay Dir"
+5942,Ozhidanya,"Mayn Ershtn Tants Bay Dir"
 5943,"Cori McLenon's","Cori McLenon"
 5945,"Art O'Keeffe's","Echoes Of Killarney"
 5945,"Drake, The","Echoes Of Killarney"
@@ -17598,6 +17603,7 @@ tune_id,alias,name
 6689,"Deer's Head, The",Pencarrow
 6689,"Lord Arscott Of Tetcott",Pencarrow
 6689,"Pencarrow Hunt, The",Pencarrow
+6692,Traver's,Traver's
 6694,"Campbell River, The","Campbell River"
 6697,"Coffee, The",Coffee
 6698,"Molly Saint George","Molly St George"
@@ -19466,8 +19472,6 @@ tune_id,alias,name
 7851,"Man In A Brown Hat, The","Man In A Brown Hat"
 7851,"Man In The Brown Hat","Man In A Brown Hat"
 7851,"Man In The Brown Hat, The","Man In A Brown Hat"
-7854,"Mazurka De Gilles Chabenat","Mazurka Des Écoliers De Saint Genest"
-7854,Minor,"Mazurka Des Écoliers De Saint Genest"
 7855,"Harp That Once, The","Harp That Once Through Tara's Halls, The"
 7855,"Rise Up & Follow Charlie!","Harp That Once Through Tara's Halls, The"
 7858,"Tar Road To Sligo","Farewell To The Corncrake"
@@ -24031,6 +24035,7 @@ tune_id,alias,name
 13278,"Good Comfort May Ye Bring","God Rest Ye Merry"
 13278,"Good Tidings Of Comfort And Joy","God Rest Ye Merry"
 13278,"Tidings Of Comfort And Joy","God Rest Ye Merry"
+13283,"Hare's Maggot, The","Up Wi Eli Eli"
 13283,"Irish Frolic, The","Up Wi Eli Eli"
 13283,"Nameless Scott, The","Up Wi Eli Eli"
 13283,"Up We't Eli Eli","Up Wi Eli Eli"
@@ -24523,7 +24528,8 @@ tune_id,alias,name
 14050,"French, The","Y Polca Ffrengig"
 14050,"Y Polca Ffrangeg","Y Polca Ffrengig"
 14051,"She Didn't Dance And Dance","Didn't She Dance And Dance"
-14052,"Muñeira Carcarosa","Muniera Carcarosa"
+14052,"Muñeira Carcarosa","Siete De Octubre"
+14052,"Muniera Carcarosa","Siete De Octubre"
 14100,"Kinnycally Klansmen, The","Kinnycally Klansmen"
 14103,"Huntingtone Castle","Huntington Castle"
 14106,"CBC's Glen And Carl","CBC's Glenn And Karl"
@@ -26514,6 +26520,7 @@ tune_id,alias,name
 20550,"Cellar Door Key, The","Jack Lintel's"
 20550,"Cellar Door, The","Jack Lintel's"
 20556,"Cuir Barradh Ar An Dorus","Bolt The Door"
+20562,"Con Thadhgo's","Con Tadhgo's"
 20563,"Humours Of Limerick, The","Humors Of Limerick, The"
 20563,"Sugra Na Luimnaigh","Humors Of Limerick, The"
 20569,"A Thousand Curses For Drinking","Mile Malachd Do 'n òl"
