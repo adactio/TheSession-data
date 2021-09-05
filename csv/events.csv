@@ -603,7 +603,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 679,"Na Fianna - Irish Traditional Music","2007-12-28 23:00:00","2007-12-29 01:00:00","Oveja Negra Pub","Av. Fondo De La Legua 425","San Isidro","Buenos Aires",Argentina,-34.49606705,-58.54814148
 669,"Kane O'Rourke","2007-12-29 20:00:00","2007-12-29 01:00:00","The Mitre","291 Greenwich High Road",Greenwich,London,England,51.48012924,-0.00963400
 661,"My Darling Asleep","2007-12-30 19:00:00","2007-12-30 21:30:00","Clifton Pizza",,Louisville,Kentucky,USA,38.25266647,-85.75845337
-670,"Kane O'Rourke","2007-12-31 20:00:00","2007-12-31 01:00:00","The Kilkenny Tavern","131 Merton High Street",Merton,London,England,51.41550827,-0.19171600
+670,"Kane O'Rourke","2007-12-31 20:00:00","2007-12-31 01:00:00","THE HORSE AND GROOM (formally The Kilkenny Tavern And Also Known Locally As The Dark House)","131 Merton High Street",Merton,London,England,51.41550827,-0.19171600
 678,"New Year's Eve Céilí","2007-12-31 21:00:00","2008-01-01 01:00:00","Cultúrlann Na HÉireann","32 Belgrave Square",Monkstown,Dublin,Ireland,53.32192993,-6.26098013
 685,"The Singing Tree","2008-01-07 20:00:00","2008-01-07 23:00:00","Market Place Theatre And Arts Centre","Market Street",Antrim,Antrim,"Northern Ireland",54.72177505,-6.24560165
 680,"The  Singers  Circle","2008-01-10 21:30:00","2008-01-10 23:30:00","Dunlo Tavern","Dunlo Street",Ballinasloe,Galway,Ireland,53.32912064,-8.22255993
@@ -3965,7 +3965,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6446,"Le Ceili de Breuillotte, Grand bal Trad","2016-05-28 14:00:00","2016-05-29 02:00:00","Le Carré Créme","Place Du Village",Quarre-les-Tombes,Bourgogne,France,47.36826706,3.99645853
 6472,"Mega Session as part of the Audlem Festival","2016-05-30 20:30:00","2016-05-30 23:30:00","Shroppie Fly","Audlem Wharf, Shropshire Street",Audlem,Cheshire,England,52.98816681,-2.50895023
 6441,"Wirral Folk on the Coast","2016-06-02 00:00:00","2016-06-05 00:00:00","The Whitby Club","Chester Lane","Ellesmere Port",Cheshire,England,53.26552200,-2.91023040
-6482,"David Power and Willie Kelly in concert","2016-06-02 21:00:00","2016-06-02 21:00:00","Pepper's Bar","Gurrane Cross",Feakle,Clare,Ireland,52.92606735,-8.64865208
+6482,"David Power and Willie Kelly in concert","2016-06-02 21:00:00","2016-06-02 21:00:00","Pepper's Bar","Gurrane Cross",Feakle,Clare,Ireland,52.93148041,-8.61707115
 6166,"Ceol Aneas Traditional Irish music Festival","2016-06-03 00:00:00","2016-06-06 00:00:00","Various Venues",,Nelson,Nelson,"New Zealand",-41.27074814,173.28321838
 6388,"A Weekend of Irish Music in Lancaster: Concert & Sessions","2016-06-03 20:00:00","2016-06-05 18:00:00","Various Venues",,Lancaster,Lancashire,England,54.03943634,-2.78115702
 6447,"Eileen O'Brien, fiddle recital and powerpoint presentation on her father Paddy O'Brien","2016-06-03 20:00:00","2016-06-03 20:00:00","The Gregson Centre","33 Moorgate",Lancaster,Lancashire,England,54.04839706,-2.79210091
@@ -4700,7 +4700,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7273,"49th Annual Newcastleton festival","2018-06-29 00:00:00","2018-07-01 00:00:00","Various Venues",,Newcastleton,"The Borders",Scotland,55.17936325,-2.81332493
 7255,"A Weekend of Irish Music Sessions in Lancaster","2018-06-29 20:00:00","2018-07-01 18:00:00","Various Venues",,Lancaster,Lancashire,England,54.03943634,-2.78115702
 7242,"Josephine Marsh CD Launch","2018-06-29 21:00:00","2018-06-29 21:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980392,-6.27785301
-7243,"Josephine Marsh concert/CD Launch","2018-06-30 21:30:00","2018-06-30 21:30:00","Pepper's Bar","Gurrane Cross",Feakle,Clare,Ireland,52.92606735,-8.64865208
+7243,"Josephine Marsh concert/CD Launch","2018-06-30 21:30:00","2018-06-30 21:30:00","Pepper's Bar","Gurrane Cross",Feakle,Clare,Ireland,52.93148041,-8.61707115
 7244,"Josephine Marsh, Mick Kinsella and Seamus Cahill concert.","2018-07-03 20:30:00","2018-07-03 20:30:00","Matt Molloy's Bar","Bridge Street",Westport,Mayo,Ireland,53.79917526,-9.52268124
 7212,"Matt Molloy, John Carty & Arty McGlynn","2018-07-04 21:00:00","2018-07-04 21:00:00",Dolan's,"3-4 Dock Road","Limerick City",Limerick,Ireland,52.65883255,-8.63820648
 7233,"Stonehaven Folk Festival 2018","2018-07-05 00:00:00","2018-07-08 00:00:00","Various Venues",,Stonehaven,Aberdeenshire,Scotland,56.94577789,-2.19719005
@@ -5731,18 +5731,24 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8253,"Gan Ainm","2021-08-27 19:00:00","2021-08-27 19:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
 8288,"Conor Connolly Drawing from the Well","2021-08-27 20:00:00","2021-08-27 20:00:00",,,,,,,
 8161,"Nasc Folk and Traditional Music Festival","2021-08-28 13:00:00","2021-08-28 22:00:00","Marlay Park","Grange Road",Rathfarnham,Dublin,Ireland,53.27375031,-6.27469683
+8292,"Laid Back Irish Session Tunes with Rowan Leslie","2021-09-01 00:00:00","2021-09-01 00:00:00",,,,,,,
 8289,"""Over the Moor to Maggie"" B/C Box Bass/Chord Lesson","2021-09-01 17:00:00","2021-09-01 18:30:00",,,,,,,
+8293,"Rowan Leslie: Escaping The Dawn album launch","2021-09-04 00:00:00","2021-09-04 00:00:00","The 13th Note","50-60 King Street",Glasgow,Glasgow,Scotland,55.85613251,-4.24723530
 8260,"Lario Fiddle Workshop","2021-09-04 09:30:00","2021-09-04 17:30:00",Solzago,"Via Alessandro Manzoni 15",Como,Lombardia,Italy,45.81452560,9.08432770
 8286,"Set Dancing Céilí with the Parish Céilí Band","2021-09-05 14:00:00","2021-09-05 17:00:00","London Irish Centre","50-52 Camden Square",London,London,England,51.54386902,-0.13235010
 8284,"Cancelled: Old Blind Dogs in concert","2021-09-07 19:00:00","2021-09-07 21:30:00","Steam Plant Theatre","220 W. Sackett",Salida,Colorado,USA,38.53805542,-105.99179077
 8270,"2021 Philadelphia Ceili Group Irish Traditional Music & Dance Festival","2021-09-09 00:00:00","2021-09-11 00:00:00","Commodore Barry Irish Club","6815 Emlen Street",Philadelphia,Pennsylvania,USA,40.04998779,-75.19078827
 8265,"Pittsburgh Irish Festival","2021-09-10 00:00:00","2021-09-12 00:00:00","The Lots At Sandcastle","1000 Sandcaste Drive, West Homestead",Pittsburgh,Pennsylvania,USA,40.39918137,-79.92395020
+8297,"Beginner-Friendly Session","2021-09-11 18:30:00","2021-09-11 20:30:00","Cargo Coffee East","750 E Washington Ave",Madison,Wisconsin,USA,43.08091354,-89.37595367
 8267,"Iarla Ó Lionáird, Úna Monaghan and Kevin Murphy","2021-09-17 19:30:00","2021-09-17 19:30:00","Grand Junction","St Mary Magdalene Church, Rowington Close",London,London,England,51.52236176,-0.18872900
 8174,"Andy Irvine","2021-09-17 20:00:00","2021-09-17 23:00:00",Dolan's,"3-4 Dock Road","Limerick City",Limerick,Ireland,52.65883255,-8.63820648
 8283,"Féile John Dwyer","2021-09-24 00:00:00","2021-09-26 00:00:00","Various Venues",,Waterford,Waterford,Ireland,52.25754929,-7.11486816
+8294,"Lancaster Irish Session Weekend","2021-09-24 19:00:00","2021-09-26 18:00:00","The Jailor’s Barrel","64 Market Street",Lancaster,Lancashire,England,54.04871750,-2.80364251
 8079,"Perfectionnement au uilleannpipes","2021-09-25 09:00:00","2021-09-25 17:00:00","Lise Diwan Karaez",Keramphuil,Carhaix,Bretagne,France,48.27254868,-3.55362129
+8296,Session,"2021-10-02 17:00:00","2021-10-02 19:00:00","Monadnock Center For History And Culture","19 Grove Street",Peterborough,"New Hampshire",USA,42.87704849,-71.95097351
 8266,"Foxford Traditional Weekend","2021-10-13 00:00:00","2021-10-17 00:00:00","Various Venues",,Foxford,Mayo,Ireland,53.98229980,-9.11355495
 8268,"Return To London Town 2021","2021-10-22 00:00:00","2021-10-25 00:00:00","Clayton Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55613708,-0.21422189
+8298,"Barry Kerr and Síle Denvir","2021-10-22 19:00:00","2021-10-22 19:00:00","Pepper's Bar","Gurrane Cross",Feakle,Clare,Ireland,52.93148041,-8.61707115
 7852,"Andy Irvine and Paul Brady","2021-10-25 00:00:00","2021-10-25 00:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59630203,-5.92081118
 8244,"Cáceres Irish Fleadh 2021","2021-10-29 00:00:00","2021-10-31 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47315598,-6.37595415
 8254,"Fiddle workshop with Ben Paley","2022-10-29 10:45:00","2022-10-29 16:45:00","The Elephant & Castle","White Hill",Lewes,Sussex,England,50.87474823,0.00833260

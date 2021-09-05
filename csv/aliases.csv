@@ -3168,6 +3168,7 @@ tune_id,alias,name
 527,"Taim In Arrears","Moll Roe"
 527,"Though Late Was I Plump","Moll Roe"
 527,"Wheels Of The World, The","Moll Roe"
+528,"Bearna 'n Aonaigh",Tuttle's
 528,"Bobby Casey's",Tuttle's
 528,Casey's,Tuttle's
 528,"Custom Gap, The",Tuttle's
@@ -4185,6 +4186,7 @@ tune_id,alias,name
 709,"Christmas Comes But Once A Year","Bunch Of Roses, The"
 709,"I'm A Silly Old Man","Bunch Of Roses, The"
 709,"I've Got One Daughter To Marry","Bunch Of Roses, The"
+709,"Shady Lane, The","Bunch Of Roses, The"
 709,"Spring In The Air","Bunch Of Roses, The"
 709,"Spring Is In The Air","Bunch Of Roses, The"
 710,"Banríon Na Luachra","Queen Of The Rushes, The"
@@ -7028,6 +7030,7 @@ tune_id,alias,name
 1317,"Leg Of A Duck, The","Daniel Of The Sun"
 1317,"Leg Of The Duck, The","Daniel Of The Sun"
 1317,"Leis Lacha","Daniel Of The Sun"
+1317,"Sunny Dan","Daniel Of The Sun"
 1317,"Thady You Gander","Daniel Of The Sun"
 1317,"Wee Murdie","Daniel Of The Sun"
 1317,"Wee Murdy","Daniel Of The Sun"
@@ -7781,8 +7784,10 @@ tune_id,alias,name
 1517,"Pete Bradley's","Maidhc Dainnín Ó Sé's"
 1517,Templeglantine,"Maidhc Dainnín Ó Sé's"
 1518,"Hugh Travers'","Hughie Travers'"
+1518,"Hughie Travers","Hughie Travers'"
 1518,"Tommy McMahon's","Hughie Travers'"
 1518,Traver's,"Hughie Travers'"
+1518,Travers,"Hughie Travers'"
 1518,Travers',"Hughie Travers'"
 1519,"An B","Road To Tralee, The"
 1519,"An Bóthar ó Thuaidh","Road To Tralee, The"
@@ -12202,9 +12207,6 @@ tune_id,alias,name
 3110,"Walk Out Of It Hogan","Helvic Head"
 3110,"Walk Out Of It, Hogan","Helvic Head"
 3110,"Yellow Stockings","Helvic Head"
-3111,"Hughie Travers","Hughie Travers'"
-3111,Travers',"Hughie Travers'"
-3111,"Travers' Reels","Hughie Travers'"
 3112,"Con Carthy's","Con Carthy's Favourite"
 3112,Kerryslide,"Con Carthy's Favourite"
 3114,"Eiley Buckley's Fancy","Ella Buckley's Fancy"
@@ -13664,6 +13666,7 @@ tune_id,alias,name
 3837,"Ronnie MacLellan's","Rannie MacLellan's"
 3837,"Ronnie Mc Lellan","Rannie MacLellan's"
 3842,"Brendan Ring's","Lisnagun, The"
+3842,"Lios Na GCon","Lisnagun, The"
 3842,Lisagun,"Lisnagun, The"
 3842,"Lisagun, The","Lisnagun, The"
 3842,"Lisna Gun","Lisnagun, The"
@@ -15328,8 +15331,8 @@ tune_id,alias,name
 5072,"Cuidich'n Righ March","Cuidich'n Righ"
 5072,"To Serve The King","Cuidich'n Righ"
 5075,"Gabe O' Sullivans","Gabe O'Sullivan's"
-5076,"Jenny Bell","Jenny Bell"
 5076,"Jenny Bell, The","Jenny Bell"
+5076,"St Lawrence, The","Jenny Bell"
 5077,"Slain Le Maigh","Slan Le Maigh"
 5077,"Slán Le Maigh","Slan Le Maigh"
 5077,"Slán Le Máighe","Slan Le Maigh"
@@ -16153,6 +16156,7 @@ tune_id,alias,name
 5735,"Maid In A Box, The","O'Driscoll's Favourite"
 5735,"Maid In The Box","O'Driscoll's Favourite"
 5735,"O'Driscoll's Fancy","O'Driscoll's Favourite"
+5735,"O'Driscoll's Favorite","O'Driscoll's Favourite"
 5737,"A Stor Mo Croi","A Stor Mo Chroi"
 5737,"Astor Mo Chroi","A Stor Mo Chroi"
 5737,"O Love Of My Heart","A Stor Mo Chroi"
@@ -17204,6 +17208,7 @@ tune_id,alias,name
 6440,"Paddy Murphy's Wife","Braes Of Glendochart, The"
 6442,"Black Bird, The","Blackbird, The"
 6442,"Y Deryn Du","Blackbird, The"
+6443,"Breton Delight","Johnstown, The"
 6443,"Johnstown, The","Johnstown, The"
 6447,"Maloney's Wife","Four Courts, The"
 6447,"Moloney's Wife","Four Courts, The"
@@ -17306,6 +17311,7 @@ tune_id,alias,name
 6510,"Amazon, The",Gahan's
 6510,"Spellan's Fiddle",Gahan's
 6510,"Spillane's Fiddle",Gahan's
+6511,"Slopes Of Benbulben, The","Slopes Of Benbulben"
 6515,"Doctor MacLeod Of Alnick","Doctor MacLeod Of Alnwick"
 6515,"Doctor MacLeod Of Alnwick's March","Doctor MacLeod Of Alnwick"
 6515,"Dr. MacLeod Of Alnwick","Doctor MacLeod Of Alnwick"
@@ -20653,6 +20659,7 @@ tune_id,alias,name
 8838,"Port Mhicí Uí Mhurchú","Straw Rope, The"
 8841,"Paddy's Farewell","Black Rosie"
 8843,"An Grianán","An Grianan"
+8843,"Dan O'Connor's","An Grianan"
 8852,"Doggie On The Carpet","Froggie On The Carport"
 8852,"Doggie On The Carport","Froggie On The Carport"
 8852,"Doggy On The Carpet","Froggie On The Carport"
@@ -24852,6 +24859,7 @@ tune_id,alias,name
 14856,"Cor Mic Tomais",Thompson's
 14856,"Spirvin's Fancy",Thompson's
 14857,"An Posad","Wedding, The"
+14857,"New Wedding, The","Wedding, The"
 14859,"An Sean Gandal Liat","Old Grey Gander, The"
 14859,"An Seanghandal Liath","Old Grey Gander, The"
 14859,"Gray Hen, The","Old Grey Gander, The"
@@ -25638,6 +25646,7 @@ tune_id,alias,name
 17394,"Bonny Lass Of Albany, The","Bonny Lass Of Albanie, The"
 17394,"Mary's Dream","Bonny Lass Of Albanie, The"
 17410,"Salsa Summer","Summer Salsa"
+17414,Molony's,"Owen Malone"
 17419,"In A Mild Evening In May","Air Feasgar Ciuin Ceitein"
 17420,"German #1","Róise Bheag Róise Móire's"
 17421,"German #2","Proinnsias Ó Maonaigh's"
@@ -25684,6 +25693,7 @@ tune_id,alias,name
 17530,"O'Connor's Slide No 1",O'Connor's
 17531,"O'Connor's Slide No 2",O'Connor's
 17537,"O Come, O Come Emmanuel","O Come, O Come Immanuel"
+17545,"Cornphíopa An Dreoilín","Wren, The"
 17549,Christina's,"Jig For Christina"
 17560,"Heaven's Gate ,   Ella's","Heavens Gate"
 17564,"Pigeon Brothers, The","Les Frères Pigeon"
@@ -25734,6 +25744,7 @@ tune_id,alias,name
 17595,Béloeil,"Reel De Béloeil"
 17595,"Reel Béloeil","Reel De Béloeil"
 17600,"My Love To You","Mo Ghra Thu"
+17601,"Gypsy's Lullaby","Gypsie's Lullaby"
 17602,"Three-Note, The","Tom O'Neill's"
 17603,"Reel Saint-Michel","Reel St-Michel"
 17603,"Reel St. Michel","Reel St-Michel"
@@ -26403,6 +26414,7 @@ tune_id,alias,name
 20134,"Bon Voyage Monsieur Dumollet","Iontráil Na DTuismitheoirí"
 20134,"Entry Of The Parents","Iontráil Na DTuismitheoirí"
 20152,"Glen Feshie",Glenfeshie
+20169,"Johnny O'Leary's","Denis O'Keeffe's"
 20185,Thunderhead,"Breast Of St Marc, The"
 20187,"Storstugans Marsch",Mungalåten
 20189,Shanvaghara,Shanvaghera
@@ -26575,6 +26587,7 @@ tune_id,alias,name
 20763,"Brown Hair'd Youth, The","Oigfhear A Chuil Duinn"
 20763,"Oigfhear A Chulduinn","Oigfhear A Chuil Duinn"
 20763,"Young Man Of The Brown Hair","Oigfhear A Chuil Duinn"
+20772,"New Beginning, The",Isobel's
 20775,"30 Years Ago","Thirty Years Ago"
 20775,"Triochad Bliadhain O Shoin","Thirty Years Ago"
 20784,"Boys From Dildo, The","Boys Of Dildo, The"
