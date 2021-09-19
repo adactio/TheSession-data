@@ -1659,7 +1659,6 @@ tune_id,alias,name
 264,"Flannigan's Ball","Lanigan's Ball"
 264,"Lanagan's Ball","Lanigan's Ball"
 264,"Lannigan's Ball","Lanigan's Ball"
-264,"Paddy O'Rafferty","Lanigan's Ball"
 264,"Unplugged And Plowed","Lanigan's Ball"
 265,"Cobbler, The","Cobbler's, The"
 265,"Din Tarrant's","Cobbler's, The"
@@ -3314,7 +3313,6 @@ tune_id,alias,name
 545,"Hen And Her Brood, The","Repeal Of The Union, The"
 545,Millstone,"Repeal Of The Union, The"
 545,"Millstone, The","Repeal Of The Union, The"
-545,"Peel Of The Onion","Repeal Of The Union, The"
 545,"Repeal The Union","Repeal Of The Union, The"
 546,"Lad O'Beirne's","Lad O'Beirne"
 546,O'Beirne's,"Lad O'Beirne"
@@ -6103,6 +6101,7 @@ tune_id,alias,name
 1117,"Belfast City","Spanish Lady"
 1117,"Dublin City","Spanish Lady"
 1117,"Galway City","Spanish Lady"
+1117,"Paddy Doyle's Ass","Spanish Lady"
 1117,"Shanty By The Way","Spanish Lady"
 1117,"Spanish Ladies","Spanish Lady"
 1117,"Thady Regan","Spanish Lady"
@@ -7235,14 +7234,16 @@ tune_id,alias,name
 1372,"Walk Of The Twopenny Postman, The",Garryowen
 1374,"As Pat Came Over The Hill",Cucanandy
 1374,Cacanandy,Cucanandy
+1374,"Colbagh Breck",Cucanandy
+1374,"Colvach Vleac",Cucanandy
 1374,Cucanandy-O,Cucanandy
-1374,"Cucanandy, The",Cucanandy
 1374,Cuckanandy,Cucanandy
 1374,"Dance To Your Daddy",Cucanandy
 1374,"My Mind Will Ne'er Be Easy",Cucanandy
 1374,"My Mind Will Never Be Easy",Cucanandy
+1374,"Pat Came Over The Hill",Cucanandy
 1374,"Pat Came Over The Hill Barefoot",Cucanandy
-1374,"Time Of Day",Cucanandy
+1374,"Pat Came Over The Hill, Barefoot",Cucanandy
 1374,"Time Of Day, The",Cucanandy
 1374,"Whistling Thief, The",Cucanandy
 1375,"Cat's Got The Measles","Jennie's Frolics"
@@ -11046,12 +11047,11 @@ tune_id,alias,name
 2607,"Dew Drops On The Corn","Australian Waters"
 2607,"Jimmy Lyon's","Australian Waters"
 2607,"Vincent Campbell's","Australian Waters"
-2608,"Booley House Jig, The","Cuir Barr Air"
-2608,"Cuir Barr Air","Cuir Barr Air"
-2608,"Dress Her Up Fine","Cuir Barr Air"
-2608,"Dungimmon Jig","Cuir Barr Air"
-2608,"Rouse It","Cuir Barr Air"
-2608,"Top It Off","Cuir Barr Air"
+2608,"Booley House Jig, The","Top It Off"
+2608,"Dress Her Up Fine","Top It Off"
+2608,"Dungimmon Jig","Top It Off"
+2608,"Rouse It","Top It Off"
+2608,"Tip It Off","Top It Off"
 2610,"Old Pinch Of Snuff","Pinch Of Snuff, The"
 2610,"Old Pinch Of Snuff, The","Pinch Of Snuff, The"
 2610,"Pinch Of Sniff","Pinch Of Snuff, The"
@@ -19462,16 +19462,6 @@ tune_id,alias,name
 7837,"Rattlin', Roarin' Willy","Rattlin', Roarin' Willie"
 7837,"Rattling Roaring Willie","Rattlin', Roarin' Willie"
 7837,"Rattling Roaring Willy","Rattlin', Roarin' Willie"
-7841,Cacanandy,"Time Of Day, The"
-7841,"Colbagh Breck / Colvach Vleac","Time Of Day, The"
-7841,Cucanandy,"Time Of Day, The"
-7841,"Dance To Your Daddy","Time Of Day, The"
-7841,"My Mind Will Ne'er Be Easy","Time Of Day, The"
-7841,"My Mind Will Never Be Easy","Time Of Day, The"
-7841,"Pat Came Over The Hill","Time Of Day, The"
-7841,"Pat Came Over The Hill Barefoot","Time Of Day, The"
-7841,"Pat Came Over The Hill, Barefoot","Time Of Day, The"
-7841,"Whistling Thief, The","Time Of Day, The"
 7842,"Silver Lake, The Carrolltown Breakdown",Shaddighee
 7844,"Simple Gifts","Lord Of The Dance, The"
 7844,"Simple Pleasures","Lord Of The Dance, The"
@@ -20140,6 +20130,7 @@ tune_id,alias,name
 8409,"Inniskilling Dragoons","Enniskillen Dragoons, The"
 8409,"Inniskilling Dragoons, The","Enniskillen Dragoons, The"
 8409,"March Of The Enniskillen Dragoons, The","Enniskillen Dragoons, The"
+8411,"Kinny Cally Hill","Kinny Cally, The"
 8411,"Kinnycally, The","Kinny Cally, The"
 8414,"I'm Not The Man You Think","You Think I Am, But I'm Not"
 8418,"Erin Shore","Paddy's Green Shamrock Shore"
@@ -21741,6 +21732,8 @@ tune_id,alias,name
 10094,"Pretty Maid Milking Her Cow","Thomas' Farewell"
 10094,"Thomas's Farewell","Thomas' Farewell"
 10095,"March Of St. Timothy, The","March Of Saint Timothy, The"
+10096,"Ned Connor's","Bridgie Con Matt's"
+10096,"Sleamhnán Na Sróine","Bridgie Con Matt's"
 10099,"Devochka Nadya","Russian Two-Step"
 10099,Karapyet,"Russian Two-Step"
 10104,"Jig Arglwydd Caernarfon","Lord Of Carnarvan's Jigg"
@@ -25222,6 +25215,8 @@ tune_id,alias,name
 15808,"Polska Från Sexdrega","Polska Efter Carl-Erik Berndt"
 15808,"Polska Från Sexdrega #3","Polska Efter Carl-Erik Berndt"
 15808,"Sexdrega Polska","Polska Efter Carl-Erik Berndt"
+15817,"Finley's Gold",Scandinavian
+15817,"Finley's Gold",Scandinavian
 15835,"Felgubben Polska",Felgubben
 15845,Gla'låten,"Glad Låt"
 15845,Gladlåten,"Glad Låt"
@@ -26378,7 +26373,6 @@ tune_id,alias,name
 19917,"Ayrshire Lasses, The","Ereshire Lasses, The"
 19924,"Going Back To St. John's","Goin' Back To Old St. John's"
 19925,"Valetta, The","Jemmy Duffy's"
-19927,"Eddie Duffy's Lannigan's Ball","Lannigan's Ball"
 19939,"Three Men On A Horse","Three Men On A White Horse"
 19940,"William Marshall's Jig",Jig
 19941,"Jemmy Duffy's #2","Jemmy Duffy's"
@@ -26634,3 +26628,4 @@ tune_id,alias,name
 21034,"Sønderho Bridal Trilogy No. 2","Andet Brudestykke"
 21034,"Sønderho Brudestykker No. 2","Andet Brudestykke"
 21038,"Tinner's Fancy","Syans Den Bal"
+21051,"Ellie Mhicilín's","Preabphort Ellie Mhicilín"
