@@ -941,6 +941,7 @@ tune_id,alias,name
 129,"Dispute At The Crossroads, The","Dr. Gilbert's"
 129,"Doctor Gilbert","Dr. Gilbert's"
 129,"Doctor Gilbert's","Dr. Gilbert's"
+129,"Doctor Gilbert's Fancy","Dr. Gilbert's"
 129,"Donegal Gilbert","Dr. Gilbert's"
 129,"Dr Gilbert","Dr. Gilbert's"
 129,"Dr Gilbert's","Dr. Gilbert's"
@@ -5394,6 +5395,7 @@ tune_id,alias,name
 976,"Maids Of Galway, The","Old Hag Of Galway, The"
 976,"Mayo Lassies, The","Old Hag Of Galway, The"
 976,"Old Maid Of Galway, The","Old Hag Of Galway, The"
+976,"Old Maids Of Galway, The","Old Hag Of Galway, The"
 976,"Paddy Gone To France","Old Hag Of Galway, The"
 976,"Paddy's Gone To France","Old Hag Of Galway, The"
 976,"Traynor's Rambles","Old Hag Of Galway, The"
@@ -6831,6 +6833,7 @@ tune_id,alias,name
 1273,"Pride Of Cluinte, The","Navvy On The Shore, The"
 1274,"Aggie Whyte","New Found Out, The"
 1274,"Aggie Whyte's","New Found Out, The"
+1274,"An Slipéar Sróil","New Found Out, The"
 1274,"High Road To Galway, The","New Found Out, The"
 1274,"Satin Slipper, The","New Found Out, The"
 1274,"Seamus Connolly's","New Found Out, The"
@@ -8134,6 +8137,7 @@ tune_id,alias,name
 1603,"Smoochi Hornpipe, The","Woodland Flowers"
 1603,"Woodland Flowers Schottische, The","Woodland Flowers"
 1603,"Woodland Flowers, The","Woodland Flowers"
+1604,"""Kelsey's Wee Reel""","Kelsey's Wee (Reel)"
 1605,"A Job Of Journeywork","Job Of Journeywork, The"
 1605,"Job Of Journey Work","Job Of Journeywork, The"
 1605,"Job Of Journey Work, The","Job Of Journeywork, The"
@@ -9127,7 +9131,9 @@ tune_id,alias,name
 1888,"Se 'n Righ A Th'againn Is Fearr Leinn","Behind The Bush In The Garden"
 1888,"Tá Do Mhargadh Déanta","Behind The Bush In The Garden"
 1888,"Teidhir Abhaile Riú","Behind The Bush In The Garden"
+1888,"Téir Abhaile","Behind The Bush In The Garden"
 1888,"Téir Abhaile Riú","Behind The Bush In The Garden"
+1888,"Their Abhaile","Behind The Bush In The Garden"
 1888,"Tidy Girleen","Behind The Bush In The Garden"
 1888,"Tidy Girleen, The","Behind The Bush In The Garden"
 1888,"Tidy Gurline","Behind The Bush In The Garden"
@@ -9329,6 +9335,7 @@ tune_id,alias,name
 1952,"Miss Maxwell Gordon's","Eamon Coyne's"
 1953,"Castlebar Races","Lost And Found, The"
 1953,"Castlebar Races, The","Lost And Found, The"
+1953,Coleman's,"Lost And Found, The"
 1953,"Dutchman's Frolics, The","Lost And Found, The"
 1953,"Lost And Found, The","Lost And Found, The"
 1954,"Cailini Deasa Mhaigh","Pretty Girls Of Mayo, The"
@@ -9982,6 +9989,7 @@ tune_id,alias,name
 2208,"Presbyterian Hornpipe","Presbyterian, The"
 2208,"Presbyterian Hornpipe, The","Presbyterian, The"
 2209,"John 'Watt' Henry's","John Watt Henry's"
+2209,"John ""Watt"" Henry's","John Watt Henry's"
 2209,"John Henry's","John Watt Henry's"
 2209,"Johnny Henry's","John Watt Henry's"
 2209,"Johny Watt Henry's Favourite","John Watt Henry's"
@@ -11502,6 +11510,7 @@ tune_id,alias,name
 2781,"Johnnie I Do Miss You","Johnny I Do Miss You"
 2781,"Johnnie, I Do Miss You","Johnny I Do Miss You"
 2781,"Johnnie, I Do Miss You!","Johnny I Do Miss You"
+2781,"Johnny Do I Miss You?","Johnny I Do Miss You"
 2781,"Johnny I Do Love You","Johnny I Do Miss You"
 2781,"Johnny I Do Miss You!","Johnny I Do Miss You"
 2781,"Tureengarbh Glen","Johnny I Do Miss You"
@@ -11917,6 +11926,7 @@ tune_id,alias,name
 2997,"Green Fields Of Milltown, The","Sweet Flowers Of Milltown, The"
 2997,"Green Fields Of Miltown, The","Sweet Flowers Of Milltown, The"
 2997,"John McMahon's","Sweet Flowers Of Milltown, The"
+2997,Morrison's,"Sweet Flowers Of Milltown, The"
 2997,"Sweet Flowers Of Miltown, The","Sweet Flowers Of Milltown, The"
 2997,"Tom Morrison's","Sweet Flowers Of Milltown, The"
 2998,"Fred Pidgeon's No. 1","Hills Of Tara, The"
@@ -12313,7 +12323,6 @@ tune_id,alias,name
 3151,"Hangover Poo, The","Hangover P**, The"
 3151,"Hangover Poos, The","Hangover P**, The"
 3152,"Micko Russell's","Micho Russell's"
-3154,Cronan's,"Roddy McDonald's Fancy"
 3154,"Roddie MacDonald's Favourite","Roddy McDonald's Fancy"
 3154,"Roddy MacDonald's","Roddy McDonald's Fancy"
 3154,"Roddy MacDonald's Fancy","Roddy McDonald's Fancy"
@@ -15591,6 +15600,7 @@ tune_id,alias,name
 5252,"March Of The Meeatoiteen Bull","Bó Mhín Na Toitean"
 5252,"March Of The Meena Toiten Bull","Bó Mhín Na Toitean"
 5253,"Anna-Wendy's March",Anna-Wendy's
+5255,"Basket Of Eggs, The","Washington, The"
 5258,"Ballina Lass, The","Come Up To The Room, I Want Ye"
 5258,"Ballina Lasses, The","Come Up To The Room, I Want Ye"
 5258,"Ballina Lassies","Come Up To The Room, I Want Ye"
@@ -16315,8 +16325,6 @@ tune_id,alias,name
 5867,"Geese In The Bog, The","Lark's March, The"
 5867,"Lark In The Bog, The","Lark's March, The"
 5867,"Tom Broderick's","Lark's March, The"
-5870,"John 'Watt' Henry's",Johnny
-5870,"John ""Watt"" Henry's",Johnny
 5871,"Reel Des Bottes Sauvages","Reel Du Semeur"
 5871,Sower's,"Reel Du Semeur"
 5873,"Bob O' Fettercairn","Bob Of Fettercairn, The"
@@ -17797,6 +17805,7 @@ tune_id,alias,name
 6836,"Boney's Retreat March","Boney's Retreat"
 6839,"Bello Horizonte",Horizonto
 6841,"Bonnie Mulligan's","Bonnie Mulligan"
+6842,"Sheep In The Meadow, The","Contentment Is Wealth"
 6845,"Blue Cap","La Toque Bleu"
 6845,"Blue Cap, The","La Toque Bleu"
 6845,"Blue Tuque","La Toque Bleu"
@@ -19016,10 +19025,11 @@ tune_id,alias,name
 7502,"Jockey's Lament","Over The Hills And Far Away"
 7502,"O'er The Hills And Far Away","Over The Hills And Far Away"
 7505,"Bachelor's Walk #1","Bachelor's Walk"
-7510,"Glengariff Hornpipe","Glengariff Bay"
+7510,Glengariff,"Glengariff Bay"
 7510,"Glengariff Horpipe, The","Glengariff Bay"
 7510,"Glengariff, The","Glengariff Bay"
-7510,"Glengarriff Hornpipe","Glengariff Bay"
+7510,Glengarriff,"Glengariff Bay"
+7510,"Glengarriff, The","Glengariff Bay"
 7511,"Merry Harriers","Blackberry Blossom, The"
 7511,"O'Mealy's Blackberry Blossom","Blackberry Blossom, The"
 7511,"Vesey's Harriers","Blackberry Blossom, The"
@@ -20269,6 +20279,7 @@ tune_id,alias,name
 8535,"Snow On The Hill","Snow On The Hills"
 8535,"Snow On The Hills, The","Snow On The Hills"
 8537,"Highland Whiskey","Highland Whisky"
+8541,Ballingarry,Forde's
 8541,"Con Thadhgo's",Forde's
 8541,"Matt Hayes's",Forde's
 8541,"Matt Teehan's",Forde's
@@ -20749,6 +20760,7 @@ tune_id,alias,name
 8918,"John Walsh's #2","Daly's Mill"
 8918,"John Walsh's No.2","Daly's Mill"
 8919,"Fear A Bhata","Fear A' Bhata"
+8919,"Fear A'Bhata","Fear A' Bhata"
 8919,"Fear Ah Bhata","Fear A' Bhata"
 8919,"Fhear A Bhata","Fear A' Bhata"
 8919,"Fhear Ni Bhata","Fear A' Bhata"
@@ -21572,7 +21584,9 @@ tune_id,alias,name
 9873,"Johnny Leary's","Munster Bank, The"
 9873,Murphy's,"Munster Bank, The"
 9874,Sonatina,Sonantina
-9882,"Mrs Ramsey Of Barton","Mrs Ramsay Of Barton"
+9882,"John L. Sullivan's","John L. Sullivan"
+9882,"Mrs Ramsay Of Barton","John L. Sullivan"
+9882,"Mrs Ramsey Of Barton","John L. Sullivan"
 9888,"Achill Sound","Mayo Lasses, The"
 9888,"Gearrchailiú Chontae Mhuigheo","Mayo Lasses, The"
 9888,"Girls Of County Mayo","Mayo Lasses, The"
@@ -22003,6 +22017,7 @@ tune_id,alias,name
 10432,"Rosin The Bow","Men Of The West, The"
 10433,"Flowers Of Cahirciveen","Countryman's, The"
 10433,"Flowers Of Cahirciveen, The","Countryman's, The"
+10434,"Ged Foley's","Mouth Organ, The"
 10434,Moonshine,"Mouth Organ, The"
 10440,Snowshoer's,"Snow Shoer's"
 10443,Caerdroea,Caerdroin
@@ -25216,7 +25231,6 @@ tune_id,alias,name
 15808,"Polska Från Sexdrega #3","Polska Efter Carl-Erik Berndt"
 15808,"Sexdrega Polska","Polska Efter Carl-Erik Berndt"
 15817,"Finley's Gold",Scandinavian
-15817,"Finley's Gold",Scandinavian
 15835,"Felgubben Polska",Felgubben
 15845,Gla'låten,"Glad Låt"
 15845,Gladlåten,"Glad Låt"
@@ -26403,6 +26417,7 @@ tune_id,alias,name
 20083,"Partie Du Lancier","Bridal Festival Quadrille"
 20083,"Partie Du Lancier #2","Bridal Festival Quadrille"
 20083,"Partie Du Lancier No. 2","Bridal Festival Quadrille"
+20085,"Miss Dowling's Fancy","Miss Downing's Fancy"
 20098,"Hyde & Seek","Hyde And Seek"
 20110,"Cory's Jig",Cory's
 20113,Djursdalapolskan,"Melancoliska Pollonessan"
