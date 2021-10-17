@@ -576,16 +576,16 @@ tune_id,alias,name
 77,"Jenny Hind's","My Love Is In America"
 77,"My Love Is In Amerikay","My Love Is In America"
 77,"My Love She's In America","My Love Is In America"
-78,"Anna Maculeen","Eanach Mhic Coilin"
-78,"Anna MaCullen","Eanach Mhic Coilin"
-78,"Annamaculeen, The","Eanach Mhic Coilin"
-78,Donaghue's,"Eanach Mhic Coilin"
-78,"Down The Meadows","Eanach Mhic Coilin"
-78,"Eonach Mhic Coilín","Eanach Mhic Coilin"
-78,"Kevin Henry's","Eanach Mhic Coilin"
-78,"Laccaroe, The","Eanach Mhic Coilin"
-78,"Old Ashplant, The","Eanach Mhic Coilin"
-78,"Tyrone Ashplant, The","Eanach Mhic Coilin"
+78,"Anna Maculeen",Lacarrow
+78,"Anna MaCullen",Lacarrow
+78,"Annamaculeen, The",Lacarrow
+78,Donaghue's,Lacarrow
+78,"Down The Meadows",Lacarrow
+78,"Eonach Mhic Coilín",Lacarrow
+78,"Kevin Henry's",Lacarrow
+78,"Laccaroe, The",Lacarrow
+78,"Old Ashplant, The",Lacarrow
+78,"Tyrone Ashplant, The",Lacarrow
 79,"Aisling Pháidín Uí Riain","Paddy Ryan's Dream"
 79,"Miss Grant Of Laggan","Paddy Ryan's Dream"
 79,"Miss Lyall","Paddy Ryan's Dream"
@@ -1442,12 +1442,14 @@ tune_id,alias,name
 227,"Gol Agus Gáire Ná HÉireann","Crooked Road, The"
 227,"Smiles & Tears Of Erin","Crooked Road, The"
 227,"Smiles And Tears Of Erin, The","Crooked Road, The"
+228,"Cavan Lasses","Humours Of Ennistymon, The"
 228,"Copper And Brass","Humours Of Ennistymon, The"
 228,"Coppers & Brass","Humours Of Ennistymon, The"
 228,"Coppers And Brass","Humours Of Ennistymon, The"
 228,"Hardigan's Fancy","Humours Of Ennistymon, The"
 228,"Hartigan's Fancy","Humours Of Ennistymon, The"
 228,"Hartigans Fancy","Humours Of Ennistymon, The"
+228,"Humors Of Ennistymon, The","Humours Of Ennistymon, The"
 228,"Humours Of Inish Dioman, The","Humours Of Ennistymon, The"
 229,Dowd's,"Dowd's Favourite"
 229,O'Dowd's,"Dowd's Favourite"
@@ -9004,6 +9006,7 @@ tune_id,alias,name
 1851,"An Luaradan","Luachrachán's, The"
 1851,"An Luradán","Luachrachán's, The"
 1851,"An Lurgadan","Luachrachán's, The"
+1851,"Baby Finger, The","Luachrachán's, The"
 1851,Crehan's,"Luachrachán's, The"
 1851,"Crehan's Fiddle","Luachrachán's, The"
 1851,"Dermot Grogan's","Luachrachán's, The"
@@ -9840,6 +9843,7 @@ tune_id,alias,name
 2143,"Tig Rafferty","Tír Rafartaigh"
 2143,"Tigh Na Rabhartaigh","Tír Rafartaigh"
 2143,"Tigh Rafairtaigh","Tír Rafartaigh"
+2143,"Tigh Rafartaigh","Tír Rafartaigh"
 2143,"Tigh Rafferty","Tír Rafartaigh"
 2143,"Tigh Raifeartaigh","Tír Rafartaigh"
 2143,"Tigh Raifeirtaigh","Tír Rafartaigh"
@@ -10906,6 +10910,7 @@ tune_id,alias,name
 2545,O'Hickey's,"Paddy Taylor's"
 2545,"Paddy Keenan's","Paddy Taylor's"
 2545,"Paddy Tailor's","Paddy Taylor's"
+2545,Reenan's,"Paddy Taylor's"
 2545,"Youngest Daughter, The","Paddy Taylor's"
 2547,"Maid Of Glengarrysdale, The","Maids Of Glengarry, The"
 2548,"Vega Mandolin, The","Vega Mandolin"
@@ -12559,13 +12564,13 @@ tune_id,alias,name
 3254,"Primrose Glen, The","Lark On The Strand, The"
 3254,"Primrose Vale, The","Lark On The Strand, The"
 3254,"Wicky Sears","Lark On The Strand, The"
-3256,"Baidin Feilimi","Baidin Fheilimi"
-3256,"Baidin Feilimid","Baidin Fheilimi"
-3256,"Baidin Feilimidh","Baidin Fheilimi"
-3256,"Baidin Fheilemi","Baidin Fheilimi"
-3256,"Baidin Fheilimidh","Baidin Fheilimi"
-3256,"Baidin Pheilimi","Baidin Fheilimi"
-3256,"Feilimi's Boat","Baidin Fheilimi"
+3256,"Baidin Feilimi","Báidín Fheilimí"
+3256,"Baidin Feilimid","Báidín Fheilimí"
+3256,"Baidin Feilimidh","Báidín Fheilimí"
+3256,"Baidin Fheilemi","Báidín Fheilimí"
+3256,"Baidin Fheilimidh","Báidín Fheilimí"
+3256,"Baidin Pheilimi","Báidín Fheilimí"
+3256,"Feilimi's Boat","Báidín Fheilimí"
 3257,"Joe 'Lacky' Gallagher's","Up Leitrim"
 3257,"John McKenna's","Up Leitrim"
 3257,McKenna's,"Up Leitrim"
@@ -20680,6 +20685,7 @@ tune_id,alias,name
 8860,"Miss Gunning's Fancy","Miss Gunning's Rant"
 8860,"Miss Gunnings","Miss Gunning's Rant"
 8861,"Gullane, The","Jimmy Doyle's"
+8861,"Hills Above Killarney, The","Jimmy Doyle's"
 8861,"Jim Keefe's","Jimmy Doyle's"
 8861,"Jim Keeffe's","Jimmy Doyle's"
 8861,"Jim Keeffe's #1","Jimmy Doyle's"
@@ -24982,7 +24988,10 @@ tune_id,alias,name
 15131,"Young Dans","Young Dan's"
 15131,"Young Dans'","Young Dan's"
 15132,"Tostal, The","An Tóstal"
-15141,"Poc Buille, Poc Air Buille, It Is Not Day, No, Nor Morning","Mad Buckgoat, The"
+15141,"An Puc Ar Buille","Mad Buckgoat, The"
+15141,"It Is Not Day, No, Nor Morning","Mad Buckgoat, The"
+15141,"Poc Air Buille","Mad Buckgoat, The"
+15141,"Poc Buille","Mad Buckgoat, The"
 15142,"An Bockagh, The Lame Yellow Beggar","Beggar, The"
 15146,"Round The House And Mind The Dresser","Around The House And Mind The Dresser"
 15170,Gus,Gustavo
@@ -25229,6 +25238,7 @@ tune_id,alias,name
 15808,"Polska Från Sexdrega #3","Polska Efter Carl-Erik Berndt"
 15808,"Sexdrega Polska","Polska Efter Carl-Erik Berndt"
 15817,"Finley's Gold",Scandinavian
+15820,Truffles,"E To E"
 15835,"Felgubben Polska",Felgubben
 15845,Gla'låten,"Glad Låt"
 15845,Gladlåten,"Glad Låt"
@@ -26648,4 +26658,4 @@ tune_id,alias,name
 21060,"Wind Song",Windsong
 21068,"La Belle C'est Endormie","La Belle S'est Endormie"
 21068,"La Belle C'est Endormir","La Belle S'est Endormie"
-21082,"Knitting, The","Knitting, The"
+21102,"Nehyl's Fiddle","Tom Dayhill's Fiddle"
