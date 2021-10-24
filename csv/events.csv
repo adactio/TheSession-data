@@ -125,7 +125,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 148,"Le Grand Bal De Bath","2006-10-28 00:00:00","2006-10-29 00:00:00","St Gregory's School","Combe Hay Lane",Bath,Somerset,England,51.34152603,-2.39027119
 86,"Claire Keville & Pat O'Connor - Irish Traditional Music On Concertina & Fiddle","2006-10-28 20:00:00","2006-10-28 23:00:00","The Coatesville Cultural Society","143 E. Lincoln Highway",Coatesville,Pennsylvania,USA,39.98321915,-75.82308197
 136,"Claire Keville, Pat O'Connor, Pat Egan","2006-10-28 20:00:00","2006-10-28 00:00:00","The Coatesville Cultural Society","143 E. Lincoln Highway",Coatesville,Pennsylvania,USA,39.98321915,-75.82308197
-141,"Caceres Irish Fleadh","2006-11-02 00:00:00","2006-11-05 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47315598,-6.37595415
+141,"Caceres Irish Fleadh","2006-11-02 00:00:00","2006-11-05 00:00:00","Plaza De Santa María","Plaza De Santa María",Cáceres,Extremadura,Spain,39.47462463,-6.37035322
 119,"Copenhagen Irish Festival","2006-11-02 19:00:00","2006-11-05 00:00:00","Copenhagen Irish Festival","St. Kannike Stræde 19",Copenhagen,Copenhagen,Denmark,55.67609787,12.56833744
 133,"4th Irish Workshop","2006-11-03 00:00:00","2006-11-05 00:00:00",VHS-Nord,"Dr.-Schmitt-Str. 6",Ismaning,Bayern,Germany,48.22630310,11.67642117
 132,"Music Workshop Flute, Harp, Violin, Piano","2006-11-03 10:00:00","2006-11-05 18:00:00","Ballymaloe House",,Shanagarry,Cork,Ireland,51.85331345,-8.02128887
@@ -538,7 +538,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 605,"Cé And Gan Bua","2007-11-07 20:00:00","2007-11-07 23:45:00","Republic Nightclub","1520 N Fremont St",Chicago,Illinois,USA,41.90919876,-87.65107727
 476,"Ennis Trad Festival","2007-11-08 00:00:00","2007-11-12 00:00:00","County Clare",,Ennis,Clare,Ireland,52.84742737,-8.98873806
 506,"Fiddlers Meet","2007-11-08 00:00:00","2007-11-11 00:00:00","Buckden House",,Buckden,Yorkshire,England,54.19134903,-2.08707690
-568,"Cáceres Irish Fleadh","2007-11-08 00:00:00","2007-11-11 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47315598,-6.37595415
+568,"Cáceres Irish Fleadh","2007-11-08 00:00:00","2007-11-11 00:00:00","Plaza De Santa María","Plaza De Santa María",Cáceres,Extremadura,Spain,39.47462463,-6.37035322
 587,"Máire Ní Chathasaigh and Chris Newman","2007-11-08 20:00:00","2007-11-08 22:15:00","Roscommon Arts Centre","Circular Road",Roscommon,Roscommon,Ireland,53.62736893,-8.18968582
 493,"Spirit Of Voice 07","2007-11-08 21:00:00","2007-11-11 23:15:00","Various Venues",,Galway,Galway,Ireland,53.27379608,-9.05177975
 599,"Julie Fowlis And Guests","2007-11-09 20:00:00","2007-11-09 00:00:00","Queen Elizabeth Hall","Southbank Centre",London,London,England,51.50643539,-0.10446770
@@ -1825,7 +1825,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1998,"County Sessions -  East Clare Night, hosted by Martin Hayes","2010-06-29 20:00:00","2010-06-29 23:00:00","The Button Factory",,Dublin,Dublin,Ireland,53.34980392,-6.26030970
 2016,"East Clare Night hosted by Martin Hayes","2010-06-29 20:00:00","2010-06-29 23:00:00","The Button Factory",,Dublin,Dublin,Ireland,53.34980392,-6.26030970
 1956,"East Clare Fiddle Festival","2010-06-30 00:00:00","2010-07-03 00:00:00","Various Venues",,Feakle,Clare,Ireland,52.92546082,-8.64846992
-1977,"SBO Band Summer Tour 2010","2010-06-30 20:00:00","2010-06-30 23:00:00","The Cumberland Arms","James Place Street","Newcastle Upon Tyne","Tyne and Wear",England,54.97539139,-1.58926415
+1977,"SBO Band Summer Tour 2010","2010-06-30 20:00:00","2010-06-30 23:00:00","The Cumberland Arms","James Place Street","Newcastle Upon Tyne","Tyne and Wear",England,54.97500610,-1.58883905
 1978,"SBO Band Summer Tour 2010","2010-07-01 21:00:00","2010-07-01 23:45:00",Hootananny,"67 Church Street",Inverness,Highlands,Scotland,57.47896576,-4.22713089
 1680,"Connacht Fleadh Cheoil","2010-07-02 00:00:00","2010-07-04 00:00:00","Various Venues",,Mohill,Leitrim,Ireland,53.92240143,-7.86883926
 1983,"Sark Folk Festival","2010-07-02 14:00:00","2010-07-04 20:00:00","Various Venues",,Sark,Sark,England,49.43019104,-2.36090350
@@ -4837,7 +4837,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7293,"Return to Camden Town Festival","2018-10-23 00:00:00","2018-10-29 00:00:00","Various Venues",,Camden,London,England,51.54324341,-0.15192600
 7294,"The Friel Sisters","2018-10-23 19:00:00","2018-10-23 19:00:00","Green Note","106 Parkway",Camden,London,England,51.53724289,-0.14587010
 7295,"Buttons and Bows with Fair Plé Ladies of London","2018-10-24 19:30:00","2018-10-24 22:30:00","Clayton Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55613708,-0.21422189
-7316,"15th Cáceres Irish Fleadh","2018-10-25 00:00:00","2018-10-28 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47315598,-6.37595415
+7316,"15th Cáceres Irish Fleadh","2018-10-25 00:00:00","2018-10-28 00:00:00","Plaza De Santa María","Plaza De Santa María",Cáceres,Extremadura,Spain,39.47462463,-6.37035322
 7364,"Fiddle Masterclass","2018-10-25 10:30:00","2018-10-28 13:30:00","Private Home",,Valleraugue,Cévennes,France,44.61725998,3.98899007
 7122,"Cancelled: “Soul Clap its Hands and Sing”:Peter Fallon, Oisín Leech & Saramai Leech","2018-10-25 19:00:00","2018-10-25 19:00:00","Poetry Ireland","11 Parnell Square East",Dublin,Dublin,Ireland,53.35415268,-6.26272058
 7296,"Mairtín O'Connor, Cathal Hayden and Séamie O'Dowd with Órlaith McAuliffe, Daithí Gormley, Dylan Carlos and Catherine McHugh","2018-10-27 19:30:00","2018-10-27 23:00:00","London Irish Centre","50-52 Camden Square",Camden,London,England,51.54388046,-0.13234000
@@ -5115,7 +5115,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7606,Goitse,"2019-10-04 20:00:00","2019-10-04 20:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
 7628,"Andy Irvine","2019-10-04 20:00:00","2019-10-04 20:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
 7641,"Celtic Harmonies International Festival","2019-10-05 00:00:00","2019-10-13 00:00:00","Various Venues",,Knowlton,Quebec,Canada,45.21576309,-72.50973511
-7618,"Uillean pipes workshop","2019-10-05 09:00:00","2019-10-05 17:00:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.29211044,-3.42163897
+7618,"Uillean pipes workshop","2019-10-05 09:00:00","2019-10-05 17:00:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.27369690,-3.55272794
 7643,"CCE Irish Folk Festival","2019-10-05 12:00:00","2019-10-05 18:30:00","Stacy C. Sherwood Community Center","3740 Old Lee Highway",Fairfax,Virginia,USA,38.85118866,-77.29924774
 7621,"Concertina workshop with Brenda Castles","2019-10-05 14:00:00","2019-10-05 14:00:00","Irish Arts Center","553 West 51st Street",Manhattan,"New York",USA,40.76641464,-73.99349976
 7653,"James Carty, Eimear McGeown, and Sinead Egan","2019-10-05 19:00:00","2019-10-05 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
@@ -5139,7 +5139,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7674,"Handed Down Sat Oct 19 “ Kerry  Music recorded in New York 1950’s”  Denis Murphy and Corneilus O Sullivan presented by Bryan O Leary","2019-10-19 20:00:00","2019-10-19 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7319,"Blackie O'Connell & Wild Atlantic Music Tours","2019-10-20 00:00:00","2019-10-26 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84469986,-8.97709560
 7683,"Leonard Barry, Declan Folan, Shane McGowan – 'Hurry The Jug' Album Launch","2019-10-20 04:00:00","2019-10-20 04:00:00","The Glasshouse Hotel","Swan Point, Abbeyquarter North",Sligo,Sligo,Ireland,54.27246094,-8.47469902
-7642,"16th Cáceres Irish Fleadh","2019-10-25 00:00:00","2019-10-27 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47315598,-6.37595415
+7642,"16th Cáceres Irish Fleadh","2019-10-25 00:00:00","2019-10-27 00:00:00","Plaza De Santa María","Plaza De Santa María",Cáceres,Extremadura,Spain,39.47462463,-6.37035322
 7644,"Return to London Town Festival of traditional Irish music, song and dance","2019-10-25 00:00:00","2019-10-28 00:00:00","Various Venues",,Camden,London,England,51.54324341,-0.15192600
 7664,"Patrick O'Keeffe Traditional Music Festival","2019-10-25 00:00:00","2019-10-28 00:00:00","Various Venues",,Castleisland,Kerry,Ireland,52.23289871,-9.46014881
 7698,Cara,"2019-10-25 08:00:00","2019-10-25 08:00:00","Whale Theatre","Theatre Lane",Greystones,Wicklow,Ireland,53.14458466,-6.06452227
@@ -5393,7 +5393,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7826,"Cancelled: NASC Folk and Traditional Music Festival","2020-09-26 00:00:00","2020-09-26 00:00:00","Marley House","Marlay Park, Grange Road",Rathfarnham,Dublin,Ireland,53.27328491,-6.26886511
 7933,"Caoimhín Ó Raghallaigh and Cormac Begley","2020-09-30 20:00:00","2020-09-30 22:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33446503,-6.25827360
 7857,"The 41st Cork Folk Festival","2020-10-01 00:00:00","2020-10-04 00:00:00","Various Venues",,Cork,Cork,Ireland,51.89958954,-8.47320366
-7918,"UP workshop","2020-10-03 09:30:00","2020-10-03 17:30:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.29211044,-3.42163897
+7918,"UP workshop","2020-10-03 09:30:00","2020-10-03 17:30:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.27369690,-3.55272794
 7844,"Portal Music Week","2020-10-08 00:00:00","2020-10-12 00:00:00",,,,,,,
 7941,"The Bellingham Irish Festival","2020-10-09 17:15:00","2020-10-11 18:00:00",,,,,,,
 7890,"Cancelled: Handed Down: “Rare Recordings from the Attic of Denis Murphy and Seamus Ennis”","2020-10-10 20:00:00","2020-10-10 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
@@ -5410,7 +5410,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7954,"Bandcamp Friday - No Bandcamp fees for artists","2020-11-06 00:00:00","2020-11-07 00:00:00",,,,,,,
 7946,"Gerry O'Connor presents The Rose in the Gap","2020-11-06 20:00:00","2020-11-06 21:30:00",,,,,,,
 7943,"International Uilleann Piping Day","2020-11-07 00:00:00","2020-11-07 00:00:00",,,,,,,
-7934,"International Uilleann Piping Day","2020-11-07 09:30:00","2020-11-07 21:00:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.29211044,-3.42163897
 7949,"Whelan Master Sessions #1: Kevin Crawford and Haley Richardson","2020-11-07 14:00:00","2020-11-07 16:00:00",,,,,,,
 7947,"Siobhán Armstrong and Eibhlís Ní Ríordáin","2020-11-07 20:00:00","2020-11-07 21:00:00",,,,,,,
 7948,"Gerry O’Connor and Gilles le Bigot","2020-11-08 20:00:00","2020-11-08 21:00:00",,,,,,,
@@ -5453,7 +5452,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7994,"Conor Connolly, Pádraig Ó Dubhghaill and Ronan O’Flaherty in concert","2020-12-18 20:00:00","2020-12-18 20:00:00",,,,,,,
 7981,"Whelan Master Session #6: Kevin Burke","2020-12-19 00:00:00","2020-12-19 00:00:00",,,,,,,
 7995,"Cherish The Ladies: Christmas in Ireland concert","2020-12-19 00:00:00","2020-12-19 00:00:00",,,,,,,
-7942,"UP workshop","2020-12-19 09:30:00","2020-12-19 18:00:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.29211044,-3.42163897
+7942,"UP workshop","2020-12-19 09:30:00","2020-12-19 18:00:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.27369690,-3.55272794
 7972,"1st Internet FluteFling (Day #2)","2020-12-19 10:30:00","2020-12-19 14:15:00",,,,,,,
 7996,"The Cobblestone Sessions","2020-12-20 17:00:00","2020-12-20 17:00:00",,,,,,,
 8004,"The 22nd Annual Pipes of Christmas","2020-12-24 00:00:00","2020-12-26 00:00:00",,,,,,,
@@ -5808,7 +5807,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8352,"Andy Marty, John Carty, Gino Lupari and Matt Griffin with the Goodman Trio and Eimear McGeown, James Carty and Jonas Fromseier","2021-10-22 19:30:00","2021-10-22 22:30:00","Clayton Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55613708,-0.21422189
 8368,"Dónal Lunny and Paddy Glackin","2021-10-22 20:00:00","2021-10-22 20:00:00","Irish Institute Of Music And Song","Church Street",Balbriggan,Dublin,Ireland,53.60887527,-6.17982006
 8371,"String Summit Weekend with the Seamus Egan Project","2021-10-23 00:00:00","2021-10-24 00:00:00",,,,,,,
-8390,"Rowan Leslie: Escaping The Dawn album launch 2.0","2021-10-23 00:00:00","2021-10-23 00:00:00","The Cumberland Arms",,"Newcastle Upon Tyne",Northumberland,England,54.97539139,-1.58918595
+8390,"Rowan Leslie: Escaping The Dawn album launch 2.0","2021-10-23 00:00:00","2021-10-23 00:00:00","The Cumberland Arms","James Place Street","Newcastle Upon Tyne","Tyne and Wear",England,54.97500610,-1.58883905
 8381,"Piping workshop with Peter Merbeth and Brewen Favrau","2021-10-23 09:30:00","2021-10-23 17:00:00","Lise Diwan Karaez (lycée Diwan De Carhaix)","Rue Sébastien Le Corvellec",Carhaix,Bretagne,France,48.27120972,-3.55540729
 8363,"Fiddle workshop with Tara Breen","2021-10-23 11:00:00","2021-10-23 13:00:00",,,,,,,
 8353,"Jacqueline McCarthy and Tommy Keane with Michelle Mulcahy and Mick Mulvey and Pete Quinn","2021-10-23 14:00:00","2021-10-31 17:00:00","Clayton Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55613708,-0.21422189
@@ -5824,11 +5823,13 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8376,"Return To London Town Festival 2021 Sunday Evening ‘Ceili For All’","2021-10-24 20:00:00","2021-10-24 20:00:00","Clayton Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55613708,-0.21422189
 8377,"Return To London Town Festival 2021 Monday Afternoon Concert","2021-10-25 14:00:00","2021-10-25 14:00:00","Clayton Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55613708,-0.21422189
 8345,"Derek Hickey, Doireann Ní Ghríofa and Steve Cooney","2021-10-27 20:00:00","2021-10-27 20:00:00",,,,,,,
+8392,"Drawing from the Well at ITMA with Jesse Smith","2021-10-27 20:00:00","2021-10-27 20:00:00",,,,,,,
 8387,Session,"2021-10-28 20:00:00","2021-10-28 22:00:00","Irish Pub Leprechaun","Apeze-Imaizumi(ground Floor), 1-18-28, Imaizumi, Chuo Ku","Fukuoka City",Fukuoka,Japan,33.58635330,130.39888000
-8244,"Cáceres Irish Fleadh 2021","2021-10-29 00:00:00","2021-10-31 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47315598,-6.37595415
+8244,"Cáceres Irish Fleadh 2021","2021-10-29 00:00:00","2021-10-31 00:00:00","Plaza De Santa María","Plaza De Santa María",Cáceres,Extremadura,Spain,39.47462463,-6.37035322
 8328,"Mary Bergin and Mick Conneely","2021-10-30 20:00:00","2021-10-30 20:00:00","Gran Teatro","Calle San Anton S/n",Cáceres,Extremadura,Spain,39.47283554,-6.37565756
 8343,"The Goodman Trio","2021-11-03 19:00:00","2021-11-03 19:00:00",,,,,,,
 8329,"Fiddle Hell","2021-11-04 00:00:00","2021-11-07 00:00:00",,,,,,,
+7934,"International Uilleann Piping Day","2021-11-06 09:30:00","2021-11-06 21:00:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Brittany,France,48.27369690,-3.55272794
 8384,"International Uilleann Piping Day","2021-11-06 12:30:00","2021-11-06 16:00:00","Elysium Gallery","210 High Street",Swansea,Swansea,Wales,51.62385941,-3.94138861
 8302,"Ennis Trad Festival","2021-11-11 00:00:00","2021-11-15 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84469986,-8.97709560
 8370,"Aaron O’Hagan and Luke Ward album launch","2021-11-13 14:15:00","2021-11-13 14:15:00","Queen's Hotel","Abbey Street",Ennis,Clare,Ireland,52.84528732,-8.98265362
