@@ -1783,6 +1783,7 @@ tune_id,alias,name
 290,Hogtie's,Hogties
 290,Hogties',Hogties
 291,"An BhFaca Tú Mo Shéamaisin?","Maggie In The Woods"
+291,"Did You See My Seamus?","Maggie In The Woods"
 291,"Have You Seen My Little Seamus?","Maggie In The Woods"
 291,"If I Had Maggie In The Wood","Maggie In The Woods"
 291,"Kerry, The","Maggie In The Woods"
@@ -1800,7 +1801,7 @@ tune_id,alias,name
 293,"Boganuadh, The","New Bob, The"
 293,"New Shillin', The","New Bob, The"
 293,"New Shilling, The","New Bob, The"
-294,Han's,"Humours Of Kinvara, The"
+294,"Humors Of Kinvara, The","Humours Of Kinvara, The"
 294,"Man From Bundoran, The","Humours Of Kinvara, The"
 294,"Paddy Kelly's","Humours Of Kinvara, The"
 294,"Patrick Kelly's","Humours Of Kinvara, The"
@@ -1935,6 +1936,7 @@ tune_id,alias,name
 323,"Dangerous, The","Eddie Moloney's Favourite"
 323,"Drogheda Lasses, The","Eddie Moloney's Favourite"
 323,"Drogheda, The","Eddie Moloney's Favourite"
+323,"Eddie Moloney's Favorite","Eddie Moloney's Favourite"
 323,"Eddie Moloney's Favourite","Eddie Moloney's Favourite"
 323,"John Egan's","Eddie Moloney's Favourite"
 323,"Mary Of The Grove","Eddie Moloney's Favourite"
@@ -2101,7 +2103,6 @@ tune_id,alias,name
 345,"Molly, What Ails You?","Lilting Fisherman, The"
 345,"Pretty Girls Of The Village","Lilting Fisherman, The"
 345,"You're Right My Love","Lilting Fisherman, The"
-346,Harmonium,"Music For A Found Harmonium"
 346,"Music For The Found Harmonium","Music For A Found Harmonium"
 346,"Tune For A Found Harmonium","Music For A Found Harmonium"
 347,"Martin Wynne's #1","Martin Wynne's"
@@ -4341,7 +4342,7 @@ tune_id,alias,name
 729,"Siobhan O'Donnall's","Siobhan O'Donnell's"
 729,"Siobhan O'donnell","Siobhan O'Donnell's"
 729,"Siobhan O'Donnell's","Siobhan O'Donnell's"
-730,"Sully's No. 6",Sully's
+730,Sully's,"Sully's No. 6"
 732,"American, The",Thunderhead
 732,"Jig Brest Of St. Marc",Thunderhead
 732,"Jig Brest St. Mark",Thunderhead
@@ -4719,15 +4720,12 @@ tune_id,alias,name
 819,"Karen Tweed's","McIntyre's Fancy"
 819,"Lump Of Pudding, The","McIntyre's Fancy"
 819,McIntyre's,"McIntyre's Fancy"
-819,"Peacock's Feather, The","McIntyre's Fancy"
 819,"Siobhan O'Donnell's","McIntyre's Fancy"
 819,"Siobhan O'Donnell's #2","McIntyre's Fancy"
 820,"Butlers Of Glenn Avenue, The","Butlers Of Glen Avenue, The"
-820,"Butlers Of Glenn, The","Butlers Of Glen Avenue, The"
 820,"Christy Barry's #2","Butlers Of Glen Avenue, The"
 820,"Christy Barry's No 2","Butlers Of Glen Avenue, The"
 820,"Christy Barry's No. 2","Butlers Of Glen Avenue, The"
-820,"Sully's Fancy","Butlers Of Glen Avenue, The"
 821,"Con Curtin's Big Balloon","Cornelius Curtin's Big Balloon"
 821,"Con Curtin's Big Baloon","Cornelius Curtin's Big Balloon"
 821,"Hide And Go Seek","Cornelius Curtin's Big Balloon"
@@ -5091,7 +5089,6 @@ tune_id,alias,name
 888,"Winter Apples","Mug Of Brown Ale, The"
 891,"A Trip To Durrow","Trip To Durrow, The"
 891,"An Turas Go Darmhagh","Trip To Durrow, The"
-891,"Trip To Down, The","Trip To Durrow, The"
 892,"Bonnie Charlie March","Bonnie Prince Charlie"
 892,"Bonnie Charlie, The","Bonnie Prince Charlie"
 892,"Bonnie Prince Charlie's March","Bonnie Prince Charlie"
@@ -6111,6 +6108,7 @@ tune_id,alias,name
 1116,"Cows Are A-Milking, The","Lady Of The House, The"
 1116,"Cows Are Milking, The","Lady Of The House, The"
 1116,"Lasses Keep Your Legs Together","Lady Of The House, The"
+1116,"Máistreás An Tí","Lady Of The House, The"
 1116,"Mistress Of The House","Lady Of The House, The"
 1116,"Mistress Of The House, The","Lady Of The House, The"
 1117,"Belfast City","Spanish Lady"
@@ -6445,6 +6443,7 @@ tune_id,alias,name
 1181,"Glasgow Police Pipe Band, The","Glasgow City Police Pipers"
 1181,"Glasgow Police Pipers, The","Glasgow City Police Pipers"
 1182,Batchelders,Batchelder's
+1183,"An Biadánaí","Cabin Hunter, The"
 1183,"Road To Cashel, The","Cabin Hunter, The"
 1183,"Sean Kelly's Apple","Cabin Hunter, The"
 1185,"Brother Gildas","Sonny Brogan's"
@@ -6905,11 +6904,8 @@ tune_id,alias,name
 1288,"Abbey Leix, The","Abbeyleix, The"
 1288,Bowe's,"Abbeyleix, The"
 1292,"Hector MacDonald The Hero","Hector The Hero"
-1293,"Egg Salad Errand","Exile Of Erin, The"
 1293,"Exile From Erin","Exile Of Erin, The"
 1293,"Exile From Ireland","Exile Of Erin, The"
-1293,"Ireland In Exile","Exile Of Erin, The"
-1293,"Peace In Erin","Exile Of Erin, The"
 1294,"Across The Fence To The Neighbour's Wife","Across The Fence"
 1294,"Cross The Fence","Across The Fence"
 1294,"Crossing The Fence","Across The Fence"
@@ -7336,13 +7332,13 @@ tune_id,alias,name
 1390,"Cliffs Of Mohr","Cliffs Of Moher, The"
 1390,"Humours Of Rahey","Cliffs Of Moher, The"
 1390,"Martin Rochford's Cliffs Of Moher","Cliffs Of Moher, The"
-1391,"Bridget's Farewell To Canada","Finbar Dwyer's"
-1391,"Derrick Hickey's","Finbar Dwyer's"
-1391,"Paddy Reynold's Dream","Finbar Dwyer's"
-1391,"Paddy Reynold's Favourite","Finbar Dwyer's"
-1391,"Return To Burton Road, The","Finbar Dwyer's"
-1391,"Richard Dwyer's","Finbar Dwyer's"
-1391,"Twins, The","Finbar Dwyer's"
+1391,"Bridget's Farewell To Canada","Return To Burton Road"
+1391,"Derrick Hickey's","Return To Burton Road"
+1391,"Finbar Dwyer's","Return To Burton Road"
+1391,"Paddy Reynold's Dream","Return To Burton Road"
+1391,"Paddy Reynold's Favourite","Return To Burton Road"
+1391,"Richard Dwyer's","Return To Burton Road"
+1391,"Twins, The","Return To Burton Road"
 1392,"Boys Of Tandaragee, The","Rollicking Boys Of Tandragee, The"
 1392,"Boys Of Tandemagee, The","Rollicking Boys Of Tandragee, The"
 1392,"Boys Of Tanderagee, The","Rollicking Boys Of Tandragee, The"
@@ -7442,7 +7438,6 @@ tune_id,alias,name
 1420,"Laington's Favourite",Laington's
 1420,Langton's,Laington's
 1420,"Langton's Favourite",Laington's
-1421,"Leather Lane","Carolan's Draught"
 1421,"O'Carolan's Draught","Carolan's Draught"
 1422,"Glassdrummond, The",Glassdrummond
 1423,"An Geall Briste","Broken Pledge, The"
@@ -7703,8 +7698,8 @@ tune_id,alias,name
 1484,"Tail Todle","Tail Toddle, The"
 1484,"Tail Toodle","Tail Toddle, The"
 1484,"Tail Tottle","Tail Toddle, The"
-1490,"West Coaster, The","WestCoaster, The"
-1490,"Westcoaster, The","WestCoaster, The"
+1490,"West Coaster, The","Westcoaster, The"
+1490,"WestCoaster, The","Westcoaster, The"
 1491,"John McEljohn's","Johnny McIljohn's"
 1491,"Johnnie Macclejohn","Johnny McIljohn's"
 1491,"Johnny McIljohn's #1","Johnny McIljohn's"
@@ -7800,6 +7795,7 @@ tune_id,alias,name
 1515,"Tuar Mór Polkas 1","Tournmore, The"
 1515,"Tuar Mór, The","Tournmore, The"
 1515,"Wallace's Cross","Tournmore, The"
+1517,"Dancing With Ma Leary","Maidhc Dainnín Ó Sé's"
 1517,"Danny O'Shea's","Maidhc Dainnín Ó Sé's"
 1517,"Jazzing With Mag Leary","Maidhc Dainnín Ó Sé's"
 1517,"Paddy Glackin's","Maidhc Dainnín Ó Sé's"
@@ -8205,7 +8201,7 @@ tune_id,alias,name
 1615,"Cous Teehan's","Road To Glountane, The"
 1615,"Cus Teahan's","Road To Glountane, The"
 1615,"Cuz Teahan's","Road To Glountane, The"
-1615,"Cuz Teahan's Barndance","Road To Glountane, The"
+1615,"Cuz Teahan's","Road To Glountane, The"
 1615,"Cuz Teehan's","Road To Glountane, The"
 1615,"Cuz Tehan's","Road To Glountane, The"
 1615,"Cuz Tehans","Road To Glountane, The"
@@ -8373,6 +8369,7 @@ tune_id,alias,name
 1644,"Falling Off A Cliff","Cloone, The"
 1644,"Humours Of Toomagh, The","Cloone, The"
 1644,"Throw It Across","Cloone, The"
+1645,"Dancer's Favorite, The","Dancer's Favourite, The"
 1646,Killoran's,"Merry Girl, The"
 1646,"Killoran's No.2","Merry Girl, The"
 1646,"Mary Girl","Merry Girl, The"
@@ -8843,7 +8840,7 @@ tune_id,alias,name
 1790,"Thady Casey's","Scully Casey's"
 1793,"John Harling's","With Ourselves"
 1793,"Johnny Harling's","With Ourselves"
-1796,"Father Angus MacDonnell's March","Memories Of Father Angus MacDonnell"
+1796,"Father Angus MacDonnell's","Memories Of Father Angus MacDonnell"
 1796,"March For Father Angus MacDonnell","Memories Of Father Angus MacDonnell"
 1796,"Memories Of Father Angus MacDonell","Memories Of Father Angus MacDonnell"
 1796,"Memories Of Fr. Angus MacDonnell","Memories Of Father Angus MacDonnell"
@@ -8877,8 +8874,7 @@ tune_id,alias,name
 1811,"Port Na BPuchai","Pórt Na BPúcaí"
 1811,"Song Of The Pookas","Pórt Na BPúcaí"
 1812,"Jerusalem's Ridge","Jerusalem Ridge"
-1814,"Brollum, The",Brolum
-1814,"Brolum, The",Brolum
+1814,"Brollum, The","Brolum, The"
 1815,"An Chúileann","Coolin, The"
 1815,"An Chuilfhionn","Coolin, The"
 1815,"An Chúilfionn","Coolin, The"
@@ -9654,14 +9650,14 @@ tune_id,alias,name
 2081,Laridé,Gavotte
 2081,"Laridé à Six Temps",Gavotte
 2081,Ridée,Gavotte
-2082,"Chanter And Trip To Kilburn","Chanter's Song"
-2082,"Chanter's Song, The","Chanter's Song"
-2082,"Chanter's Tune","Chanter's Song"
-2082,"Chanter's Tune, The","Chanter's Song"
-2082,"Chanter's, The","Chanter's Song"
-2082,"Last Night Joy","Chanter's Song"
-2082,"Song Of The Chanter","Chanter's Song"
-2082,"Song Of The Chanter, The","Chanter's Song"
+2082,"Chanter And Trip To Kilburn","Chanter's Tune"
+2082,"Chanter's Song, The","Chanter's Tune"
+2082,"Chanter's Tune","Chanter's Tune"
+2082,"Chanter's Tune, The","Chanter's Tune"
+2082,"Chanter's, The","Chanter's Tune"
+2082,"Last Night Joy","Chanter's Tune"
+2082,"Song Of The Chanter","Chanter's Tune"
+2082,"Song Of The Chanter, The","Chanter's Tune"
 2083,"Paddy Lynn's Delight","Sonny's Return"
 2083,"Wanderer's Return, The","Sonny's Return"
 2084,"Just Cruisin'","Just Cruising"
@@ -10083,8 +10079,11 @@ tune_id,alias,name
 2239,"Blue Ribbon #1, The","Blue Ribbon, The"
 2239,"Blue Ribbon Polkas No. 1, The","Blue Ribbon, The"
 2239,"Dan O'Leary's #3","Blue Ribbon, The"
+2239,"Northern March, The","Blue Ribbon, The"
 2239,Orange,"Blue Ribbon, The"
+2239,"Sonny Barrett's","Blue Ribbon, The"
 2239,"Sonny Rearden's","Blue Ribbon, The"
+2239,"Sonny Riordan's","Blue Ribbon, The"
 2239,"Tom Billy's","Blue Ribbon, The"
 2240,"Fil O Ro","Touch Of Gaelic"
 2240,Filoro,"Touch Of Gaelic"
@@ -10753,12 +10752,8 @@ tune_id,alias,name
 2461,"Neilly Boyle's","Neilly O'Boyle's Highland"
 2461,"Neilly Boyle's Highland Fling","Neilly O'Boyle's Highland"
 2461,"Neilly O'Boyle's","Neilly O'Boyle's Highland"
-2462,"Arkil Mountain","Arkle Mountain"
-2462,"Arkill Moutain","Arkle Mountain"
 2462,"Arkle Mountain, The","Arkle Mountain"
 2462,"Arklow Mountains","Arkle Mountain"
-2462,"Gerry O' Connor's","Arkle Mountain"
-2462,"Gerry O'Connor's","Arkle Mountain"
 2464,"John Naughton's",Friel's
 2468,"Astley's Ride",Leslie's
 2468,Leslie's,Leslie's
@@ -10932,6 +10927,7 @@ tune_id,alias,name
 2549,"Weobley Hanky Dance, The","Flowers Of Edinburgh, The"
 2550,"Bonnie Earl O' Moray, The","Bonny Earl Of Moray, The"
 2550,"Bonny Earl Of Murray, The","Bonny Earl Of Moray, The"
+2554,"An Grianan","An Grianán"
 2555,"Parting Of The Companions, The","Parting Of Friends, The"
 2555,Scar,"Parting Of Friends, The"
 2555,"Scaradh Fuinidh Na GCompánach","Parting Of Friends, The"
@@ -11000,8 +10996,8 @@ tune_id,alias,name
 2576,"Sheep Sinking The Boat, The","Sheep In The Boat, The"
 2576,"Sheep Sunk The Boat, The","Sheep In The Boat, The"
 2576,"Sheep That Sunk The Boat, The","Sheep In The Boat, The"
+2577,"Marian's Favorite","Marian's Favourite"
 2577,"Marion Egan's","Marian's Favourite"
-2577,"Safe Home","Marian's Favourite"
 2579,"Tommy Hunt's","Tommy Hunt's Jig"
 2579,"Tommy Hunt's Slip Jig","Tommy Hunt's Jig"
 2579,"Tommy O'Dea's","Tommy Hunt's Jig"
@@ -11018,7 +11014,7 @@ tune_id,alias,name
 2583,"John Byrne's","Father Fielding's Favourite"
 2583,"Katie's Donkey","Father Fielding's Favourite"
 2584,"Josephine Keegan's","Shamrock Hill"
-2590,"Les Filles De Peveril","Peveril Lasses, The"
+2590,"Les Filles De Peveril","Peveril Lasses"
 2591,"Skibbereen Polka #3","Shepherd's Lamb, The"
 2593,"An Gallope",Ballyoran
 2593,"Ballyoran Polkas #1, The",Ballyoran
@@ -11396,9 +11392,7 @@ tune_id,alias,name
 2735,"Imelda Rowland's","Imelda Roland's"
 2738,"Ginley's N°2",Ginley's
 2738,"Light In Dennis Munion's Window, The",Ginley's
-2739,"Ben Cronin's","Street Player, The"
 2739,"Ed Reavey's Favourite","Street Player, The"
-2739,"Street Piper, The","Street Player, The"
 2739,"Streetplayer, The","Street Player, The"
 2741,"Miss Aubone Surtees Favourite","Blaydon Flats"
 2741,"Miss Aubone Surtees' Favourite","Blaydon Flats"
@@ -11864,6 +11858,7 @@ tune_id,alias,name
 2965,"My Love Is Fair And Handsome","Coming Home From The Bog"
 2967,"Griffin From The Bridge","Coleman's Cross"
 2968,"High, The","An Port Ard"
+2968,"Mo Ghrá Thú","An Port Ard"
 2970,"Welcome Whiskey Back Again","Welcome Whisky Back Again"
 2970,"Welcome Whisky Back Again","Welcome Whisky Back Again"
 2970,"Whiskey Welcome Back Again","Welcome Whisky Back Again"
@@ -11971,7 +11966,7 @@ tune_id,alias,name
 2999,"Swallow, The","Clogger's Quilt, The"
 3001,"Michael's Muzurka",Michael's
 3001,Michaels,Michael's
-3001,"Michaels Mazurka",Michael's
+3001,Michaels,Michael's
 3002,"Cat's Rambles","Whelan's Old Sow"
 3002,"Cat's Rambles, The","Whelan's Old Sow"
 3002,"Whelan's Sow","Whelan's Old Sow"
@@ -12102,6 +12097,7 @@ tune_id,alias,name
 3040,"PJ King's","Home To Bally Cashen"
 3042,"Muineira De Santalla D'Ozcos","Mulineria De Santalla D'Ozcos"
 3042,"Mulineira De Santalla D'Ozcos","Mulineria De Santalla D'Ozcos"
+3049,"Antrim Rose, The","Antrim Rose"
 3050,"I'm Ready Now","I'm Ready Now!"
 3051,"Hairy-Chested Frog, The","Hairy Chested Frog, The"
 3051,"Rana Temporaria Hirsuta","Hairy Chested Frog, The"
@@ -13076,7 +13072,7 @@ tune_id,alias,name
 3510,"Fermoy Lasses","Piper's Glass, The"
 3511,"Trotting To The Larne","Trotting To Larne"
 3512,"Border Reiver","Captain Carswell"
-3512,"Captain Carswell's March","Captain Carswell"
+3512,"Captain Carswell's","Captain Carswell"
 3514,Wynham's,Whinham's
 3515,"James Gannon's","Jamesy Gannon's"
 3515,"Jamesy Gannon's #2","Jamesy Gannon's"
@@ -13139,6 +13135,7 @@ tune_id,alias,name
 3542,"Dermot McLaughlin's","Dermot McLoughlin's"
 3542,"Dermott McLaughlin's","Dermot McLoughlin's"
 3543,"Marsail An Fhiadh","Deer's, The"
+3544,"Fred's Favorite","Fred's Favourite"
 3545,"Redesdale, The",Redesdale
 3545,"Underhand, The",Redesdale
 3548,"Athlone, The","Western, The"
@@ -13383,7 +13380,7 @@ tune_id,alias,name
 3653,"Wigsborough Hunt, The","Hunting The Hare"
 3655,"Saint Patrick's March","Centenary, The"
 3655,"St. Patrick's March","Centenary, The"
-3657,"Loch Ruan March","Loch Ruan"
+3657,"Loch Ruan","Loch Ruan"
 3659,"Auld Cross, The","Old Crossroads, The"
 3659,"Doon The Brae","Old Crossroads, The"
 3659,"Down The Brae","Old Crossroads, The"
@@ -13396,7 +13393,7 @@ tune_id,alias,name
 3659,"Rocks Of Brae","Old Crossroads, The"
 3659,"Rocks Of Brae, The","Old Crossroads, The"
 3659,"Síos An Gleann","Old Crossroads, The"
-3661,"Ballymun Regatta, The",Timedance
+3661,Timedance,"Ballymun Regatta, The"
 3663,"Bob And Joan","Bobbin' John"
 3663,"Boban John","Bobbin' John"
 3663,"Bobbin Joan","Bobbin' John"
@@ -13583,9 +13580,8 @@ tune_id,alias,name
 3788,"Sam Cormier","Sam Cormier's"
 3791,"Lieutenant Colonel PW Forbes Of Corse OBE","Lt. Col. P.W. Forbes Of Corse OBE"
 3793,"Farawell To Edinburgh","Farewell To Edinburgh"
-3794,"Sully's No. 37",Sully's
-3794,"Sully's No.37",Sully's
-3794,"Sullys No.37",Sully's
+3794,"Sully's No.37","Sully's No. 37"
+3794,"Sullys No.37","Sully's No. 37"
 3796,"Absent Minded Woman, The","Absent-minded Woman, The"
 3796,"An Bhean Dearmadach","Absent-minded Woman, The"
 3797,"Boys Of Laoise, The","Eleanor Kane's"
@@ -13651,8 +13647,7 @@ tune_id,alias,name
 3826,"Pick On My Shoulder, The","Boys From Wexford, The"
 3826,"Snowy Breasted Pearl","Boys From Wexford, The"
 3826,"Yn Speigh Er My Geaylin","Boys From Wexford, The"
-3827,"Buckfast 5, The",Buckfast
-3827,"Five For Buckfast",Buckfast
+3827,"Five For Buckfast","Buckfast 5, The"
 3828,"Clumsy Lover","Spicy, The"
 3829,Abhanbláth,Bowna
 3829,"Annablaha, The",Bowna
@@ -13703,7 +13698,6 @@ tune_id,alias,name
 3842,Lissagan,"Lisnagun, The"
 3842,Lissagun,"Lisnagun, The"
 3842,"Lissagun, The","Lisnagun, The"
-3842,"Mad Piper","Lisnagun, The"
 3843,"Bernie's Boots","Bernie Oldrid's Boots"
 3847,"Reel St Antoine","Reel Saint-Antoine"
 3847,"Reel St. Antoine","Reel Saint-Antoine"
@@ -13813,6 +13807,7 @@ tune_id,alias,name
 3919,"Andy Brown's","Andy Broon's"
 3920,"John Spence Of Uyea Sound","John Spence Of Uyeasound"
 3924,"Andy McGann's","John McGrath's"
+3924,"John McGrath's Composition","John McGrath's"
 3930,"Ballinacally, The","Tom Moylan's Frolic"
 3930,"Ballynacally, The","Tom Moylan's Frolic"
 3930,"Joe Burke's Favourite","Tom Moylan's Frolic"
@@ -13873,7 +13868,7 @@ tune_id,alias,name
 3994,"La Soupe Au Chou","Bouree De Berri"
 3994,"Ti Lou Voulio","Bouree De Berri"
 3995,"Peter & Doreen Chiasson","Peter And Doreen Chiasson"
-3995,"Peter And Doreen Chiasson's Slow March","Peter And Doreen Chiasson"
+3995,"Peter And Doreen Chiasson's Slow","Peter And Doreen Chiasson"
 3996,"Hugh Traver's","Hughie Travers'"
 3996,"Hugh Travers'","Hughie Travers'"
 3996,"Hughie Travers' #2","Hughie Travers'"
@@ -14045,7 +14040,6 @@ tune_id,alias,name
 4125,"John J Kimmell's Favourite","John J Kimmel's Favourite"
 4125,"Kimmell's Favourite","John J Kimmel's Favourite"
 4125,"Medley Of Clogs","John J Kimmel's Favourite"
-4126,"Dermot Grogan's","Musical Tour Of Ireland, The"
 4127,"La Ridée",Laride
 4127,Ridée,Laride
 4132,"Trip To Miriam's","Trip To Miriams, The"
@@ -14142,6 +14136,7 @@ tune_id,alias,name
 4176,Ócam,"Eileen O'Riordan's"
 4176,"Sé Oakum Mo Phriosúin","Eileen O'Riordan's"
 4176,Tomy's,"Eileen O'Riordan's"
+4176,"Up In The Morning Early","Eileen O'Riordan's"
 4178,"All About Weaving","Pedaling Patterns"
 4178,"Pedalling Patterns","Pedaling Patterns"
 4180,"An Píosa Deich BPingine","Tenpenny Bit, The"
@@ -14237,7 +14232,6 @@ tune_id,alias,name
 4231,Boda,Anna's
 4231,Solingsvalsen,Anna's
 4231,"Vals Från Boda",Anna's
-4232,"Pernod, The",Pernod
 4234,"Kit O'Mahoney","Kit O'Mahony"
 4234,"Kit O'Mahoney's","Kit O'Mahony"
 4234,"Kit O'Mahony's","Kit O'Mahony"
@@ -14391,7 +14385,6 @@ tune_id,alias,name
 4322,"Paddy's Return","Young Tim Murphy"
 4322,"Patsy McCann's","Young Tim Murphy"
 4323,"Lus Na MBanrion","Dusty Miller, The"
-4324,"John Murray Of Lochee","John Murray Of Lochiel"
 4325,"Unicorn, The","Monoceros, The"
 4328,"Gerry O'Connor's Jig In A","Jig In A"
 4328,Rory's,"Jig In A"
@@ -14547,8 +14540,6 @@ tune_id,alias,name
 4442,"Wexford Jersey, The","Modal Anorak, The"
 4449,"Jewel In The Ocean, The","Jewels Of The Ocean, The"
 4449,"Jewel Of The Ocean, The","Jewels Of The Ocean, The"
-4449,"Lo De Lo De Lo","Jewels Of The Ocean, The"
-4449,"Lod Lod Law","Jewels Of The Ocean, The"
 4449,"Seudan A' Chuain","Jewels Of The Ocean, The"
 4449,"Seudan A'Chuain","Jewels Of The Ocean, The"
 4450,Devlin's,Devlin's
@@ -14579,6 +14570,7 @@ tune_id,alias,name
 4479,"Loughing Spoons, The","Laughing Spoons, The"
 4479,"Na Spúnóga Ag Scigireacht","Laughing Spoons, The"
 4484,"Millhouse, The","Mill House, The"
+4486,"Beautiful Goretree","Beautiful Gortree"
 4486,"Beautiful Yortree","Beautiful Gortree"
 4486,"Gortree, The","Beautiful Gortree"
 4486,"Tommy Peoples'","Beautiful Gortree"
@@ -14766,6 +14758,7 @@ tune_id,alias,name
 4649,"Faudenside Polka","Hawk Polka, The"
 4649,"Faudenside Polka, The","Hawk Polka, The"
 4651,"Five Mile Chase, The","Tim Henry's Favourite"
+4652,"Am Fasan Aig No Cailleagan","Lasses' Fashions, The"
 4652,"Fashion Which The Lasses Have, The","Lasses' Fashions, The"
 4652,"Fashion Which The Lassies Have, The","Lasses' Fashions, The"
 4652,"Lasses Fashion, The","Lasses' Fashions, The"
@@ -14996,8 +14989,6 @@ tune_id,alias,name
 4805,"Scart, The","Scartaglen, The"
 4805,"Scarta Glen","Scartaglen, The"
 4805,"Scartaglen Jig, The","Scartaglen, The"
-4806,"Donald MacLean's March","Donald MacLean's Farewell To Oban"
-4806,"Farewell To Oban","Donald MacLean's Farewell To Oban"
 4808,"Garster's Dream","Garster's Dream"
 4808,"Garsters Dream","Garster's Dream"
 4811,"Jack Coen's","Come In From The Rain"
@@ -15327,7 +15318,7 @@ tune_id,alias,name
 5042,"Pipers' Picnic, The","Piper's Picnic, The"
 5043,"To Schottische Up Mount Snowdon","I Schottische Lan Yr Wyddfa"
 5046,"Beaumont Rag, The","Beaumont Rag"
-5047,"Father Eugene's March","Father Eugene's Welcome To Cape North"
+5047,"Father Eugene's","Father Eugene's Welcome To Cape North"
 5047,"Fr. Eugene's Welcome To Cape North","Father Eugene's Welcome To Cape North"
 5049,"Richard Deasy","Richard Deasy's"
 5049,"Richard Deasy March, The","Richard Deasy's"
@@ -15508,11 +15499,11 @@ tune_id,alias,name
 5177,"Sheán Coughlan's No. 2","Sean Coghlan's"
 5180,"Diger Polskan",Digerpolskan
 5180,Diger-polskan,Digerpolskan
-5182,"An Feochán","An Feochan"
-5182,Feoċan,"An Feochan"
-5182,Feoṫan,"An Feochan"
-5182,"Gentle Breeze, The","An Feochan"
-5182,"Gentle Breezes","An Feochan"
+5182,"An Feochan","An Feochán"
+5182,Feoċan,"An Feochán"
+5182,Feoṫan,"An Feochán"
+5182,"Gentle Breeze, The","An Feochán"
+5182,"Gentle Breezes","An Feochán"
 5183,"A Night In Ennis","Maids Of Tulla, The"
 5183,"Marquis Of Tullibardine, The","Maids Of Tulla, The"
 5183,"McAuliffe's 'Mason'","Maids Of Tulla, The"
@@ -15728,6 +15719,7 @@ tune_id,alias,name
 5357,"Miss Hutton","Miss Hutton's"
 5358,"Girls From Boisdale, The","Girls In Boisdale, The"
 5358,"Girls In Boisedale, The","Girls In Boisdale, The"
+5358,"Girls Of Boisdale, The","Girls In Boisdale, The"
 5362,"Kittens On Catnip","Kittins On Catnip"
 5366,"Jig For John #1","Jig For John"
 5367,"Old Woman Would Dance, The","An Old Woman Would"
@@ -15981,6 +15973,7 @@ tune_id,alias,name
 5506,"Little Billy Wilson","Billy Wilson"
 5509,"Henry MacDermott Roe","Henry MacDermott Roe"
 5512,"Bellharbour, The","Chris Droney's Favourite"
+5512,"Chris Droney's Favorite","Chris Droney's Favourite"
 5512,"Chris Droney's Favourite","Chris Droney's Favourite"
 5516,"Brogans Ferry","Brogan's Ferry"
 5518,"Mr Douglas Of Springwood Park",Cropie's
@@ -16120,6 +16113,7 @@ tune_id,alias,name
 5664,Sakura,"Cherry Blossom, The"
 5664,"Sakura Zensen","Cherry Blossom, The"
 5670,"Highfield, The",Highfield
+5675,"An Páistín Fionn","An Paistin Fionn"
 5675,"Paistin Fionn","An Paistin Fionn"
 5677,Barry's,Underwood
 5678,"Flea As A Bird","Flee As A Bird"
@@ -16826,9 +16820,6 @@ tune_id,alias,name
 6192,"Waltz Of The Junked Fiats","Waltz Of The Little Girls, The"
 6192,"Waltz Of The White Lilies","Waltz Of The Little Girls, The"
 6194,"Ball And Pin","Ariel, The"
-6195,"Lonely Boat, The","Lonesome Boatman, The"
-6195,"Lonesome Btman","Lonesome Boatman, The"
-6195,Modena,"Lonesome Boatman, The"
 6198,"Murtach Mac Cana","Morgan Magan"
 6198,"Murtagh MacCann","Morgan Magan"
 6198,"Murtagh McCann","Morgan Magan"
@@ -17056,15 +17047,11 @@ tune_id,alias,name
 6350,"Hywel's Fancy","Hoffedd Ap Hywel"
 6350,"Powell's Fancy","Hoffedd Ap Hywel"
 6351,"Whinshield's Hornpipe","Whinshields Hornpipe"
-6352,"Man Who Shot The Windmill","Roarin' Donald"
-6352,"Man Who Shot The Windmill, The","Roarin' Donald"
 6352,"Roaring Donald","Roarin' Donald"
 6353,"Sydney Bar","North Sydney Bar"
 6354,"Jamie Allen","Jimmy Allen"
 6354,"Jamie Allen's Rant","Jimmy Allen"
 6354,"Reel Of Tullochgorum, The","Jimmy Allen"
-6355,"Roarin' Donald","Man Who Shot The Windmill, The"
-6355,"Roaring Donald","Man Who Shot The Windmill, The"
 6356,"Roof Thatcher's Daughter, The","Roof Thatcher's Daughter"
 6356,"Roof Thatcher's, The","Roof Thatcher's Daughter"
 6359,"Cleite Na Péacóige","Peacock, The"
@@ -17235,8 +17222,6 @@ tune_id,alias,name
 6440,"Paddy Murphy's Wife","Braes Of Glendochart, The"
 6442,"Black Bird, The","Blackbird, The"
 6442,"Y Deryn Du","Blackbird, The"
-6443,"Breton Delight","Johnstown, The"
-6443,"Johnstown, The","Johnstown, The"
 6447,"Maloney's Wife","Four Courts, The"
 6447,"Moloney's Wife","Four Courts, The"
 6447,"Paddy In London","Four Courts, The"
@@ -17276,7 +17261,7 @@ tune_id,alias,name
 6474,"Bill Black","Bill Black's"
 6474,"Bill Black's Clog","Bill Black's"
 6476,"Regina Stubbert's","Regina Stubbert"
-6479,"Lochanside Retreat March, The",Lochanside
+6479,"Lochanside Retreat, The",Lochanside
 6479,Lochinside,Lochanside
 6480,"Bitch On The Whistle, The","Whistling Bitch, The"
 6480,"Bitch With The Whistle, The","Whistling Bitch, The"
@@ -17608,7 +17593,6 @@ tune_id,alias,name
 6666,"Marquis Of Huntly's","Marquis Of Huntley, The"
 6666,"Marquis Of Huntly's Farewell, The","Marquis Of Huntley, The"
 6669,"Highland Mary",Prampushing
-6670,Purphy's,Purfy
 6671,"King Of Sweden, The","Marriage May Become A Curse"
 6671,"King Of Sweden's, The","Marriage May Become A Curse"
 6671,"Mr. Martin's Reel","Marriage May Become A Curse"
@@ -17696,7 +17680,7 @@ tune_id,alias,name
 6729,"Blossom Of The Raspberry","Miss Hamilton"
 6729,"Blossom Of The Raspberry, The","Miss Hamilton"
 6729,"Ingean Uí Amiltuin","Miss Hamilton"
-6729,"Miss Hamilton's March","Miss Hamilton"
+6729,"Miss Hamilton's","Miss Hamilton"
 6729,"Planxty Miss Hamilton","Miss Hamilton"
 6729,"Raspberry Blossom","Miss Hamilton"
 6729,"Raspberry Blossom, The","Miss Hamilton"
@@ -17951,6 +17935,7 @@ tune_id,alias,name
 6915,"Katherine Brennen's","Katherine Brennan's Favourite"
 6915,"Katherine Brennen's Favourite","Katherine Brennan's Favourite"
 6916,"Laura Mulhaire's","Laura's Favourite"
+6916,"Laura's Favorite","Laura's Favourite"
 6917,Hogmaney,"Hogmanay, The"
 6917,"Hogmaney, The","Hogmanay, The"
 6917,"Marche Des Raquetteurs","Hogmanay, The"
@@ -18555,6 +18540,7 @@ tune_id,alias,name
 7238,"Dancing Dustman Two-Step, The","Dancing Dustman, The"
 7238,"Dancing Dustman's Two-Step, The","Dancing Dustman, The"
 7238,"Dancing Dustman's, The","Dancing Dustman, The"
+7240,"Humors Of Andytown, The","Humours Of Andytown, The"
 7241,"Cutty Sark, The","Cutty Sark"
 7242,"Mickie Ainsworth's","Mickie Ainsworth"
 7243,"Many Happy Returns Quickstep, The","Many Happy Returns"
@@ -18760,6 +18746,7 @@ tune_id,alias,name
 7342,"Da Auld Swarra Jupie","Da Auld Swaara Jupie"
 7342,"Old Swaara, The","Da Auld Swaara Jupie"
 7342,"Old Swarra, The","Da Auld Swaara Jupie"
+7343,"Gordon's Favorite","Gordon's Favourite"
 7344,"Marsh Of Rhuddlan","Morfa Rhuddlan"
 7346,"Commonwealth, The","Hommage à Edmond Parizeau"
 7346,"Edmond Parizeau","Hommage à Edmond Parizeau"
@@ -19030,6 +19017,7 @@ tune_id,alias,name
 7492,"Dan O'Keeffe's","Dan O'Keefe's"
 7492,"Ni Fios","Dan O'Keefe's"
 7492,O'Connor's,"Dan O'Keefe's"
+7493,Flynn's,"Eamon Flynn's"
 7497,"Billy Twist",Liddell's
 7497,Liddle's,Liddell's
 7501,"Da Faery","Da Ferry"
@@ -19217,7 +19205,6 @@ tune_id,alias,name
 7655,"Minuteman, The","Minutemen, The"
 7659,"Fal Carragh","Falcarragh, The"
 7659,"Fal Carragh, The","Falcarragh, The"
-7659,Falcara,"Falcarragh, The"
 7670,"Barna, The",Dinni's
 7670,"Tomy's (slide)",Dinni's
 7671,Charlestown,"Derry, The"
@@ -19489,8 +19476,7 @@ tune_id,alias,name
 7842,"Silver Lake, The Carrolltown Breakdown",Shaddighee
 7844,"Simple Gifts","Lord Of The Dance, The"
 7844,"Simple Pleasures","Lord Of The Dance, The"
-7847,"Amazing Adventure Of Dr. Moriarty","Amazing Adventures Of Dr Moriarty"
-7847,"Amazing Adventures Of Dr. Moriarty, The","Amazing Adventures Of Dr Moriarty"
+7847,"Amazing Adventure Of Dr. Moriarty","Amazing Adventures Of Dr Moriarty, The"
 7848,"Holm's Fancy","Holmes' Fancy"
 7848,"Holme's Fancy","Holmes' Fancy"
 7848,"Holmses Fancy","Holmes' Fancy"
@@ -19620,9 +19606,7 @@ tune_id,alias,name
 7968,"Maggie O'Ham","Maggie O' Ham"
 7969,"Box And Chanter, The",Ronnie's
 7969,"Finbar Furey's Delight",Ronnie's
-7973,"Anthony Dick Fling","Anthony Dick"
-7973,"Anthony Dick Gaughon's Highland Fling","Anthony Dick"
-7973,"Anthony Dick's Fling","Anthony Dick"
+7973,"Anthony Dick's","Anthony Dick"
 7974,"Grainne's Welcome Home","Grania's Welcome Home"
 7974,"Welcome Home Grainne","Grania's Welcome Home"
 7974,"Welcome Home Grania","Grania's Welcome Home"
@@ -19783,6 +19767,7 @@ tune_id,alias,name
 8109,"Lancers Quadrille (5th Figure), The","Wallop Away The Wattle, O!"
 8109,"Leather Away The Wattle-O","Wallop Away The Wattle, O!"
 8109,"Pussy Got The Measles","Wallop Away The Wattle, O!"
+8109,"Sonny Riordan's","Wallop Away The Wattle, O!"
 8110,"Wandering Trousers, The","Wandering Trousers"
 8114,"91st At Modder River, The","91st At Modder River, The"
 8114,"93rd Argylls At Modder River","91st At Modder River, The"
@@ -19810,7 +19795,7 @@ tune_id,alias,name
 8121,"Balmoral Highlanders' March, The","Balmoral Highlanders, The"
 8123,"Belle Newcastle","Belle Of Newcastle"
 8123,"Belle Of Newcastle, The","Belle Of Newcastle"
-8124,"A Nation Once Again March","A Nation Once Again"
+8124,"A Nation Once Again","A Nation Once Again"
 8125,"Saratoga Hornpipe, The","Saratoga, The"
 8126,"Donoghmore, The","Donaghmore, The"
 8127,"Christmas Carousal, The","Christmas Carousing"
@@ -19897,7 +19882,6 @@ tune_id,alias,name
 8195,"Counselor's, The",Counselor's
 8196,"Message To Julie","Take A Message To Julie"
 8196,"Take A Message Miss Julie","Take A Message To Julie"
-8196,"Take A Message To Martha","Take A Message To Julie"
 8200,"Olifiord Jack","Oliver Jack"
 8201,"Lovesick Polly","Love Sick Polly"
 8204,"Cé A Phosaigh Liom",Kafoozalum
@@ -20708,6 +20692,7 @@ tune_id,alias,name
 8861,"Sheamais Ui Chaoimh","Jimmy Doyle's"
 8869,"Paddy Hayes","Rooney's Favourite"
 8869,"Paddy Hayes'","Rooney's Favourite"
+8869,"Rooney's Favorite","Rooney's Favourite"
 8872,"Big Fat Gal's Good I Know, But A Little Fat Gal's Better O!","Linsey Back"
 8875,"Wreck Of The 99, The","Wreck Of The '99, The"
 8875,"Wreck Of The Old '97, The","Wreck Of The '99, The"
@@ -20958,7 +20943,7 @@ tune_id,alias,name
 9071,Gipsy,"Gypsy, The"
 9071,"Gipsy, The","Gypsy, The"
 9072,"David D. McKenzie Of Sallachy","David D MacKenzie Of Sallachy"
-9075,"Doctor Ross's 50th Welcome To The Argyllshire Gathering March","Doctor Ross's 50th Welcome To The Argyllshire Gathering"
+9075,"Doctor Ross's 50th Welcome To The Argyllshire Gathering","Doctor Ross's 50th Welcome To The Argyllshire Gathering"
 9075,"Dr. Ross's 50th Welcome To The Argyleshire Gathering","Doctor Ross's 50th Welcome To The Argyllshire Gathering"
 9075,"Dr. Ross's 50th Welcome To The Argyllshire Gathering","Doctor Ross's 50th Welcome To The Argyllshire Gathering"
 9076,"An Cru Capaill","Patsy Geary's"
@@ -21084,6 +21069,7 @@ tune_id,alias,name
 9292,"My Fair Young Love (A Lady To Her Husband Who Was Killed At The Battle Of Culloden)","My Fair Young Love"
 9293,"Inver Bank, The","Inver Bank"
 9293,"Inver Banks","Inver Bank"
+9294,"Eighteen Six Two Step","18-6 Two Step"
 9296,"Arran Boat Song","Highland Boat Song"
 9296,"Arran Boat Song, The","Highland Boat Song"
 9296,"Highland Boat Song, The","Highland Boat Song"
@@ -21256,7 +21242,6 @@ tune_id,alias,name
 9480,"Czar Of Russia's Favourite",West's
 9487,"Bird's View","Bird's Eye View, The"
 9487,"Bird's View, The","Bird's Eye View, The"
-9491,"Kaleb Watt Of The Brock","Kaleb Watt Of The Broch"
 9496,"Merry Harriers, The","Tipsy Sailor, The"
 9498,"Cailleach Liadh Ratharsair","Grey Old Woman Of Raasey"
 9498,"Grey Old Woman Of Raasay","Grey Old Woman Of Raasey"
@@ -21268,7 +21253,7 @@ tune_id,alias,name
 9500,"McFarlane's Rant","MacFarlane's Rant"
 9501,"Jimmy McHugh's","Sean McCusker's Farewell"
 9505,"Patsy McDonald's","Patsy MacDonald's"
-9507,"John MacColl's March","John MacColl's March To Kilbowie Cottage"
+9507,"John MacColl's","John MacColl's March To Kilbowie Cottage"
 9508,"Tryst Stane, The","Tryst Stane"
 9512,"Long Morris, The","Long Morris"
 9513,"Michael Anderson's","Independent, The"
@@ -21296,7 +21281,7 @@ tune_id,alias,name
 9541,Logier's,"Miss Leyeer's"
 9545,"Gown And Apron","An Gun's T-Apron"
 9545,"Gown And Apron, The","An Gun's T-Apron"
-9547,"Fr. John Angus Rankin's March","Father John Angus Rankin's"
+9547,"Fr. John Angus Rankin's","Father John Angus Rankin's"
 9549,"La Muineira Do Areal","La Muneira Do Areal"
 9549,"Muñeira Do Areal","La Muneira Do Areal"
 9550,"Tigers Eye","Tiger's Eye, The"
@@ -21599,7 +21584,7 @@ tune_id,alias,name
 9888,"Girls Of County Mayo","Mayo Lasses, The"
 9889,"TG4 Advertisement Theme","Suil Eile"
 9898,"Ballygoughlin, The","Martin Mulvihill's"
-9899,"Cockerel And The Creel, The","Cockerel In The Creel, The"
+9899,"Cockerel And The Creel, The","Cockerel In The C, The"
 9905,"Michael Dunne","Michael Joseph Dunne"
 9905,"Michael Dunne's","Michael Joseph Dunne"
 9905,"Michael Joseph Dunne's","Michael Joseph Dunne"
@@ -21652,7 +21637,7 @@ tune_id,alias,name
 9992,"Leg Of The Duck","Leg Of The Duck"
 9993,"Chain Cotillion","Cotillion, The"
 9993,"Sussex Cotillion","Cotillion, The"
-9995,"Dominic MacGowan","Dominic McGowan"
+9995,"Dominic McGowan","Dominic MacGowan"
 10001,"Tri Hanner Tôn","Three Half Tunes"
 10004,"Cait Ni Dhuibir","Cáit Ní Dhuibhir"
 10004,"Kate O'Dwyer","Cáit Ní Dhuibhir"
@@ -21694,7 +21679,7 @@ tune_id,alias,name
 10027,"Willow Tree","News Of The Victory"
 10029,"Col MacLean","Colonel MacLean Of Ardgour"
 10029,"Col. MacLean Of Ardgour","Colonel MacLean Of Ardgour"
-10029,"Colonel MacLean Of Ardgour's March","Colonel MacLean Of Ardgour"
+10029,"Colonel MacLean Of Ardgour's","Colonel MacLean Of Ardgour"
 10031,"Hugh O'Donnell","Planxty Hugh O'Donnell"
 10035,"Ricocheting Lightbulb, The","A Jig For Sarah"
 10035,"Sarah's Gigue","A Jig For Sarah"
@@ -22093,6 +22078,7 @@ tune_id,alias,name
 10493,"Melting Snow","Duharra, The"
 10496,"Patsy Hanly's","Patsy Hanley's"
 10498,"Yarmouth Lasses","Wearmouth Lasses"
+10500,"Humors Of Max, The","Humours Of Max, The"
 10503,"Seamus Mór McKenna","Seamus Mor McKenna's"
 10505,"North Americay","North Amerikay"
 10505,"Ye Lovers All","North Amerikay"
@@ -22541,7 +22527,6 @@ tune_id,alias,name
 11191,"G P Of A","Garry Porch Of Avernish"
 11191,"Garry Porch","Garry Porch Of Avernish"
 11194,"Iomramh Eadar Il' A's Uist","Rowing From Isla To Uist"
-11194,"Lomramh Eadar Ll' A's Uist","Rowing From Isla To Uist"
 11194,"Rowing From Islay To Uist","Rowing From Isla To Uist"
 11196,"Nuala Kennedy's No. 1","Nuala Kennedy's"
 11199,"Bab At The Bowster","Babbity Bowster"
@@ -22608,8 +22593,6 @@ tune_id,alias,name
 11277,"Fisher's Rant, The","Lasses Of Ancrum"
 11277,"Lasses Of Ancrum, The","Lasses Of Ancrum"
 11278,"Drive The Cold Winter Away","To Drive The Cold Winter Away"
-11279,"Sonny Barrett's","Sonny Riordan's"
-11279,"Tom Billy's","Sonny Riordan's"
 11282,"Wise Maid, The","Michael Gallagher's Fancy"
 11284,"Jim Ryan's","Tom Mhick's"
 11286,Abainn-mor,"Avonmore, The"
@@ -22677,7 +22660,6 @@ tune_id,alias,name
 11405,"In Dispraise Of Whiskey","In Dispraise Of Whisky"
 11417,"Fág A' Bealach","Jack Ryan's"
 11417,"Ta Dha Ghabbhairin Bhui Agam","Jack Ryan's"
-11424,Coyoacán,Coyakan
 11426,"Big Al","You Can Call Me Big Al"
 11426,"Big Al's Birthday","You Can Call Me Big Al"
 11428,"Blue Jeans And Gingham","Isle De Madeleine"
@@ -22733,6 +22715,7 @@ tune_id,alias,name
 11543,"Ala Loper","Alla Lopper"
 11543,"All The Fleas","Alla Lopper"
 11543,"Alla Loper","Alla Lopper"
+11546,"Humors Of Portal, The","Humours Of Portal, The"
 11548,"Gardiner's Daughter","Gardener's Daughter, The"
 11548,"Grand Gates Of Annesbrook","Gardener's Daughter, The"
 11549,"Wedding March","Tour De Harris"
@@ -23832,6 +23815,7 @@ tune_id,alias,name
 12821,"White Boy's Dance","Creg Willy Syl"
 12823,"Arrane Ben Vlieaun","Arrane Ben-Vlieaun"
 12823,"Cur Dty Vainney","Arrane Ben-Vlieaun"
+12827,"Ríl An Bhreathnaigh",Walsh's
 12829,"Slieve Bloom March, The","Sliabh Bloom, The"
 12830,Hm~?,Hm?
 12830,Hmm?,Hm?
@@ -23959,6 +23943,7 @@ tune_id,alias,name
 13074,"Dancer At The Fair, The","Fancy Fair, The"
 13074,"Little Dancer At The Fair, The","Fancy Fair, The"
 13078,"Cradling Arms Of Cruachún, The","Cradling Arms Of Croaghan, The"
+13082,"Humors Of Nickey, The","Humours Of Nickey, The"
 13084,"They Sailed Away From Dublin Bay","Sweet Dublin Bay"
 13085,"Ah Jerry Yn Teihll","Jerrey Yn Theihll"
 13085,"Jerrey Y Theihll","Jerrey Yn Theihll"
@@ -24264,7 +24249,7 @@ tune_id,alias,name
 13526,"Felton's Gavotte","Ring O'Bells"
 13526,"Prince Charles Stuart's Farewell To Manchester","Ring O'Bells"
 13526,"Ring O'Bells, Lichfield","Ring O'Bells"
-13529,"Clan MacColl March, The","Clan MacColl, The"
+13529,"Clan MacColl, The","Clan MacColl, The"
 13531,Jessie's,"Mill Stream, The"
 13531,"Millstream, The","Mill Stream, The"
 13531,"Paddy Cronin's","Mill Stream, The"
@@ -24565,8 +24550,9 @@ tune_id,alias,name
 14050,"French, The","Y Polca Ffrengig"
 14050,"Y Polca Ffrangeg","Y Polca Ffrengig"
 14051,"She Didn't Dance And Dance","Didn't She Dance And Dance"
-14052,"Muñeira Carcarosa","Siete De Octubre"
-14052,"Muniera Carcarosa","Siete De Octubre"
+14052,"Muñeira Carcarosa","Siete D'Ochobre"
+14052,"Muniera Carcarosa","Siete D'Ochobre"
+14052,"Siete De Octubre","Siete D'Ochobre"
 14100,"Kinnycally Klansmen, The","Kinnycally Klansmen"
 14103,"Huntingtone Castle","Huntington Castle"
 14106,"CBC's Glen And Carl","CBC's Glenn And Karl"
@@ -25158,7 +25144,7 @@ tune_id,alias,name
 15537,"Hanny Christen RL09387",Rheinlaender
 15540,"Invergarry Well","Tobar Na'n Ceann"
 15546,"Up To See Granny","Up The Southern Shore"
-15550,"Brig O' Blair March, The","Brig O' Blair"
+15550,"Brig O' Blair, The","Brig O' Blair"
 15556,"Gran's Tune","Mrs. Jane Kennedy Of St. Anne's, Methven"
 15556,Grans,"Mrs. Jane Kennedy Of St. Anne's, Methven"
 15556,"Mrs Jane Kennedy Of St. Anne's, Methven","Mrs. Jane Kennedy Of St. Anne's, Methven"
@@ -25170,6 +25156,7 @@ tune_id,alias,name
 15559,Opheillia,Ophelia
 15563,"Tax Max Mazurkas I, The","Tax Max, The"
 15570,Deoraíocht,Deoraiocht
+15572,"Greta's Favorite","Greta's Favourite"
 15573,"Sandy's Wedding","Sandy's Wedding"
 15588,"Juringius Polska","Slängpolska Efter Juringius"
 15588,"Polska Efter Juringius","Slängpolska Efter Juringius"
@@ -25199,6 +25186,7 @@ tune_id,alias,name
 15681,Turkey,Tyrkky
 15687,"Mazurka Des Petites Fleurs","Mazurka Dans Les Petites Fleurs"
 15687,Myriam's,"Mazurka Dans Les Petites Fleurs"
+15689,Jasper's,Ethnica
 15692,Frønk's,Trondheimsfjorden
 15699,"I Am Sick With Love","Languor Of Love, The"
 15699,"Langour Of Love, The","Languor Of Love, The"
@@ -25329,7 +25317,6 @@ tune_id,alias,name
 16028,"7x8 Alexis","Newyorkers, The"
 16029,"7x8 Alexis D","Happy Ruinous House, The"
 16030,"5x8 Nito","Flying To Birmingham"
-16070,Beoga,"Exploding Bow, The"
 16077,"Clog De Parizeau","Clog De Pariseau"
 16077,"Clog Parizeau","Clog De Pariseau"
 16082,"La Ronde Des Voyageurs","Le Ronde Des Voyageurs"
@@ -25577,6 +25564,7 @@ tune_id,alias,name
 17002,"Eira Cyntaf","Eira Cyntaf Mabon Iago"
 17002,"First Snow, The","Eira Cyntaf Mabon Iago"
 17002,"Mabon Iago's First Snow","Eira Cyntaf Mabon Iago"
+17014,"Marchioness Of Huntly's Favorite","Marchioness Of Huntly's Favourite"
 17015,"Rogha Cháit Uí Cheallaigh","Kate Kelly's Fancy"
 17043,"Ríl Sheáin Parnell","Seán Parnell's"
 17044,"Mick Carr's #2","Mick Carr's Highland"
@@ -25815,7 +25803,7 @@ tune_id,alias,name
 17662,"Da Foula","Da Shaalds O Foula"
 17662,"Da Foula Shaalds","Da Shaalds O Foula"
 17664,"Dancing Dragon, The","White Dragon, The"
-17668,"Rebels' March, The","Rebels, The"
+17668,"Rebels', The","Rebels, The"
 17673,"Trouble At T'workplace","Currie Dance"
 17680,"Fhearaibh Mo Rùin Na Diultaibh Iomairt","Cease Not To Row, Brave Boys"
 17681,"Black-Eyed Lassie","Captain Keller's"
@@ -26090,6 +26078,7 @@ tune_id,alias,name
 18625,"Iarla Marasgal","Earl Marischal"
 18636,"Mrs. Smyth Of Methven","Mrs. Smyth Of Methven's"
 18638,"Royal Circus","Drury Lane"
+18643,"Mrs Oswald Of Auchincruive's Favorite","Mrs Oswald Of Auchincruive's Favourite"
 18643,"Mrs. Oswald Of Auchincruive's Favourite","Mrs Oswald Of Auchincruive's Favourite"
 18648,"Punch In The Face","Punch In The Fèis"
 18648,"Punch In The Feis","Punch In The Fèis"
@@ -26097,6 +26086,7 @@ tune_id,alias,name
 18667,"Valse Du Chef De Gare","Station Master's, The"
 18668,"Broken Sword, The","Broken Sword"
 18673,"December 2nd","December 2"
+18676,"Humors Of Kilmanin, The","Humours Of Kilmanin, The"
 18677,"Night Fires",Nightfires
 18700,"Bonard, The","Bonard, The"
 18700,"Clifford Slide #3","Bonard, The"
@@ -26352,7 +26342,7 @@ tune_id,alias,name
 19576,"Scansen, Skansen Group",Skansen's
 19582,"Flower Of Swiss Cottage, The","Flower Of Swiss Cottage"
 19583,"Tuigainn Leum 's Dean Cabhag","Togail Curs Air Leodhas"
-19590,"Torridon Wedding March","Caismeachd Banais Thoirbheartain"
+19590,"Torridon Wedding","Caismeachd Banais Thoirbheartain"
 19611,Mattabassett,Mattabasset
 19622,"Bill O'Keeffe's","Cnoc Na BPoll"
 19627,"Port Na Maighdinn Chuain","Mermaid Song, The"
@@ -26565,6 +26555,7 @@ tune_id,alias,name
 20486,"Bog O'Gight, The","Bog Of Gight, The"
 20486,"Castle Gordon","Bog Of Gight, The"
 20486,"Gordon Castle","Bog Of Gight, The"
+20501,"Vincent Broderick","Orion Belt, The"
 20514,"Salute To Vaternish","Rhu Vaternish"
 20519,"Patie Leary's","Páití O'Leary's"
 20540,"Éalódh Na Muc","Pass Of The Dolphin, The"
@@ -26705,3 +26696,7 @@ tune_id,alias,name
 21165,Bonaparte's,Napolean's
 21165,"Grand, The",Napolean's
 21165,"Napolean's Grand",Napolean's
+21189,"Bourrée From Suite In Eminor By J.S. Bach BWV 996",Bourrée
+21201,"My Sprightly Brown Maid","Mo Chailin Deas Donn"
+21201,"My Sprightly Brown Maiden","Mo Chailin Deas Donn"
+21204,"Forth Bridge, The","Forth Brig, The"
