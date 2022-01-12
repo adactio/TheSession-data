@@ -13,12 +13,3 @@ CSV and JSON files of data from [The Session](https://thesession.org/):
 I'll try to update the files once a week.
 
 If anyone wants to convert the data to other formats, feel free to fork the project and send me a pull request.
-
-## Exploring the data
-
-You can explore this data at
-<https://thesession.vercel.app/>
-
-This interface, powered by [Datesette](https://github.com/simonw/datasette), allows you to run SQL commands on the data. The results of those SQL commands are also available as CSV and JSON.
-
-Because the JSON output of your SQL commands have a URL, you can use those URLs as API endpoints.
