@@ -2516,7 +2516,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2720,"Celtic Appalachia","2012-03-15 20:00:00","2012-03-15 00:00:00","Symphony Space","2537 Broadway",Manhattan,"New York",USA,40.79396439,-73.97281647
 2725,"St. Patrick's Festival Céilí - Streamed on LiveTrad.com","2012-03-16 16:30:00","2012-03-16 19:30:00","St. Stephen's Green",,Dublin,Dublin,Ireland,53.34410477,-6.26749372
 2732,"St Patricks Cheili","2012-03-16 20:00:00","2012-03-16 23:00:00","Band Hall Stradavoher Thurles",,Thurles,Tipperary,Ireland,52.68052292,-7.81450224
-2726,"St. Patrick's Day Parade - Streamed On LiveTrad.com","2012-03-17 14:00:00","2012-03-17 18:00:00","Various Venues",,Mullingar,Westmeath,Ireland,53.52476501,-7.33786583
+2726,"St. Patrick's Day Parade - Streamed On LiveTrad.com","2012-03-17 14:00:00","2012-03-17 18:00:00","Various Venues",,Mullingar,Westmeath,Ireland,53.52593231,-7.33813763
 2721,"Blue Ridge Irish Music School (BRIMS) Benefit Concert","2012-03-17 19:00:00","2012-03-17 22:00:00","The Front Porch","221 Water Street East",Charlottesville,Virginia,USA,38.02980042,-78.48036957
 2686,"Tommy Fleming","2012-03-17 19:30:00","2012-03-17 00:00:00","New Alexandra Theatre","Station Street",Birmingham,"West Midlands",England,52.47644043,-1.89962721
 2724,"St Patrick's Day Celebration","2012-03-17 20:00:00","2012-03-17 23:00:00","Sparth House Hotel","Whalley Road, Clayton Le Moors",Accrington,Lancashire,England,53.76893234,-2.37775993
@@ -5728,11 +5728,11 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8290,"Trad Fest","2021-08-27 00:00:00","2021-08-29 00:00:00","Camp Stoney",,"Santa Fe","New Mexico",USA,35.57392502,-105.85714722
 8253,"Gan Ainm","2021-08-27 19:00:00","2021-08-27 19:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
 8288,"Conor Connolly Drawing from the Well","2021-08-27 20:00:00","2021-08-27 20:00:00",,,,,,,
-8161,"Nasc Folk and Traditional Music Festival","2021-08-28 13:00:00","2021-08-28 22:00:00","Marlay Park","Grange Road",Rathfarnham,Dublin,Ireland,53.27375031,-6.27469683
+8161,"Nasc Folk and Traditional Music Festival","2021-08-28 13:00:00","2021-08-28 22:00:00","Marlay Park","Grange Road",Rathfarnham,Dublin,Ireland,53.27975082,-6.27548981
 8292,"Laid Back Irish Session Tunes with Rowan Leslie","2021-09-01 00:00:00","2021-09-01 00:00:00",,,,,,,
 8289,"""Over the Moor to Maggie"" B/C Box Bass/Chord Lesson","2021-09-01 17:00:00","2021-09-01 18:30:00",,,,,,,
 8293,"Rowan Leslie: Escaping The Dawn album launch","2021-09-04 00:00:00","2021-09-04 00:00:00","The 13th Note","50-60 King Street",Glasgow,Glasgow,Scotland,55.85613251,-4.24723530
-8260,"Lario Fiddle Workshop","2021-09-04 09:30:00","2021-09-04 17:30:00",Solzago,"Via Alessandro Manzoni 15",Como,Lombardia,Italy,45.81452560,9.08432770
+8260,"Lario Fiddle Workshop","2021-09-04 09:00:00","2022-07-15 21:00:00",Solzago,"Via Alessandro Manzoni 15",Como,Lombardia,Italy,45.81452560,9.08432770
 8286,"Set Dancing Céilí with the Parish Céilí Band","2021-09-05 14:00:00","2021-09-05 17:00:00","London Irish Centre","50-52 Camden Square",Camden,London,England,51.54386902,-0.13235010
 8284,"Cancelled: Old Blind Dogs in concert","2021-09-07 19:00:00","2021-09-07 21:30:00","Steam Plant Theatre","220 W. Sackett",Salida,Colorado,USA,38.53805542,-105.99179077
 8270,"2021 Philadelphia Ceili Group Irish Traditional Music & Dance Festival","2021-09-09 00:00:00","2021-09-11 00:00:00","Commodore Barry Irish Club","6815 Emlen Street",Philadelphia,Pennsylvania,USA,40.04998779,-75.19078827
@@ -5937,7 +5937,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8490,"Ardán: Sorcha Costello, Kate McHugh and Elaine Reilly","2022-02-05 18:00:00","2022-02-05 18:00:00","The Séamus Ennis Arts Centre",,Naul,Dublin,Ireland,53.58612442,-6.28982782
 8472,"The Friel Sisters","2022-02-05 19:00:00","2022-02-05 19:00:00","Òran Mór","Byres Rd",Glasgow,Glasgow,Scotland,55.87406921,-4.29502821
 8509,"Laid back Irish session tunes with Rowan Leslie","2022-02-09 00:00:00","2022-02-09 00:00:00",,,,,,,
-8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2022-02-10 18:00:00","2022-02-10 20:00:00",,,,,,,
 8496,"The Sharon Shannon Quartet","2022-02-10 20:00:00","2022-02-10 20:00:00","Ropetackle Arts Centre","Little High Street","Shoreham By Sea",Sussex,England,50.83251572,-0.27896199
 8491,"Try the pipes!","2022-02-12 13:00:00","2022-02-12 15:00:00","Lower Achill Community Hall",Keel,"Achill Island",Mayo,Ireland,53.97443390,-10.08525753
 8379,"Brittany Winter School","2022-02-16 00:00:00","2022-02-20 00:00:00","Various Venues",,Arzon,Bretagne,France,47.54536438,-2.89048696
@@ -5951,9 +5950,12 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8520,"Free Banjo Webinar","2022-02-20 21:00:00","2022-02-20 21:00:00",,,,,,,
 8538,"Laidback Irish session tunes with Rowan Leslie","2022-02-23 00:00:00","2022-02-23 00:00:00",,,,,,,
 8530,"The Russell Memorial Weekend Festival","2022-02-24 00:00:00","2022-02-28 00:00:00","Various Venues",,Doolin,Clare,Ireland,53.01632690,-9.37653828
+8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2022-02-24 18:00:00","2022-02-24 20:00:00",,,,,,,
+8543,"Winter Warmer Livestream with the Heatons","2022-02-25 13:00:00","2022-02-25 13:00:00",,,,,,,
 8531,"At The Racket","2022-02-26 13:00:00","2022-02-26 15:30:00","Russell Cultural Centre",,Doolin,Clare,Ireland,53.02220917,-9.36942387
 8532,Lúnasa,"2022-03-01 19:30:00","2022-03-01 19:30:00","The Triple Door","216 Union Street",Seattle,Washington,USA,47.60873413,-122.33736420
 8539,"6th Celtic Calling Gathering","2022-03-01 20:00:00","2022-04-06 18:00:00","Various Venues",,Charleston,"West Virginia",USA,38.34981918,-81.63262177
+8545,"Laidback Irish session tunes with Rowan Leslie","2022-03-02 00:00:00","2022-03-02 00:00:00",,,,,,,
 8533,Lúnasa,"2022-03-02 20:00:00","2022-03-02 20:00:00","Alberta Rose Theatre","3000 NE Alberta Street",Portland,Oregon,USA,45.55894852,-122.63472748
 8507,"Saturday Coffee Sessions: Fiddles in Harmony","2022-03-05 10:30:00","2022-03-05 12:45:00","Aston On Clun Village Hall","Craven Arms","Aston On Clun",Shropshire,England,52.43093491,-2.88084793
 8541,"Patrick O'Flaherty","2022-03-05 12:00:00","2022-03-05 13:00:00",,,,,,,
@@ -5983,8 +5985,10 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8493,"Daoiri Farrell bouzouki workshop","2022-04-30 10:45:00","2022-04-30 16:45:00","The Elephant & Castle","White Hill",Lewes,Sussex,England,50.87474823,0.00833260
 8522,"Delicious Duets","2022-05-14 10:00:00","2022-05-14 10:00:00","Aston On Clun Village Hall","Craven Arms","Aston On Clun",Shropshire,England,52.43093491,-2.88084793
 8514,"World Fiddle Day Scartaglin Celebrations 2022","2022-05-20 20:00:00","2022-05-22 12:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
+8544,"Féile Nasc 2022","2022-05-25 00:00:00","2022-05-25 00:00:00","Marlay Park","Grange Road",Rathfarnham,Dublin,Ireland,53.27975082,-6.27548981
 8464,"Wild Atlantic Concertina Week","2022-05-30 00:00:00","2022-06-03 00:00:00","Amharclann Ghaoth Dobhair","Ard Na GCeapairí","Gaoth Dobhair",Donegal,Ireland,55.04980087,-8.22870350
 8465,"Wild Atlantic Concertina Week","2022-06-06 00:00:00","2022-06-10 00:00:00","Amharclann Ghaoth Dobhair","Ard Na GCeapairí","Gaoth Dobhair",Donegal,Ireland,55.04980087,-8.22870350
 8510,"25th Interceltic Festival of Avilés (Festival Intercélticu d’Avilés y Comarca)","2022-07-24 00:00:00","2022-07-31 00:00:00","Various Venues",,Avilés,Asturies,Spain,43.55519485,-5.92245722
+8542,"Fleadh Cheoil 2022","2022-07-30 00:00:00","2022-08-07 00:00:00","Various Venues",,Mullingar,Westmeath,Ireland,53.52593231,-7.33813763
 8459,"perfectionnement aux UP","2022-09-24 09:30:00","2022-09-24 17:30:00","Lise Diwan Karaez (lycée Diwan De Carhaix)","Rue Sébastien Le Corvellec",Carhaix,Bretagne,France,48.27120972,-3.55540729
 8254,"Fiddle workshop with Ben Paley","2022-10-29 10:45:00","2022-10-29 16:45:00","The Elephant & Castle","White Hill",Lewes,Sussex,England,50.87474823,0.00833260
