@@ -380,7 +380,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 396,"St Ninian Festival","2007-07-29 00:00:00","2007-09-16 00:00:00","Various Venues",,Whithorn,"Dumfries and Galloway",Scotland,54.73483658,-4.41489315
 441,"Donegal Fiddle Summer School","2007-07-30 00:00:00","2007-08-03 00:00:00","Various Venues",,Glencolmcille,Donegal,Ireland,54.70808792,-8.72951603
 355,"Glengarry Highland Games","2007-08-03 00:00:00","2007-08-04 00:00:00",Fairgrounds,,Maxville,Ontario,Canada,45.28867340,-74.85454559
-356,"10 Years Of The Dunkineely Sessions","2007-08-03 00:00:00","2007-08-07 00:00:00","McIntyres Bar",,Dunkineely,Donegal,Ireland,54.63198090,-8.36051846
+356,"10 Years Of The Dunkineely Sessions","2007-08-03 00:00:00","2007-08-07 00:00:00","McIntyre's Bar","Main Street",Dunkineely,Donegal,Ireland,54.63207245,-8.35707855
 394,"Ballyshannon Folk & Traditional Music Festival - 30 Years","2007-08-03 00:00:00","2007-08-05 00:00:00","Various Venues",,Ballyshannon,Donegal,Ireland,54.50138855,-8.19015026
 446,"TRADITION: DL - Dún Laoghaire Festival Of Traditional Music","2007-08-03 08:00:00","2007-08-05 00:00:00","Pavilion Theatre","Marine Road","Dún Laoghaire",Dublin,Ireland,53.29439545,-6.13386679
 447,"Na Fianna - Traditional Irish Music","2007-08-03 22:30:00","2007-08-04 22:30:00","Cruzat Beer House","Sarmiento 1617-Paseo La Plaza","Buenos Aires","Buenos Aires",Argentina,-34.60372162,-58.38159180
@@ -5988,6 +5988,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8580,"Laidback Irish session tunes with Rowan Leslie","2022-03-16 00:00:00","2022-03-16 00:00:00",,,,,,,
 8582,"Kilkenny Tradfest","2022-03-16 00:00:00","2022-03-20 00:00:00","Various Venues",,Kilkenny,Kilkenny,Ireland,52.65963364,-7.25509024
 8596,"Aisling Twomey and Anna Eggersberger","2022-03-16 13:15:00","2022-03-16 14:00:00","Irish World Academy Of Music And Dance","University Of Limerick",Limerick,Limerick,Ireland,52.66480255,-8.62855625
+8615,"Session with Green Fields of America","2022-03-16 17:30:00","2022-03-16 17:30:00","Bitter Root Brewery","101 Marcus Street",Hamilton,Montana,USA,46.24715805,-114.15429688
 8600,"Zoë Conway and John McIntyre","2022-03-16 19:30:00","2022-03-16 19:30:00","Medieval Mile Museum","2 St Mary’s Lane, High Street",Kilkenny,Kilkenny,Ireland,52.65194702,-7.25251245
 8604,"Lúnasa with Daoirí Farrell","2022-03-16 19:30:00","2022-03-16 19:30:00","Sheen Center","18 Bleecker Street",Manhattan,"New York",USA,40.72530365,-73.99326324
 8601,"The Bonny Men","2022-03-16 20:30:00","2022-03-16 20:30:00","Cleere's Bar And Theatre","28 Parliament Street",Kilkenny,Kilkenny,Ireland,52.65507126,-7.25512743
@@ -5996,7 +5997,10 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8556,"The All-Ireland Cultural Society of Oregon's 2nd Virtual St. Patrick's Day Celebration","2022-03-17 12:00:00","2022-03-17 23:45:00",,,,,,,
 8553,"The Céilí Allstars","2022-03-17 18:00:00","2022-03-17 18:00:00","Coughlan's Bar","7 Douglas Street",Cork,Cork,Ireland,51.89255142,-8.46830368
 8609,Téada,"2022-03-17 19:00:00","2022-03-17 19:00:00","Caffe Lena","47 Phila St","Saratoga Springs","New York",USA,43.08054733,-73.78340912
+8617,"St Patrick's Day Ceili Mor","2022-03-17 19:00:00","2022-03-17 21:30:00","Winona Grange #271","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+8616,"Norwich Slow Tune St Patrick's Day Session","2022-03-17 19:30:00","2022-03-17 19:30:00",,,,,,,
 8613,"Kilfenora Céilí Band","2022-03-17 20:00:00","2022-03-17 20:00:00","Watergate Theatre","Parliament Street",Kilkenny,Kilkenny,Ireland,52.65422821,-7.25438976
+8614,Brynmor,"2022-03-17 20:00:00","2022-03-17 22:00:00",ROAR,"633 N. Liberty St.",Winston-Salem,"North Carolina",USA,36.10265732,-80.24515533
 8592,"Laoise Kelly, Tiarnán Ó Duinnchinn and Stephanie Makem","2022-03-18 00:00:00","2022-03-19 00:00:00","Stiúideo Cuan","Páirc Na Meán",Spiddal,Galway,Ireland,53.24417496,-9.30536270
 8585,"Try The Pipes","2022-03-18 11:00:00","2022-03-18 13:00:00","The Parade Tower","Kilkenny Castle, The Parade",Kilkenny,Kilkenny,Ireland,52.65046310,-7.24929810
 8583,"Uilleann Pipe Masterclass with Mick O’Brien","2022-03-18 14:00:00","2022-03-18 16:00:00","The Parade Tower","Kilkenny Castle, The Parade",Kilkenny,Kilkenny,Ireland,52.65046310,-7.24929810
@@ -6009,6 +6013,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8602,"Kevin Burke and The Goodman Trio","2022-03-19 19:30:00","2022-03-19 19:30:00","Medieval Mile Museum","2 St Mary’s Lane, High Street",Kilkenny,Kilkenny,Ireland,52.65194702,-7.25251245
 8606,"Lúnasa and Daoirí Farrell","2022-03-20 00:00:00","2022-03-20 00:00:00","Reston Community Center","2310 Colts Neck Road",Reston,Virginia,USA,38.93645859,-77.36052704
 8603,"Máirtín O'Connor, Cathal Hayden, and Seamie O'Dowd","2022-03-20 19:30:00","2022-03-20 19:30:00","Medieval Mile Museum","2 St Mary’s Lane, High Street",Kilkenny,Kilkenny,Ireland,52.65194702,-7.25251245
+8619,"Laidback Irish session tunes with Rowan Leslie","2022-03-23 00:00:00","2022-03-23 00:00:00",,,,,,,
 8572,"Irish Session","2022-03-24 19:00:00","2022-03-24 22:00:00","Boondocks Hideout","Rådhusgata 2",Tønsberg,Vestfold,Norway,59.26743698,10.40535355
 8607,Lúnasa,"2022-03-24 19:30:00","2022-03-24 19:30:00","University Of Georgia Performing Arts Center","230 River Road",Athens,Georgia,USA,33.94197464,-83.36952972
 8574,"Pádraic Keane album launch","2022-03-25 20:30:00","2022-03-25 20:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26988220,-9.06050587
@@ -6031,6 +6036,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8536,"Danu and Johnny Og Connolly","2022-04-09 21:00:00","2022-04-09 21:00:00","Gleneagle INEC Arena","Muckross Road, Poulnamuck",Killarney,Kerry,Ireland,52.04425812,-9.50193214
 8537,"Derek Hickey and MacDara Faolain","2022-04-10 20:00:00","2022-04-10 20:00:00","Gleneagle INEC Arena","Muckross Road, Poulnamuck",Killarney,Kerry,Ireland,52.04425812,-9.50193214
 8547,"Martin Hayes","2022-04-11 19:00:00","2022-04-11 21:30:00","Winona Grange #271","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+8618,"Martin Hayes in Concert","2022-04-11 19:00:00","2022-04-11 22:00:00","Winona Grange #271","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
 8427,"Scoil Gheimhridh Ghaoth Dobhair","2022-04-14 00:00:00","2022-04-18 00:00:00","Various Venues",,"Gaoth Dobhair",Donegal,Ireland,55.04860306,-8.22268486
 8595,"Matt Molloy and John Carty","2022-04-14 00:00:00","2022-04-15 00:00:00","Stiúideo Cuan","Páirc Na Meán",Spiddal,Galway,Ireland,53.24417496,-9.30536270
 8599,"Sal Heneghan, Cieara Kilkenny and Orla Leavy","2022-04-20 13:15:00","2022-04-20 14:00:00","Irish World Academy Of Music And Dance","University Of Limerick",Limerick,Limerick,Ireland,52.66480255,-8.62855625
