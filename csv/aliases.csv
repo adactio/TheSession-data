@@ -4877,6 +4877,7 @@ tune_id,alias,name
 842,"Hillside, The","Hills Of Glenorchy, The"
 842,"Jockeys Lament","Hills Of Glenorchy, The"
 842,"Jolly Corkonian, The","Hills Of Glenorchy, The"
+842,"Marla Hill Ducks","Hills Of Glenorchy, The"
 842,"Mrs. Martin's Favourite","Hills Of Glenorchy, The"
 842,"Over The Hills","Hills Of Glenorchy, The"
 842,"Robin's Nest, The","Hills Of Glenorchy, The"
@@ -5263,7 +5264,7 @@ tune_id,alias,name
 936,"Sunday Bells","Fair Wind, The"
 936,"Tear The Calico","Fair Wind, The"
 936,"West Clare, The","Fair Wind, The"
-937,"Catherine Marie","Kate Marie"
+937,"Kate Marie","Catherine Marie"
 938,"An Bhean Uasal Ar An Oileán","Lady On The Island, The"
 938,"An Mhaighdean Ar'n Oileán","Lady On The Island, The"
 938,"Lady Of The Island, The","Lady On The Island, The"
@@ -7674,6 +7675,7 @@ tune_id,alias,name
 1471,"Statia Donnelly's","Statia Donnelly"
 1473,"Ciaran O'Reilly",Mulhaire's
 1473,"Ciaran O'Reilly's",Mulhaire's
+1473,"Ciaran O'Reilly's",Mulhaire's
 1473,"Lavery's No. 2",Mulhaire's
 1473,"Martin Mulhaire's",Mulhaire's
 1473,"Martin Mulhaire's #9",Mulhaire's
@@ -8637,6 +8639,7 @@ tune_id,alias,name
 1719,"Denis Doody's","Where Lilies Bloom"
 1719,"Floursack Maloney's","Where Lilies Bloom"
 1719,"West Kerry","Where Lilies Bloom"
+1719,"Where The Lilies Grow","Where Lilies Bloom"
 1722,"Green Gate, The","Green Gates, The"
 1722,"Na Geata","Green Gates, The"
 1722,"Willie Reynold's","Green Gates, The"
@@ -14210,6 +14213,7 @@ tune_id,alias,name
 4184,"Roisin Dubh","Roisin Dubh"
 4184,"Rosin Dubh","Roisin Dubh"
 4185,"An Chathaoir Rothaí Ar Eitilt","Flying Wheelchair, The"
+4187,"A E","Patrick O'Connor's"
 4187,"Al Logodenn","Patrick O'Connor's"
 4187,"Patrick O'Connor's #1","Patrick O'Connor's"
 4187,"Patrick O'Connor's No. 1","Patrick O'Connor's"
@@ -14725,6 +14729,7 @@ tune_id,alias,name
 4574,"Cuzs' Delight","Terry 'Cuz' Teahan's"
 4574,"Terry Cuz Teahans","Terry 'Cuz' Teahan's"
 4574,"Terry Teahan's","Terry 'Cuz' Teahan's"
+4577,"Gipsy Princess, The","Gypsy Princess"
 4577,"Gypsi Princess, The","Gypsy Princess"
 4577,"Gypsy Princess, The","Gypsy Princess"
 4577,"Gypsy Queen","Gypsy Princess"
@@ -14827,22 +14832,6 @@ tune_id,alias,name
 4656,"Cooper O' Stannerton Heugh, The","Cooper, The"
 4656,"Cooper Of Stamfordham Heugh, The","Cooper, The"
 4657,Elmer's,"Elmer's Tune"
-4658,"Ciaran O'Reilly",Mulhare's
-4658,"Ciaran O'Reilly's",Mulhare's
-4658,"Lavery's No. 2",Mulhare's
-4658,"Martin Mulhaire's",Mulhare's
-4658,"Martin Mulhaire's #9",Mulhare's
-4658,Mulhaire's,Mulhare's
-4658,"Mulhaire's #1",Mulhare's
-4658,"Mulhaire's #9",Mulhare's
-4658,"Mulhaire's No. 1",Mulhare's
-4658,"Mulhaire's No. 9",Mulhare's
-4658,"Mulhaire's No.9",Mulhare's
-4658,"Mulhaire's Petticoat",Mulhare's
-4658,"Mulhare's #9",Mulhare's
-4658,Noreen's,Mulhare's
-4658,"Old Thatched House, The",Mulhare's
-4658,"Rising Sun, The",Mulhare's
 4661,"Left-Handed Fiddler, The","Left Handed Fiddler, The"
 4663,"Sandy M'Gaff's","Sandy M'Gaff"
 4663,"Sandy McGaff","Sandy M'Gaff"
@@ -15513,19 +15502,19 @@ tune_id,alias,name
 5147,"Wakin' Antsy","Wakin' Nancy"
 5150,"Halfway House, The","Turnpike, The"
 5150,"Hornpipe On The Turnpike, The","Turnpike, The"
-5151,"An Drochaid Chiiúiteach","An Drochaid Chliúiteach"
-5151,"An Drochaid Chliui","An Drochaid Chliúiteach"
-5151,"An Drochaid Chliutach","An Drochaid Chliúiteach"
-5151,"An Drochaid Chliùteach","An Drochaid Chliúiteach"
-5151,"An Drochaid Chluiteach","An Drochaid Chliúiteach"
-5151,"An Drochaid Cliuiteach","An Drochaid Chliúiteach"
-5151,"An Drochaid Cluideachd","An Drochaid Chliúiteach"
-5151,"An Drochaid Luideach","An Drochaid Chliúiteach"
-5151,"An Drochead Chluiteach","An Drochaid Chliúiteach"
-5151,"Crooked Bridge, The","An Drochaid Chliúiteach"
-5151,"Famous Bridge, The","An Drochaid Chliúiteach"
-5151,"Twisted Bridge, The","An Drochaid Chliúiteach"
-5151,"Twisted Fox, The","An Drochaid Chliúiteach"
+5151,"An Drochaid Chiiúiteach","An Drochaid Chliùiteach"
+5151,"An Drochaid Chliui","An Drochaid Chliùiteach"
+5151,"An Drochaid Chliutach","An Drochaid Chliùiteach"
+5151,"An Drochaid Chliùteach","An Drochaid Chliùiteach"
+5151,"An Drochaid Chluiteach","An Drochaid Chliùiteach"
+5151,"An Drochaid Cliuiteach","An Drochaid Chliùiteach"
+5151,"An Drochaid Cluideachd","An Drochaid Chliùiteach"
+5151,"An Drochaid Luideach","An Drochaid Chliùiteach"
+5151,"An Drochead Chluiteach","An Drochaid Chliùiteach"
+5151,"Crooked Bridge, The","An Drochaid Chliùiteach"
+5151,"Famous Bridge, The","An Drochaid Chliùiteach"
+5151,"Twisted Bridge, The","An Drochaid Chliùiteach"
+5151,"Twisted Fox, The","An Drochaid Chliùiteach"
 5152,"Humours Of  Winter","Sleeping On A Doorstep"
 5156,"None Of Your Damned Business","Damned If I Know"
 5161,"Mrs Ellen O'Dwyer's Fancy","Ellen O'Dwyer's Fancy"
@@ -16099,6 +16088,7 @@ tune_id,alias,name
 5581,"Old King George, The","King George"
 5581,"Old Kings, The","King George"
 5583,"Arkansas Traveller","Arkansas Traveler, The"
+5583,"Arkansaw Traveler","Arkansas Traveler, The"
 5583,"I'm Bringing Home A Baby Bumblebee","Arkansas Traveler, The"
 5585,"A-null Thar Nan Eileanan Dh' Ameireagaidh Gun Tèid Sinn","O'er The Isles To America"
 5585,"Over The Isles To America","O'er The Isles To America"
@@ -16819,6 +16809,7 @@ tune_id,alias,name
 6136,"Larry MacDonagh's","Maggie On The Shore"
 6136,"Larry McDonagh's","Maggie On The Shore"
 6136,"Maid On The Shore","Maggie On The Shore"
+6136,McDonagh's,"Maggie On The Shore"
 6138,"Bill McCormick's","James McMahon's"
 6138,"James McMahon's Favourite","James McMahon's"
 6138,"Padraig O'Keefe's Mother's","James McMahon's"
@@ -17945,6 +17936,7 @@ tune_id,alias,name
 6879,"Brian O'Kane's March No.2","Brian O'Kane's"
 6879,"Kane's March","Brian O'Kane's"
 6880,"Around The House And Mind The Dresser","Round The House And Mind The Dresser"
+6880,"Charlie Lennon's","Round The House And Mind The Dresser"
 6883,"Clapton Jigs, The","Clapton, The"
 6884,"Lougheil's March","Lougheil, The"
 6886,"Planxty Lady Wrixton","Lady Wrixon"
@@ -24374,8 +24366,8 @@ tune_id,alias,name
 13578,"Calgary Fiddlers","Calgary Fiddlers Welcome To Shetland"
 13578,"Calgary Fiddlers'","Calgary Fiddlers Welcome To Shetland"
 13578,"Calgary Fiddlers' Welcome To Shetland","Calgary Fiddlers Welcome To Shetland"
-13585,"Liverpool No. 1, The","Dan From Liverpool"
-13585,"Liverpool, The","Dan From Liverpool"
+13585,"Dan From Liverpool","Liverpool, The"
+13585,"Liverpool No. 1, The","Liverpool, The"
 13587,"Red House In Cardiff","Little Red House In Cardiff"
 13587,"Red House In Cardiff, The","Little Red House In Cardiff"
 13587,"Red House Of Cardiff","Little Red House In Cardiff"
@@ -26251,7 +26243,7 @@ tune_id,alias,name
 18792,"Chantons, Je Vous En Prie","Gallic Christmas Song"
 18813,"Dr Keith, Aberdeen","Dr. Keith, Aberdeen"
 18826,"Bonnie Lass","Bonny Lass"
-18830,"Putin On The Ritz","Putin' On The Ritz"
+18830,"Putin On The Ritz","Master And Margarita, The"
 18831,"Hommage à Pigeon","Hommage A Pigeon"
 18831,"Hommage Aux Frères Pigeon","Hommage A Pigeon"
 18834,"With Marly To Galacia","With Marley To Galicia"
@@ -26525,6 +26517,7 @@ tune_id,alias,name
 19723,"Mrs. Nicol's Fancy","Port Na Fainne"
 19723,"Wedding Ring, The","Port Na Fainne"
 19726,"Barricade, The","Reel De La Barricade"
+19728,"Miss Cunningham","Marquis Of Huntly's Farewell, The"
 19735,"Honourable Miss Charteri's","Honourable Miss Charteris"
 19735,"Miss Charters","Honourable Miss Charteris"
 19771,"Old Rafferty's Apples","Old Rafferty's Apple"
@@ -26955,3 +26948,5 @@ tune_id,alias,name
 21674,"Pop Polka #3",Pop
 21681,Waynesboro,Wayesborough
 21694,"Alix's Whistle, Kelticky","Alistríona's Whistle"
+21701,"Allan MacDonald's","Fàg A' Phiob Bhochd"
+21702,"Mazurka Por Fernandez, Mazurka Para Fernandez","Mazurka For Fernández"
