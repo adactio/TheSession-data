@@ -796,13 +796,8 @@ tune_id,alias,name
 106,"Drioball Na Fáinleoige","Swallowtail, The"
 106,"From The New Country","Swallowtail, The"
 106,"From The New World","Swallowtail, The"
-106,"From The Next Country","Swallowtail, The"
 106,"Gigue De Barnabé","Swallowtail, The"
-106,"Swallow Tail, The","Swallowtail, The"
-106,Swallow-tail,"Swallowtail, The"
-106,"Swallow's Nest, The","Swallowtail, The"
-106,"Swallow's Tail, The","Swallowtail, The"
-106,"Swallows Tail","Swallowtail, The"
+106,"Maher Saoirse, The","Swallowtail, The"
 106,"Swallowtail, The","Swallowtail, The"
 107,"Athol Highlander","Atholl Highlanders, The"
 107,"Athol Highlanders, The","Atholl Highlanders, The"
@@ -6041,6 +6036,7 @@ tune_id,alias,name
 1104,"Blackbird Set Dance, The","Blackbird, The"
 1105,Hennessy's,"Phoenix, The"
 1106,"A Prayer Is Better Than A Tune","Steamboat, The"
+1106,"Bon Voyage, Monsieur Dumollet","Steamboat, The"
 1106,"Is Fear Paidir Na Port","Steamboat, The"
 1106,Minion,"Steamboat, The"
 1106,"Minion, The","Steamboat, The"
@@ -8066,6 +8062,7 @@ tune_id,alias,name
 1566,Hollybush,"Holly Bush, The"
 1566,"Hollybush, The","Holly Bush, The"
 1566,O'Dwyer's,"Holly Bush, The"
+1566,"That Tune You Play Sometimes That You Taught Me That One Time","Holly Bush, The"
 1569,"Come To The Raffle","Tongs By The Fire, The"
 1569,"Tongues Of Fire","Tongs By The Fire, The"
 1571,"Mother's Pet","Your Mother's Little Pet"
@@ -9476,6 +9473,7 @@ tune_id,alias,name
 1990,"Johnny Won't You Marry Me?","Devil Is Dead, The"
 1990,"Johnny, Will You Marry Me?","Devil Is Dead, The"
 1990,"Lasses Of Donnybrook, The","Devil Is Dead, The"
+1990,"Love Will Ye Marry Me","Devil Is Dead, The"
 1990,"Love Will You Marry Me","Devil Is Dead, The"
 1990,"Love Won't You Marry Me","Devil Is Dead, The"
 1990,"Love Won't You Marry Me?","Devil Is Dead, The"
@@ -11897,6 +11895,7 @@ tune_id,alias,name
 2946,"Bunch Of Haws, The","Hawthorn, The"
 2948,"Bubbling Over",Gärdebylåten
 2948,Gardebylaten,Gärdebylåten
+2948,"Marche Des Violoneux",Gärdebylåten
 2949,"John Lees","Old Schoolmaster, The"
 2949,"Old School Master","Old Schoolmaster, The"
 2952,"Pat De Budgie","Pat The Budgie"
@@ -12502,8 +12501,7 @@ tune_id,alias,name
 3212,"Colonel Rodney","Colonel Rodney's"
 3212,"Colonel Rodney's Glory","Colonel Rodney's"
 3212,"Miss Brandling Of Gosforth's","Colonel Rodney's"
-3214,"Farewell March","Farewell, The"
-3214,"Farewell March, The","Farewell, The"
+3214,"Farewell, The","Farewell, The"
 3214,"Farewell, The","Farewell, The"
 3214,"Marshall's Farewell","Farewell, The"
 3215,"Kiss'd Her Under The Coverlet","Kiss Her Under The Coverlet"
@@ -13425,7 +13423,7 @@ tune_id,alias,name
 3653,"Wigsborough Hunt, The","Hunting The Hare"
 3655,"Saint Patrick's March","Centenary, The"
 3655,"St. Patrick's March","Centenary, The"
-3657,"Loch Ruan","Loch Ruan"
+3657,"Loch Roan","Loch Ruan"
 3659,"Auld Cross, The","Old Crossroads, The"
 3659,"Doon The Brae","Old Crossroads, The"
 3659,"Down The Brae","Old Crossroads, The"
@@ -15266,13 +15264,13 @@ tune_id,alias,name
 4967,"Geese In The Bog, The","Lad O'Beirne's Favourite"
 4967,"Jim Gannon's","Lad O'Beirne's Favourite"
 4967,"Lad O'Beirne's Geese In The Bog","Lad O'Beirne's Favourite"
-4970,"Hopeful Lover, The","Rambling Sailor, The"
-4970,"Jack O'Connell's","Rambling Sailor, The"
-4970,"Lighthouse, The","Rambling Sailor, The"
-4970,"Phil Murphy's","Rambling Sailor, The"
-4970,"Shady Road To Clamper, The","Rambling Sailor, The"
-4970,"Tom Carroll's","Rambling Sailor, The"
-4970,"Wistful Lover, The","Rambling Sailor, The"
+4970,"Hopeful Lover, The","Shady Road To Clamper, The"
+4970,"Jack O'Connell's","Shady Road To Clamper, The"
+4970,"Lighthouse, The","Shady Road To Clamper, The"
+4970,"Phil Murphy's","Shady Road To Clamper, The"
+4970,"Rambling Sailor, The","Shady Road To Clamper, The"
+4970,"Tom Carroll's","Shady Road To Clamper, The"
+4970,"Wistful Lover, The","Shady Road To Clamper, The"
 4971,"Bainis Cnoc Na GClárach","Bunratty Boys"
 4971,"Bunratty Boys, The","Bunratty Boys"
 4971,Knocknagree,"Bunratty Boys"
@@ -17954,7 +17952,8 @@ tune_id,alias,name
 6893,"Lochiel's Welcome To Glasgow March","Lochiel's Welcome To Glasgow"
 6898,"Brian O'Kane's March #1",O'Kane's
 6898,"Brian O'Kane's March No.1",O'Kane's
-6898,"Kane's March",O'Kane's
+6898,Kane's,O'Kane's
+6898,Siamsa,O'Kane's
 6899,"Ben Hill","Father Kelly's"
 6899,"Father Kelly's No. 2","Father Kelly's"
 6899,"Father Kelly's Number Two","Father Kelly's"
@@ -22007,6 +22006,7 @@ tune_id,alias,name
 10356,"Athol's Father","Athols Father"
 10359,"Bill O'Malley's",Maggie
 10359,"Joe Bane's",Maggie
+10361,"Down In The Meadows","A Tailor I Am"
 10361,"Paddy Cronin's","A Tailor I Am"
 10368,Kristan's,Kristan's
 10369,"Four Cross Roads, The","John Clifford's"
@@ -25833,6 +25833,10 @@ tune_id,alias,name
 17526,"Wink Of Her Eye, The","Bold John O'Leary"
 17530,"O'Connor's Slide No 1",O'Connor's
 17531,"O'Connor's Slide No 2",O'Connor's
+17533,"Hopsa Fra Raaby","Randers Hopsa"
+17533,"Hopsa Fra Råby","Randers Hopsa"
+17533,"Råby Hopsa","Randers Hopsa"
+17533,"Rander's Hopsa","Randers Hopsa"
 17537,"O Come, O Come Emmanuel","O Come, O Come Immanuel"
 17545,"Cornphíopa An Dreoilín","Wren, The"
 17549,Christina's,"Jig For Christina"
@@ -25942,6 +25946,9 @@ tune_id,alias,name
 17762,"Irish (polka)","Ademar O'Connor's"
 17766,"Reel For Jim DeWan","Tune For Jim DeWan"
 17767,Prospero's,Prosper's
+17775,"An Crúisgín Lán","Crúiscín Lán"
+17775,"Cruiscin Lan","Crúiscín Lán"
+17775,"Cruiskeen Lawn, The","Crúiscín Lán"
 17778,"Hen Ferchetan",Difyrrwch
 17785,"Fairest One",Glwysen
 17791,"Dermot Astore",Dermot
@@ -26934,9 +26941,6 @@ tune_id,alias,name
 21622,"Thamama Hulla","I'm Sleeping And Don't Waken Me"
 21626,"Pearlin Peggie's Bonny","Laird Of Foveran, The"
 21642,"Thatched Cottages, The","An Tithe Ceann Tuí"
-21644,"An Crúisgín Lán","Cruiskeen Lawn"
-21644,"Cruiscin Lan","Cruiskeen Lawn"
-21644,"Cruiskeen Lawn, The","Cruiskeen Lawn"
 21647,"Cuddy Claw'd Her","Cuddy Clauder"
 21647,"Cuddy Clawd Her","Cuddy Clauder"
 21647,"Cuddy Clawed Her","Cuddy Clauder"
@@ -26950,3 +26954,4 @@ tune_id,alias,name
 21694,"Alix's Whistle, Kelticky","Alistríona's Whistle"
 21701,"Allan MacDonald's","Fàg A' Phiob Bhochd"
 21702,"Mazurka Por Fernandez, Mazurka Para Fernandez","Mazurka For Fernández"
+21718,Tulla,"An Tulach"
