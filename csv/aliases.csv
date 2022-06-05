@@ -6016,6 +6016,7 @@ tune_id,alias,name
 1093,"Lexy MacAskill's","Lexie MacAskill"
 1093,"Lexy McAskill","Lexie MacAskill"
 1093,"Lexy McAskill's","Lexie MacAskill"
+1093,"Sexy Lexy","Lexie MacAskill"
 1094,"Corn Reeks, The","Corn Riggs"
 1094,"Corn Ricks, The","Corn Riggs"
 1094,"Corn Riggs Are Bonny","Corn Riggs"
@@ -9389,7 +9390,6 @@ tune_id,alias,name
 1949,"Mc Farley's","Maids Of Castlebar, The"
 1949,McFarley's,"Maids Of Castlebar, The"
 1950,"Da Headlands","Headlands, The"
-1950,"Headlands, The","Headlands, The"
 1951,"Blue Hill, The",Tullochgorum
 1951,"Corn Bunting, The",Tullochgorum
 1951,"Tulloch Gorm",Tullochgorum
@@ -13295,7 +13295,7 @@ tune_id,alias,name
 3573,"Shepherd's Hay","Shepherd's Hey"
 3573,"Shepherds Hey","Shepherd's Hey"
 3573,"Shepherds' Hey","Shepherd's Hey"
-3575,"Game (English Translation), The","La Partida"
+3575,"Game, The","La Partida"
 3577,"Dan O'Keeffe's","Danny Ab's"
 3577,"Dan O'Keeffe's No 2","Danny Ab's"
 3577,"Danny Ab's #1","Danny Ab's"
@@ -13449,6 +13449,7 @@ tune_id,alias,name
 3644,"One Horned Sheep, The","One-Horned Sheep, The"
 3644,"Pet In The Kitchen","One-Horned Sheep, The"
 3644,"Pet In The Kitchen, The","One-Horned Sheep, The"
+3644,"Red Stockings","One-Horned Sheep, The"
 3644,"Sorry To Part","One-Horned Sheep, The"
 3646,"Fickle Fiddle Of Fate, The","Feakle Fiddle, The"
 3646,"Fickle Fiddle, The","Feakle Fiddle, The"
@@ -16070,7 +16071,9 @@ tune_id,alias,name
 5519,Duke's,Dukes
 5522,"Paddy's Highland Fling",Killoran's
 5524,"Peter McKinnon Of Skeabost","Peter MacKinnon Of Skeabost"
-5526,"9th Of July","Elizabeth Keane's"
+5526,"Elizabeth Keane's","9th Of July, The"
+5526,"Ninth Of July, The","9th Of July, The"
+5526,"Sean Ryan's","9th Of July, The"
 5527,"2nd Victory","Second Victory"
 5527,"2nd Victory, The","Second Victory"
 5527,"Second Victory, The","Second Victory"
@@ -18279,6 +18282,7 @@ tune_id,alias,name
 7035,"Ridée Six Temps",Ridee
 7035,"Ridees 6 Temps",Ridee
 7035,"St. Patrice",Ridee
+7037,"Eddie Moloney's","John Naughton's"
 7038,"Walking In The Parlour","Walking In The Parlor"
 7042,"De'il Amang The Tailors, The","Devil's Dream, The"
 7042,"Le Rêve Du Diable","Devil's Dream, The"
@@ -19726,7 +19730,8 @@ tune_id,alias,name
 8019,"La Pèche à L'anguille","Rond De Saint Vincent"
 8019,"Rond De Saint-Vincent","Rond De Saint Vincent"
 8019,"Ronds De Saint Vincent","Rond De Saint Vincent"
-8020,"Cronin's Rambles","Weird One, The"
+8020,"Triallta Uí Cróinín","Cronin's Rambles"
+8020,"Weird One, The","Cronin's Rambles"
 8024,"James Carbray's","Carbray's Frolics"
 8027,"Steer Her Up And Had Her Gawn","O Steer Her Up, An Haud Her Gaun"
 8030,"La Ridée","News From Up North"
@@ -20525,7 +20530,6 @@ tune_id,alias,name
 8675,"Mick Duggan's No. 1","Mick Duggan's"
 8675,"Mikey Duggan's #1","Mick Duggan's"
 8676,Butler's,"Our Last Night Together"
-8678,"Triallta Uí Cróinín","Cronin's Rambles"
 8680,"Handel's Firework's Music","La Rejouissance"
 8680,Rejouissance,"La Rejouissance"
 8680,"Rejouissance, The","La Rejouissance"
@@ -21694,8 +21698,6 @@ tune_id,alias,name
 9938,"Lassies Of Stewarton, The","Lasses Of Stewarton, The"
 9939,"James MacLellans Favourite","James MacLellan's Favourite"
 9939,"James McLellan's Favourite","James MacLellan's Favourite"
-9940,"Elizabeth Keane's","9th Of July, The"
-9940,"Sean Ryan's","9th Of July, The"
 9945,Clarkson's,"Homeward Bound"
 9945,"Gem Of Ireland","Homeward Bound"
 9947,"Da Willow Kishie","Willow Kishie, The"
@@ -22736,7 +22738,6 @@ tune_id,alias,name
 11362,"Gin Ye Kiss My Wife I'll Tell The Minister","Gin Ye Kiss My Wife, I'll Tell The Minister"
 11365,"Lice, The","Hate Of Lice, The"
 11365,"Paudy Scully's Hate Of Lice","Hate Of Lice, The"
-11368,"Lost Indian, The","Tom Cronin's Homework"
 11369,"Colm's #2",Colm's
 11369,"Colm's No. 2",Colm's
 11369,"Colm's Number 2",Colm's
@@ -22933,6 +22934,7 @@ tune_id,alias,name
 11711,"Dancing Dandy, The","Dandy Dancer, The"
 11713,"Wellwynd, The","Well Wynd, The"
 11715,"Manhattan, The",Manhattan
+11720,"Pota Mór Fataí","Pota Mor Fatai"
 11722,"Bubba Martin's Ceili House","Ceilidh House, The"
 11722,"Bubba Martin's Ceilidh House","Ceilidh House, The"
 11722,"Ceili Hoose, The","Ceilidh House, The"
@@ -25051,7 +25053,7 @@ tune_id,alias,name
 14937,"An Cailín Déirí","Dairy Maid, The"
 14939,"Humours Of Maam, The","Humours Of Maam, The"
 14939,"Humours Of Mám, The","Humours Of Maam, The"
-14942,"Wha'll Dance Wi' Wattie?","Wha'll Dance Wi' Wattie ?"
+14942,"Wha'll Dance Wi' Wattie?","Wha'll Dance Wi' Wattie?"
 14944,"Sir Wilfred Laurier March","Sir Wilfred Laurier Marche"
 14944,"Sir Wilfred Laurier's March","Sir Wilfred Laurier Marche"
 14948,Carnival,Carnival
@@ -26833,6 +26835,7 @@ tune_id,alias,name
 20886,"Fox's Tail","Iorball Sionaigh"
 20886,"Fox's Tail, The","Iorball Sionaigh"
 20890,"Dans En Dro","Gwez-Kren En Noz"
+20890,"Wind In The Poplars, The","Gwez-Kren En Noz"
 20894,"Swan & Dolphin","Swan And Dolphin"
 20903,"Eibhlín A Rún","Erin, The Tear And The Smile"
 20928,"Brian Tuesday 27th July","Ed's Big 5 0"
@@ -27018,3 +27021,5 @@ tune_id,alias,name
 21875,"C M Hall","C.M. Hall"
 21876,"Snouts And Ears Of America, The","Snouts And Ears"
 21882,"Yellow Horse, The","Gearran Buidhe"
+21893,"Clock Town Theme","Majora's Mask: Clock Town Day 1"
+21899,Bransle,"Les Quatre Branles"
