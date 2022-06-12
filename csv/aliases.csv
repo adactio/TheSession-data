@@ -8606,6 +8606,7 @@ tune_id,alias,name
 1702,"She Put Her Knee On The Old Man","Chùir I Glùin Air A' Bhodaich"
 1703,"That's Right Too","That's Right Too!"
 1703,"That's Right, Too","That's Right Too!"
+1703,"Walking The Plank","That's Right Too!"
 1705,"Shakin's O' The Pocky","Shakin' O' The Pocky"
 1705,"Shakin's O' The Pocky, The","Shakin' O' The Pocky"
 1705,"Shakins O' The Pocky","Shakin' O' The Pocky"
@@ -14006,6 +14007,7 @@ tune_id,alias,name
 4031,"Skye Air","A Skye Air"
 4031,"Skye Air, The","A Skye Air"
 4033,Manchurian,"Hills Of Manchuria, The"
+4033,"On The Manchurian Hills","Hills Of Manchuria, The"
 4033,"Waltzin' To Mongolia","Hills Of Manchuria, The"
 4034,Bruntfoot,"Lass That Made The Bed For Me, The"
 4034,"Da Lass Dat Made Da Bed Fir Me","Lass That Made The Bed For Me, The"
@@ -14817,7 +14819,7 @@ tune_id,alias,name
 4606,"Da Shaalds O' Foula","Da Foula Reel"
 4606,"Shaalds O' Foula, The","Da Foula Reel"
 4606,"Shaalds Of Foula","Da Foula Reel"
-4608,"Wee Rabbit,","Wee Rabbit, The"
+4608,"Wee Fat Rabbit, The","Wee Rabbit, The"
 4615,"Youghal Harbor, Gerry's Slow Tune","Youghal Harbour"
 4616,McGee's,"Reel De Denis Magee"
 4620,Blessing's,"John Blessing's"
@@ -15117,6 +15119,7 @@ tune_id,alias,name
 4839,Custy's,"Billy O'Rourke Is The Buachaill"
 4839,"P. Joe's","Billy O'Rourke Is The Buachaill"
 4839,"Paddy Canny's","Billy O'Rourke Is The Buachaill"
+4840,"Humors Of Rahey, The","Humours Of Rahey, The"
 4843,"Bass, The","New Christmas"
 4843,"New Christmas, The","New Christmas"
 4844,"Boc Liath Nan Gobhar","Further, The Deeper, The"
@@ -20949,7 +20952,7 @@ tune_id,alias,name
 9023,"Snathaid An Phiobaire","Humours Of Glynn, The"
 9023,"Snathaid An Phiopaire","Humours Of Glynn, The"
 9026,"Garrykennedy Castle","Humours Of Garrykennedy, The"
-9027,"Old Hag, The","Old Hag, The"
+9027,"Old Hag, The","An T-Seann Cailleach"
 9028,"Lennon's Love To Blaner","Lennox's Love To Blantyre"
 9028,"Lennox Love To Blantyre","Lennox's Love To Blantyre"
 9029,"Sipsi Megan","Gypsy Meghan"
@@ -22694,6 +22697,7 @@ tune_id,alias,name
 11278,"Drive The Cold Winter Away","To Drive The Cold Winter Away"
 11282,"Wise Maid, The","Michael Gallagher's Fancy"
 11284,"Jim Ryan's","Tom Mhick's"
+11284,"Mrs Devlin's","Tom Mhick's"
 11286,Abainn-mor,"Avonmore, The"
 11286,Blackwater,"Avonmore, The"
 11289,Sångshyttan,Sangshyttevalsen
@@ -24141,6 +24145,7 @@ tune_id,alias,name
 13237,"Darby's Cross","Danny Green's"
 13239,"Caoineadh Na DTrí Mhuire","Caoineadh Na DTri Muire"
 13243,"'Se Fath Mo Bhuartha","Fath Mo Bhuartha"
+13243,"Reason For My Sorrow, The","Fath Mo Bhuartha"
 13243,"Se Bhfath Mo Bhfuartha","Fath Mo Bhuartha"
 13243,"Se Fa Mo Bhuartha","Fath Mo Bhuartha"
 13243,"Sé Fáth Mo Bhuartha","Fath Mo Bhuartha"
@@ -25057,7 +25062,7 @@ tune_id,alias,name
 14944,"Sir Wilfred Laurier March","Sir Wilfred Laurier Marche"
 14944,"Sir Wilfred Laurier's March","Sir Wilfred Laurier Marche"
 14948,Carnival,Carnival
-14948,"Carnival March, The",Carnival
+14948,"Carnival, The",Carnival
 14958,"Ton Dérobée","Sweet Rain"
 14962,"Ganivelle Schottische",Ganivelle
 14963,"Sally Sloane's Barn Dance","Sally Sloane's Barn Dance"
@@ -26309,6 +26314,7 @@ tune_id,alias,name
 18864,"Mickey Doherty's Highland","Mickey Doherty's"
 18864,"Micky Doherty's Highland","Mickey Doherty's"
 18870,Northumbrian,"Polka Cat"
+18871,"Fisherstreet Ríl","John Doherty's"
 18881,"Pen Y Fan","Penn Y Vann"
 18886,"Gallowglass, The",Caherconnell
 18894,Jiggermeister,"Jigermyster, The"
@@ -26532,6 +26538,7 @@ tune_id,alias,name
 19631,"Tax Max Mazurkas II, The","Tax Max, The"
 19632,"Grier, The",Grier's
 19632,"Grier's #16",Grier's
+19635,"Caoine Ui Dhonaill, Caoineadh Ui Dhomhnaill","Lament For O'Donnell"
 19638,"Michael O'Sullivan","Michael O'Sullivan's"
 19638,"Michelle O'Sullivan's","Michael O'Sullivan's"
 19640,"Sgian Dubh","Black Knife, The"
@@ -27023,3 +27030,8 @@ tune_id,alias,name
 21882,"Yellow Horse, The","Gearran Buidhe"
 21893,"Clock Town Theme","Majora's Mask: Clock Town Day 1"
 21899,Bransle,"Les Quatre Branles"
+21912,"Davy Roche's No. 1","Davy Roche's"
+21914,"Angus Allan Gillis","Tramper Down"
+21920,Panelmine,"Panel Mine, The"
+21924,"Miss Anne MacNamara","Anne MacNamara"
+21928,"Jenny's Mantel","Mantell Siani"
