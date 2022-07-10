@@ -4729,7 +4729,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7099,"Interceltic Festival of Avilés (Festival Intercélticu d’Avilés y Comarca)","2018-07-22 00:00:00","2018-07-29 00:00:00","Various Venues",,Avilés,Asturies,Spain,43.55519485,-5.92245722
 7282,"Open trad seisiun in the Temple Bar","2018-07-22 15:30:00","2018-07-22 17:00:00","Cuyahoga County Fairgrounds","164 Eastland Rd, Berea",Cleveland,Ohio,USA,41.36503601,-81.84360504
 7218,"Meitheal Summer School","2018-07-23 00:00:00","2018-07-27 00:00:00","St. Flannan's College",,Ennis,Clare,Ireland,52.84742737,-8.98873806
-7223,"Phil Murphy Weekend","2018-07-26 00:00:00","2018-07-30 00:00:00","Various Venues",,Carrig-on-Bannow,Wexford,Ireland,52.23885727,-6.73033905
+7223,"Phil Murphy Weekend","2018-07-26 00:00:00","2018-07-30 00:00:00","Various Venues",,Carrig-on-Bannow,Wexford,Ireland,52.23892975,-6.73233604
 7230,"The High Seas","2018-07-26 20:30:00","2018-07-26 20:30:00","Gweedore Theatre",,"Gaoth Dobhair",Donegal,Ireland,55.04980087,-8.22870350
 7163,"Scoil Acla Summer School 2018","2018-07-28 00:00:00","2018-08-04 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.96195221,-10.01533508
 7291,"Pipers' Social in Shanghai","2018-07-28 15:00:00","2018-07-28 19:00:00","Rock Shanghai Rehearsal Studio","Basement, Lujiabang Road 1396",Shanghai,Shanghai,China,31.23039055,121.47370148
@@ -5879,7 +5879,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8421,"Niamh Ní Charra Band","2021-12-03 21:00:00","2021-12-03 23:00:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26988220,-9.06050587
 8433,"Saturday Coffee Sessions: Fiddles in harmony","2021-12-04 10:30:00","2021-12-04 10:30:00","The Shropshire Hills Discovery Centre","School Road","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 8453,"'Harping On' and Steve Cooney","2021-12-04 16:00:00","2021-12-04 18:00:00","St. Patricks Church","Church Square",Monaghan,Monaghan,Ireland,54.24816132,-6.97003555
-8297,"Slow Irish Session","2021-12-04 18:30:00","2021-12-04 20:30:00","Cargo Coffee East - Madison Slow Irish Session","750 East Washington Ave",Madison,Wisconsin,USA,43.08091354,-89.37595367
+8297,"Slow Irish Session","2021-12-04 18:30:00","2021-12-04 20:30:00","Cargo Coffee East","750 East Washington Ave",Madison,Wisconsin,USA,43.08091354,-89.37595367
 8408,"Rob Zielinski and Donough O'Donovan","2021-12-04 19:00:00","2021-12-04 19:00:00","Private Residence","Mount Hawthorn",Perth,"Western Australia",Australia,-31.91958809,115.83560944
 8450,"Lúnasa: Christmas from Ireland","2021-12-04 19:30:00","2021-12-04 19:30:00","Proctors Theatre","432 State Street",Schenectady,"New York",USA,42.81236649,-73.94180298
 8415,"Reg Hall and Auld Triangle Céilí Band","2021-12-04 20:00:00","2021-12-04 20:00:00","Kings Place","90 York Way","Kings Cross",London,England,51.53482437,-0.12175610
@@ -6003,7 +6003,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8592,"Laoise Kelly, Tiarnán Ó Duinnchinn and Stephanie Makem","2022-03-18 00:00:00","2022-03-19 00:00:00","Stiúideo Cuan","Páirc Na Meán",Spiddal,Galway,Ireland,53.24417496,-9.30536270
 8585,"Try The Pipes","2022-03-18 11:00:00","2022-03-18 13:00:00","The Parade Tower","Kilkenny Castle, The Parade",Kilkenny,Kilkenny,Ireland,52.65046310,-7.24929810
 8583,"Uilleann Pipe Masterclass with Mick O’Brien","2022-03-18 14:00:00","2022-03-18 16:00:00","The Parade Tower","Kilkenny Castle, The Parade",Kilkenny,Kilkenny,Ireland,52.65046310,-7.24929810
-8573,"Slow Irish Session","2022-03-18 18:30:00","2022-03-18 20:30:00","Cargo Coffee East - Madison Slow Irish Session","750 East Washington Ave",Madison,Wisconsin,USA,43.08091354,-89.37595367
+8573,"Slow Irish Session","2022-03-18 18:30:00","2022-03-18 20:30:00","Cargo Coffee East","750 East Washington Ave",Madison,Wisconsin,USA,43.08091354,-89.37595367
 8584,"Trad Youth Session","2022-03-18 19:00:00","2022-03-18 21:00:00","Kilkenny Home Rule Club","3 John's Quay",Kilkenny,Kilkenny,Ireland,52.65274811,-7.25007772
 8610,Téada,"2022-03-18 19:30:00","2022-03-18 19:30:00","The Park Theatre","19 Main Street",Jaffrey,"New Hampshire",USA,42.81481171,-72.02385712
 8558,"Altan and The Wilderness Yet","2022-03-18 20:00:00","2022-03-18 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
@@ -6176,24 +6176,29 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8758,"Laidback Irish session tunes with Rowan Leslie","2022-06-29 00:00:00","2022-06-29 00:00:00",,,,,,,
 8760,"From the Bridge: a view of Irish traditional music in New York","2022-06-29 23:00:00","2022-06-29 23:00:00",,,,,,,
 8764,"Winter Tunes Camp","2022-06-30 14:00:00","2022-07-03 17:00:00","Sports Pavilion, Bob Pettitt Reserve","91 Sunset Strip","Jan Juc",Victoria,Australia,-38.34852982,144.29438782
-8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2022-06-30 18:00:00","2022-06-30 20:00:00",,,,,,,
 8740,"Irish Hooley","2022-06-30 19:00:00","2022-06-30 19:00:00","The Bloomsbury","15 Gordon Street",London,London,England,51.52499008,-0.13245760
 8717,"Scoil Samhraidh Willie Clancy 2022","2022-07-02 00:00:00","2022-07-10 00:00:00","Various Venues",,"Miltown Malbay",Clare,Ireland,52.85620117,-9.40077591
 8769,"ITMA at Scoil Samhraidh Willie Clancy 2022","2022-07-02 00:00:00","2022-07-09 00:00:00","Various Venues",,"Miltown Malbay",Clare,Ireland,52.85620117,-9.40077591
-8766,"Session with the pipers: Tim Hill, Paddy Egan, John Carlos, and Macdara Yates","2022-07-05 21:00:00","2022-07-05 23:30:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980392,-6.27785158
+8766,"Session with the pipers: Tim Hill, Paddy Egan, John Carlos, and Macdara Yeates","2022-07-05 21:00:00","2022-07-05 23:30:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980392,-6.27785158
 8498,"Acoustic Music Session","2022-07-07 14:15:00","2022-07-07 16:00:00","Crown Terrace Methodist Church","Crown Terrace",Aberdeen,Aberdeenshire,Scotland,57.14352798,-2.10092306
+8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2022-07-07 18:00:00","2022-07-07 20:00:00",,,,,,,
+8773,"A fél/sziget zenéje","2022-07-08 18:00:00","2022-07-10 22:00:00","Orfűi Malmok",,Orfű,Baranya,Hungary,46.13831329,18.17397499
 8759,"The FluteFling Collection Tunebook Launch","2022-07-09 16:30:00","2022-07-09 18:00:00","Number 44 Hotel And Bar","44 Allardice Street",Stonehaven,Aberdeenshire,Scotland,56.96421432,-2.20751119
 8691,"South Sligo Summer School","2022-07-10 00:00:00","2022-07-16 00:00:00","Various Venues",,Tubbercurry,Sligo,Ireland,54.05522537,-8.72982407
 8746,"Get a Tune in Too","2022-07-10 10:00:00","2022-07-11 12:30:00","Stokes Barn",,"Much Wenlock",Shropshire,England,52.59569931,-2.57832313
+8774,"Traditional Irish music session","2022-07-10 15:45:00","2022-07-10 15:45:00","The Golden Lion","High Street",Southwick,Hampshire,England,50.87306213,-1.11128485
 8716,"Ceol na Coille Summer School and Trad Camp 2022","2022-07-11 00:00:00","2022-07-15 00:00:00","Coláiste Ailigh",Knocknamona,Letterkenny,Donegal,Ireland,54.96406937,-7.73036814
 8690,"Joe Mooney Summer School","2022-07-16 00:00:00","2022-07-23 00:00:00","Various Venues",,Drumshanbo,Leitrim,Ireland,54.04780197,-8.04002380
 8750,"Carlos Sweeney McCartin","2022-07-17 20:00:00","2022-07-17 20:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
 8689,"MAD Week 2022","2022-07-18 00:00:00","2022-07-22 00:00:00","Melvin J. Berman Hebrew Academy","13300 Arctic Avenue",Rockville,Maryland,USA,39.07295609,-77.09979248
+8775,"30th Phil Murphy weekend","2022-07-21 00:00:00","2022-07-24 00:00:00","Various Venues",,Carrig-on-Bannow,Wexford,Ireland,52.23892975,-6.73233604
+8776,"Catalunya Celta","2022-07-22 00:00:00","2022-07-24 00:00:00","Various Venues",,Bagà,Catalunya,Spain,42.25262070,1.86171103
 8675,"Belfast Tradfest","2022-07-23 09:00:00","2022-07-29 23:45:00","Various Venues",,Belfast,Antrim,"Northern Ireland",54.71953201,-6.20724964
 8510,"25th Interceltic Festival of Avilés (Festival Intercélticu d’Avilés y Comarca)","2022-07-24 00:00:00","2022-07-31 00:00:00","Various Venues",,Avilés,Asturies,Spain,43.55519485,-5.92245722
 8733,"Scoil Acla Summer School","2022-07-25 00:00:00","2022-07-30 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.96195221,-10.01533508
 8748,"Ballyshannon Folk Festival","2022-07-28 00:00:00","2022-07-31 00:00:00","Various Venues",,Ballyshannon,Donegal,Ireland,54.50298691,-8.19204140
 8542,"Fleadh Cheoil 2022","2022-07-30 00:00:00","2022-08-07 00:00:00","Various Venues",,Mullingar,Westmeath,Ireland,53.52593231,-7.33813763
+8772,"Kevin Burke","2022-07-30 20:00:00","2022-07-30 20:00:00","The Dock","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
 8634,"Scoil Éigse","2022-07-31 00:00:00","2022-08-05 00:00:00","Various Venues",,Mullingar,Westmeath,Ireland,53.52593231,-7.33813763
 8761,"Martin Hayes and The Common Ground Ensemble","2022-07-31 19:00:00","2022-07-31 19:00:00","Cathedral Christ The King","Mary Street",Mullingar,Westmeath,Ireland,53.52699280,-7.34549904
 8770,"Kevin Burke","2022-07-31 20:00:00","2022-07-31 20:00:00","Royal Spa Hotel",,Lisdoonvarna,Clare,Ireland,53.02877426,-9.29001141
