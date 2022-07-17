@@ -1848,7 +1848,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2026,"West Of Shannon","2010-07-16 19:00:00","2010-07-16 21:00:00","High Street Station","1303 High Street",Alameda,California,USA,37.75638199,-122.23415375
 2021,Celticfest,"2010-07-17 15:00:00","2010-06-28 21:00:00","Slainte By The Pier","15057 Marine Drive","White Rock","British Columbia",Canada,49.02084351,-122.80404663
 1960,"Workshop In Tocane","2010-07-18 00:00:00","2010-07-21 00:00:00","The Center Of The Village",Village,Tocane,"Tocane St-Apre",France,45.25547409,0.50408202
-2037,"Dartry Ceili Band perform at Joe Mooney Summer School concert","2010-07-22 20:00:00","2010-07-22 00:00:00","Community Centre",,Drumshanbo,Leitrim,Ireland,54.04821014,-8.03947926
+2037,"Dartry Ceili Band perform at Joe Mooney Summer School concert","2010-07-22 20:00:00","2010-07-22 00:00:00","Community Centre",,Drumshanbo,Leitrim,Ireland,54.04677963,-8.03856182
 2033,"Johnny Connolly","2010-07-22 21:45:00","2010-07-22 23:30:00","McNeill's Pub","140 Capel Street",Dublin,Dublin,Ireland,53.34776306,-6.26866961
 1995,"Éigse Eatharlaí","2010-07-23 00:00:00","2010-07-25 00:00:00","Tigh Roy",,Lisvernane,Tipperary,Ireland,52.41903687,-8.23207855
 2000,"Scoil Acla Traditional Music & Cultural Summer School","2010-07-23 00:00:00","2010-08-01 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.96195221,-10.01533508
@@ -3974,7 +3974,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6417,"Bandon Music Festival featuring The Riptide Movement  and Delorentos","2016-06-04 20:00:00","2016-06-05 23:00:00","The Shambles","Emmet Row",Bandon,Cork,Ireland,51.74385452,-8.73435783
 6483,"Edel Vaughan, Francis Cunningham, Eimear Coughlan & Pádraig O'Reilly","2016-06-08 13:00:00","2016-06-08 14:00:00","Clare Museum",,Ennis,Clare,Ireland,52.84518433,-8.98152637
 6484,"Irish session - All instruments welcome!","2016-06-08 20:00:00","2016-06-08 20:00:00","Zlata Ladjica","Jurčičev Trg 1",Ljubljana,Ljubljana,Slovenia,46.04828644,14.50522804
-6490,"Session with Dennis Spring (NC, USA)","2016-06-08 21:00:00","2016-06-09 12:00:00","Poacher's Pocket","181 Killinchy Road, BT23 5NE",Lisbane,Down,"Northern Ireland",54.50607300,-5.71357250
+6490,"Session with Dennis Spring (NC, USA)","2016-06-08 21:00:00","2016-06-09 12:00:00","The Poacher's Pocket","181 Killinchy Road, BT23 5NE",Lisbane,Down,"Northern Ireland",54.50610733,-5.71378899
 6433,"Minnesota Irish Music Weekend","2016-06-10 00:00:00","2016-06-12 00:00:00","Center For Irish Music At Celtic Junction Arts Center","836 Prior Ave","St Paul",Minnesota,USA,44.96621704,-93.18202209
 6478,"Doolin Folk Festival 2016","2016-06-10 00:00:00","2016-06-12 00:00:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01670074,-9.37452126
 6442,"North Atlantic Tionól","2016-06-10 19:00:00","2016-06-12 22:00:00","Brackley Beach North Winds Inns And Suites","3828 Portage Road","Brackley Beach","Prince Edward Island",Canada,46.40474319,-63.19874954
@@ -6190,6 +6190,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8716,"Ceol na Coille Summer School and Trad Camp 2022","2022-07-11 00:00:00","2022-07-15 00:00:00","Coláiste Ailigh",Knocknamona,Letterkenny,Donegal,Ireland,54.96406937,-7.73036814
 8690,"Joe Mooney Summer School","2022-07-16 00:00:00","2022-07-23 00:00:00","Various Venues",,Drumshanbo,Leitrim,Ireland,54.04780197,-8.04002380
 8750,"Carlos Sweeney McCartin","2022-07-17 20:00:00","2022-07-17 20:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
+8778,"Gatehouse In Concert At Joe Mooney Summer School","2022-07-17 20:00:00","2022-07-17 20:00:00","Community Centre",,Drumshanbo,Leitrim,Ireland,54.04677963,-8.03856182
 8689,"MAD Week 2022","2022-07-18 00:00:00","2022-07-22 00:00:00","Melvin J. Berman Hebrew Academy","13300 Arctic Avenue",Rockville,Maryland,USA,39.07295609,-77.09979248
 8775,"30th Phil Murphy weekend","2022-07-21 00:00:00","2022-07-24 00:00:00","Various Venues",,Carrig-on-Bannow,Wexford,Ireland,52.23892975,-6.73233604
 8776,"Catalunya Celta","2022-07-22 00:00:00","2022-07-24 00:00:00","Various Venues",,Bagà,Catalunya,Spain,42.25262070,1.86171103
@@ -6197,6 +6198,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8510,"25th Interceltic Festival of Avilés (Festival Intercélticu d’Avilés y Comarca)","2022-07-24 00:00:00","2022-07-31 00:00:00","Various Venues",,Avilés,Asturies,Spain,43.55519485,-5.92245722
 8733,"Scoil Acla Summer School","2022-07-25 00:00:00","2022-07-30 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.96195221,-10.01533508
 8748,"Ballyshannon Folk Festival","2022-07-28 00:00:00","2022-07-31 00:00:00","Various Venues",,Ballyshannon,Donegal,Ireland,54.50298691,-8.19204140
+8779,"The Reel Thing Roscommon Families-The Donoghue Brothers","2022-07-28 20:00:00","2022-07-28 20:00:00","Roscommon Arts Centre","Circular Road",Roscommon,Roscommon,Ireland,53.62707520,-8.19038296
 8542,"Fleadh Cheoil 2022","2022-07-30 00:00:00","2022-08-07 00:00:00","Various Venues",,Mullingar,Westmeath,Ireland,53.52593231,-7.33813763
 8772,"Kevin Burke","2022-07-30 20:00:00","2022-07-30 20:00:00","The Dock","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
 8634,"Scoil Éigse","2022-07-31 00:00:00","2022-08-05 00:00:00","Various Venues",,Mullingar,Westmeath,Ireland,53.52593231,-7.33813763
