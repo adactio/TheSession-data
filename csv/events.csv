@@ -198,7 +198,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 193,"Fiddle Workshop With Christian Lemaître","2007-02-16 18:00:00","2007-02-18 17:00:00",Elisabeth-hall,"Berkenhagestraat 64",Zedelgem,Vlaanderen,Belgium,51.13560486,3.13553429
 245,"Annual Ceili Dance Irish Musicians Association Of Chicago","2007-02-16 20:00:00","2007-02-16 00:30:00","Gaelic Park","6119 W. 147th St.",Chicago,Illinois,USA,41.62430191,-87.77095032
 223,"Callahan, McComiskey and Kelly In Concert","2007-02-16 21:00:00","2007-02-16 23:45:00","Glucksman Irish House At New York University","1 Washington Mews",Manhattan,"New York",USA,40.73172760,-73.99650574
-241,"Bran Club","2007-02-17 17:00:00","2007-02-17 22:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.49878693,18.98901176
+241,"Bran Club","2007-02-17 17:00:00","2007-02-17 22:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.48326492,18.91794205
 209,"The Gathering Festival","2007-02-21 00:00:00","2007-02-25 00:00:00","The Gleneagle Hotel","Muckross Road",Killarney,Kerry,Ireland,52.05173111,-9.50676441
 214,"Mór Ceol","2007-02-23 00:00:00","2007-02-23 00:00:00","Various Venues",,Ballinamore,Leitrim,Ireland,54.05221939,-7.80320454
 202,"Micho Rusell Memorial","2007-02-23 21:00:00","2007-02-26 00:00:00","Various Venues",,Doolin,Clare,Ireland,53.01632690,-9.37653828
@@ -2621,7 +2621,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2780,"NicGaviskey In Concert","2012-07-24 19:30:00","2012-07-24 21:30:00","Richland Community Hall","8985 Gull Road",Richland,Michigan,USA,42.37599945,-85.45717621
 2816,"Roxby Music Festival","2012-07-25 12:00:00","2012-07-30 12:00:00","Fox Inn",,Roxby,Yorkshire,England,53.95486069,-1.10573995
 2819,"NicGaviskey Live In The Celtic Room","2012-07-25 19:00:00","2012-07-26 00:00:00","Conor O'Neill's","318 South Main Street","Ann Arbor",Michigan,USA,42.27885056,-83.74879456
-2747,"The Anne & Pat Molloy Summer School","2012-07-28 10:00:00","2012-07-29 20:00:00","Various Venues",,Birmingham,"West Midlands",England,52.48624420,-1.89040101
+2747,"The Anne & Pat Molloy Summer School","2012-07-28 10:00:00","2012-07-29 20:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47879028,-1.89696395
 2705,"Scoil Acla Traditional Music & Cultural Summer School","2012-07-30 00:00:00","2012-08-05 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.96195221,-10.01533508
 2827,"Dermot Byrne And Floriane Blancke","2012-07-30 07:30:00","2012-07-30 00:00:00","Rocky Sullivan's","34 Van Dyke St",Brooklyn,"New York",USA,40.67387009,-74.01179504
 2791,"Mick Moloney & Friends","2012-07-30 20:30:00","2012-07-30 00:00:00","The Patrician",,Carrickmore,Tyrone,"Northern Ireland",54.60295868,-7.09410000
@@ -3506,7 +3506,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3754,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-23 19:45:00","2014-11-23 22:00:00","The Hawth Theatre","Hawth Avenue",Crawley,Sussex,England,51.10923386,-0.17478460
 3763,"Fundraiser trad music song, dance, storytelling, and lilting concert for The Join Our Boys Trust","2014-11-26 20:30:00","2014-11-26 20:30:00","Abbey Hotel",Abbeytown,Roscommon,Roscommon,Ireland,53.62451935,-8.19496822
 3736,"Megasesh (part of the Oxjam Music Festival)","2014-11-26 21:00:00","2014-11-26 23:45:00","Canons' Gait","232 Canongate",Edinburgh,Lothian,Scotland,55.95080948,-3.18221378
-3766,"The Trip to Birmingham Tradfest 2014","2014-11-27 00:00:00","2014-11-30 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.48624420,-1.89040101
+3766,"The Trip to Birmingham Tradfest 2014","2014-11-27 00:00:00","2014-11-30 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47879028,-1.89696395
 3755,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-27 19:30:00","2014-11-27 21:45:00","Barningham Village Hall",,Richmond,Yorkshire,England,52.35551834,-1.17431974
 3756,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar) - Christmas Show","2014-11-28 19:30:00","2014-11-28 21:45:00","Lindow Hall",,"Bowness On Solway",Cumbria,England,54.95302200,-3.21461701
 3727,"St Andrew's Ceilidh","2014-11-28 20:00:00","2014-11-28 20:00:00","St Andrews In The Square","1 St Andrew's Square",Glasgow,Glasgow,Scotland,55.85448074,-4.24334049
@@ -4017,7 +4017,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6489,"Michael Landers, John Canny, Mark Donnellan & Daniel Landers","2016-07-20 13:00:00","2016-07-20 14:00:00","Clare Museum",,Ennis,Clare,Ireland,52.84518433,-8.98152637
 6517,"Cascadia Irish Music Week Teachers Concert","2016-07-22 20:00:00","2016-07-22 20:00:00","The Longhouse At The Evergreen State College","2700 Evergreen Parkway NW",Olympia,Washington,USA,47.07290268,-122.97708130
 6530,"Scoil Acla Summer School","2016-07-23 00:00:00","2016-07-30 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.96195221,-10.01533508
-6523,"Pat Molloy Summer School","2016-07-23 10:00:00","2016-07-24 17:00:00","Various Venues",,Birmingham,"West Midlands",England,52.48624420,-1.89040101
+6523,"Pat Molloy Summer School","2016-07-23 10:00:00","2016-07-24 17:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47879028,-1.89696395
 6516,"Cascadia Irish Music Week Teachers Concert","2016-07-23 20:00:00","2016-07-23 20:00:00","Wedgwood Presbyterian Church","8008 35th Ave NE",Seattle,Washington,USA,47.68689346,-122.29019165
 6527,"Fiddler's Green Festival","2016-07-24 00:00:00","2016-07-31 00:00:00","St Bronagh's Social Club","5-7 Mary Street",Rostrevor,Down,"Northern Ireland",54.32769775,-5.71576691
 6522,"Rude Mechanicals play for Folk in the Chapel","2016-07-24 14:30:00","2016-07-24 14:30:00","The Westgate Chapel","92 High Street",Lewes,Sussex,England,50.87188339,0.00624240
@@ -4066,7 +4066,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6585,"Kansas City Irish Fest","2016-09-02 00:00:00","2016-09-04 00:00:00","Various Venues",,"Kansas City",Missouri,USA,39.09972763,-94.57856750
 6573,"Gatehouse in concert","2016-09-02 20:00:00","2016-09-02 20:00:00","Roscommon Arts Centre","Circular Road",Roscommon,Roscommon,Ireland,53.62707520,-8.19038296
 6579,"Ceol na gCruach 2016","2016-09-02 21:30:00","2016-09-04 23:45:00","The Glen Tavern (Dinny's)","Glen Of Glenties",Glenties,Donegal,Ireland,54.79367447,-8.19102859
-6592,"BRAN KLUB","2016-09-03 17:00:00","2016-09-03 22:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.49878693,18.98901176
+6592,"BRAN KLUB","2016-09-03 17:00:00","2016-09-03 22:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.48326492,18.91794205
 6560,"Perry Hall Folk Music Night, featuring Woody Lissauer","2016-09-03 19:00:00","2016-09-03 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940094,-76.46701050
 6571,"Sean-nós singing course with Eithne Ní Chatháin","2016-09-06 18:30:00","2016-10-04 20:00:00","Fumbally Stables","Fumbally Lane",Dublin,Dublin,Ireland,53.33697128,-6.27371788
 6396,"Linlithgow Folk Festival 2016","2016-09-07 00:00:00","2016-09-11 00:00:00","Various Venues",,Linlithgow,"West Lothian",Scotland,55.97162628,-3.60258460
@@ -4130,7 +4130,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6639,"Colly Moore and Enda McCabe","2016-10-12 21:00:00","2016-10-12 21:00:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26988220,-9.06050587
 6632,"Singing Your Heart Out","2016-10-14 20:00:00","2016-10-14 23:00:00","Our Lady Of Lourdes Church Centre","222 Trittiford Rd",Birmingham,"West Midlands",England,52.41459656,-1.82079899
 6640,"Zoe Conway, Donal Lunny, and Martin O'Connor","2016-10-14 20:00:00","2016-10-14 20:00:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.71111679,-6.20284510
-6593,"BRAN KLUB","2016-10-15 17:00:00","2016-10-15 22:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.49878693,18.98901176
+6593,"BRAN KLUB","2016-10-15 17:00:00","2016-10-15 22:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.48326492,18.91794205
 6626,"An exhibition of Kildare pipers","2016-10-15 19:30:00","2016-10-15 22:30:00","Downings House",,Prosperous,Kildare,Ireland,53.28311539,-6.77168322
 6633,"Celtic Vespers","2016-10-18 19:00:00","2016-10-18 21:00:00","Fairlawn Avenue United Church","28 Fairlawn Avenue",Toronto,Ontario,Canada,43.73109055,-79.40475464
 6637,"Celebrating Goodman: Seminar and Launch","2016-10-20 14:00:00","2016-10-20 14:00:00","Irish Traditional Music Archive","73 Merrion Square",Dublin,Dublin,Ireland,53.33893967,-6.25042009
@@ -4196,7 +4196,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6623,"Uneven Ground at the Grand River Folk Art Society","2016-11-19 20:00:00","2016-11-19 20:00:00","Wealthy Theatre Annex","1130 Wealthy St. SE","Grand Rapids",Michigan,USA,42.95528030,-85.64078522
 6665,"All Covered With Moss CD Release Concert","2016-11-20 17:30:00","2016-11-20 17:30:00","Conor O'Neill's","318 South Main Street","Ann Arbor",Michigan,USA,42.27885056,-83.74879456
 6691,"Trad for Charity fundraiser","2016-11-20 18:00:00","2016-11-20 18:00:00","West End Bar",,Fenit,Kerry,Ireland,52.27780914,-9.86209011
-6659,"Traditional Irish Music Festival","2016-11-24 00:00:00","2016-11-27 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.48624420,-1.89040101
+6659,"Traditional Irish Music Festival","2016-11-24 00:00:00","2016-11-27 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47879028,-1.89696395
 6689,"Christmas on the Square: Padraig McGovern & Peter Carberry","2016-11-26 13:00:00","2016-11-26 13:00:00","Irish Traditional Music Archive","73 Merrion Square",Dublin,Dublin,Ireland,53.33893967,-6.25042009
 6702,Lynched,"2016-11-26 19:30:00","2016-11-26 19:30:00","Vicar Street","58-59 Thomas Street",Dublin,Dublin,Ireland,53.34265900,-6.27794218
 6690,"Set dancing and session","2016-11-27 18:00:00","2016-11-27 18:00:00",,,,,,,
@@ -4554,7 +4554,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7035,"Yscolan Tune School","2018-01-26 13:00:00","2018-01-28 23:45:00","Canolfan Yr Urdd","Pentre Ifan",Newport,Pembrokeshire,Wales,52.01565552,-4.83494377
 7092,"The Band of Burns","2018-01-26 19:00:00","2018-01-26 19:00:00","The Tivoli Theatre","34-48 Guild Street",Aberdeen,Aberdeenshire,Scotland,57.14505386,-2.09759283
 7097,"Irish Concertina Ensemble","2018-01-26 20:30:00","2018-01-26 22:30:00","Ionad Cultúrtha",,Ballyvourney,Cork,Ireland,51.94318771,-9.17049599
-7085,"BRAN Klub","2018-01-27 18:00:00","2018-01-27 18:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.49878693,18.98901176
+7085,"BRAN Klub","2018-01-27 18:00:00","2018-01-27 18:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.48326492,18.91794205
 7093,"The Band of Burns","2018-01-27 19:00:00","2018-01-27 19:00:00","Union Chapel","Compton Avenue",Islington,London,England,51.54650497,-0.10580580
 6958,"Handed Down  ""From the Masters Hand - Padraig's Legacy""","2018-01-27 20:00:00","2018-01-27 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7054,"Handed Down “ Creating a Sliabh Luachra Archive “  preserving  our Identity  presented by Maggie Prendeville Keane","2018-01-27 20:00:00","2018-01-27 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
@@ -5180,7 +5180,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7732,"I Lift My Lamp - Songs & Stories of Irish Immigration","2019-11-16 19:00:00","2019-11-16 21:00:00","Coralville Center For The Performing Arts","1301 5th Street",Coralville,Iowa,USA,41.67654800,-91.58115387
 7727,"Martin Hayes and David Power","2019-11-16 20:00:00","2019-11-16 20:00:00","Marketplace Theatre","Market Street","Armagh City",Armagh,"Northern Ireland",54.34797287,-6.65431547
 7617,Lankum,"2019-11-19 19:00:00","2019-11-19 19:00:00",Komedia,"44-47 Gardner Street",Brighton,Sussex,England,50.82488632,-0.13941710
-7711,"Birmingham Tradfest","2019-11-21 00:00:00","2019-11-24 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.48624420,-1.89040101
+7711,"Birmingham Tradfest","2019-11-21 00:00:00","2019-11-24 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47879028,-1.89696395
 7733,"Cormac Begley and Liam O'Connor","2019-11-22 17:30:00","2019-11-22 17:30:00","St. Peter's","North Main Street",Cork,Cork,Ireland,51.89968109,-8.47840023
 7717,Lúnasa,"2019-11-22 19:00:00","2019-11-22 19:00:00","South And City College","High Street Deritend, Digbeth",Birmingham,"West Midlands",England,52.47470093,-1.88494396
 7656,"Matt Molloy, John Carty, and Brian McGrath","2019-11-22 20:00:00","2019-11-22 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
@@ -6225,6 +6225,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8810,"Gatehouse in concert","2022-08-03 20:00:00","2022-08-03 20:00:00","St. Paul's Church",,Mullingar,Westmeath,Ireland,53.52748489,-7.32895088
 8771,"Feakle Festival","2022-08-04 00:00:00","2022-08-08 00:00:00","Various Venues",,Feakle,Clare,Ireland,52.92606735,-8.64865208
 8811,"Angelina Carberry and Dan Brouder","2022-08-04 17:00:00","2022-08-04 17:00:00","The Chambers","44 Mount Street",Mullingar,Westmeath,Ireland,53.52436829,-7.34102058
+8820,"The Ould Sod Virtual Session on Zoom","2022-08-04 18:00:00","2022-08-04 18:00:00",,,,,,,
 8802,"Dublin Irish Festival","2022-08-05 00:00:00","2022-08-07 00:00:00","Coffman Park","5200 Emerald Parkway",Dublin,Ohio,USA,40.10507965,-83.13332367
 8787,"Lorraine Sweeney and Jacqui Martin","2022-08-10 01:00:00","2022-08-10 14:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
 8664,"Folixa Nel Paraísu","2022-08-12 00:00:00","2022-08-14 00:00:00","Plaza'l Ganáu","Covadonga, 31",L'Infiestu,Asturies,Spain,43.34601974,-5.36165428
@@ -6244,15 +6245,21 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8790,"Matt and Shannon Heaton","2022-08-28 19:00:00","2022-08-28 20:30:00","Boal Museum Amphitheater","163 Boal Estate Drive",Boalsburg,Pennsylvania,USA,40.77850342,-77.79920959
 8791,"Matt and Shannon Heaton","2022-08-29 19:00:00","2022-08-29 19:00:00","The Huntingdon County Arts Center","12th Street",Huntingdon,Pennsylvania,USA,40.49245453,-78.01689148
 8806,"Kansas City Irish Fest","2022-09-02 00:00:00","2022-09-04 00:00:00","Various Venues",,"Kansas City",Missouri,USA,39.09972763,-94.57856750
+8818,"Notmell's Irish Music Weekend","2022-09-02 00:00:00","2022-09-04 00:00:00","Tuckers Grave Inn","Knoll Lane",Faulkland,Somerset,England,51.28913498,-2.37831020
 8807,"Féile Cheoil Larry Reynolds","2022-09-08 00:00:00","2022-09-11 00:00:00","Various Venues",,Ballinasloe,Galway,Ireland,53.32876205,-8.22694683
 8814,"Drawing from the Well at ITMA","2022-09-11 19:30:00","2022-09-11 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33446503,-6.25827360
 8804,"Michigan Irish Music Festival","2022-09-15 00:00:00","2022-09-18 00:00:00","Heritage Landing","1050 7th Street",Muskegon,Michigan,USA,43.23135376,-86.26097870
+8821,"Bran Klub","2022-09-17 18:00:00","2022-09-17 18:00:00","Jókai Klub","Hollós út 5",Budapest,Budapest,Hungary,47.48326492,18.91794205
 8570,"Portal Irish Music Week - 2022","2022-09-22 00:00:00","2022-09-26 00:00:00","Black Range Lodge","50 Main Street",Kingston,"New Mexico",USA,32.91701889,-107.70614624
 8805,"The Johnny Doherty Festival","2022-09-23 00:00:00","2022-09-25 00:00:00","Various Venues",,Ardara,Donegal,Ireland,54.76714706,-8.40928650
 8459,"perfectionnement aux UP","2022-09-24 09:30:00","2022-09-24 17:30:00","Lise Diwan Karaez (lycée Diwan De Carhaix)","Rue Sébastien Le Corvellec",Carhaix,Bretagne,France,48.27120972,-3.55540729
 8796,"The 43rd Cork Folk Festival","2022-09-29 00:00:00","2022-10-02 00:00:00","Various Venues",,Cork,Cork,Ireland,51.89851379,-8.47560310
+8815,"Matt Molloy and Sean Keane with Máire Ní Chathasaigh and Chris Newman","2022-09-30 20:00:00","2022-09-30 20:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
 8800,"Kevin Burke and Seamie O’Dowd","2022-10-01 19:30:00","2022-10-01 19:30:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
+8816,Danú,"2022-10-01 20:00:00","2022-10-01 20:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
+8817,"Mairéad Ní Mhaonaigh, Mark Redmond, Cormac De Barra","2022-10-02 20:00:00","2022-10-02 20:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
 8768,"Patrick O'Keeffe Traditional Music Festival","2022-10-27 16:00:00","2022-10-31 23:45:00","Various Venues",,Castleisland,Kerry,Ireland,52.23289871,-9.46014881
 8765,"Cáceres Irish Fleadh 2022","2022-10-28 00:00:00","2022-10-30 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47527695,-6.37242460
 8812,"Return To London Town Festival","2022-10-28 00:00:00","2022-10-31 00:00:00","Clayton Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55613708,-0.21422189
 8254,"Fiddle workshop with Ben Paley","2022-10-29 10:45:00","2022-10-29 16:45:00","The Elephant & Castle","White Hill",Lewes,Sussex,England,50.87474823,0.00833260
+8819,"Birmingham TradFest","2022-11-24 00:00:00","2022-11-27 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47879028,-1.89696395
