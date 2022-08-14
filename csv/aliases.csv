@@ -20665,6 +20665,7 @@ tune_id,alias,name
 8753,"Perfect Hornpipe No. 2",Shanahan's
 8753,Welsh's,Shanahan's
 8755,"Kansas City, The","Kansas City"
+8757,"Air M'alluin Bheirin Pog Dhi","I'll Kiss The Bonnie Lass, Oh!"
 8757,"I'll Kiss The Bonny Lass O!","I'll Kiss The Bonnie Lass, Oh!"
 8758,"Auvergne Polka",Sonny's
 8758,Gentiane,Sonny's
@@ -20811,11 +20812,12 @@ tune_id,alias,name
 8888,Culotte,"Brandy Culotté"
 8888,"Le Brandy Culotté","Brandy Culotté"
 8891,"She Hasn't The Thing She Thought She Had","Mrs Martin's"
-8895,"Johnny O'Leary's",Toureendarby
-8895,"Taureen Derby",Toureendarby
-8895,"There's Worse Than That Around",Toureendarby
-8895,Tooreenderby,Toureendarby
-8895,"West Kerry",Toureendarby
+8895,"Johnny O'Leary's","Taureen Derby"
+8895,"Taureen Derby","Taureen Derby"
+8895,"There's Worse Than That Around","Taureen Derby"
+8895,Tooreenderby,"Taureen Derby"
+8895,Toureendarby,"Taureen Derby"
+8895,"West Kerry","Taureen Derby"
 8897,"Com Agen Ye're Welcome","Come Again You're Welcome"
 8897,"Come Again, You're Welcome","Come Again You're Welcome"
 8897,"Come Agen Ye're Welcome","Come Again You're Welcome"
@@ -23907,6 +23909,7 @@ tune_id,alias,name
 12775,"Bungalow March, The","You Don't Know What You've Got Till It's Gone"
 12775,"March Of The Bungalows","You Don't Know What You've Got Till It's Gone"
 12775,"They've Paved Paradise, Put Up A Parking Lot","You Don't Know What You've Got Till It's Gone"
+12776,"Sunshine Schottische, The",Sunshine
 12777,"Esau Payne's Tune","Esau Payne's"
 12778,"Bluebird, The",Bluebird
 12779,"Two Is The Beginning Of The End","A Whistle On The Wind"
@@ -25384,6 +25387,7 @@ tune_id,alias,name
 15785,"Johnny Faa","Wae's Me For Prince Charlie"
 15785,"Wae's Me For Charlie","Wae's Me For Prince Charlie"
 15786,"Lennox Love To Blantyre","Oh Wert Thou In The Cauld Blast"
+15793,"Mummer's Jig, The","Tom Rowsome's"
 15799,"Hullu Sakari","Polska Efter Erlandsson"
 15799,Knäckebröd,"Polska Efter Erlandsson"
 15800,"Twelve Weeks And A Day","12 Weeks And A Day"
@@ -25869,10 +25873,10 @@ tune_id,alias,name
 17470,"Lots Of Kisses","Come Now Or Stay"
 17471,"Highland Fling","Barn Dance"
 17471,"Highland Schottische","Barn Dance"
-17485,"Boxing #1, The","Boxing, The"
-17485,"Boxing Reel #1, The","Boxing, The"
-17485,"Boxing Reels, The","Boxing, The"
-17486,"Boxing Reel #2, The","Boxing, The"
+17485,"Boxing Reel #1, The","Boxing #1, The"
+17485,"Boxing Reels, The","Boxing #1, The"
+17485,"Boxing, The","Boxing #1, The"
+17486,"Boxing , The","Boxing #2, The"
 17495,"Come Back Paddy Reilly To Ballyjamesduff","Come Back Paddy Reilly"
 17495,"Come Back, Paddy Reilly, To Ballyjamesduff","Come Back Paddy Reilly"
 17496,"Bliven's Favourite","Finerty's Frolic"
@@ -26830,6 +26834,7 @@ tune_id,alias,name
 20732,"Difyrrwch Gwŷr Dyfi","Difyrrwch Gwŷr Y Bontnewydd"
 20734,"Tettegouche Number 1, The","Tettegouche, The"
 20735,"Tettegouche Number 2, The","Tettegouche, The"
+20758,Dystopia,Farewell
 20763,"Brown Hair'd Youth, The","Oigfhear A Chuil Duinn"
 20763,"Oigfhear A Chulduinn","Oigfhear A Chuil Duinn"
 20763,"Young Man Of The Brown Hair","Oigfhear A Chuil Duinn"
@@ -27082,7 +27087,7 @@ tune_id,alias,name
 21994,"Duncormick Mummer's Single Jig","Duncormick Mummer's"
 22003,"Paddy Fahey's No. 22","Paddy Fahey's"
 22004,"Sean's 60th, Sleamhnán Sean",Sean's
-22008,"John Ferguson's",Vargus's
+22008,"John Ferguson's No.1",Vargus's
 22028,"Seán Ryan's No.10","Seán Ryan's"
 22031,"Waltz Mary Ellen","Mary Ellen"
 22036,"Paddy Fahey No. 16","Paddy Fahey's"
@@ -27111,3 +27116,9 @@ tune_id,alias,name
 22106,"Gavotte Sicard 2","Gavotte Sicard"
 22107,"Gavotte Sicard 3","Gavotte Sicard"
 22108,"Bonny Lass Of Headlake, The","Down In The Glen"
+22111,Sonny,"Sonny's Dream"
+22117,"John Ferguson's No.2","Gan Ainm"
+22122,"Nicholas Furlong's","Gan Ainm"
+22123,"An Piasun Ar A Theicheadh","Hunted Pheasant, The"
+22129,"Old Rusty Gun, The","A Gunne Dubh"
+22131,"Mr. Morthland's","Mr. Worthland's"
