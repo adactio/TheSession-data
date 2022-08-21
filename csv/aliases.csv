@@ -6413,6 +6413,7 @@ tune_id,alias,name
 1162,"Aly Croaker","Allie Crocker's"
 1162,"Aly Crocker","Allie Crocker's"
 1162,Crocker's,"Allie Crocker's"
+1162,"Reel Des Bouchons","Allie Crocker's"
 1163,"John Stenson's #2","John Stenson's"
 1163,"John Stenson's No 2","John Stenson's"
 1163,"John Stenson's No. 2","John Stenson's"
@@ -8461,12 +8462,13 @@ tune_id,alias,name
 1649,"Bill Malley's Scottische","Dornoch Links"
 1649,"Billy Malley's","Dornoch Links"
 1649,"Billy Malley's Schottishe","Dornoch Links"
-1649,"Dornoch Links","Dornoch Links"
 1649,"Joe Bane's","Dornoch Links"
 1649,"Joe Bane's Schottische","Dornoch Links"
 1649,"Joe Bane's Scotische","Dornoch Links"
 1649,"Joe Banes Scotische","Dornoch Links"
 1649,"Joe Banis","Dornoch Links"
+1649,"Joe Banne's","Dornoch Links"
+1649,"Lingis Dhornich","Dornoch Links"
 1649,Tiadhco's,"Dornoch Links"
 1650,"Cameron's One Legged Hen","Lord Seaforth"
 1650,"Highland Plaid","Lord Seaforth"
@@ -9864,6 +9866,7 @@ tune_id,alias,name
 2124,"Handy With A Stick","Handy With The Stick"
 2125,"Conor Tully's No.2","Paddy Kelly's"
 2125,"Daisy Field, The","Paddy Kelly's"
+2125,"Father Kelly's","Paddy Kelly's"
 2125,"Mick Hand's","Paddy Kelly's"
 2126,"Ebb Tide March, The","Ebb Tide, The"
 2126,"Ebbtide, The","Ebb Tide, The"
@@ -14361,6 +14364,7 @@ tune_id,alias,name
 4247,"Pete Bate's",Flaherty's
 4249,Kenmare,"Other Clog, The"
 4249,"Mrs. Crowley's No. 2","Other Clog, The"
+4249,"O'Keefe's Polka No. 3","Other Clog, The"
 4250,"Terry 'Cuz' Teehan's","Terry Teehan's"
 4253,"Place Of The Wild Strawberries, The",Smultronstället
 4253,"Wild Strawberry Place, The",Smultronstället
@@ -19792,6 +19796,7 @@ tune_id,alias,name
 8064,"Up An' Doon Da Harbour","Up And Doon Da Harbour"
 8065,Tarantella,"Tarantella Philippe Juszczak"
 8066,"Clais An Adhmaid","Clais An Adhmid"
+8066,"Finbar Dwyer's","Clais An Adhmid"
 8067,Scottsville,Scotsville
 8068,Skibbereen,"Valley Of Knockanure, The"
 8069,"Bury Me In The Great Chest","Cur Dhan Chiste Mhor Mi"
@@ -21285,10 +21290,6 @@ tune_id,alias,name
 9423,"Coliseum, The","Colosseum, The"
 9423,"Pet Of The House","Colosseum, The"
 9424,Freddy's,Freddie's
-9425,"Dornoch Links March","Dornoch Links"
-9425,"Joe Bane's","Dornoch Links"
-9425,"Joe Banne's","Dornoch Links"
-9425,"Lingis Dhornich","Dornoch Links"
 9428,"De La Montagne","Breton Gavotte"
 9428,"Jacky Molard's","Breton Gavotte"
 9430,"Margaret Walker","Miss Mary Walker"
@@ -21989,9 +21990,9 @@ tune_id,alias,name
 10296,"Carraig Na G-Caiseal","Rocks Of Cashel, The"
 10296,"Chorus Jig, The","Rocks Of Cashel, The"
 10296,"Rock Of Cashel, The","Rocks Of Cashel, The"
+10298,"Bridge Of Perth, The","Brig O' Perth, The"
 10298,"Brig O' Perth Highland Fling, The","Brig O' Perth, The"
 10298,"Brig O' Perth Highland Schottische, The","Brig O' Perth, The"
-10298,"Brig Of Perth","Brig O' Perth, The"
 10298,"Brig Of Perth, The","Brig O' Perth, The"
 10301,"Liz Carroll's Slip","For The Love Of Music"
 10302,"Wine Shower, The","Wine Shower"
@@ -25480,6 +25481,8 @@ tune_id,alias,name
 16028,"7x8 Alexis","Newyorkers, The"
 16029,"7x8 Alexis D","Happy Ruinous House, The"
 16030,"5x8 Nito","Flying To Birmingham"
+16070,Beoga!,Beoga
+16070,"Exploding Bow",Beoga
 16077,"Clog De Parizeau","Clog De Pariseau"
 16077,"Clog Parizeau","Clog De Pariseau"
 16082,"La Ronde Des Voyageurs","Le Ronde Des Voyageurs"
@@ -25873,10 +25876,9 @@ tune_id,alias,name
 17470,"Lots Of Kisses","Come Now Or Stay"
 17471,"Highland Fling","Barn Dance"
 17471,"Highland Schottische","Barn Dance"
-17485,"Boxing Reel #1, The","Boxing #1, The"
-17485,"Boxing Reels, The","Boxing #1, The"
-17485,"Boxing, The","Boxing #1, The"
-17486,"Boxing , The","Boxing #2, The"
+17485,"Boxing Reel #1, The","Boxing, The"
+17485,"Boxing Reels, The","Boxing, The"
+17486,"Boxing #2, The","Boxing, The"
 17495,"Come Back Paddy Reilly To Ballyjamesduff","Come Back Paddy Reilly"
 17495,"Come Back, Paddy Reilly, To Ballyjamesduff","Come Back Paddy Reilly"
 17496,"Bliven's Favourite","Finerty's Frolic"
@@ -26660,6 +26662,7 @@ tune_id,alias,name
 20189,Shanvaghara,Shanvaghera
 20191,"Maybe I Will","May Be I Will"
 20206,"Mad Mardra, The","Mad Madra, The"
+20220,"Paddy Joe Tighe's","Tighe's Rare"
 20221,"Seal's Head, The","Cowan's Head, The"
 20222,"Puffin Island","Puffin Isle"
 20233,"Paddy The Bat","Paddy The Bat, Mind Where You're At"
@@ -27122,3 +27125,5 @@ tune_id,alias,name
 22123,"An Piasun Ar A Theicheadh","Hunted Pheasant, The"
 22129,"Old Rusty Gun, The","A Gunne Dubh"
 22131,"Mr. Morthland's","Mr. Worthland's"
+22137,"O'Keefe's Polka No. 1",O'Keefe's
+22138,"O'Keefe's Polka No. 2",O'Keefe's
