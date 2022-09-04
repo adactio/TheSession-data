@@ -6572,6 +6572,7 @@ tune_id,alias,name
 1205,"Moving Bogs Of Powellsboro, The","Castlebar Races, The"
 1205,"Paddy Ban's","Castlebar Races, The"
 1205,"Thrush In The Straw, The","Castlebar Races, The"
+1207,"Da New Rigged Ship","New Rigged Ship, The"
 1207,"Green Willis","New Rigged Ship, The"
 1207,"Miss Finlay's Delight","New Rigged Ship, The"
 1207,"New Rigged Ships","New Rigged Ship, The"
@@ -9470,7 +9471,8 @@ tune_id,alias,name
 1972,J&B,"J.B., The"
 1972,"JB, The","J.B., The"
 1974,"Miss Hamilton's","I Have No Money"
-1974,"Taim Gan Airgead","I Have No Money"
+1974,"Níl Aon Airgead Agam","I Have No Money"
+1974,"Táim Gan Airgead","I Have No Money"
 1976,"John McGettigan's","Martin Wilson's"
 1977,"Olive Branch, The","Reconciliation, The"
 1977,"Peacemaker, The","Reconciliation, The"
@@ -9848,6 +9850,7 @@ tune_id,alias,name
 2122,"An Fear Sona","Happy Man, The"
 2122,"Happy Old Man, The","Happy Man, The"
 2122,"Paddy O'Brien's","Happy Man, The"
+2123,"Bó Mhín Na Toitean","March Of The Meeatoiteen Bull"
 2123,"Daft Donald","March Of The Meeatoiteen Bull"
 2123,"Drunken Piper, The","March Of The Meeatoiteen Bull"
 2123,"Far Am Bi Fhin","March Of The Meeatoiteen Bull"
@@ -15202,6 +15205,7 @@ tune_id,alias,name
 4882,"Compliments To Cameron Chisholm","Maybelle's Compliments To Cameron"
 4882,"Maybelle Chisolm's Compliments To Her Brother Cameron Chisolm","Maybelle's Compliments To Cameron"
 4882,"Maybelle's Compliments To Her Brother Cameron","Maybelle's Compliments To Cameron"
+4883,Bohlinpolkett,"Jenny Lind"
 4883,"Bridal, The","Jenny Lind"
 4883,"Down To The Quay","Jenny Lind"
 4883,"Heel And Toe, The","Jenny Lind"
@@ -15844,6 +15848,7 @@ tune_id,alias,name
 5371,"Brendan Mulhaire's","Bowe's Favourite"
 5371,"John Bowe's","Bowe's Favourite"
 5371,"John Bowe's Favourite","Bowe's Favourite"
+5371,"Stars And Stripes","Bowe's Favourite"
 5375,"Gort Na Mona","Gort Na Mona"
 5377,"Apollo Bay Reef","Apollo Bay"
 5379,"Apples In Winter","Tom Billy's"
@@ -20399,6 +20404,7 @@ tune_id,alias,name
 8557,"Cumhachta Na Punch","Powers Of Punch, The"
 8558,"Springwell, The","Spring Well, The"
 8564,"Trip To Galloway","A Trip To Galloway"
+8567,Shannon's,"Seamus Shannon's"
 8568,"An Nois Ata An Airgiod Caite","How The Money Goes"
 8568,"Mar Caittear An T-Airgead","How The Money Goes"
 8569,"Coyle's Piano 1","Coyle's Piano"
@@ -21681,6 +21687,7 @@ tune_id,alias,name
 9870,"Cydweli Cath Du","Black Cat Of Cydweli"
 9873,Aontas,"Munster Bank, The"
 9873,"Art O'Keefe's","Munster Bank, The"
+9873,"Art O'Keeffe's","Munster Bank, The"
 9873,"Dan Sweeney's","Munster Bank, The"
 9873,"Hayden's Fancy","Munster Bank, The"
 9873,"John Leary's","Munster Bank, The"
@@ -24081,6 +24088,7 @@ tune_id,alias,name
 13074,"Little Dancer At The Fair, The","Fancy Fair, The"
 13078,"Cradling Arms Of Cruachún, The","Cradling Arms Of Croaghan, The"
 13082,"Humors Of Nickey, The","Humours Of Nickey, The"
+13082,"Humours Of Nicky, The","Humours Of Nickey, The"
 13084,"They Sailed Away From Dublin Bay","Sweet Dublin Bay"
 13085,"Ah Jerry Yn Teihll","Jerrey Yn Theihll"
 13085,"Jerrey Y Theihll","Jerrey Yn Theihll"
@@ -24125,6 +24133,7 @@ tune_id,alias,name
 13151,"Alfred På Hultet's","Alfred På Hultet"
 13151,"Polka Efter Alfred På Hultet","Alfred På Hultet"
 13151,"Polka Efter Hector Hansen","Alfred På Hultet"
+13151,"Polka Från Hogdal","Alfred På Hultet"
 13151,"Polkett Efter Alfred På Hultet","Alfred På Hultet"
 13152,"Gwendiffeth 4","Danbury Hill"
 13152,"Gwendiffith 4","Danbury Hill"
@@ -24357,6 +24366,7 @@ tune_id,alias,name
 13475,Caras,Crarae
 13476,"Lanachree And Megrum","Lamachree And Megrum"
 13477,"42 Beech Ave","42 Beech Avenue"
+13479,Kivikspolka,"Miss E Lyall"
 13479,"Miss Lyall","Miss E Lyall"
 13479,"Miss Lyall's","Miss E Lyall"
 13481,"Pull Down The Blinds","Pull Down The Blinds"
@@ -25123,6 +25133,7 @@ tune_id,alias,name
 15066,Cobbler's,"Cobbler's Hornpipe, The"
 15067,"A Halfpenny For A Cotton Ball","A Ha'penny For A Cotton Ball"
 15067,"A Letter From Home","A Ha'penny For A Cotton Ball"
+15067,"Pride Of Roxbury","A Ha'penny For A Cotton Ball"
 15072,"Old Yellow Rose, The","Yellow Rose Of Texas"
 15074,"Flanaghan Meets O'Hanlon","Flanagan Meets O'Hanlon"
 15083,"Himno Del Antiguo Reino De Galicia","Anthem Of The Former Kingdom Of Galicia"
@@ -25824,8 +25835,8 @@ tune_id,alias,name
 17306,"Hooly And Fairly",Ballyhooley
 17317,"Anada Pa Gael","Añada Pa Gael"
 17320,"My Love, My Love","My Love My Love"
-17325,"Salt Springs","Salt Spring"
-17325,Saltspring,"Salt Spring"
+17325,"Salt Spring",Saltspring
+17325,"Salt Springs",Saltspring
 17328,"Dutiful Son, The","Mac Ùmhal"
 17333,"Kendal Lilt, The","Kendal Lilt"
 17335,"Donegal Peter Street, The",Sally
@@ -26053,7 +26064,6 @@ tune_id,alias,name
 17924,"Canada, The","Canadian, The"
 17924,"Ould, The","Canadian, The"
 17934,"Funny Old","Finbarr Dwyer's"
-17935,"Last, The","Last, The"
 17936,Cashman's,"DAF Truck"
 17937,"Polca Uí Liatháin",Lehane's
 17943,"Fiddle Tunned Like A Viol","Le Reel De Violon Du Monte En Vielle"
@@ -26871,6 +26881,7 @@ tune_id,alias,name
 20861,"Crannciuil An Fiadaighe",Hunter's
 20861,"Crannciuil An Fiaguidhe",Hunter's
 20862,"Crannciuil Cill-Fhionain",Kilfinane
+20885,"Éalú Na NAsal","Éalú Na Nasal"
 20886,"Fox's Tail","Iorball Sionaigh"
 20886,"Fox's Tail, The","Iorball Sionaigh"
 20890,"Dans En Dro","Gwez-Kren En Noz"
@@ -27130,6 +27141,12 @@ tune_id,alias,name
 22131,"Mr. Morthland's","Mr. Worthland's"
 22137,"O'Keefe's Polka No. 1",O'Keefe's
 22138,"O'Keefe's Polka No. 2",O'Keefe's
+22178,"Donegal Traveller",Tuam
 22179,"Paddy Fahey Reel No. 17","Paddy Fahey's"
 22180,"Paddy Fahey's Jig No. 8","Paddy Fahey's"
 22193,"Heather Breeze, The","Tipsy House"
+22205,"New Rigged Ship, The","Green Willis"
+22207,"Dans Loudieg #1","Rond Loudieg"
+22207,"Rond Loudieg #1","Rond Loudieg"
+22208,"Rond Loudieg#2","Rond Loudieg"
+22210,"Annon's Anall","Anonn Is Anall"
