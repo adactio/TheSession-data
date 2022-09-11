@@ -849,6 +849,7 @@ tune_id,alias,name
 110,"Tourmore, The","Toormore, The"
 110,"Tuar Mór, The","Toormore, The"
 110,"Wedding Feast, The","Toormore, The"
+110,"Yank Nolan's, The","Toormore, The"
 111,"Paddy O'Flaherty","Tripping Up The Stairs"
 111,"Plains Of Kilkorkery","Tripping Up The Stairs"
 111,"Plains Of Kilkorkery, The","Tripping Up The Stairs"
@@ -6495,6 +6496,7 @@ tune_id,alias,name
 1181,"Glasgow Police Pipe Band, The","Glasgow City Police Pipers"
 1181,"Glasgow Police Pipers, The","Glasgow City Police Pipers"
 1182,Batchelders,Batchelder's
+1182,Quigley's,Batchelder's
 1183,"An Biadánaí","Cabin Hunter, The"
 1183,"Road To Cashel, The","Cabin Hunter, The"
 1183,"Sean Kelly's Apple","Cabin Hunter, The"
@@ -8947,38 +8949,38 @@ tune_id,alias,name
 1811,"Song Of The Pookas","Port Na bPúcaí"
 1812,"Jerusalem's Ridge","Jerusalem Ridge"
 1814,"Brollum, The","Brolum, The"
-1815,"An Chúileann","Coolin, The"
-1815,"An Chuilfhionn","Coolin, The"
-1815,"An Chúilfionn","Coolin, The"
-1815,"An Chuilin","Coolin, The"
-1815,"An Chulfhionn","Coolin, The"
-1815,"An Coolin","Coolin, The"
-1815,"An Coulin","Coolin, The"
-1815,"An Cúilfhionn","Coolin, The"
-1815,"An Cuilfhoinn","Coolin, The"
-1815,"An Cuilfion Le Atrugad","Coolin, The"
-1815,"An Cuillin","Coolin, The"
-1815,"An Cuilrionn","Coolin, The"
-1815,"An Cul Fhionn","Coolin, The"
-1815,"Coolin', The","Coolin, The"
-1815,Coolun,"Coolin, The"
-1815,"Coolun, The","Coolin, The"
-1815,Coulin,"Coolin, The"
-1815,"Coulin, The","Coolin, The"
-1815,Cuilin,"Coolin, The"
-1815,"Cuilin, The","Coolin, The"
-1815,"Fair-Haired Beauty, The","Coolin, The"
-1815,"Fair-Haired One, The","Coolin, The"
-1815,"Had You Seen My Sweet Coolin","Coolin, The"
-1815,"In This Calm Sheltered Villa","Coolin, The"
-1815,"In Vain To This Desert My Fate I Deplore","Coolin, The"
-1815,"Lady In The Desert","Coolin, The"
-1815,"Lady Of The Desert","Coolin, The"
-1815,"Lady Of The Desert, The","Coolin, The"
-1815,"My Fair-Haired Beauty","Coolin, The"
-1815,"Oh! Hush The Soft Sigh","Coolin, The"
-1815,"Oh! The Hours I Have Passed","Coolin, The"
-1815,"Though The Last Glimpse Of Erin","Coolin, The"
+1815,"An Chúileann",Coolin
+1815,"An Chuilfhionn",Coolin
+1815,"An Chúilfionn",Coolin
+1815,"An Chuilin",Coolin
+1815,"An Chulfhionn",Coolin
+1815,"An Coolin",Coolin
+1815,"An Coulin",Coolin
+1815,"An Cúilfhionn",Coolin
+1815,"An Cuilfhoinn",Coolin
+1815,"An Cuilfion Le Atrugad",Coolin
+1815,"An Cuillin",Coolin
+1815,"An Cuilrionn",Coolin
+1815,"An Cul Fhionn",Coolin
+1815,"Coolin', The",Coolin
+1815,Coolun,Coolin
+1815,"Coolun, The",Coolin
+1815,Coulin,Coolin
+1815,"Coulin, The",Coolin
+1815,Cuilin,Coolin
+1815,"Cuilin, The",Coolin
+1815,"Fair-Haired Beauty, The",Coolin
+1815,"Fair-Haired One, The",Coolin
+1815,"Had You Seen My Sweet Coolin",Coolin
+1815,"In This Calm Sheltered Villa",Coolin
+1815,"In Vain To This Desert My Fate I Deplore",Coolin
+1815,"Lady In The Desert",Coolin
+1815,"Lady Of The Desert",Coolin
+1815,"Lady Of The Desert, The",Coolin
+1815,"My Fair-Haired Beauty",Coolin
+1815,"Oh! Hush The Soft Sigh",Coolin
+1815,"Oh! The Hours I Have Passed",Coolin
+1815,"Though The Last Glimpse Of Erin",Coolin
 1818,"Biddy Martin","Biddy Martin's"
 1818,"Bidí Mháirtín","Biddy Martin's"
 1819,"Bill Harte's","Bank Of Turf, The"
@@ -24476,6 +24478,7 @@ tune_id,alias,name
 13615,"Lass Of Dallowgill, The","Lass O' Dallowgill, The"
 13617,"Possum's Tail Is Bare, Sandy Boys, Do Get Along Sandy Boys","Possum's Tail Is Bare, The"
 13618,"Donald Cameron's","Donald Cameron's Polka"
+13625,"Ardenza's Storm","Ardenza Storm's"
 13626,"Charlie O'Neill's","Bluestack Highland, The"
 13630,"Sheriff's Ride (Lichfield), The","Sheriff's Ride, The"
 13631,"Old Maid","Hen Ferchetan"
@@ -25812,6 +25815,7 @@ tune_id,alias,name
 17230,"Harper's Ferry","John Brown's"
 17230,"Harpers Ferry","John Brown's"
 17230,"John Brown The Emancipator","John Brown's"
+17231,T.O.I.,"For Sara"
 17232,"Bonny Bonny Broom","Broom O' The Cowdenknowes, The"
 17238,"Cromlet's Lilt","Cromlits Lilt"
 17239,"Polwarth On The Green","Polwart On The Green"
@@ -27150,3 +27154,11 @@ tune_id,alias,name
 22207,"Rond Loudieg #1","Rond Loudieg"
 22208,"Rond Loudieg#2","Rond Loudieg"
 22210,"Annon's Anall","Anonn Is Anall"
+22221,"Dan R's Favourite","Old Man's Delight"
+22222,"Tom Byrne's No. 7","Tom Byrne's"
+22223,"Tom Byrne's No. 8","Tom Byrne's"
+22225,"Paddy Hayes' Selection No. 1","Paddy Hayes'"
+22228,"Mam Ratagan, The","Mam, The"
+22229,"Tom Byrne's No. 9","Tom Byrne's"
+22239,"Compliments To Jack Delaney","Ian Peterson's Compliments To Jack Delaney"
+22243,"A Song For All Seasons","Prayerful Hymn"
