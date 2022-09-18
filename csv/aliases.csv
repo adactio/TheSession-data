@@ -863,6 +863,7 @@ tune_id,alias,name
 111,"Syracuse, The","Tripping Up The Stairs"
 111,"Trippin' Up The Stairs","Tripping Up The Stairs"
 111,"Tripping Up Stairs","Tripping Up The Stairs"
+112,"Pakistan, The","Trip To Pakistan, The"
 113,"Croith Na Cleití","Toss The Feathers"
 113,Killian's,"Toss The Feathers"
 113,"Martin Roachford's","Toss The Feathers"
@@ -2111,6 +2112,7 @@ tune_id,alias,name
 350,"Connie O'Connell's","Torn Jacket, The"
 350,"Torn Coat, The","Torn Jacket, The"
 351,"'Sí Do Mhamó Í","Hag With The Money, The"
+351,"'Sí Do Mheomai Í","Hag With The Money, The"
 351,"An Cailleach An Airgid","Hag With The Money, The"
 351,"Caileach An Airgead","Hag With The Money, The"
 351,"Caileach An Airgid","Hag With The Money, The"
@@ -3339,6 +3341,7 @@ tune_id,alias,name
 553,"Tipsy Sailor","Drunken Sailor's, The"
 553,"Tipsy Sailor, The","Drunken Sailor's, The"
 554,Lawries,McGlinchey's
+554,McGlinchey's,McGlinchey's
 554,"Mrs Lawrie",McGlinchey's
 554,"Mrs Lawrie's",McGlinchey's
 554,"Mrs Lawries",McGlinchey's
@@ -3480,7 +3483,6 @@ tune_id,alias,name
 566,"Redhaired Boy, The","Little Beggarman, The"
 566,"Rigadoo, The","Little Beggarman, The"
 566,"Thy Redhaired Lad","Little Beggarman, The"
-568,McGlinchey's,"Mrs. Lawrie's"
 569,"Cáitilín San Sráidín","Kitty In The Lane"
 569,"John McCaffrey's Favourite","Kitty In The Lane"
 569,"Kitty Down The Lane","Kitty In The Lane"
@@ -3790,6 +3792,7 @@ tune_id,alias,name
 622,"Sailor's Return","Belharbour, The"
 622,"Sailor's Return, The","Belharbour, The"
 624,"Garrai Na Saileog","Miss Galvin's"
+624,Gavin's,"Miss Galvin's"
 624,"Miss Galvin","Miss Galvin's"
 624,"Miss Galvin's Highland Fling","Miss Galvin's"
 624,"Mrs Galvin","Miss Galvin's"
@@ -8949,38 +8952,38 @@ tune_id,alias,name
 1811,"Song Of The Pookas","Port Na bPúcaí"
 1812,"Jerusalem's Ridge","Jerusalem Ridge"
 1814,"Brollum, The","Brolum, The"
-1815,"An Chúileann",Coolin
-1815,"An Chuilfhionn",Coolin
-1815,"An Chúilfionn",Coolin
-1815,"An Chuilin",Coolin
-1815,"An Chulfhionn",Coolin
-1815,"An Coolin",Coolin
-1815,"An Coulin",Coolin
-1815,"An Cúilfhionn",Coolin
-1815,"An Cuilfhoinn",Coolin
-1815,"An Cuilfion Le Atrugad",Coolin
-1815,"An Cuillin",Coolin
-1815,"An Cuilrionn",Coolin
-1815,"An Cul Fhionn",Coolin
-1815,"Coolin', The",Coolin
-1815,Coolun,Coolin
-1815,"Coolun, The",Coolin
-1815,Coulin,Coolin
-1815,"Coulin, The",Coolin
-1815,Cuilin,Coolin
-1815,"Cuilin, The",Coolin
-1815,"Fair-Haired Beauty, The",Coolin
-1815,"Fair-Haired One, The",Coolin
-1815,"Had You Seen My Sweet Coolin",Coolin
-1815,"In This Calm Sheltered Villa",Coolin
-1815,"In Vain To This Desert My Fate I Deplore",Coolin
-1815,"Lady In The Desert",Coolin
-1815,"Lady Of The Desert",Coolin
-1815,"Lady Of The Desert, The",Coolin
-1815,"My Fair-Haired Beauty",Coolin
-1815,"Oh! Hush The Soft Sigh",Coolin
-1815,"Oh! The Hours I Have Passed",Coolin
-1815,"Though The Last Glimpse Of Erin",Coolin
+1815,"An Chúileann","Coolin, The"
+1815,"An Chuilfhionn","Coolin, The"
+1815,"An Chúilfionn","Coolin, The"
+1815,"An Chuilin","Coolin, The"
+1815,"An Chulfhionn","Coolin, The"
+1815,"An Coolin","Coolin, The"
+1815,"An Coulin","Coolin, The"
+1815,"An Cúilfhionn","Coolin, The"
+1815,"An Cuilfhoinn","Coolin, The"
+1815,"An Cuilfion Le Atrugad","Coolin, The"
+1815,"An Cuillin","Coolin, The"
+1815,"An Cuilrionn","Coolin, The"
+1815,"An Cul Fhionn","Coolin, The"
+1815,"Coolin', The","Coolin, The"
+1815,Coolun,"Coolin, The"
+1815,"Coolun, The","Coolin, The"
+1815,Coulin,"Coolin, The"
+1815,"Coulin, The","Coolin, The"
+1815,Cuilin,"Coolin, The"
+1815,"Cuilin, The","Coolin, The"
+1815,"Fair-Haired Beauty, The","Coolin, The"
+1815,"Fair-Haired One, The","Coolin, The"
+1815,"Had You Seen My Sweet Coolin","Coolin, The"
+1815,"In This Calm Sheltered Villa","Coolin, The"
+1815,"In Vain To This Desert My Fate I Deplore","Coolin, The"
+1815,"Lady In The Desert","Coolin, The"
+1815,"Lady Of The Desert","Coolin, The"
+1815,"Lady Of The Desert, The","Coolin, The"
+1815,"My Fair-Haired Beauty","Coolin, The"
+1815,"Oh! Hush The Soft Sigh","Coolin, The"
+1815,"Oh! The Hours I Have Passed","Coolin, The"
+1815,"Though The Last Glimpse Of Erin","Coolin, The"
 1818,"Biddy Martin","Biddy Martin's"
 1818,"Bidí Mháirtín","Biddy Martin's"
 1819,"Bill Harte's","Bank Of Turf, The"
@@ -10131,6 +10134,7 @@ tune_id,alias,name
 2217,"Willie McGee's","Dan Collins' Father's"
 2220,Hull's,"John Rankin's"
 2221,"Bóthar Mhic Artair","MacArthur Road"
+2221,"MacArthur Road","MacArthur Road"
 2221,"MacArthur's Road","MacArthur Road"
 2221,"Mc Arthur's Road","MacArthur Road"
 2221,"McArthur Road","MacArthur Road"
@@ -14304,7 +14308,9 @@ tune_id,alias,name
 4193,"Mick Carr's Highland","Mick Carr's"
 4193,"Mick Carr's Highland Fling","Mick Carr's"
 4194,"La Bruxa","A Bruxa"
+4195,Bärentanz,"Bear Dance, The"
 4195,"Bear Dance, The","Bear Dance, The"
+4195,Berendans,"Bear Dance, The"
 4195,Berendans,"Bear Dance, The"
 4195,"Dance Of The Bears","Bear Dance, The"
 4195,"Dancing Bear, The","Bear Dance, The"
@@ -16010,8 +16016,6 @@ tune_id,alias,name
 5453,"Biotag Aig MacThomais","Glengarry's Dirk"
 5453,"Glengarry Dirk","Glengarry's Dirk"
 5453,"Tha Biodag Aig Mac Thomais","Glengarry's Dirk"
-5453,"Thompson's Dirk","Glengarry's Dirk"
-5453,"Thomson's Dirk","Glengarry's Dirk"
 5456,"Rock In The Meadow, The","Pride Of Moyvane, The"
 5458,"Fiach Fancy","Fiach's Fancy"
 5461,"Cotsloe Beach","Cottesloe Beach"
@@ -17079,6 +17083,7 @@ tune_id,alias,name
 6301,"Woodcock Hill","Back Of The Haggard, The"
 6302,"Ḋá Éan San Tom","Two Birds In The Bush, The"
 6302,"Dhá Éan Ar An gCrann","Two Birds In The Bush, The"
+6302,"Two Birds On A Tree","Two Birds In The Bush, The"
 6307,"Asey's March","Oho! Oho! I've Found You Out"
 6307,"Asey's Piece","Oho! Oho! I've Found You Out"
 6307,Ellis',"Oho! Oho! I've Found You Out"
@@ -17439,7 +17444,7 @@ tune_id,alias,name
 6510,"Vinnie O'Connor's",Gahan's
 6511,"Slopes Of Benbulben, The","Slopes Of Benbulben"
 6515,"Doctor MacLeod Of Alnick","Doctor MacLeod Of Alnwick"
-6515,"Doctor MacLeod Of Alnwick's March","Doctor MacLeod Of Alnwick"
+6515,"Doctor MacLeod Of Alnwick's","Doctor MacLeod Of Alnwick"
 6515,"Dr. MacLeod Of Alnwick","Doctor MacLeod Of Alnwick"
 6515,"Dr. McLeod Of Alnwick","Doctor MacLeod Of Alnwick"
 6518,"Golden Rod","Goldenrod, The"
@@ -21184,7 +21189,11 @@ tune_id,alias,name
 9294,"Eighteen Six Two Step","18-6 Two Step"
 9296,"Arran Boat Song","Highland Boat Song"
 9296,"Arran Boat Song, The","Highland Boat Song"
+9296,"Galley Of Lorne","Highland Boat Song"
+9296,"Galley Of Lorne, The","Highland Boat Song"
+9296,"Highland Boat Song","Highland Boat Song"
 9296,"Highland Boat Song, The","Highland Boat Song"
+9296,"Valse Gaélique","Highland Boat Song"
 9297,"Llig's Hand","Ooh Arr Of Ee Arr, The"
 9297,"Y Llaw O Llig","Ooh Arr Of Ee Arr, The"
 9299,"Full Set, The","Reel For Grace"
@@ -21643,6 +21652,7 @@ tune_id,alias,name
 9827,"Braes Of Banffshire, The","Highlands Of Banffshire, The"
 9827,"Braigh Bhanbh","Highlands Of Banffshire, The"
 9827,"Highland Of Banffshire, The","Highlands Of Banffshire, The"
+9828,"Joe Cooley's Morning Dew","Mountain Dew"
 9835,"An Bóthar ó Thuaidh Go Dtí Árainn","Old Stage, The"
 9835,"Behind The Bush In The Garden","Old Stage, The"
 9835,"Billy O'Rourke Is The Boy","Old Stage, The"
@@ -21655,6 +21665,7 @@ tune_id,alias,name
 9838,"Far O'er The Struay","Far O'er Struy"
 9840,"Didier's Delight",Didier's
 9845,"Road To Shercock, The","Way To Shercock, The"
+9846,"Fight About The Fireside","Glenburnie Rant"
 9846,"Sma' Coals For Nailers","Glenburnie Rant"
 9846,"Small Coals For Nailers","Glenburnie Rant"
 9848,"Mrs H. L. MacDonald Of Dunach","Mrs Helen L MacDonald Of Dunach"
@@ -23797,9 +23808,6 @@ tune_id,alias,name
 12590,"Y Torth O Fara","Torth O Fara"
 12592,"Ymdaith Syr Watcyn","Sir Watkin's"
 12594,"Silver Drops","Diferion Arian"
-12596,"Galley Of Lorne, The","Galley Of Lorne"
-12596,"Highland Boat Song","Galley Of Lorne"
-12596,"Valse Gaélique","Galley Of Lorne"
 12598,"Leaving Glen Urquhart","Leaving Glenurquhart"
 12598,"Tulloch MacCarrick","Leaving Glenurquhart"
 12598,"Tulloch McCarrick","Leaving Glenurquhart"
@@ -24089,8 +24097,6 @@ tune_id,alias,name
 13074,"Dancer At The Fair, The","Fancy Fair, The"
 13074,"Little Dancer At The Fair, The","Fancy Fair, The"
 13078,"Cradling Arms Of Cruachún, The","Cradling Arms Of Croaghan, The"
-13082,"Humors Of Nickey, The","Humours Of Nickey, The"
-13082,"Humours Of Nicky, The","Humours Of Nickey, The"
 13084,"They Sailed Away From Dublin Bay","Sweet Dublin Bay"
 13085,"Ah Jerry Yn Teihll","Jerrey Yn Theihll"
 13085,"Jerrey Y Theihll","Jerrey Yn Theihll"
@@ -24734,6 +24740,7 @@ tune_id,alias,name
 14191,"Battle Of Sheriff Muir, The","Battle Of Sheriffmuir, The"
 14191,"Battle Of Sherrifmuir, The","Battle Of Sheriffmuir, The"
 14191,"Blar Sliabh An T-Siorraidh","Battle Of Sheriffmuir, The"
+14195,"Corrido Del Tio Encinas (Uncle Encinas's Corrido), Corrido De Mariano Encinas","Corrido De Encina"
 14205,"A Fig For A Kiss","A Feg For A Kiss"
 14205,"Cronin's Slippery","A Feg For A Kiss"
 14205,"Cronin's Slippery Jig","A Feg For A Kiss"
@@ -27162,3 +27169,6 @@ tune_id,alias,name
 22229,"Tom Byrne's No. 9","Tom Byrne's"
 22239,"Compliments To Jack Delaney","Ian Peterson's Compliments To Jack Delaney"
 22243,"A Song For All Seasons","Prayerful Hymn"
+22249,Dod's,"Dod's Tartan Punk Rock Trews"
+22251,"Rowsome's No.1",Rowsome's
+22256,"Martin's Mills","Martin's Mill"
