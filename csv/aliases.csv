@@ -3337,13 +3337,12 @@ tune_id,alias,name
 553,"Drunken Sailor, The","Drunken Sailor's, The"
 553,"Tipsy Sailor","Drunken Sailor's, The"
 553,"Tipsy Sailor, The","Drunken Sailor's, The"
-554,Lawries,McGlinchey's
-554,McGlinchey's,McGlinchey's
-554,"Mrs Lawrie",McGlinchey's
-554,"Mrs Lawrie's",McGlinchey's
-554,"Mrs Lawries",McGlinchey's
-554,"Mrs. Lawrie's",McGlinchey's
-554,"Mrs. Lawries",McGlinchey's
+554,Lawries,"Mrs Lawrie's"
+554,McGlinchey's,"Mrs Lawrie's"
+554,"Mrs Lawrie","Mrs Lawrie's"
+554,"Mrs Lawries","Mrs Lawrie's"
+554,"Mrs. Lawrie's","Mrs Lawrie's"
+554,"Mrs. Lawries","Mrs Lawrie's"
 555,"Joe Skelton's","Charleston, The"
 556,"Bláṫaċ Ṡuiḃne","Sweeney's Buttermilk"
 556,"Buttermilk Mary","Sweeney's Buttermilk"
@@ -8573,6 +8572,7 @@ tune_id,alias,name
 1669,"Thomas Byrne's","Happy Bloom Of Youth, The"
 1669,"Thos Byrnes","Happy Bloom Of Youth, The"
 1670,"An Manglam","Cocktail, The"
+1670,"Cock's Tail, The","Cocktail, The"
 1672,"Biddy Of Sligo","Biddy From Sligo"
 1675,"Is Mary Bridget?","Is Bridget Mary?"
 1677,"Ride To Durham, The","Road To Durham, The"
@@ -10767,6 +10767,7 @@ tune_id,alias,name
 2411,"Miss Johnstone","Miss Johnson"
 2411,"Miss Johnstone's","Miss Johnson"
 2411,"Miss Johnstones","Miss Johnson"
+2411,"Reidy Johnson's","Miss Johnson"
 2413,"Heather On The Hill","Heather Hill"
 2417,"Lady Montgomerie","Miss Girdle"
 2419,"Dan Sullivan's","Dan Sullivan's Shamrock Swing Band"
@@ -12894,8 +12895,8 @@ tune_id,alias,name
 3346,Fahy's,"Paddy Fahey's"
 3346,"Paddy Fahey's No. 4","Paddy Fahey's"
 3346,"Paddy Fahy's","Paddy Fahey's"
-3352,"Blue Bell, The","Bluebell, The"
-3352,"Bluebell Hornpipe, The","Bluebell, The"
+3352,"Blue Bell, The","Bluebell Polka, The"
+3352,"Bluebell Hornpipe, The","Bluebell Polka, The"
 3353,"Farewell To Lisheen","Farewell To Lisheen"
 3353,"Maurice Scanlon's","Farewell To Lisheen"
 3353,"Morris Scanlon's","Farewell To Lisheen"
@@ -14525,6 +14526,7 @@ tune_id,alias,name
 4322,"Paddy's Return","Young Tim Murphy"
 4322,"Patsy McCann's","Young Tim Murphy"
 4323,"Lus Na mBanrion","Dusty Miller, The"
+4324,"Johnny Murray Of Lochee","John Murray Of Lochee"
 4325,"Unicorn, The","Monoceros, The"
 4328,"Gerry O'Connor's Jig In A","Jig In A"
 4328,Rory's,"Jig In A"
@@ -17730,8 +17732,6 @@ tune_id,alias,name
 6675,"Johnny McIljohn's #2","Johnnie McIljohn's"
 6675,"Johnny McIlJohn's No. 2","Johnnie McIljohn's"
 6675,"Johnny McIljohn's No.2","Johnnie McIljohn's"
-6679,"Miss Johnson's","Reedy Johnson's"
-6679,"Reidy Johnson's","Reedy Johnson's"
 6681,"Fair Helen Of Kirkconnel","Helen Of Kirkconnel"
 6683,"Mallard, The","An Culyek Hos"
 6685,Invercauld's,"Invercald's Rant"
@@ -21726,7 +21726,7 @@ tune_id,alias,name
 9888,"Girls Of County Mayo","Mayo Lasses, The"
 9889,"TG4 Advertisement Theme","Suil Eile"
 9898,"Ballygoughlin, The","Martin Mulvihill's"
-9899,"Cockerel And The C, The","Cockerel In The C, The"
+9899,"Cockerel And The Creel, The","Cockerel In The Creel, The"
 9905,"Michael Dunne","Michael Joseph Dunne"
 9905,"Michael Dunne's","Michael Joseph Dunne"
 9905,"Michael Joseph Dunne's","Michael Joseph Dunne"
@@ -22517,6 +22517,7 @@ tune_id,alias,name
 10943,"Bonnie Lass Of Fyvie, The","Bonnie Lass O' Fyvie, The"
 10943,Peggy-O,"Bonnie Lass O' Fyvie, The"
 10943,"Pretty Peggy","Bonnie Lass O' Fyvie, The"
+10944,"Road To Galway, The",Butterfly
 10944,"Sliabh An Oir",Butterfly
 10944,"Tommy Whelan's",Butterfly
 10953,"Silver And Gold Two Step","Silver, The"
@@ -24203,12 +24204,14 @@ tune_id,alias,name
 13237,"Darby's Cross","Danny Green's"
 13239,"Caoineadh Na dTrí Mhuire","Caoineadh Na dTri Muire"
 13243,"'Se Fath Mo Bhuartha","Fath Mo Bhuartha"
+13243,"Fáth Mo Bhuartha","Fath Mo Bhuartha"
 13243,"Reason For My Sorrow, The","Fath Mo Bhuartha"
 13243,"Se Bhfath Mo Bhfuartha","Fath Mo Bhuartha"
 13243,"Se Fa Mo Bhuartha","Fath Mo Bhuartha"
 13243,"Sé Fáth Mo Bhuartha","Fath Mo Bhuartha"
 13244,"A Christmas March",Christmas
 13244,"A March For Christmas",Christmas
+13245,"Morning Star, The","Morning Star"
 13246,"Hawk Of Lough Erne, The","Hawk Of Ballyshannon, The"
 13246,"Kathleen O'Moore","Hawk Of Ballyshannon, The"
 13247,"Lord Elcho","King's Lament, The"
@@ -24300,6 +24303,7 @@ tune_id,alias,name
 13358,"Beann Dubh An Ghleanna","Bean Dubh An Ghleanna"
 13358,"Dark Woman Of The Glen, The","Bean Dubh An Ghleanna"
 13359,"Time Well Spent","Denis Murphy's Quirky Fling"
+13359,"Tom Billy's","Denis Murphy's Quirky Fling"
 13360,"Ríl Mhairtín Shéamuis","Port Mháirtín Shéamus"
 13362,"Fourth Dragoon March, The","Fourth Dragoon, The"
 13364,"Miss Irene Meldrum's Welcome To Bon Accord","Irene Meldrum's Welcome To Bon Accord"
@@ -26661,6 +26665,7 @@ tune_id,alias,name
 19872,"Ví Un Perru Correr","Saltón De Samartín"
 19906,"Pound Hill","Dickie Gossip"
 19907,"Primrose Lass, The","Primrose Girl, The"
+19908,"Kitty Got A Clinking Coming Home From The Races","Uncle Hugh's"
 19909,"Bobby Treacey's Barn Dance","Bobby Treacey's"
 19911,"Mrs Garden Of Troup","Lady Gardener's Troop"
 19914,"Francis Mooney's","Francie Mooney's"
@@ -27200,6 +27205,8 @@ tune_id,alias,name
 22229,"Tom Byrne's No. 9","Tom Byrne's"
 22239,"Compliments To Jack Delaney","Ian Peterson's Compliments To Jack Delaney"
 22243,"A Song For All Seasons","Prayerful Hymn"
+22243,"A Song For All Seasons (The Prayerful Hymn)","Prayerful Hymn"
+22243,"Prayerful Hymn, The","Prayerful Hymn"
 22249,Dod's,"Dod's Tartan Punk Rock Trews"
 22251,"Rowsome's No.1",Rowsome's
 22256,"Martin's Mills","Martin's Mill"
@@ -27221,3 +27228,8 @@ tune_id,alias,name
 22423,"Phoc Ar Buile","An Poc Ar Buile"
 22423,"Poc Ar Bhuile","An Poc Ar Buile"
 22423,"Poc Ar Buile","An Poc Ar Buile"
+22440,"Ronde Du Quercy",Amazone
+22444,"Mynydd Gelliwastad","Mynydd Gelliwastad"
+22445,"37000 Ft","37,000 Feet"
+22450,"Humors Of Ballymoty, The","Humours Of Ballymoty, The"
+22456,"A Glass Of Potheen","A Glass Of Poitín"
