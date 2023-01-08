@@ -8701,7 +8701,7 @@ tune_id,alias,name
 1723,"Cill Abhaill","Mick Finn's"
 1723,"Dun Guaire Castle","Mick Finn's"
 1723,"Fred Finn's","Mick Finn's"
-1723,"Mick Finn's","Mick Finn's"
+1723,"Killavil, The","Mick Finn's"
 1723,"Mickey Finn's","Mick Finn's"
 1723,"Micky Finn's","Mick Finn's"
 1723,"Tilly Finn's","Mick Finn's"
@@ -9096,7 +9096,9 @@ tune_id,alias,name
 1848,"Boar's Head Carol, The","Boar's Head, The"
 1848,"Pibddawns Pen-y-Baedd","Boar's Head, The"
 1849,"Josie McDermott's","Baltimore Salute, The"
+1849,"Landsdowne Lass, The","Baltimore Salute, The"
 1849,"Lansdowne Lass, The","Baltimore Salute, The"
+1849,"Lansdowne Lassies, The","Baltimore Salute, The"
 1849,"Salute To Baltimore","Baltimore Salute, The"
 1851,"An Laudarán","Luachrachán's, The"
 1851,"An Luachrachán","Luachrachán's, The"
@@ -9395,6 +9397,7 @@ tune_id,alias,name
 1937,"Get Up, Old Woman, And Shake Yourself","Get Up Old Woman And Shake Yourself"
 1937,"Go To The Devil & Shake Yourself","Get Up Old Woman And Shake Yourself"
 1937,"Go To The Devil And Shake Yourself","Get Up Old Woman And Shake Yourself"
+1937,"Jackson's Rum Punch","Get Up Old Woman And Shake Yourself"
 1937,"Tickle Her Leg","Get Up Old Woman And Shake Yourself"
 1937,"Tickle Her Leg With The Barley Straw","Get Up Old Woman And Shake Yourself"
 1939,"Boy On The Hilltop, The","Boys On The Hilltop, The"
@@ -10077,6 +10080,7 @@ tune_id,alias,name
 2190,"To Limerick We Will Go","To Limerick We Go"
 2191,"Pilleadh Wellington","Wellington's Advance"
 2191,"Wellington's Advance March","Wellington's Advance"
+2192,"Baltimore Salute, The","Lansdowne Lass, The"
 2192,"Lansdowne Lasses, The","Lansdowne Lass, The"
 2192,"Lansdowne Lassies, The","Lansdowne Lass, The"
 2193,"Humours Of Bandon Set Dance, The","Humours Of Bandon, The"
@@ -11407,6 +11411,8 @@ tune_id,alias,name
 2699,"Jackson Morning","Jackson's Morning Brush"
 2699,Jackson's,"Jackson's Morning Brush"
 2699,"Jackson's Favourite","Jackson's Morning Brush"
+2699,"Jackson's Morning Bowl","Jackson's Morning Brush"
+2699,"Morning Bowl, The","Jackson's Morning Brush"
 2699,"O'Rafferty's 8 Hand","Jackson's Morning Brush"
 2699,"Rogha Mhic Sheain","Jackson's Morning Brush"
 2701,"Big Dan O'Mahony's","Flowers Of Spring, The"
@@ -12272,6 +12278,7 @@ tune_id,alias,name
 3057,"Mrs. Ferguson Of Reaths","Mrs. Ferguson Of Raith"
 3057,"Mrs. Ferguson Of Reith March","Mrs. Ferguson Of Raith"
 3058,"Brian O'Lynn","Short Grass, The"
+3058,"Jackson's Maids","Short Grass, The"
 3058,"Put On Your Clothes","Short Grass, The"
 3059,"Captain Kelly's","Captain Kelly"
 3059,"Indian On The Rock, The","Captain Kelly"
@@ -14143,8 +14150,6 @@ tune_id,alias,name
 4093,"St. Vincent's",Vinton's
 4093,Vincent's,Vinton's
 4093,"Vinton's H.P.",Vinton's
-4095,"Landsdowne Lass, The","Lansdowne Lass, The"
-4095,"Lansdowne Lassies, The","Lansdowne Lass, The"
 4097,"Johnny Mickey Barry's","Johnny Mickey's"
 4097,"Sleamhnán Sheáinín Mhicí","Johnny Mickey's"
 4101,"An Londubh","Blackbird, The"
@@ -14769,6 +14774,7 @@ tune_id,alias,name
 4524,"Dowballs Milked It","Dowser's Favourite"
 4524,"Dowser's Favourite","Dowser's Favourite"
 4524,"Four Knocks, The","Dowser's Favourite"
+4525,"Best Of Both Parts, The","Ceilier, The"
 4531,"Lavery's No. 2",Mulhare's
 4531,"Martin Mulhaire's",Mulhare's
 4531,"Martin Mulhaire's #9",Mulhare's
@@ -26659,7 +26665,6 @@ tune_id,alias,name
 19684,"Jackie Daly's #6","Jackie Daly's"
 19707,"Who Breaks The Feet","Brise Pied"
 19712,"Ceannaí Fáin","Roving Pedlar, The"
-19718,"Winding Roads Of Advance, The","Ivory Flute, The"
 19723,"Mrs. Nicol's Fancy","Port Na Fainne"
 19723,"Wedding Ring, The","Port Na Fainne"
 19726,"Barricade, The","Reel De La Barricade"
@@ -27259,7 +27264,10 @@ tune_id,alias,name
 22585,"Chief's Jig No. 2",Chief's
 22586,"Chief's Jig No. 3",Chief's
 22587,"Chief's Jig No. 1",Chief's
-22594,21184,"Ghost In The Machine"
-22594,"Gan Ainm","Ghost In The Machine"
 22609,"Tom Busby's","Cuffe Street"
 22618,"Mount Sion, The","Merry Fifers, The"
+22619,"Mrs. McGraw","Mrs. McGrath"
+22619,"My Son Ted","Mrs. McGrath"
+22619,"Sergeant And Mrs. McGrath, The","Mrs. McGrath"
+22622,"Scottish à Crusson","Gan Ainm"
+22626,"Scottish à Joly","Gan Ainm"
