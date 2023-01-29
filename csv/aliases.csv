@@ -516,8 +516,10 @@ tune_id,alias,name
 70,"Quaker's Wife, The","Merrily Kissed The Quaker"
 71,"Jim Morrison's",Morrison's
 71,"Lyon's Favourite",Morrison's
+71,"Maurice Carmody's Favourite",Morrison's
 71,"Maurice Carmondy's Favourite",Morrison's
 71,"Morrison's Aaron",Morrison's
+71,"Morrison's Comedy",Morrison's
 71,"Morrison's No. 1",Morrison's
 71,"Paddy Stack's Fancy",Morrison's
 71,"Port Ui Mhuirgheasa",Morrison's
@@ -1354,6 +1356,7 @@ tune_id,alias,name
 195,"Newry Lass, The","Flogging, The"
 195,"Ríl An Lasctha","Flogging, The"
 197,"Bright Star Of Munster, The","Star Of Munster, The"
+197,"Kitty's Wishes","Star Of Munster, The"
 197,Munster,"Star Of Munster, The"
 197,"Munster's Stars","Star Of Munster, The"
 197,"Realt Na Mumhain","Star Of Munster, The"
@@ -2476,6 +2479,7 @@ tune_id,alias,name
 419,"President Garfield's","President Garfield's"
 420,American,Glencolmcille
 420,"Fantastic, The",Glencolmcille
+420,"Gleann Cholm Cille",Glencolmcille
 420,"Glencolmcille, The",Glencolmcille
 420,Glencolmkille,Glencolmcille
 420,Glencolumbkille,Glencolmcille
@@ -3252,6 +3256,7 @@ tune_id,alias,name
 534,"Listowel #2, The","Glenside, The"
 534,"Listowel No. 2, The","Glenside, The"
 534,"Listowel, The","Glenside, The"
+534,"Mall, The","Glenside, The"
 534,"McElroy's Fancy","Glenside, The"
 534,"Pat Horgan's #2","Glenside, The"
 534,"Pat Organ's #2","Glenside, The"
@@ -4324,17 +4329,17 @@ tune_id,alias,name
 723,"Geese In The Bogs, The","Geese In The Bog, The"
 723,"Lark's March, The","Geese In The Bog, The"
 723,"Na Géanna Sa Phortach","Geese In The Bog, The"
-724,Callaghan's,"Galtee Rangers, The"
-724,Callahan's,"Galtee Rangers, The"
-724,"Fiannóglaigh Na nGealtaí","Galtee Rangers, The"
-724,"Galtee Mountain Ranger","Galtee Rangers, The"
-724,"Galtee Mountains","Galtee Rangers, The"
-724,"Galtee Mountains, The","Galtee Rangers, The"
-724,"Galtee Ranger","Galtee Rangers, The"
-724,"Galtee Ranger, The","Galtee Rangers, The"
-724,"Humours Of Galteemore, The","Galtee Rangers, The"
-724,"Humours Of Galtymore, The","Galtee Rangers, The"
-724,"Sherlock's Favourite","Galtee Rangers, The"
+724,Callaghan's,Callaghan's
+724,Callahan's,Callaghan's
+724,"Fiannóglaigh Na nGealtaí",Callaghan's
+724,"Galtee Mountain Ranger",Callaghan's
+724,"Galtee Mountains",Callaghan's
+724,"Galtee Mountains, The",Callaghan's
+724,"Galtee Ranger",Callaghan's
+724,"Galtee Ranger, The",Callaghan's
+724,"Humours Of Galteemore, The",Callaghan's
+724,"Humours Of Galtymore, The",Callaghan's
+724,"Sherlock's Favourite",Callaghan's
 725,"Drumshanbo Tramp","Eddie Kelly's"
 725,"Drumshanbo, The","Eddie Kelly's"
 725,"Eddie Kelly's No. 2","Eddie Kelly's"
@@ -5272,15 +5277,16 @@ tune_id,alias,name
 928,"Toss Pot, The","Queen Of The West, The"
 928,"Tosspot, The","Queen Of The West, The"
 928,"Vermont, The","Queen Of The West, The"
+931,"Aherlow, The","Restless Boy, The"
 931,"Connie Connell's","Restless Boy, The"
-931,"Connie O'Connell","Restless Boy, The"
 931,"Connie O'Connell's","Restless Boy, The"
+931,"Halfcrown Girl, The","Restless Boy, The"
 931,MacNamara's,"Restless Boy, The"
 931,McNamara's,"Restless Boy, The"
 931,"Michael Dwyer's","Restless Boy, The"
 931,"Michael O'Dwyer's","Restless Boy, The"
-931,"Two And Sixpenny Girl","Restless Boy, The"
 931,"Two And Sixpenny Girl, The","Restless Boy, The"
+931,"Two-and-Sixpenny Girl, The","Restless Boy, The"
 932,"Hangman's Noose, The","Hangman's Rope, The"
 932,"John Daly's Fancy","Hangman's Rope, The"
 934,"Up And Away","John McKenna's"
@@ -7981,6 +7987,7 @@ tune_id,alias,name
 1534,"Des Tarrant's","Dark Girl Dressed In Blue"
 1534,"Din Tarrant's","Dark Girl Dressed In Blue"
 1534,"Dressed In Blue","Dark Girl Dressed In Blue"
+1534,"Timmy Collins Polka Number Two","Dark Girl Dressed In Blue"
 1535,"Coolea, The","Cuil Aodha, The"
 1535,"Denis Doody's","Cuil Aodha, The"
 1535,"Dennis Doody's","Cuil Aodha, The"
@@ -8664,12 +8671,6 @@ tune_id,alias,name
 1714,"Paddy Taylor's","Michael Gorman's"
 1714,"Tipperary Hills","Michael Gorman's"
 1714,"Tipperary Hills, The","Michael Gorman's"
-1715,"Connie Connell's","Aherlow, The"
-1715,"Connie O'Connell's","Aherlow, The"
-1715,"Halfcrown Girl, The","Aherlow, The"
-1715,"Michael Dwyer's","Aherlow, The"
-1715,"Two And Sixpenny Girl","Aherlow, The"
-1715,"Two-and-Sixpenny Girl, The","Aherlow, The"
 1716,"Ag Lomairt Na gCaorach","Red-Haired Lass, The"
 1716,"Crusheen, The","Red-Haired Lass, The"
 1716,"Dipping The Sheep","Red-Haired Lass, The"
@@ -10019,11 +10020,10 @@ tune_id,alias,name
 2166,"Rose Bud, The","Quilty, The"
 2166,Rosebud,"Quilty, The"
 2166,"Rosebud, The","Quilty, The"
-2167,"Maid Of Hollywell","Maid Of Holywell, The"
-2167,"Maid Of Hollywell, The","Maid Of Holywell, The"
-2167,"Maids Of Hollywell","Maid Of Holywell, The"
-2167,"Maids Of Hollywell, The","Maid Of Holywell, The"
-2167,"Maids Of Holywell","Maid Of Holywell, The"
+2167,"Maid Of Holywell, The","Maid Of Hollywell, The"
+2167,"Maids Of Hollywell","Maid Of Hollywell, The"
+2167,"Maids Of Hollywell, The","Maid Of Hollywell, The"
+2167,"Maids Of Holywell","Maid Of Hollywell, The"
 2170,"An Caisleán Óir","Caisleán An Óir"
 2170,"Bobby Casey's","Caisleán An Óir"
 2170,"Caisleáin An Óir","Caisleán An Óir"
@@ -11530,16 +11530,17 @@ tune_id,alias,name
 2739,"Streetplayer, The","Street Player, The"
 2741,"Miss Aubone Surtees Favourite","Blaydon Flats"
 2741,"Miss Aubone Surtees' Favourite","Blaydon Flats"
-2743,"Fairie's Taught Me This, The","Fairy, The"
-2743,"Fairies Delight, The","Fairy, The"
-2743,"Fairies Taught Me This, The","Fairy, The"
-2743,"Fairies' Delight, The","Fairy, The"
-2743,"Fairy's Delight, The","Fairy, The"
-2743,"Frainc An Phoill","Fairy, The"
-2743,"Gift From The Fairies, The","Fairy, The"
-2743,"Gift Of The Fairies","Fairy, The"
-2743,"Micky Docherty's","Fairy, The"
-2743,"Port Na Siog","Fairy, The"
+2743,"Fairie's Taught Me This, The","Fairy Jig, The"
+2743,"Fairies Delight, The","Fairy Jig, The"
+2743,"Fairies Taught Me This, The","Fairy Jig, The"
+2743,"Fairies' Delight, The","Fairy Jig, The"
+2743,"Fairy, The","Fairy Jig, The"
+2743,"Fairy's Delight, The","Fairy Jig, The"
+2743,"Frainc An Phoill","Fairy Jig, The"
+2743,"Gift From The Fairies, The","Fairy Jig, The"
+2743,"Gift Of The Fairies","Fairy Jig, The"
+2743,"Micky Docherty's","Fairy Jig, The"
+2743,"Port Na Siog","Fairy Jig, The"
 2747,"Long Slender Sally","Hop Down, The"
 2747,"Long Slender Sally, The","Hop Down, The"
 2747,"Up Dow","Hop Down, The"
@@ -12574,7 +12575,6 @@ tune_id,alias,name
 3207,"Mick McGarry's #2","Mick McGarry's"
 3210,"Camden Town","Return To Camden Town, The"
 3210,"Mountain Meadow, The","Return To Camden Town, The"
-3210,"Return From Camden Town","Return To Camden Town, The"
 3210,"Return From Camden Town, The","Return To Camden Town, The"
 3211,"Fiddlers' Frolic","Farewell To Leitrim"
 3211,Kennaw's,"Farewell To Leitrim"
@@ -14671,6 +14671,7 @@ tune_id,alias,name
 4426,"Hunt Of The Hare, The","Hunting The Hare"
 4426,"Hunt The Hare","Hunting The Hare"
 4426,"St. John's Eve Dance","Hunting The Hare"
+4429,Hollings',"Hollings, The"
 4437,"Paddy's Green Shamrock Shore","A Maid That's Deep In Love"
 4437,"Roving Galway Boy","A Maid That's Deep In Love"
 4440,"Ahearne's Egg","Aherne's Egg"
@@ -15255,6 +15256,7 @@ tune_id,alias,name
 4888,"Waulkin O' The Fauld","Waking O' The Fauld, The"
 4888,"Waulkin' O' The Fauld, The","Waking O' The Fauld, The"
 4888,"Waulking O' The Fauld, The","Waking O' The Fauld, The"
+4889,"Lady Spence's","Miss Spence's"
 4889,"Miss Spence","Miss Spence's"
 4889,Spence's,"Miss Spence's"
 4889,Spencie's,"Miss Spence's"
@@ -16352,6 +16354,7 @@ tune_id,alias,name
 5767,Limehill,"Lime Hill"
 5768,"Connie The Soldier","Lake Shore, The"
 5771,"Dawn Of Hope Bridge","Pig Aitin' Nuts In The Woods, The"
+5771,"Pig Eating Nuts In The Woods, The","Pig Aitin' Nuts In The Woods, The"
 5771,"Pigs Aitin' Nuts In The Woods, The","Pig Aitin' Nuts In The Woods, The"
 5771,"Pigs Eating Nuts In The Woods, The","Pig Aitin' Nuts In The Woods, The"
 5772,Ballivanich,"Boys Of Ballivanich, The"
