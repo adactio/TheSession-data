@@ -6948,6 +6948,7 @@ tune_id,alias,name
 1276,Sonny's,"Irish, The"
 1276,"Vincent Campbell's","Irish, The"
 1279,"Afdordir Ffrainc","Coast Of France, The"
+1281,"Bill Harte's","Sarah Hobbs"
 1281,"Ríl Liaim Uí Airt","Sarah Hobbs"
 1281,"Sarah Hobb's","Sarah Hobbs"
 1281,"Sarah Hobbs","Sarah Hobbs"
@@ -15714,6 +15715,7 @@ tune_id,alias,name
 5215,"Padraig O'Keefe's","Ceanngulla, The"
 5215,"Padraig O'Keeffe's","Ceanngulla, The"
 5216,"Goat On The Green, The","Templehouse, The"
+5216,"Kevin Moloney's","Templehouse, The"
 5216,"Temple House, The","Templehouse, The"
 5217,"An Gille Dubh Sugach","Maids Of Kintail, The"
 5217,"An Gille Dubh Sugach","Maids Of Kintail, The"
@@ -20865,12 +20867,11 @@ tune_id,alias,name
 8888,Culotte,"Brandy Culotté"
 8888,"Le Brandy Culotté","Brandy Culotté"
 8891,"She Hasn't The Thing She Thought She Had","Mrs Martin's"
-8895,"Johnny O'Leary's","Taureen Derby"
-8895,"Taureen Derby","Taureen Derby"
-8895,"There's Worse Than That Around","Taureen Derby"
-8895,Tooreenderby,"Taureen Derby"
-8895,Toureendarby,"Taureen Derby"
-8895,"West Kerry","Taureen Derby"
+8895,"Johnny O'Leary's",Toureendarby
+8895,"Taureen Derby",Toureendarby
+8895,"There's Worse Than That Around",Toureendarby
+8895,Tooreenderby,Toureendarby
+8895,"West Kerry",Toureendarby
 8897,"Com Agen Ye're Welcome","Come Again You're Welcome"
 8897,"Come Again, You're Welcome","Come Again You're Welcome"
 8897,"Come Agen Ye're Welcome","Come Again You're Welcome"
@@ -22879,7 +22880,7 @@ tune_id,alias,name
 11485,"From Shore To Shore",Emigrant's
 11487,"La Grand Nuit Du Port De Pêche","Grande Nuit In Port Du Peche"
 11487,"La Grande Nuit Du Port De Pêche","Grande Nuit In Port Du Peche"
-11490,"Le Petit Bal A L'Huile","Reel St Paul Key D"
+11490,"Reel St Paul","Le Petit Bal A L'Huile"
 11501,"Oíche Mhaith","Oidche Mhaith"
 11506,"Sean Mor","Big John Campbell"
 11517,"PEI Wedding","Prince Edward Island Wedding"
@@ -25156,6 +25157,8 @@ tune_id,alias,name
 14958,"Ton Dérobée","Sweet Rain"
 14962,"Ganivelle Schottische",Ganivelle
 14963,"Sally Sloane's Barn Dance","Sally Sloane's Barn Dance"
+14963,"Sally Sloane's Set Tune","Sally Sloane's Barn Dance"
+14963,"Trip To Cottingham","Sally Sloane's Barn Dance"
 14970,"An Scuabaire","Jack O'Neill's Fancy"
 14970,"Jim Coleman's","Jack O'Neill's Fancy"
 14970,"Parker's Fancy","Jack O'Neill's Fancy"
@@ -25364,7 +25367,6 @@ tune_id,alias,name
 15486,Vr08904,Varsovienne
 15500,"J.F. Dickie's Delight","James F. Dickie's Delight"
 15501,"Al Letanant Schnitt O Kimiadiñ Ar Pempved Kompagnunez","Al Letanant Schnitt O Kimiadin Ar 5ved Kompagnunez"
-15513,"Irish Beauty","Sarah's Song"
 15515,"Bob Johnstone's","Bob Johnson's"
 15517,"Gigue Du Plateau Mont-Royal","Gigue Du Plateau"
 15522,"Carr Lodge","Danny McNiff's"
@@ -26431,7 +26433,7 @@ tune_id,alias,name
 18917,"When I Saw My Bonny Lass To The Church Go","Men Of The Forest, The"
 18918,"Joe Sullivan's","Maulykeavane Rambler, The"
 18923,"My Love Is Lost To Me","O, Were I On Parnassus Hill"
-18928,"Am Bratach Bana","An Bratach Bana"
+18928,"Mhic Iarla Nam Bratach Bàna","Bratach Bàna"
 18929,"Taimse Ar An mBaile Seo","Wild Colonial Boy"
 18935,Gigue,"Gan Ainm"
 18940,"Dr Flora MacAulay, Carradale","Dr Flora MacAulay Of Carradale"
@@ -26861,6 +26863,7 @@ tune_id,alias,name
 20519,"Patie Leary's","Páití O'Leary's"
 20525,"Ned Connor's","Maurice O'Keeffe's"
 20525,"Ned O'Connor's","Maurice O'Keeffe's"
+20525,"Paddy Jones's","Maurice O'Keeffe's"
 20540,"Éalódh Na Muc","Pass Of The Dolphin, The"
 20544,"French Creek, The","Le Ruisseau Français"
 20547,"Ag Teachd On Posadh","Coming From The Wedding"
@@ -26965,8 +26968,6 @@ tune_id,alias,name
 20944,"Humors Of Avondale, The","Humours Of Avondale, The"
 20956,"Humors Of Clarina, The","Humours Of Clarina, The"
 20972,"Celia's Favorite","Celia's Favourite"
-20979,"Ned Connor's","Paddy Jones'"
-20979,"Ned O'Connor's","Paddy Jones'"
 20985,"Sands Of Loch Bee, The","Road To Gerinish, The"
 20996,"Hovering Hawks #1","Hovering Hawks"
 21034,"Andet Brudestykke No. 2","Andet Brudestykke"
@@ -27281,3 +27282,4 @@ tune_id,alias,name
 22665,"La Banane Dans L‘Oreille","Banana In The Ear"
 22669,"Damo's Slip Jig #1",Damo's
 22670,"Damo's Slip Jig #2",Damo's
+22749,"Tir Na Nog","Turas Go Tír Na NÓg"
