@@ -897,12 +897,16 @@ tune_id,alias,name
 114,"Teetotler, The",Temperance
 114,"Temperance, The",Temperance
 114,"Temprance, The",Temperance
+115,"Green Meadow","Over The Moor To Maggie"
+115,"Green Meadow, The","Over The Moor To Maggie"
 115,"Green Meadows","Over The Moor To Maggie"
+115,"Green Meadows, The","Over The Moor To Maggie"
 115,"Little Christmas","Over The Moor To Maggie"
 115,"O'er The Moor To Maggie","Over The Moor To Maggie"
 115,"Over The Moor To Maggie's","Over The Moor To Maggie"
 115,"Over The Moore To Maggie","Over The Moor To Maggie"
 115,"Over The Moors To Maggie","Over The Moor To Maggie"
+115,"Rakes Of Abbeyfeale","Over The Moor To Maggie"
 115,"Rakes Of Abeyfale","Over The Moor To Maggie"
 115,Rowenella,"Over The Moor To Maggie"
 116,"An Ghaoth A Bhogann An Eorna","Wind That Shakes The Barley, The"
@@ -2268,8 +2272,9 @@ tune_id,alias,name
 378,"Blackhaired Lass, The","Redican's Mother"
 378,"Cnoic Aiteannach Liadroma","Redican's Mother"
 378,"Cnoic Aitinne Liatroma","Redican's Mother"
-378,"Fisherman's , The","Redican's Mother"
+378,"Fisherman's Jig","Redican's Mother"
 378,"Fisherman's Lilt, The","Redican's Mother"
+378,"Fisherman's, The","Redican's Mother"
 378,"Fisherman's, The","Redican's Mother"
 378,"Larry Redican's","Redican's Mother"
 378,"Larry Redican's Mother","Redican's Mother"
@@ -8037,6 +8042,8 @@ tune_id,alias,name
 1549,"Bridge O'Leary's",Sweeney's
 1549,"Denis Murphy's",Sweeney's
 1549,"Pat Murphy's",Sweeney's
+1550,"Humors Of Derrycrossane, The","Humours Of Derrycrossane, The"
+1550,"Humours Of Ballykissane, The","Humours Of Derrycrossane, The"
 1550,"Humours Of Derrycrissane, The","Humours Of Derrycrossane, The"
 1550,"Humours Of Derrycrosane, The","Humours Of Derrycrossane, The"
 1550,"Humours Of Derrykissane, The","Humours Of Derrycrossane, The"
@@ -9782,6 +9789,7 @@ tune_id,alias,name
 2088,"Lass Of Carracastle, The","Lass Of Carracastle, The"
 2088,"Miss Landford's","Lass Of Carracastle, The"
 2088,"Miss Langford","Lass Of Carracastle, The"
+2088,"Miss Langford's","Lass Of Carracastle, The"
 2088,"Miss Langfort","Lass Of Carracastle, The"
 2088,"Miss Langton's","Lass Of Carracastle, The"
 2088,"Miss Longford","Lass Of Carracastle, The"
@@ -16476,6 +16484,7 @@ tune_id,alias,name
 5862,"Patsy Healy's","Cnoc Na gClarac"
 5862,Reagan's,"Cnoc Na gClarac"
 5862,Regan's,"Cnoc Na gClarac"
+5862,"Rejected Suitor","Cnoc Na gClarac"
 5863,"Rond De Loudeac","Ronde De Loudeac"
 5863,"Round Of Loudéac","Ronde De Loudeac"
 5865,"Paddy Fahey's No. 18","Paddy Fahey's"
@@ -22532,7 +22541,7 @@ tune_id,alias,name
 10934,"Helen's Return From Bucharest","Ceiliuradh Don Oige"
 10936,"Johnny's Own",McGreevy's
 10936,"One Of Johnny's Own",McGreevy's
-10937,"Major Campbell Graham MBE","Major Campbell Graham, MBE"
+10937,"Major Campbell Graham mBE","Major Campbell Graham, mBE"
 10943,"Bonnie Lass Of Fyvie, The","Bonnie Lass O' Fyvie, The"
 10943,Peggy-O,"Bonnie Lass O' Fyvie, The"
 10943,"Pretty Peggy","Bonnie Lass O' Fyvie, The"
@@ -26970,6 +26979,7 @@ tune_id,alias,name
 20972,"Celia's Favorite","Celia's Favourite"
 20985,"Sands Of Loch Bee, The","Road To Gerinish, The"
 20996,"Hovering Hawks #1","Hovering Hawks"
+21030,"Bridget O'Malley","Bríd Óg Ní Mháille"
 21034,"Andet Brudestykke No. 2","Andet Brudestykke"
 21034,"Andet Brujstyk' No. 2","Andet Brudestykke"
 21034,"Sønderho Bridal Trilogy No. 2","Andet Brudestykke"
@@ -27283,3 +27293,4 @@ tune_id,alias,name
 22669,"Damo's Slip Jig #1",Damo's
 22670,"Damo's Slip Jig #2",Damo's
 22749,"Tir Na Nog","Turas Go Tír Na NÓg"
+22767,"Namptwich Fair","Nantwich Fair"
