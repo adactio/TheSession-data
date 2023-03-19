@@ -4494,15 +4494,14 @@ tune_id,alias,name
 752,"Clonmore, The","Maid At The Well, The"
 752,"Hawk From Dundalk, The","Maid At The Well, The"
 752,"Kilkenny, The","Maid At The Well, The"
-752,"Maid A The Well","Maid At The Well, The"
+752,"Maid A The Well, The","Maid At The Well, The"
 752,"Maid In The Well, The","Maid At The Well, The"
-752,"Maids Of Glenroe","Maid At The Well, The"
 752,"Maids Of Glenroe, The","Maid At The Well, The"
 752,"Milkmaid, The","Maid At The Well, The"
 752,"Mullagh, The","Maid At The Well, The"
 752,"Pat Curtin's","Maid At The Well, The"
 752,"Rogue In The Wood, The","Maid At The Well, The"
-752,"Silver Tip","Maid At The Well, The"
+752,"Silver Tip, The","Maid At The Well, The"
 754,"Boġa Ar Aer","Bonnie Kate"
 754,"Boney Kate","Bonnie Kate"
 754,"Bonnie Lass O' Fisherow, The","Bonnie Kate"
@@ -6559,7 +6558,6 @@ tune_id,alias,name
 1186,"Elsie Marly","Elsie Marley"
 1187,"Burnt Potato, The","Little Burnt Potato, The"
 1187,"Frank's Two-Step","Little Burnt Potato, The"
-1187,Paul's,"Little Burnt Potato, The"
 1189,"Haste To The Wedding","Rory O'More"
 1189,"Rory O' More","Rory O'More"
 1189,"Rory O'Moore","Rory O'More"
@@ -10246,6 +10244,7 @@ tune_id,alias,name
 2249,"Gilbert Clancy's","Sean Reid's"
 2249,"Gilbert's Fancy","Sean Reid's"
 2249,"Gilibeart Mhac Fhlannchadha","Sean Reid's"
+2249,"Let's Be Drinking","Sean Reid's"
 2249,"Mick's Hands","Sean Reid's"
 2249,"Seán Reid's Fancy","Sean Reid's"
 2249,"Sean Reid's Favourite","Sean Reid's"
@@ -14863,6 +14862,8 @@ tune_id,alias,name
 4579,"Hare, The","Cat In The Corner, The"
 4579,"Humours Of Ballydaly, The","Cat In The Corner, The"
 4579,"Padhraig O'Keefe's","Cat In The Corner, The"
+4579,"Smiler, The","Cat In The Corner, The"
+4579,"Smiling Jig","Cat In The Corner, The"
 4583,Campbell's,Campbell's
 4585,Finnish,Metsäkukkia
 4585,"Flower Of The Woods, The",Metsäkukkia
@@ -15618,7 +15619,6 @@ tune_id,alias,name
 5132,"Pet Of The Pipes","Pet Of The Pipers"
 5133,"Novelty, The","Eclipse, The"
 5135,"Billy In The Low Ground","Billy In The Lowground"
-5136,"Stockton's Wing's",O'Dea's
 5137,"Stella's Trip To Camloops","Stella's Trip To Kamloops"
 5137,"Stella's Welcome To Kamloops","Stella's Trip To Kamloops"
 5138,"McNamara's Band",McNamara's
@@ -15755,6 +15755,7 @@ tune_id,alias,name
 5220,"Mick O'Connor's","Rafferty's Mustache"
 5221,"Ah Gee","Oh Gee"
 5226,"Fearchar And Hettie's","Farquhar And Hettie's"
+5226,"Hetty & Farquhar's","Farquhar And Hettie's"
 5228,"Devine's Favourite",Devine's
 5229,"Polduilly Bridge","Poldwilly Bridge"
 5231,"Bourée á Trios Temps","Mazurka Des Écoliers De Saint Genest"
@@ -16258,6 +16259,7 @@ tune_id,alias,name
 5624,"Hiro's Highland Fling","Sláinte Ag An Doras"
 5624,Sláinte,"Sláinte Ag An Doras"
 5625,Londonderry,"Ladies, The"
+5627,"Humors Of Clonmult, The","Humours Of Clonmult, The"
 5628,"Fourth Bridge, The","Forth Bridge, The"
 5629,Carnanban,"Old Pigeon On The Gate, The"
 5629,"Kieran Kelly's","Old Pigeon On The Gate, The"
@@ -25506,6 +25508,7 @@ tune_id,alias,name
 15808,"Sexdrega Polska","Polska Efter Carl-Erik Berndt"
 15817,"Finley's Gold",Scandinavian
 15820,Truffles,"E To E"
+15826,Carousel,"Village Carousel"
 15835,"Felgubben Polska",Felgubben
 15845,Gla'låten,"Glad Låt"
 15845,Gladlåten,"Glad Låt"
@@ -25540,6 +25543,9 @@ tune_id,alias,name
 15922,"Nth Highland Fling, The",Nth
 15922,"Nth, The",Nth
 15922,Thenth,Nth
+15931,Dixieland,"Dixie Land"
+15931,"I Wish I Was In Dixie","Dixie Land"
+15931,"Oh I Wish I Was In The Land Of Cotton","Dixie Land"
 15933,"Ruane The Man","Tom McElvogue's"
 15933,"Tom McElvogue's Jig In G 09","Tom McElvogue's"
 15934,"Spring In Seoul",Impeachment
@@ -25934,8 +25940,8 @@ tune_id,alias,name
 17306,"Hooly And Fairly",Ballyhooley
 17317,"Anada Pa Gael","Añada Pa Gael"
 17320,"My Love, My Love","My Love My Love"
-17325,"Salt Spring",Saltspring
-17325,"Salt Springs",Saltspring
+17325,"Salt Springs","Salt Spring"
+17325,Saltspring,"Salt Spring"
 17328,"Dutiful Son, The","Mac Ùmhal"
 17333,"Kendal Lilt, The","Kendal Lilt"
 17335,"Donegal Peter Street, The",Sally
@@ -26350,6 +26356,7 @@ tune_id,alias,name
 18453,"Ducks Knocked Over My Father, The","Deuks Dang Ower My Daddy"
 18458,"Breakish Hall","Talla Bhreacais"
 18461,"Inverness Scots Measure, The","McLauchlane's Scots Measure"
+18475,"Take The Jug Down From The Shelf","Tell Your Mother I Owes Her Four Pence"
 18475,"Tell Your Mother I Owe Her Four Pence","Tell Your Mother I Owes Her Four Pence"
 18482,"Trip Round Mallusk, The","Trip Around Mallusk, The"
 18483,"Cows In The Castle, The","Cows In The Castle"
@@ -27331,3 +27338,4 @@ tune_id,alias,name
 22845,B,"B Real"
 22854,"Basket Of Eggs","Y Fasged Wyau"
 22855,Rebel's,"Michael Rooney's"
+22879,"McQuillan's Favorite","McQuillan's Favourite"
