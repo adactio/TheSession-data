@@ -3359,7 +3359,6 @@ tune_id,alias,name
 548,"Scotchman Over The Border, The","Scotsman Over The Border, The"
 550,"Border Collie, The","Rodney Miller's"
 553,"Drunken Sailor, The","Drunken Sailor's, The"
-553,"Tipsy Sailor","Drunken Sailor's, The"
 553,"Tipsy Sailor, The","Drunken Sailor's, The"
 554,Lawries,"Mrs Lawrie's"
 554,McGlinchey's,"Mrs Lawrie's"
@@ -3727,13 +3726,13 @@ tune_id,alias,name
 609,Biddys,"Barnes Mor, The"
 609,"Biddys Of Barnes","Barnes Mor, The"
 609,"Old Peter Street","Barnes Mor, The"
-610,"Auld Brig O' Ayr","Millroad Devil, The"
-610,"Auld Brig O' Ayr, The","Millroad Devil, The"
-610,"Bob Steele","Millroad Devil, The"
-610,"Johnny Steele","Millroad Devil, The"
-610,"Miller O' Dervil, The","Millroad Devil, The"
-610,"New Brig O' Dee","Millroad Devil, The"
-610,"New Brig O' Dee, The","Millroad Devil, The"
+610,"Auld Brig O' Ayr","Miller O' Dervil, The"
+610,"Auld Brig O' Ayr, The","Miller O' Dervil, The"
+610,"Bob Steele","Miller O' Dervil, The"
+610,"Johnny Steele","Miller O' Dervil, The"
+610,"Miller O' Dervil, The","Miller O' Dervil, The"
+610,"New Brig O' Dee","Miller O' Dervil, The"
+610,"New Brig O' Dee, The","Miller O' Dervil, The"
 612,"An Ceannabhan Ban","Na Ceannabháin Bhána"
 612,"Bog Cotton","Na Ceannabháin Bhána"
 612,"Cannabhan Ban","Na Ceannabháin Bhána"
@@ -4413,6 +4412,7 @@ tune_id,alias,name
 737,"Cloichíní Beaga Na Farraige","Spike Island Lasses, The"
 737,"Gearrchaile Oileán Píce","Spike Island Lasses, The"
 737,"Gearrchaillí Oileán Píce","Spike Island Lasses, The"
+737,Reidy's,"Spike Island Lasses, The"
 737,"Small Stones Of The Sea, The","Spike Island Lasses, The"
 737,"Spike Island Lassies","Spike Island Lasses, The"
 737,"Spike Island Lassies, The","Spike Island Lasses, The"
@@ -9852,9 +9852,9 @@ tune_id,alias,name
 2105,"Jim Keefe's",Walsh's
 2105,"Jim Keeffe's",Walsh's
 2105,"Tuar Mór Polka No. 3, The",Walsh's
-2108,"99 March",Ninety-Nine
-2108,"99 March, The",Ninety-Nine
-2108,"Ninety-Nine March, The",Ninety-Nine
+2108,99,Ninety-Nine
+2108,"99 , The",Ninety-Nine
+2108,"Ninety-Nine , The",Ninety-Nine
 2114,"B'Fhearr Liom A Bheith Pósta Ná Tréighte","I'd Rather Be Married Than Left"
 2114,"I'd Rather Be Married Than Left Alone","I'd Rather Be Married Than Left"
 2114,"I'd Rather Be Married Than Living Alone","I'd Rather Be Married Than Left"
@@ -10225,8 +10225,10 @@ tune_id,alias,name
 2239,"Sonny Rearden's","Blue Ribbon, The"
 2239,"Sonny Riordan's","Blue Ribbon, The"
 2239,"Tom Billy's","Blue Ribbon, The"
-2240,"Fil O Ro","Touch Of Gaelic"
-2240,Filoro,"Touch Of Gaelic"
+2240,"'S Truagh Nach D‘ Rugadh Dall Mi","Fil Ò Ro"
+2240,"Fill Ò Ro","Fil Ò Ro"
+2240,Filoro,"Fil Ò Ro"
+2240,"Touch Of Gaelic","Fil Ò Ro"
 2241,"Boys Of 25, The","Milky Way, The"
 2241,Puck's,"Milky Way, The"
 2241,"Vincent Broderick's","Milky Way, The"
@@ -10269,6 +10271,7 @@ tune_id,alias,name
 2253,"Kerry, The",Rowsome's
 2253,Rowesome's,Rowsome's
 2253,"Tim The Market Man",Rowsome's
+2254,"An Cailín Fionn","Hag At The Spinning Wheel, The"
 2254,"Cailín An Túirna","Hag At The Spinning Wheel, The"
 2254,"Cailleach An Túirne","Hag At The Spinning Wheel, The"
 2254,"Garrett Barry's","Hag At The Spinning Wheel, The"
@@ -11106,9 +11109,8 @@ tune_id,alias,name
 2563,"Mimi's New Generation #3","Mimi And The New Generation"
 2566,"Paddy Fahey's Jig #5","Paddy Fahey's"
 2566,"Paddy Fahy's","Paddy Fahey's"
-2569,"Battle Cry Of Munster","Rosc Catha Na Mumhan"
-2569,"Battle Cry Of Munster March, The","Rosc Catha Na Mumhan"
-2569,"Boyne Water","Rosc Catha Na Mumhan"
+2569,"Battle Cry Of Munster , The","Rosc Catha Na Mumhan"
+2569,"Boyne Water, The","Rosc Catha Na Mumhan"
 2569,"Rosc Catha Na Mhuin","Rosc Catha Na Mumhan"
 2569,"Rosc Catha Na Nuimhain","Rosc Catha Na Mumhan"
 2569,"Rose Catha Na Mumhan","Rosc Catha Na Mumhan"
@@ -25658,7 +25660,7 @@ tune_id,alias,name
 16354,Occidental,Pirate's
 16354,"Pirate, The",Pirate's
 16362,"Galway Girl","Minute 5"
-16364,"Fáilte Go Sgalpaigh","Welcome To Scalpay"
+16364,"Welcome To Scalpay","Fàilte Gu Sgalpaigh"
 16370,"Streams Of Pol-A-Phooka, The","Gan Ainm"
 16370,"Streams Of Poulaphouca","Gan Ainm"
 16371,Innes's,"Charmer, The"
@@ -27167,6 +27169,8 @@ tune_id,alias,name
 21701,"Allan MacDonald's","Fàg A' Phiob Bhochd"
 21702,"Mazurka Por Fernandez, Mazurka Para Fernandez","Mazurka For Fernández"
 21718,Tulla,"An Tulach"
+21724,"Opener #2, The","North Wind, The"
+21725,"Opener #1, The",Sissi's
 21729,"Nancy My Love","Nancy Clough"
 21738,"From Generation To Generation","Ó Ghlúin Go Glúin"
 21744,"Top Road Polka #1","Top Road"
@@ -27314,6 +27318,7 @@ tune_id,alias,name
 22517,Tatervalsen,"Tater Valsen"
 22517,Tinker's,"Tater Valsen"
 22556,"Lucy Farr's","East Clare, The"
+22565,Ewing,"Mrs Thom"
 22585,"Chief's Jig No. 2",Chief's
 22586,"Chief's Jig No. 3",Chief's
 22587,"Chief's Jig No. 1",Chief's
@@ -27331,6 +27336,7 @@ tune_id,alias,name
 22670,"Damo's Slip Jig #2",Damo's
 22749,"Tir Na Nog","Turas Go Tír Na NÓg"
 22767,"Namptwich Fair","Nantwich Fair"
+22768,"Accursed Kerryman, The","An Ciarraíoch Mallaithe"
 22823,"On Tient Le Mur","We Hold The Wall"
 22824,"River, The","Tocane River, The"
 22833,"Sunbeam, The",Sunbeam
@@ -27339,3 +27345,7 @@ tune_id,alias,name
 22854,"Basket Of Eggs","Y Fasged Wyau"
 22855,Rebel's,"Michael Rooney's"
 22879,"McQuillan's Favorite","McQuillan's Favourite"
+22887,"Dr MacLeod Wears A Dirk","An Doctair Leodach ‘s Biodag Air"
+22900,Sheehan's,"Tom Billy Murphy's"
+22902,"Dance Of The Wolves, The","Dance Of The Wolves"
+22911,"Xuanín De Mieres, Marcha De Xuan De Mieres","Xuan De Mieres"
