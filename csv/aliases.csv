@@ -1079,6 +1079,9 @@ tune_id,alias,name
 143,"Walker Street","Traveller, The"
 143,"Walker Street Hornpipe","Traveller, The"
 143,"Walking The Street","Traveller, The"
+144,"Courting Them All","Bashful Bachelor, The"
+144,"Moving Bogs, The","Bashful Bachelor, The"
+144,"Na Portaigh Chreathacha","Bashful Bachelor, The"
 145,"Handsome Young Lasses, The","Handsome Young Maidens, The"
 145,"Handsome Young Maid","Handsome Young Maidens, The"
 145,"Handsome Young Maiden, The","Handsome Young Maidens, The"
@@ -1120,6 +1123,7 @@ tune_id,alias,name
 153,"Forge Music, The","Sweet Biddy Of Ballyvourney"
 153,"Sweet Biddy Of Baile Bhúirne","Sweet Biddy Of Ballyvourney"
 153,"Sweet Biddy Of Baile Mhuirne","Sweet Biddy Of Ballyvourney"
+153,Tameen's,"Sweet Biddy Of Ballyvourney"
 154,"Ground Ivy, The",Quille's
 154,"John Quinn's",Quille's
 154,"Padraig O'Keefe's",Quille's
@@ -3415,13 +3419,13 @@ tune_id,alias,name
 560,"Tarbolten Lodge","Tarbolton, The"
 560,"Tarbolton Lodge","Tarbolton, The"
 560,"Tarbottal Lodge","Tarbolton, The"
-562,"Cockscomb Bouree","Crested Hens"
-562,"Como Poden Per Sas Culpas","Crested Hens"
-562,"Crested Hen, The","Crested Hens"
-562,"Crested Hens, The","Crested Hens"
-562,"Les Poules Huppees","Crested Hens"
-562,"Les Poules Huppés","Crested Hens"
-562,"Poules Huppées","Crested Hens"
+562,"Cockscomb Bouree","Last Mile, The"
+562,"Como Poden Per Sas Culpas","Last Mile, The"
+562,"Crested Hen, The","Last Mile, The"
+562,"Crested Hens, The","Last Mile, The"
+562,"Les Poules Huppees","Last Mile, The"
+562,"Les Poules Huppés","Last Mile, The"
+562,"Poules Huppées","Last Mile, The"
 563,"Bailitheoir Lonhphoirt","Longford Collector, The"
 563,"Langford Collector","Longford Collector, The"
 563,"Longford Beggarman, The","Longford Collector, The"
@@ -3559,9 +3563,9 @@ tune_id,alias,name
 577,"Rose In The Garden, The","Ah Surely"
 577,"Up Cloontia","Ah Surely"
 577,"Windy Gap, The","Ah Surely"
-578,McCabe's,"Paddy Taylor's"
-578,"Paddy Taylors","Paddy Taylor's"
-578,"Tripping Up The Stairs","Paddy Taylor's"
+578,McCabe's,McCabe's
+578,"Paddy Taylors",McCabe's
+578,"Tripping Up The Stairs",McCabe's
 579,"An Mála Fataí","Bag Of Spuds, The"
 579,"Bag O' Spuds, The","Bag Of Spuds, The"
 579,"Bag Of Potatoes, The","Bag Of Spuds, The"
@@ -4332,6 +4336,7 @@ tune_id,alias,name
 721,Doohan's,"Wexford Lasses, The"
 721,Killoran's,"Wexford Lasses, The"
 721,"Paddy Killoran's","Wexford Lasses, The"
+721,"Ríl Loch Garman","Wexford Lasses, The"
 721,"Wexford Lass","Wexford Lasses, The"
 721,"Wexford Lasses, The","Wexford Lasses, The"
 721,"Wexford Lassies, The","Wexford Lasses, The"
@@ -13996,9 +14001,11 @@ tune_id,alias,name
 3952,"Reaper Of Glenaree, The","Reaper Of Glenree, The"
 3954,"Ragged Annie","Ragtime Annie"
 3954,"Raggedy Ann","Ragtime Annie"
+3954,"Saturday Night","Ragtime Annie"
 3957,"Big Pat","Drogheda Bay"
 3957,"Big Pat's","Drogheda Bay"
 3957,"Dandy, The","Drogheda Bay"
+3957,"Tie The Ribbons","Drogheda Bay"
 3957,"Trim The Bonnet","Drogheda Bay"
 3962,"Gaftai Baile Bui","Geaftaí Baile Bhuí"
 3962,"Geaftai Baile Bui","Geaftaí Baile Bhuí"
@@ -16821,10 +16828,10 @@ tune_id,alias,name
 6031,"That Is How The Cabbage Was Boiled","Haughs Of Cromdale, The"
 6031,"Wat Ye How The Play Began","Haughs Of Cromdale, The"
 6033,"Sally Lennon's","Sally Lennon"
+6034,"Ball And Pin",Ariel
 6034,"McCusker Brothers Delight, The",Ariel
 6034,"McCusker Brothers' Delight, The",Ariel
 6034,"McCusker's Delight",Ariel
-6034,"McCuskers Delight",Ariel
 6034,"McCuskers Delight, The",Ariel
 6034,"McCuskers' Delight",Ariel
 6035,"Merry Maid's Meeting","Merry Maid's Wedding, The"
@@ -16988,7 +16995,6 @@ tune_id,alias,name
 6192,"Waltz For The Little Girls, The","Waltz Of The Little Girls, The"
 6192,"Waltz Of The Junked Fiats","Waltz Of The Little Girls, The"
 6192,"Waltz Of The White Lilies","Waltz Of The Little Girls, The"
-6194,"Ball And Pin","Ariel, The"
 6198,"Murtach Mac Cana","Morgan Magan"
 6198,"Murtagh MacCann","Morgan Magan"
 6198,"Murtagh McCann","Morgan Magan"
@@ -21771,7 +21777,7 @@ tune_id,alias,name
 9888,"Girls Of County Mayo","Mayo Lasses, The"
 9889,"TG4 Advertisement Theme","Suil Eile"
 9898,"Ballygoughlin, The","Martin Mulvihill's"
-9899,"Cockerel And The C, The","Cockerel In The C, The"
+9899,"Cockerel And The Creel, The","Cockerel In The Creel, The"
 9905,"Michael Dunne","Michael Joseph Dunne"
 9905,"Michael Dunne's","Michael Joseph Dunne"
 9905,"Michael Joseph Dunne's","Michael Joseph Dunne"
@@ -22641,6 +22647,8 @@ tune_id,alias,name
 11090,Gilsland,"Billy Ballantine's"
 11090,"Gilsland, The","Billy Ballantine's"
 11090,Gilsland's,"Billy Ballantine's"
+11092,"New Bridge Of Glasgow","New Brig Of Glasgow, The"
+11092,"Young Invercauld's","New Brig Of Glasgow, The"
 11096,Hambo,"Liten Karen"
 11096,"Liten Karin","Liten Karen"
 11096,"Little Karen","Liten Karen"
@@ -25898,6 +25906,7 @@ tune_id,alias,name
 17188,"Vals Efter Karl-Fant","Fante Vals"
 17190,"Gallant Poachers, The","Van Diemens Land"
 17190,"King's Lynn","Van Diemens Land"
+17191,"Dublin Lasses","Lady Mauchline's"
 17191,"Lord Mauchline's","Lady Mauchline's"
 17191,"Lothian Lasses","Lady Mauchline's"
 17191,"Muircheartach Ua Maelmhuaidh","Lady Mauchline's"
@@ -25911,7 +25920,7 @@ tune_id,alias,name
 17208,"Polska Efter Lars Fredriksson",Skogsbäcken
 17208,"Polska Från Vallsta",Skogsbäcken
 17208,"Polska Från Vallsta I Hälsingland",Skogsbäcken
-17226,"Cailllach Nan Gibran","An Islay"
+17226,"Cailllach Nan Giuran","An Islay"
 17228,"Bonnie Lass O Ballochmyle, The","Ettrick Banks"
 17230,"Harper's Ferry","John Brown's"
 17230,"Harpers Ferry","John Brown's"
@@ -26138,6 +26147,7 @@ tune_id,alias,name
 17791,"Take Back The Virgin Page",Dermot
 17801,"Namptwich Fair","Nantwich Fair"
 17804,"East Galway","Ard Aoibhinn"
+17807,"Quill And The Ivory","Quill, The"
 17811,"Hennessy And Kerr","Hennessy & Kerr"
 17829,"Niel Gow's Style","Stoidhle Neill Ghobha"
 17829,"Staoileach Neill Gobha","Stoidhle Neill Ghobha"
@@ -26862,6 +26872,7 @@ tune_id,alias,name
 20388,"Pop's Tune","Jim Collins'"
 20393,"Rebel War Song, The","Eiridh Na Finnacha' Gaelach"
 20394,"Lockdown, The","Locked Down, The"
+20397,"An Chois Tinn","Sore Foot, The"
 20398,"Crannciuil Ui HAenghusa",Hennessy's
 20402,"I'm Waiting For You","Hillside Cottage"
 20402,"Teach Beag Taobh An Chnuich","Hillside Cottage"
@@ -27348,3 +27359,10 @@ tune_id,alias,name
 22900,Sheehan's,"Tom Billy Murphy's"
 22902,"Dance Of The Wolves, The","Dance Of The Wolves"
 22911,"Xuanín De Mieres, Marcha De Xuan De Mieres","Xuan De Mieres"
+22952,"Jim Gould's Tune","Jim Gould's"
+22955,"Cyril Carroll's #1","Cyril Carroll's"
+22955,"Cyril Carroll's No. 1","Cyril Carroll's"
+22956,"Cyril Carroll's #2","Cyril Carroll's"
+22956,"Cyril Carroll's No. 2","Cyril Carroll's"
+22959,"Meabh's Dance, Mave's Dance, Maiv's Dance, Maev's Dance","Maeve's Dance"
+22964,"Betsy Hawco's Tune","Betsy Hawco's"
