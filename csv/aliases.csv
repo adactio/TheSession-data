@@ -1692,6 +1692,7 @@ tune_id,alias,name
 265,O'Keeffe's,"Cobbler's, The"
 265,"Padraig O'Keefe's","Cobbler's, The"
 265,"Padraig O'Keeffe's","Cobbler's, The"
+266,"Byrne's Quick Step","James Byrne's"
 266,"Byrne's Quickstep","James Byrne's"
 266,"Paddy Hiudai's","James Byrne's"
 266,"Paddy Hudai's","James Byrne's"
@@ -4871,7 +4872,7 @@ tune_id,alias,name
 835,"March Of The Kings Of Leix","March Of The Kings Of Laois"
 835,"Rauiri Og O Mordha","March Of The Kings Of Laois"
 835,"Ri Laois","March Of The Kings Of Laois"
-835,"Rory O Moor: King Of Leix's March","March Of The Kings Of Laois"
+835,"Rory O Moor: King Of Leix's","March Of The Kings Of Laois"
 835,"Rory O Moore's","March Of The Kings Of Laois"
 835,"Rory Of The Hills","March Of The Kings Of Laois"
 835,"Ruaidhri Na Cnoch","March Of The Kings Of Laois"
@@ -10218,14 +10219,14 @@ tune_id,alias,name
 2232,"Ronnie Cooper's","Ronnie Cooper"
 2232,"Ronnie Coopers'","Ronnie Cooper"
 2233,"Con Club","Tomorrow Morning"
-2236,"Dearg Doom","O'Neill's March"
-2236,"Máirseáil Ui Neill","O'Neill's March"
-2236,"Marcshlua Ui Neill","O'Neill's March"
-2236,"Marcṡlua Uí Néill","O'Neill's March"
-2236,"O' Neill's","O'Neill's March"
-2236,O'Neil's,"O'Neill's March"
-2236,"O'Neill's Cavalcade","O'Neill's March"
-2236,"O'Neill's Cavalry","O'Neill's March"
+2236,"Dearg Doom",O'Neill's
+2236,"Máirseáil Ui Neill",O'Neill's
+2236,"Marcshlua Ui Neill",O'Neill's
+2236,"Marcṡlua Uí Néill",O'Neill's
+2236,"O' Neill's",O'Neill's
+2236,O'Neil's,O'Neill's
+2236,"O'Neill's Cavalcade",O'Neill's
+2236,"O'Neill's Cavalry",O'Neill's
 2237,"Pretty Young Girls Of Carrick, The","Ladies Of Carrick, The"
 2239,"Blue Ribbon #1, The","Blue Ribbon, The"
 2239,"Blue Ribbon Polkas No. 1, The","Blue Ribbon, The"
@@ -11796,8 +11797,7 @@ tune_id,alias,name
 2830,"Heels Overhead","Heels Over Head"
 2831,"Cordal, The","Morgan Rattler"
 2831,"Johnny Morgan's","Morgan Rattler"
-2832,"Dandy Dennis Cronin","Dandy Dinny Cronin"
-2832,"Dandy Denny Cronin","Dandy Dinny Cronin"
+2832,"Dandy Dennis Cronin","Dandy Denny Cronin"
 2834,"Flooers O' The Forest, The","Flowers Of The Forest, The"
 2834,"Flowres Of The Forrest, The","Flowers Of The Forest, The"
 2835,"Ivy Leaf","Smoky Chimney, The"
@@ -12823,7 +12823,6 @@ tune_id,alias,name
 3287,"Son Ar Rost","Son Ar Rost"
 3287,"Tune For The Roast","Son Ar Rost"
 3289,"Clootie Dumplings","Bonnie Banchory"
-3290,"Mc Carthy's",McCarthy's
 3291,Cuckoo,"Thomond Bridge"
 3291,"Lady Hartwell Of Cantwell","Thomond Bridge"
 3291,"Lady Hartwell Of Cantwell's Clog","Thomond Bridge"
@@ -15219,6 +15218,7 @@ tune_id,alias,name
 4839,"Paddy Canny's","Billy O'Rourke Is The Buachaill"
 4840,"Humors Of Rahey, The","Humours Of Rahey, The"
 4840,"Humours Of Faha, The","Humours Of Rahey, The"
+4840,"Humours Of Rehy","Humours Of Rahey, The"
 4843,"Bass, The","New Christmas"
 4843,"New Christmas, The","New Christmas"
 4844,"Boc Liath Nan Gobhar","Further, The Deeper, The"
@@ -17870,7 +17870,6 @@ tune_id,alias,name
 6756,"Walk My Love","Siuil A Ruin"
 6761,"Hoy Tune",Wiggen
 6761,Viggen,Wiggen
-6761,Wiggen,Wiggen
 6763,"Darkey Dan","Darkey's Dream"
 6763,"Darkie Dan","Darkey's Dream"
 6763,"Darkie's Dream","Darkey's Dream"
@@ -24144,7 +24143,6 @@ tune_id,alias,name
 13035,"Animals Went In Two By Two, The","When Johnny Comes Marching Home"
 13035,"Guns And Drums","When Johnny Comes Marching Home"
 13035,"Johnny, I Hardly Knew Ye","When Johnny Comes Marching Home"
-13038,"Tim Edey's","Gan Ainm"
 13040,"Bantiarna Ibheachadh","Lady Iveagh"
 13040,"Bantighearna Ibheach","Lady Iveagh"
 13040,"Bantighearna Iveagh","Lady Iveagh"
@@ -26560,6 +26558,7 @@ tune_id,alias,name
 19034,"Walls Of Saint Malo, The","Walls Of St Malo"
 19034,"Walls Of St Malo, The","Walls Of St Malo"
 19035,"Dotted Paper","New Barracks"
+19040,"Stockport , The","Quay Side, The"
 19070,"Jer Mac's No. 13","Jer Mac's"
 19081,"Devil In The Strawstack, The","Devil In The Straw Stack, The"
 19084,"Fish And Dolphin","Fish & Dolphin"
@@ -26656,7 +26655,6 @@ tune_id,alias,name
 19388,"Randalf's Leap Waltz #2","Randalf's Leap"
 19388,"Randolph's Leap","Randalf's Leap"
 19395,"Forest Wedding, The","Forest Wedding"
-19403,Softley's,"Gan Ainm"
 19413,"Farewell To Waverley Park","Farewell To Waverly Park"
 19415,"Lucozade #2, The","Lucozade, The"
 19415,"Lucozade No. 2, The","Lucozade, The"
@@ -26680,7 +26678,6 @@ tune_id,alias,name
 19460,"Lancer's Quadrille, The","Lancer's, The"
 19462,"Tin Hoose","Tin House"
 19471,"True Love Is Better Than Gold","Had She Been Aye"
-19488,Daimh's,"Gan Ainm"
 19492,"Ship's Doctor, The","Ship Doctor, The"
 19497,"Toad In The Toilet, The","Toad In The Toilet"
 19499,"Polska Från Hälsingland","Polska Efter Johnny Schönning"
@@ -26703,7 +26700,6 @@ tune_id,alias,name
 19590,"Torridon Wedding","Caismeachd Banais Thoirbheartain"
 19601,"Carolan's Frolic","Thomas Judge"
 19611,Mattabassett,Mattabasset
-19614,"Sterne's Polka Numéro 2","Gan Ainm"
 19622,"Bill O'Keeffe's","Cnoc Na bPoll"
 19627,"Port Na Maighdinn Chuain","Mermaid Song, The"
 19627,"U-gu-vi-u, U-gu -vi-u","Mermaid Song, The"
@@ -26900,6 +26896,7 @@ tune_id,alias,name
 20426,"Cuckoo's Nest, The","Ramasse Tes Bourrures"
 20426,"Reel Du Carnaval","Ramasse Tes Bourrures"
 20426,"Reel Du Carnival","Ramasse Tes Bourrures"
+20427,"Painter's Jig",Painter's
 20427,"Painter's, The",Painter's
 20429,"Cumbernauld House","Lord Aboyne's Welcome"
 20432,"Leipzig #1, The","Leipzig, The"
@@ -27063,10 +27060,7 @@ tune_id,alias,name
 21165,"Grand Cossack, The","Napoleon's Grand"
 21165,"Grand, The","Napoleon's Grand"
 21165,"Napolean's Grand","Napoleon's Grand"
-21168,"Gortletteragh, The","Gan Ainm"
-21171,"Monsieur L'curé N'veut Pas","Gan Ainm"
 21184,"Speed The Plough","Bog Road To Meelick, The"
-21185,"J.F. Douglas's","Gan Ainm"
 21189,"Bourrée From Suite In Eminor By J.S. Bach BWV 996",Bourrée
 21195,"Johnny Leary's","Mick Lynch's"
 21201,"My Sprightly Brown Maid","Mo Chailin Deas Donn"
@@ -27143,8 +27137,6 @@ tune_id,alias,name
 21524,"Lá Fhéile Bríde","St. Brigid's Day"
 21530,"Shady Road To Clamper, The","Hopeful Lover"
 21533,"Tiennet & Ronan's Hanter Dro","An Dro"
-21541,Sutherland's,"Gan Ainm"
-21543,Payne's,"Gan Ainm"
 21545,Baxter's,"Step Dancer, The"
 21545,"Dancing Masters, The","Step Dancer, The"
 21545,Opera,"Step Dancer, The"
@@ -27298,8 +27290,6 @@ tune_id,alias,name
 22120,"Humours Of Glin, The","Humours Of Glynn, The"
 22122,"Nicholas Furlong's","Gan Ainm"
 22123,"An Piasun Ar A Theicheadh","Hunted Pheasant, The"
-22125,Leonard-Kernan's,"Gan Ainm"
-22126,"Abbeyshrule, The","Gan Ainm"
 22129,"Old Rusty Gun, The","A Gunne Dubh"
 22131,"Mr. Morthland's","Mr. Worthland's"
 22137,"O'Keefe's Polka No. 1",O'Keefe's
@@ -27365,7 +27355,6 @@ tune_id,alias,name
 22619,"Sergeant And Mrs. McGrath, The","Mrs. McGrath"
 22633,"One Track Jack","One Track Zach"
 22640,"Buachaill Sa Chrann","Boy In The Tree, The"
-22651,"Drumreilly, The","Gan Ainm"
 22665,"La Banane Dans L‘Oreille","Banana In The Ear"
 22669,"Damo's Slip Jig #1",Damo's
 22670,"Damo's Slip Jig #2",Damo's
@@ -27422,13 +27411,12 @@ tune_id,alias,name
 23047,"Heirs' Polka #1",Heirs'
 23047,"Heirs' Polka No. 1",Heirs'
 23047,"Heirs' Polka Nr. 1",Heirs'
-23055,"Ed Didham's #2","Ed Didham's"
-23055,"Ed Didham's No. 2","Ed Didham's"
+23055,"Ed Didham's #1","Ed Didham's"
+23055,"Ed Didham's No. 1","Ed Didham's"
 23055,"Eddie Didham's","Ed Didham's"
-23055,"Eddie Didham's #2","Ed Didham's"
-23055,"Eddie Didham's No. 2","Ed Didham's"
-23055,"Eddie's ""Close-In"" Tune","Ed Didham's"
-23055,"Eddie's Close-In Tune","Ed Didham's"
+23055,"Eddie Didham's #1","Ed Didham's"
+23055,"Eddie Didham's No. 1","Ed Didham's"
+23055,"Eddie's Tune","Ed Didham's"
 23063,"Mike Kent's #1","Mike Kent's"
 23063,"Mike Kent's No. 1","Mike Kent's"
 23064,"Milk Of The Black Cow, The","Milk Of The Black Cow"
@@ -27455,3 +27443,9 @@ tune_id,alias,name
 23120,"Up Da Stump #2","Up Da Stump"
 23120,"Up Da Stump No. 2","Up Da Stump"
 23120,"Up The Stump","Up Da Stump"
+23130,"Bay De Verde Tune","Bay De Verde Close In Tune"
+23139,"Caterpillar The Cat","Caterpillar, The"
+23140,"Robin's Nest (The B&B)","Robin's Nest"
+23141,"Bren Newman's #1","Bren Newman's"
+23141,"Bren Newman's No. 1","Bren Newman's"
+23142,"Sidney's Jig",Sidney's
