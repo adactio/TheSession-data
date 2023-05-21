@@ -2947,6 +2947,7 @@ tune_id,alias,name
 481,"Hunter's Cabin","Bill Sullivan's"
 481,"Mickey Chewing Bubblegum","Bill Sullivan's"
 481,Sullivan's,"Bill Sullivan's"
+482,"Duck's Nest, The","Foxhunter, The"
 482,"Fox Hunter's, The","Foxhunter, The"
 482,"Fox Hunters', The","Foxhunter, The"
 482,"Foxhunt, The","Foxhunter, The"
@@ -5280,6 +5281,7 @@ tune_id,alias,name
 925,"Sean Maguire's",Haley's
 925,"Sean McGuire's",Haley's
 925,"Turas An Bhodhránaí",Haley's
+925,"Young Men In Their Bloom",Haley's
 926,"Butcher's, The","Hag's Purse, The"
 926,"Hag With The Purse, The","Hag's Purse, The"
 926,"Hag's Purse, The","Hag's Purse, The"
@@ -10760,7 +10762,10 @@ tune_id,alias,name
 2397,"Purring Girls Of Our Town, The","Pride Of The Bronx, The"
 2397,"Purty Girls Of Our Town, The","Pride Of The Bronx, The"
 2399,4'33,"4 Minutes 33 Seconds"
+2399,"Bhí An Cage Oscailte Is Mar Sin D'eitil An T-éan Uaidh","4 Minutes 33 Seconds"
 2399,Blank,"4 Minutes 33 Seconds"
+2399,Blank-Mange,"4 Minutes 33 Seconds"
+2399,"Dà Cheud Trì Fichead Agus Trì Diogan Deug","4 Minutes 33 Seconds"
 2399,"I Can't Hear You","4 Minutes 33 Seconds"
 2399,"Lament For The Mother In Law","4 Minutes 33 Seconds"
 2399,"Music For An Unfound Harmonium","4 Minutes 33 Seconds"
@@ -14057,6 +14062,7 @@ tune_id,alias,name
 3998,"Jackie And Seamus","Four Shoves, The"
 3999,"Humours Of Whisky, The","Humours Of Whiskey, The"
 3999,"Silvermore, The","Humours Of Whiskey, The"
+4001,"Humours Of Not Tulla","Sollus Lillis"
 4001,"Sollus Lillis","Sollus Lillis"
 4001,"Solus Lilli's","Sollus Lillis"
 4001,"Solus Lillis'","Sollus Lillis"
@@ -17920,7 +17926,7 @@ tune_id,alias,name
 6791,"Bonnie Strathmore","Wha Can Help It"
 6791,Cummings,"Wha Can Help It"
 6791,"Salute To Boston","Wha Can Help It"
-6791,"Wha, Can Help It","Wha Can Help It"
+6791,"Wha' Can Help It ?","Wha Can Help It"
 6793,"Jock Wilson",Cooper's
 6793,"Jock Wilson's",Cooper's
 6813,"A Child Of Dreamland","Gentle Maiden, The"
@@ -18034,6 +18040,7 @@ tune_id,alias,name
 6876,"West Philly, The","Westphalia, The"
 6876,"Wszystkie Rybki","Westphalia, The"
 6877,"Carolan's Dowry","Captain Sudley"
+6877,"Carolan's Dowry For His Daughter","Captain Sudley"
 6877,"Planxty Sudley","Captain Sudley"
 6878,"Broken Legged Chicken, The","Broken-legged Chicken, The"
 6879,"Brian O'Kane's","Brian O'Kane's"
@@ -24276,6 +24283,7 @@ tune_id,alias,name
 13247,"Lord Elcho's","King's Lament, The"
 13250,"Colin Clachar","Colin Clachair"
 13253,Carrol's,Carroll's
+13256,"Humors Of Flinn, The","Humours Of Flinn, The"
 13256,"Tim O'Leary's","Humours Of Flinn, The"
 13267,"Romance 2",Romance
 13268,"Romance 1",Romance
@@ -27449,3 +27457,12 @@ tune_id,alias,name
 23141,"Bren Newman's #1","Bren Newman's"
 23141,"Bren Newman's No. 1","Bren Newman's"
 23142,"Sidney's Jig",Sidney's
+23145,"For Josephine","From Shankill To Ballinakill"
+23156,Paddy's,"Patrick Óg Fitzpatrick's"
+23160,"Amhrán An Phíobaire Bháin","Caniad Y Gwyn Bibydd"
+23160,"Song Of The Fair Piper, The","Caniad Y Gwyn Bibydd"
+23162,"A-moll Polska Efter Hultkläppen",Hultkläppen
+23162,"Farsfarspolska Efter Jon Erik Hall",Hultkläppen
+23162,"Polska Efter Hultkläppen",Hultkläppen
+23166,"Humours Of Passage, The",Cronin's
+23167,"Pumpkin Soup","I've Never Had Pumpkin Soup Before"
