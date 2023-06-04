@@ -813,6 +813,7 @@ tune_id,alias,name
 106,"From The New World","Swallowtail, The"
 106,"Gigue De Barnabé","Swallowtail, The"
 106,"Swallow Tail, The","Swallowtail, The"
+106,"Swallow's Nest, The","Swallowtail, The"
 106,"Swallow's Tail, The","Swallowtail, The"
 107,"Athol Highlander","Atholl Highlanders, The"
 107,"Athol Highlanders, The","Atholl Highlanders, The"
@@ -8826,8 +8827,7 @@ tune_id,alias,name
 1752,"Scholar, The","South Shore, The"
 1754,"Hen And Her Clutch, The","Jolly Tinker, The"
 1754,"Round The World","Jolly Tinker, The"
-1755,"Mathematician, The","High Level"
-1755,Mathematician's,"High Level"
+1755,Mathematician's,"Mathematician, The"
 1757,"Mitford Galloway","Rattlin' Roarin' Willie"
 1757,"Mitford Galloway, The","Rattlin' Roarin' Willie"
 1757,"Rantin' Roarin' Willie","Rattlin' Roarin' Willie"
@@ -14176,6 +14176,7 @@ tune_id,alias,name
 4087,"Mermaid, The","An Mhaighdean Mhara"
 4087,"Oran Na Maighdeann-Mhara","An Mhaighdean Mhara"
 4087,"Sea Maiden, The","An Mhaighdean Mhara"
+4089,"Josie Begley's Fancy","Mairtin O'Connor's"
 4089,"Terry Bingham's","Mairtin O'Connor's"
 4091,"Countryman's, The","Twilight In Portroe"
 4091,"Dawn, The","Twilight In Portroe"
@@ -14423,6 +14424,7 @@ tune_id,alias,name
 4226,"Maghera, The","Dear Lisa"
 4227,"Wide Open Lasses","Wideopen Lasses"
 4231,Boda,Anna's
+4231,Bodavalsen,Anna's
 4231,Solingsvalsen,Anna's
 4231,"Vals Från Boda",Anna's
 4234,"Kit O'Mahoney","Kit O'Mahony"
@@ -16445,6 +16447,7 @@ tune_id,alias,name
 5796,"Pat Ward's","Doon Highland, The"
 5796,"Pat Ward's Fling","Doon Highland, The"
 5797,"Three Halfpence A Day",Mulvihill's
+5797,"Very Poor Pay",Mulvihill's
 5799,"Anlon McDinney","Anlon McKinney"
 5799,"Anlon McKinley's","Anlon McKinney"
 5799,"Anlon McKinney's","Anlon McKinney"
@@ -21202,6 +21205,7 @@ tune_id,alias,name
 9220,Winifred's,"Winnifred's Strathspey"
 9230,Cregg,"Peter Tuohey's"
 9230,"Nancy Hynes","Peter Tuohey's"
+9230,"Nancy Hynes'","Peter Tuohey's"
 9230,"Nancy Hynes's","Peter Tuohey's"
 9230,"Peter Tuohy's","Peter Tuohey's"
 9238,"Shepton, The","Shepton Mallet, The"
@@ -24607,6 +24611,7 @@ tune_id,alias,name
 13696,"Planxty Lady Blaney","Lady Blainey"
 13702,Madhu's,"Summer Adventure, The"
 13704,"Carolan's Favorite","Carolan's Favourite"
+13704,"O'Carolan Favorite","Carolan's Favourite"
 13704,"Planxty Mary O' Neill","Carolan's Favourite"
 13704,"Planxty Mary O'Neill","Carolan's Favourite"
 13717,"Cornphíopa Sheán Seosamh Mhig Fhionnáin","John Joe Gannon's"
@@ -25893,6 +25898,7 @@ tune_id,alias,name
 17110,"Mrs. Fallon","Mrs Fallon"
 17111,"Culloden's Housing Controversy","Controversial Culloden News Article, The"
 17112,Rerospols,Steffaleken
+17112,Rorospols,Steffaleken
 17112,"Røros Pols",Steffaleken
 17112,Rørospols,Steffaleken
 17112,"Steffans Leken",Steffaleken
@@ -26307,6 +26313,8 @@ tune_id,alias,name
 18205,"MicMac Square Dance Tune No. 2","MicMac Square Dance Tune"
 18205,"Mik'maq Square Dance Tune","MicMac Square Dance Tune"
 18208,"Daybreak, The",Daybreak
+18210,"Sliabh Dónairt","Sliabh Domhnghairt"
+18210,"Slieve Donard","Sliabh Domhnghairt"
 18212,"Lighthouse, The","Teach Solais"
 18213,"Dancing With Mrs White","Dancing With Mrs. White"
 18213,"Dancing With Mrs. White #1","Dancing With Mrs. White"
@@ -27278,6 +27286,7 @@ tune_id,alias,name
 22066,"Tom Byrne's No. 3","Tom Byrne's"
 22067,"Tom Byrne's No.2","Tom Byrne's"
 22072,"Papal Visit, The","Pope's Visit, The"
+22073,"Fintan Cleary's","Jack And Polly's"
 22077,Corofin,"Cornphiopa Corofinne"
 22079,"Tom Byrne's No.3","Tom Byrne's"
 22080,"Tom Byrne's No.4","Tom Byrne's"
@@ -27323,6 +27332,7 @@ tune_id,alias,name
 22314,"Judge's Favorite","Judge's Favourite"
 22344,"Sean Nugent's No. 1","Sean Nugent's"
 22345,"Sean Nugent's No. 2","Sean Nugent's"
+22347,"Silas Just Desserts","Wee Harry"
 22357,Glashagh,"An Ghlaiseac"
 22358,"Open Door, The","La Puerta Abierta"
 22371,"Tom Dunne's","Man From Bunclody, The"
@@ -27463,3 +27473,4 @@ tune_id,alias,name
 23166,"Humours Of Passage, The",Cronin's
 23167,"Pumpkin Soup","I've Never Had Pumpkin Soup Before"
 23172,"Iain MacLeod","Ian MacLeod's"
+23189,"Thomas Wrigley's Waltz No. 1","Gan Ainm"
