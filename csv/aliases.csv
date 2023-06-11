@@ -1262,6 +1262,7 @@ tune_id,alias,name
 177,"Sean In The Mist","Seán Sa Cheo"
 177,"Sean Na Cheo","Seán Sa Cheo"
 177,"Seán Sa Ceo","Seán Sa Cheo"
+177,"Sean Sa Ceo","Seán Sa Cheo"
 177,"Seán Sa Cheoidh","Seán Sa Cheo"
 179,Alison's,Alice's
 179,Allison's,Alice's
@@ -1542,17 +1543,16 @@ tune_id,alias,name
 237,"Kilcogy, The","Blackhaired Lass, The"
 237,"Molly Will You Do It?","Blackhaired Lass, The"
 237,"Smokey House","Blackhaired Lass, The"
-238,"Ballydesmond No. 2, The","Ballydesmond, The"
-238,"Ballydesmond Polka 2, The","Ballydesmond, The"
-238,"Ballydesmond Polka No. 2, The","Ballydesmond, The"
-238,"Ballydesmond Polkas No. 2, The","Ballydesmond, The"
-238,"Ballydesmond Polkas, The","Ballydesmond, The"
-238,"Cock Your Pistol Charlie","Ballydesmond, The"
-238,"Donal De Barra's","Ballydesmond, The"
-238,"Jib, The","Ballydesmond, The"
-238,Manley's,"Ballydesmond, The"
-238,"Maurice Manley's","Ballydesmond, The"
-238,"Polca De Ballydesmond","Ballydesmond, The"
+238,"Ballydesmond Polka 2, The","Ballydesmond No. 2, The"
+238,"Ballydesmond Polka No. 2, The","Ballydesmond No. 2, The"
+238,"Ballydesmond Polkas No. 2, The","Ballydesmond No. 2, The"
+238,"Ballydesmond Polkas, The","Ballydesmond No. 2, The"
+238,"Cock Your Pistol Charlie","Ballydesmond No. 2, The"
+238,"Donal De Barra's","Ballydesmond No. 2, The"
+238,"Jib, The","Ballydesmond No. 2, The"
+238,Manley's,"Ballydesmond No. 2, The"
+238,"Maurice Manley's","Ballydesmond No. 2, The"
+238,"Polca De Ballydesmond","Ballydesmond No. 2, The"
 239,"Ballydesmond #2","Ballydesmond, The"
 239,"Ballydesmond #3","Ballydesmond, The"
 239,"Ballydesmond 2, The","Ballydesmond, The"
@@ -4828,6 +4828,7 @@ tune_id,alias,name
 830,"Bryan O'Lynn","Brian O'Lynn"
 830,"Bryan O'Lynn's","Brian O'Lynn"
 830,"Cockled Old Man, The","Brian O'Lynn"
+830,"Ducks And Oats","Brian O'Lynn"
 830,"Gooseberry Boy, The","Brian O'Lynn"
 830,"Hitler's Downfall","Brian O'Lynn"
 830,"John Maloney's","Brian O'Lynn"
@@ -8236,6 +8237,7 @@ tune_id,alias,name
 1594,"Sixteen Come Next Sunday","As I Roved Out"
 1594,"Sixteen Come Sunday","As I Roved Out"
 1596,"Cathal McConnell's","Old Pigeon On The Gate, The"
+1597,"Road Drill","Diamond Mountain, The"
 1598,"Al Labous Mary",Greensleeves
 1598,"Green Sleeves",Greensleeves
 1598,"Greensleeves And Pudding Pies",Greensleeves
@@ -10662,6 +10664,7 @@ tune_id,alias,name
 2340,"Braes Of Mellinish, The","Braes Of Mellinish, The"
 2340,"Bruachan Mhealanais","Braes Of Mellinish, The"
 2340,"Bruachun Mhelinis","Braes Of Mellinish, The"
+2340,"Mr McKay's","Braes Of Mellinish, The"
 2344,"Bonaparte's Advance","Madame Bonaparte"
 2344,"Madam Bonaparte","Madame Bonaparte"
 2344,"Navigator's, The","Madame Bonaparte"
@@ -10912,10 +10915,13 @@ tune_id,alias,name
 2461,"A Stór A Stór A Ghrá","Neilly O'Boyle's Highland"
 2461,"A Stor, A Stor A Grá","Neilly O'Boyle's Highland"
 2461,"A Stór, A Stór, A Ghrá","Neilly O'Boyle's Highland"
+2461,"Neely Boyle's","Neilly O'Boyle's Highland"
 2461,"Neillidh Boyle's","Neilly O'Boyle's Highland"
 2461,"Neillidh Boyle's Highland Fling","Neilly O'Boyle's Highland"
 2461,"Neilly Boyle's","Neilly O'Boyle's Highland"
+2461,"Neilly Boyle's Highland","Neilly O'Boyle's Highland"
 2461,"Neilly Boyle's Highland Fling","Neilly O'Boyle's Highland"
+2461,"Neilly Boyle's Highlands","Neilly O'Boyle's Highland"
 2461,"Neilly O'Boyle's","Neilly O'Boyle's Highland"
 2462,"Arkle Mountain, The","Arkle Mountain"
 2462,"Arklow Mountains","Arkle Mountain"
@@ -19298,6 +19304,7 @@ tune_id,alias,name
 7617,"Goulin, The","Denis Murphy's"
 7617,"Whistling Thief, The","Denis Murphy's"
 7618,"Sophie's Tune","Air For Sophie Delizio"
+7619,"Rustic Reel","O Dear Mother My Toes Are Sore"
 7622,Burn's,"Within A Mile Of Clonbur"
 7622,Burnes,"Within A Mile Of Clonbur"
 7622,Byrne's,"Within A Mile Of Clonbur"
@@ -20747,6 +20754,8 @@ tune_id,alias,name
 8752,"Deil Amang The Meal Men, The","Bishop, The"
 8752,"Devil Among The Meal Men, The","Bishop, The"
 8753,Byrne's,Shanahan's
+8753,Callaghan's,Shanahan's
+8753,O'Callaghan's,Shanahan's
 8753,"Perfect Hornpipe No. 2",Shanahan's
 8753,Welsh's,Shanahan's
 8755,"Kansas City, The","Kansas City"
@@ -25558,6 +25567,7 @@ tune_id,alias,name
 15922,"Nth Highland Fling, The",Nth
 15922,"Nth, The",Nth
 15922,Thenth,Nth
+15930,"Living Stream, The","An Ghlaise Bheo"
 15931,Dixieland,"Dixie Land"
 15931,"I Wish I Was In Dixie","Dixie Land"
 15931,"Oh I Wish I Was In The Land Of Cotton","Dixie Land"
@@ -26916,6 +26926,8 @@ tune_id,alias,name
 20434,"Leipzig No. 2, The","Leipzig, The"
 20435,"Coil Awa' Da Hauser","Coil The Hawser"
 20435,"Coil Awa' Da Hawser","Coil The Hawser"
+20436,"Blue Fiddle #1, The","Blue Fiddle"
+20436,"Blue Fiddle 1, The","Blue Fiddle"
 20436,"Blue Fiddle, The","Blue Fiddle"
 20439,"Redondo Circle Dance","El Redondo Encantado"
 20446,"Up Da Stump #1","Up Da Stump"
@@ -27474,3 +27486,6 @@ tune_id,alias,name
 23167,"Pumpkin Soup","I've Never Had Pumpkin Soup Before"
 23172,"Iain MacLeod","Ian MacLeod's"
 23189,"Thomas Wrigley's Waltz No. 1","Gan Ainm"
+23219,"Geese In The Bog","Sligo Goose, The"
+23221,"Miss Ainslie Grant Duff's","Piper's Cave, The"
+23221,"Piper's Refuge, The","Piper's Cave, The"
