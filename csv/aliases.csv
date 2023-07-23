@@ -1427,6 +1427,7 @@ tune_id,alias,name
 211,"Donal De Barra's  Slide",Inisheer
 211,"Inis Oir",Inisheer
 211,"Inis Oirr",Inisheer
+211,"Inis Oírr",Inisheer
 211,Inisfree,Inisheer
 211,"Inish Iar",Inisheer
 211,"Inish Oirr",Inisheer
@@ -8665,12 +8666,12 @@ tune_id,alias,name
 1701,Harris',"Walter Sammon's Grandmother"
 1701,Harris's,"Walter Sammon's Grandmother"
 1701,"Mary Staunton's","Walter Sammon's Grandmother"
-1702,"(She Knelt On The Old Man)","Chùir I Glùin Air A' Bhodaich"
 1702,"Braes Of Balquidder","Chùir I Glùin Air A' Bhodaich"
 1702,"Chuir I Gluin Air A Bhodach","Chùir I Glùin Air A' Bhodaich"
 1702,"Chuir I Gluin Air A' Bhodach","Chùir I Glùin Air A' Bhodaich"
 1702,"Chùir I Glùin Air A' Bhodaich","Chùir I Glùin Air A' Bhodaich"
 1702,"Old, The","Chùir I Glùin Air A' Bhodaich"
+1702,"She Knelt On The Old Man","Chùir I Glùin Air A' Bhodaich"
 1702,"She Put A Knee In The Old Man","Chùir I Glùin Air A' Bhodaich"
 1702,"She Put Her Knee On The Old Man","Chùir I Glùin Air A' Bhodaich"
 1703,"That's Right Too","That's Right Too!"
@@ -11124,7 +11125,6 @@ tune_id,alias,name
 2560,"Back Of The Forge, The","Mick Duggan's"
 2560,"Lovat Scouts","Mick Duggan's"
 2560,"Meentogues Lad, The","Mick Duggan's"
-2561,Calvey's,"Paddy Fahey's"
 2561,Fahy's,"Paddy Fahey's"
 2561,"Paddy Fahey's 10","Paddy Fahey's"
 2561,"Paddy Fahey's No. 10","Paddy Fahey's"
@@ -11157,6 +11157,7 @@ tune_id,alias,name
 2572,"Dublin Lasses, The","Tie The Ribbons"
 2572,"Eight And Forty Sisters, The","Tie The Ribbons"
 2572,"Maids Of Galway, The","Tie The Ribbons"
+2572,"Murtough Molloy","Tie The Ribbons"
 2572,"Tie The Ribbon","Tie The Ribbons"
 2575,"Elanor Plunkett","Eleanor Plunkett"
 2575,"Nelly An Chuil Chraobhaigh","Eleanor Plunkett"
@@ -11805,17 +11806,19 @@ tune_id,alias,name
 2826,"Donald McLeod","Auld Pipe, The"
 2826,"Donald McLeod's","Auld Pipe, The"
 2826,"Traditional, The","Auld Pipe, The"
-2828,"(Gwechall/Il Y Avait Une Fois/Y'a Bien Longtemps)","Wren, The"
 2828,"An Dro","Wren, The"
 2828,An-Dro,"Wren, The"
 2828,Andro,"Wren, The"
 2828,"Dans En Dro","Wren, The"
 2828,"En Dro","Wren, The"
+2828,Gwechall,"Wren, The"
 2828,Gweharall,"Wren, The"
+2828,"Il Y Avait Une Fois","Wren, The"
 2828,"Kerfank 1870","Wren, The"
 2828,"Once (upon A Time)","Wren, The"
 2828,"Sam And Natalie's Trip To Doolin","Wren, The"
 2828,"St. Stephen's Day Parade","Wren, The"
+2828,"Y'a Bien Longtemps","Wren, The"
 2829,"Farewell To Lissycasey","Paddy Breen's"
 2829,"Patsy Mack","Paddy Breen's"
 2830,"Heels Overhead","Heels Over Head"
@@ -12389,6 +12392,7 @@ tune_id,alias,name
 3092,"Warlock's, The","Warlocks, The"
 3093,"Highland Fling","Follow Me Down To Carlow"
 3098,"Da Sandieburn","Sandyburn, The"
+3098,"Saandie Burn","Sandyburn, The"
 3101,"Sugar Candy","We'll All Away To Sunniside"
 3101,"Sweet As Sugar Candy","We'll All Away To Sunniside"
 3101,"We'll Aal Awa' To Sunniside","We'll All Away To Sunniside"
@@ -13875,6 +13879,7 @@ tune_id,alias,name
 3842,Lissagan,"Lisnagun, The"
 3842,Lissagun,"Lisnagun, The"
 3842,"Lissagun, The","Lisnagun, The"
+3842,"Mad Piper, The","Lisnagun, The"
 3843,"Bernie's Boots","Bernie Oldrid's Boots"
 3847,"Reel St Antoine","Reel Saint-Antoine"
 3847,"Reel St. Antoine","Reel Saint-Antoine"
@@ -16855,6 +16860,7 @@ tune_id,alias,name
 6031,"Wat Ye How The Play Began","Haughs Of Cromdale, The"
 6033,"Sally Lennon's","Sally Lennon"
 6034,"Ball And Pin",Ariel
+6034,"Ball And Pin, The",Ariel
 6034,"McCusker Brothers Delight, The",Ariel
 6034,"McCusker Brothers' Delight, The",Ariel
 6034,"McCusker's Delight",Ariel
@@ -17959,7 +17965,6 @@ tune_id,alias,name
 6836,"Boney's Retreat March","Boney's Retreat"
 6839,"Bello Horizonte",Horizonto
 6841,"Bonnie Mulligan's","Bonnie Mulligan"
-6842,"Golden Keyboard (jig), The","Contentment Is Wealth"
 6842,"Sheep In The Meadow, The","Contentment Is Wealth"
 6845,"Blue Cap","La Toque Bleu"
 6845,"Blue Cap, The","La Toque Bleu"
@@ -20985,8 +20990,8 @@ tune_id,alias,name
 8961,"Hobart's Transformation","Hobbart's Transformation"
 8965,Cathir-na-midhe,Cahiramee
 8965,"Hunt The Hare",Cahiramee
-8968,"(Open The Door)","Fosgail An Dorus"
 8968,"Fosgail An Doras","Fosgail An Dorus"
+8968,"Open The Door","Fosgail An Dorus"
 8969,"Aith Rant, The","Aith Rant"
 8970,"Speghetti Panic","Spaghetti Panic"
 8973,"An Graduigteoir Treigte","Irish Lamentation"
@@ -24072,6 +24077,7 @@ tune_id,alias,name
 12866,"Y Mheillea","Yn Mheillea"
 12868,"Geay Jeh'n Aer","Sea Invocation, The"
 12869,Garravane,"John Joe Harnett's"
+12869,"Moss Murphy's","John Joe Harnett's"
 12870,"Midnight Rambler Highland Fling, The","Midnight Rambler, The"
 12873,"Jem As Nancy","Jemmy As Nancy"
 12879,"Arrane Y Ben Thie","Clean Suggane"
@@ -25729,6 +25735,7 @@ tune_id,alias,name
 16486,Newlywed,"Newly Wed's, The"
 16487,"Ram's Horns, The","Ram's Horns"
 16491,"My Friends","All My Friends"
+16493,"Liam O'Raghallaigh","Liam O'Reilly"
 16496,"Ker Eon No. 1","Gavottes Des Montagnes"
 16497,"A Waltz For Em","Auntie Em's"
 16497,"Ruby Slippers","Auntie Em's"
@@ -25801,6 +25808,7 @@ tune_id,alias,name
 16673,"Curachaí Na Trá Báine","Amhran Na Tra Baine"
 16673,"Song Of The Drowning","Amhran Na Tra Baine"
 16678,"Aliyah Leahy's","Aliyah Leahy's Baptism"
+16679,"Old Wooden Bridge, The","Old Wooden Bridge"
 16692,"Deerness Two-Step, The","Deerness Two-Step"
 16701,"Eilean Aigeis","Isle Of Aigas, The"
 16712,"Bear Tune, The","Fete De L'Ours"
@@ -25884,6 +25892,7 @@ tune_id,alias,name
 16960,"Red Mountain, The","An tSléibhe Dearg"
 16961,"Reaping-Hook, The","An Corran"
 16964,"Maggie Watson's Polka","Maggie Watson's Farewell To Blackhammer"
+16978,"Da Hame Farers","Da Hamefarers"
 16979,"Auld Reekie","Duke Of Edinburgh, The"
 16992,"Alborada Galega","Alborada De Veiga"
 16992,"Alborada Gallega","Alborada De Veiga"
@@ -26151,6 +26160,7 @@ tune_id,alias,name
 17681,"Captain Keeler","Captain Keller's"
 17681,"Captain Keller","Captain Keller's"
 17681,"Lowland Amusement","Captain Keller's"
+17687,"Back Of The Change House, The","Back Of The Change House"
 17700,"Star In Palestine","Orkney Spring Nights"
 17714,"Ketch Sullivan John, The","Skipper Sean Prendergast, The"
 17718,"Mac Moran's","Mac Morin's"
@@ -26385,7 +26395,6 @@ tune_id,alias,name
 18378,"Monkeys In The Barrel","Barrel Of Monkeys, The"
 18384,"Sleamhnan Bhaile An Mhuilinn","Sleamhnán Bhaile An Mhuilinn"
 18394,"Song Of Una, The","Song Of Oonagh, The"
-18396,"Margaret Anne Robertson","Margaret Ann Robertson"
 18397,"Sound Of Winegums","Sound Of Wine Gums, The"
 18397,"Sound Of Winegums, The","Sound Of Wine Gums, The"
 18422,"Reinlender Etter Ulrik I Jensestogun","Reinlender Etter Ulrik Jensestogun"
@@ -27408,6 +27417,7 @@ tune_id,alias,name
 22855,Rebel's,"Michael Rooney's"
 22879,"McQuillan's Favorite","McQuillan's Favourite"
 22887,"Dr MacLeod Wears A Dirk","An Doctair Leodach ‘s Biodag Air"
+22900,"Denis Murphy's","Tom Billy Murphy's"
 22900,Sheehan's,"Tom Billy Murphy's"
 22902,"Dance Of The Wolves, The","Dance Of The Wolves"
 22911,"Xuanín De Mieres, Marcha De Xuan De Mieres","Xuan De Mieres"
@@ -27531,3 +27541,8 @@ tune_id,alias,name
 23318,"Deálaí's No. 3",Deálaí's
 23324,"Tiarna Maigheó","Lord Mayo"
 23324,"Tiarna Mhuigheo","Lord Mayo"
+23334,"Slideways 1",Slideways
+23335,"Slideways 2",Slideways
+23338,Natalie's,"Cor Natailí"
+23345,"Tri Martolod Yaouank","Tri Martolod"
+23348,"Ard A' Chuain, Aird Uí Chumhaing","Aird Uí Chuain"
