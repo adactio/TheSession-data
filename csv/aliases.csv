@@ -735,6 +735,7 @@ tune_id,alias,name
 91,"Tony O'Sullivan's","Roaring Barmaid, The"
 92,"An Bhean Níocháin Éireannach","Irish Washerwoman, The"
 92,"Corporal Casey","Irish Washerwoman, The"
+92,"Country Courtship, The","Irish Washerwoman, The"
 92,"Do Virgins Taste Better?","Irish Washerwoman, The"
 92,"Irish Woman, The","Irish Washerwoman, The"
 92,"Wash Woman, The","Irish Washerwoman, The"
@@ -810,18 +811,18 @@ tune_id,alias,name
 103,"St. Anne","Saint Anne's"
 103,"St. Anne's","Saint Anne's"
 103,"St. Annes","Saint Anne's"
-105,"Heron On The Water, The",Morrison
-105,"Miss Wright's",Morrison
-105,"Molly's Nightcap",Morrison
-105,"Pride Of The Ball",Morrison
-105,"Queen's Wedding, The",Morrison
-105,"Steeple Chase",Morrison
-105,"Swallow Tail Coat, The",Morrison
-105,"Swallow's Tale, The",Morrison
-105,"Swallows Tail, The",Morrison
-105,"Swallowtail, The",Morrison
-105,"Triumphant Puppy, The",Morrison
-105,"Troops', The",Morrison
+105,"Heron On The Water, The","Swallow's Tail, The"
+105,"Miss Wright's","Swallow's Tail, The"
+105,"Molly's Nightcap","Swallow's Tail, The"
+105,"Pride Of The Ball","Swallow's Tail, The"
+105,"Queen's Wedding, The","Swallow's Tail, The"
+105,"Steeple Chase","Swallow's Tail, The"
+105,"Swallow Tail Coat, The","Swallow's Tail, The"
+105,"Swallow's Tale, The","Swallow's Tail, The"
+105,"Swallows Tail, The","Swallow's Tail, The"
+105,"Swallowtail, The","Swallow's Tail, The"
+105,"Triumphant Puppy, The","Swallow's Tail, The"
+105,"Troops', The","Swallow's Tail, The"
 106,"Custom House, The","Swallowtail, The"
 106,"Dancing Master, The","Swallowtail, The"
 106,"Dancingmaster, The","Swallowtail, The"
@@ -4706,13 +4707,13 @@ tune_id,alias,name
 789,"Primrose Lassie","Primrose Lasses, The"
 789,"Primrose Lassies Highland Fling, The","Primrose Lasses, The"
 789,"Primrose Lassies, The","Primrose Lasses, The"
-790,"Capt. John Irwin","Planxty Irwin"
-790,"Captain John Irwin","Planxty Irwin"
-790,"Col. John Irwin","Planxty Irwin"
-790,"Colonel John Irwin","Planxty Irwin"
-790,"Planxty Capt. John Irwin","Planxty Irwin"
-790,"Planxty Col. John Irwin","Planxty Irwin"
-790,"Planxty Colonel Irwin","Planxty Irwin"
+790,"Capt. John Irwin","Old Joe Clark"
+790,"Captain John Irwin","Old Joe Clark"
+790,"Col. John Irwin","Old Joe Clark"
+790,"Colonel John Irwin","Old Joe Clark"
+790,"Planxty Capt. John Irwin","Old Joe Clark"
+790,"Planxty Col. John Irwin","Old Joe Clark"
+790,"Planxty Colonel Irwin","Old Joe Clark"
 791,"Father Kelly No.1","Father Kelly's"
 791,"Father Kelly's No.1","Father Kelly's"
 791,"Father Kelly's Number One","Father Kelly's"
@@ -5097,6 +5098,7 @@ tune_id,alias,name
 868,"Wind On The Lake","Kevin McHugh's"
 868,"Wind On The Lake, The","Kevin McHugh's"
 869,"Golden Wedding, The","Kitty's Wedding"
+869,"Hauling Home, The","Kitty's Wedding"
 869,"Ideal, The","Kitty's Wedding"
 869,"Kitty's German","Kitty's Wedding"
 869,"Kitty's Wedding","Kitty's Wedding"
@@ -8666,6 +8668,7 @@ tune_id,alias,name
 1665,"Jackson's No. 2","La Cosa Mulligan"
 1665,"Jackson's No2","La Cosa Mulligan"
 1665,"Jacksons #2","La Cosa Mulligan"
+1665,"Tommy Peoples'","La Cosa Mulligan"
 1667,"Denny O'Brien's","Dinny O'Brien's"
 1667,"Dinny O'Brien","Dinny O'Brien's"
 1667,"Dinny O'Briens","Dinny O'Brien's"
@@ -13872,6 +13875,7 @@ tune_id,alias,name
 3779,"Miss McDonalds","Miss McDonald"
 3779,"Spinning Wheel, The","Miss McDonald"
 3781,"Eight And Forty Sisters, The","Walls Of Limerick, The"
+3786,"5 In A Line","Rodney's Glory"
 3786,"Brave Rodney's Glory","Rodney's Glory"
 3786,"Princess Royal","Rodney's Glory"
 3788,"Brid Harpers","Sam Cormier's"
@@ -14161,6 +14165,7 @@ tune_id,alias,name
 3965,"Dobermann's Wallet","Doberman's Wallet, The"
 3965,Drimneen,"Doberman's Wallet, The"
 3965,"Drimneen, The","Doberman's Wallet, The"
+3967,"An Raibh An Pósadh Chuir I Gcrích?","Spotted Dog, The"
 3968,"Con McGinley's","Jessie Over The Bridge"
 3968,"Over The Bride To Betty","Jessie Over The Bridge"
 3968,"Over The Bridge To Bessie","Jessie Over The Bridge"
@@ -16301,6 +16306,7 @@ tune_id,alias,name
 5480,"Johnny Watt Henry's","An Ugly Customer"
 5480,"Paddy Sean Nancy's","An Ugly Customer"
 5480,"Rochdaire Gránna","An Ugly Customer"
+5480,"Ugly Customer, The","An Ugly Customer"
 5481,"Humours Of Barrack Street, The","Barrack Street"
 5483,"John McKenna's No. 2","Night Cap, The"
 5483,"Judy Callahan's","Night Cap, The"
@@ -21589,6 +21595,8 @@ tune_id,alias,name
 9451,Lynchs',Lynch's
 9457,"Billy Rush's","Billy First's"
 9457,"Brenann Mac Finn","Billy First's"
+9457,"Brennan Mac Finn","Billy First's"
+9457,"Brennan MacFinn","Billy First's"
 9460,"Road To Reel., The","Road To Reel, The"
 9460,"Road To The Reel","Road To Reel, The"
 9460,"Road To The Reel, The","Road To Reel, The"
@@ -21866,6 +21874,7 @@ tune_id,alias,name
 9781,"An Brístín Mire","Frieze Breeches, The"
 9781,"Boyne Hunt, The","Frieze Breeches, The"
 9781,Gallagher's,"Frieze Breeches, The"
+9781,"Seilg Na Boinne","Frieze Breeches, The"
 9783,Carmarthenshire,Carmarthen
 9783,"Carmarthenshire, The",Carmarthen
 9783,"Pibddawns Caerfyrddin",Carmarthen
@@ -25879,6 +25888,9 @@ tune_id,alias,name
 16177,"Manfrina Di Castelbolognese (di Livio)","Manfrina Di Castelbolognese"
 16179,"Young Black Cow, The","Errigal McCreigh"
 16184,"Manfrina Di San Giovanni In Marignano","La Vanderina"
+16187,"Midnight Schottische","John Joe McElroy's"
+16187,"Rainbow Schottische","John Joe McElroy's"
+16187,"Winter Night Schottische","John Joe McElroy's"
 16217,Footpath,Tori's
 16218,"Red House In Cardiff, The","Red House"
 16222,"Miss MacLean's, Miss M'Lean","Miss MacLean Of Inverscadle"
@@ -25998,6 +26010,7 @@ tune_id,alias,name
 16610,"Paddy Fahey's No. 14","Paddy Fahey's"
 16611,"Paddy Fahey's No. 28","Paddy Fahey's"
 16616,"Liltin, The","Flowers Of The Forest"
+16620,"Little Liza Jane","Eliza Jane"
 16620,"Liza Jane","Eliza Jane"
 16623,"Wren Song","Shetland Lullaby"
 16624,"Bruce's March","King Robert The Bruce"
@@ -26448,6 +26461,8 @@ tune_id,alias,name
 17943,"Le Reel De Violon Du Monde En Veille","Le Reel De Violon Du Monte En Vielle"
 17943,"Le Violon Accordé Comme Une Viole","Le Reel De Violon Du Monte En Vielle"
 17943,"Reel Du Violon Monté En Vièle","Le Reel De Violon Du Monte En Vielle"
+17943,"Violon Accordé Comme Une Viole","Le Reel De Violon Du Monte En Vielle"
+17943,"Violon Accorder Comme Une Viole","Le Reel De Violon Du Monte En Vielle"
 17945,"Dougald's Favourite","Welcome To The Piper"
 17946,Frolics,"Nightly Frolics Of Dominic Reardon, The"
 17956,"Bonny Lass O' Bekkahill","Da Bonnie Lass O' Bekkahill"
@@ -27494,8 +27509,8 @@ tune_id,alias,name
 21759,"Sadhbh Ní Mhongaile","Sadhbh Ni Bhruinneallaigh"
 21759,"Sadhbh Ní Mhonghaile","Sadhbh Ni Bhruinneallaigh"
 21774,"Ode To The Bon Accord Ale House","Chris Stout's Compliments To The Bon Accord Ale House"
-21775,"Hell In The Mud","Missouri Mud"
-21775,"Stuck In The Mud","Missouri Mud"
+21775,"Hell In The Mud",A
+21775,"Stuck In The Mud",A
 21788,"See It, Say It, Sorted","See It. Say It. Sorted."
 21792,"Cow Boy, The","Giullan Nam Bo"
 21792,"Cowboy, The","Giullan Nam Bo"
@@ -27848,3 +27863,8 @@ tune_id,alias,name
 23548,"Horse In The Gripe","Horse In The Dike"
 23549,"Brave Philip Store","Philip Astira"
 23549,"Philip A Stór","Philip Astira"
+23568,"She's Sweetest When She Is Naked","She's Sweetest"
+23568,"Sweetest When She's Naked","She's Sweetest"
+23572,"Taka's No.2",Taka's
+23573,"Taka's No.3",Taka's
+23589,"John Harrington's Lament","Postman's Lament, The"
