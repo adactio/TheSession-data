@@ -167,6 +167,7 @@ tune_id,alias,name
 19,"Connaght Man's Rambles","Connaughtman's Rambles, The"
 19,"Connaught Man's Ramble, The","Connaughtman's Rambles, The"
 19,"Connaught Man's Rambles, The","Connaughtman's Rambles, The"
+19,"Connaught Rambles","Connaughtman's Rambles, The"
 19,"Connaughtman Rambles, The","Connaughtman's Rambles, The"
 19,Connaughtman's,"Connaughtman's Rambles, The"
 19,"Connaughtman's Ramble","Connaughtman's Rambles, The"
@@ -3664,8 +3665,7 @@ tune_id,alias,name
 585,"Plur Na dTread","Flower Of The Flock, The"
 586,Connelly's,"Whistling Postman, The"
 586,Connolly's,"Whistling Postman, The"
-586,Gallagher,"Whistling Postman, The"
-586,Gallagher#,"Whistling Postman, The"
+586,Gallagher's,"Whistling Postman, The"
 587,"Charlie Mulvhill's","Whistling Postman, The"
 587,"Charlie Mulvihill's","Whistling Postman, The"
 587,Ellis,"Whistling Postman, The"
@@ -8448,12 +8448,12 @@ tune_id,alias,name
 1618,"Paddy In London","Humours Of Castlecomer, The"
 1619,"Tit For Tat","Limestone Rock, The"
 1620,"Happy Days Again","Jack Of All Trades"
-1621,"Miss Brown's","Donegal, The"
-1621,"Miss Brown's Fancy","Donegal, The"
-1621,"Ríl Dhún Na nGall","Donegal, The"
-1621,"Una Bhain","Donegal, The"
-1621,"Una Bhain Ni Chuinneagain","Donegal, The"
-1621,"Una Bhain's Wedding","Donegal, The"
+1621,"Miss Brown's",Donegal
+1621,"Miss Brown's Fancy",Donegal
+1621,"Ríl Dhún Na nGall",Donegal
+1621,"Una Bhain",Donegal
+1621,"Una Bhain Ni Chuinneagain",Donegal
+1621,"Una Bhain's Wedding",Donegal
 1622,"Patsy Touhey's","Molly From Longford"
 1622,"Patsy Tuohey's","Molly From Longford"
 1624,"Doodely Doodely Dank","Doodley Doodley Dank"
@@ -9913,6 +9913,7 @@ tune_id,alias,name
 2087,"Tigh Raifertaigh","Gort Na Mona"
 2088,"Carracastle Lass, The","Lass Of Carracastle, The"
 2088,"Carrickcastle Lass, The","Lass Of Carracastle, The"
+2088,"Joe O'Dowd's","Lass Of Carracastle, The"
 2088,"John Eddie's","Lass Of Carracastle, The"
 2088,"Lady Mary Montague","Lass Of Carracastle, The"
 2088,"Lass Of Carracastle, The","Lass Of Carracastle, The"
@@ -12644,6 +12645,7 @@ tune_id,alias,name
 3138,"Daichevo Horo","Roumen Sirakov's Daichevo"
 3138,Didinata,"Roumen Sirakov's Daichevo"
 3139,"Crossing The Tay With A Blind Man And His Dog","Crossing The Tay With A Blind Man And A Dog"
+3140,"Miss Duff Of Muirton's","Sailor's Wife, The"
 3140,"New Shields","Sailor's Wife, The"
 3142,"Ceol Agus Craic","Ceol Agus Craic!"
 3143,"Yellow Stocking","Kitten, The"
@@ -22009,8 +22011,8 @@ tune_id,alias,name
 9945,"Gem Of Ireland","Homeward Bound"
 9947,"Da Willow Kishie","Willow Kishie, The"
 9948,"Aran Waves","Man With The Money, The"
-9954,"What Care I For The Minister","Is Coma Leam Fhin Am Ministear"
-9954,"What Care I For The Minister?","Is Coma Leam Fhin Am Ministear"
+9954,"What Care I For The Minister","Is Coma Leam Fhìn Am Ministear"
+9954,"What Care I For The Minister?","Is Coma Leam Fhìn Am Ministear"
 9959,"Seamus Creagh's","Connie In The Pool"
 9961,"Gort An Tuathbhrid","Gortnatubrid, The"
 9961,Gortantubrid,"Gortnatubrid, The"
@@ -22357,8 +22359,9 @@ tune_id,alias,name
 10381,"Hunter's Hill","Hunters Hill"
 10381,"Hunter's Hill March, The","Hunters Hill"
 10381,"Hunters Hill March, The","Hunters Hill"
-10384,"Mary Do You Think You'll Marry?","Saoil, A Mhor, Am Pos Thu?"
-10384,"Morag, Will You Marry?","Saoil, A Mhor, Am Pos Thu?"
+10384,Fiollaigean,"Saoil, A Mhòr, Am Pòs Thu?"
+10384,"Mary Do You Think You'll Marry?","Saoil, A Mhòr, Am Pòs Thu?"
+10384,"Morag, Will You Marry?","Saoil, A Mhòr, Am Pòs Thu?"
 10386,"Casey's Favourite #2","Casey's Favourite"
 10386,"Casey's Favourite Highland Fling #2","Casey's Favourite"
 10386,"Casey's Favourites","Casey's Favourite"
@@ -22762,10 +22765,11 @@ tune_id,alias,name
 10921,"Cornphiopa An Bhuachalla","Bugle, The"
 10923,"Warrior's Birth","Tucandeira Dance"
 10925,"Nous étions Partis Pécher Le Hareng","Schottische Du Stockfish"
-10927,"A Cur Nan Gobhar As A' Chreig","A Chur Nan Gobhar As A 'Chreig"
-10927,"Gu Cur Nan Gobhar As A' Chreig","A Chur Nan Gobhar As A 'Chreig"
-10927,"Kilt Is My Delight, The","A Chur Nan Gobhar As A 'Chreig"
-10927,"To Chase The Goats Off The Rocks","A Chur Nan Gobhar As A 'Chreig"
+10927,"‘S E 'n T-eileadh Beag Bu Dòcha Leam","A Chur Nan Gobhar Às A' Chreig"
+10927,"A Cur Nan Gobhar As A' Chreig","A Chur Nan Gobhar Às A' Chreig"
+10927,"Gu Cur Nan Gobhar As A' Chreig","A Chur Nan Gobhar Às A' Chreig"
+10927,"Kilt Is My Delight, The","A Chur Nan Gobhar Às A' Chreig"
+10927,"To Chase The Goats Off The Rocks","A Chur Nan Gobhar Às A' Chreig"
 10934,"Helen's Return From Bucharest","Ceiliuradh Don Oige"
 10936,"Johnny's Own",McGreevy's
 10936,"One Of Johnny's Own",McGreevy's
@@ -22777,9 +22781,10 @@ tune_id,alias,name
 10944,"Sliabh An Oir",Butterfly
 10944,"Tommy Whelan's",Butterfly
 10953,"Silver And Gold Two Step","Silver, The"
-10954,"Muile Nam Mor Bheann","Mull Of The Mountains"
-10954,"Mull Of The Cool High Braes","Mull Of The Mountains"
-10954,"Mull Of The High Mountains","Mull Of The Mountains"
+10954,"Muile Nam Mòr Bheann","Muile Nam Mòr-Bheann"
+10954,"Mull Of The Cool High Braes","Muile Nam Mòr-Bheann"
+10954,"Mull Of The High Mountains","Muile Nam Mòr-Bheann"
+10954,"Mull Of The Mountains","Muile Nam Mòr-Bheann"
 10956,"Carolan's Rambel To Cashel","O'Carolan's Ramble To Cashel"
 10964,"John Mckenzie's Fancy","John MacKenzie's Fancy"
 10965,O'Gorman's,Gorman's
@@ -24540,6 +24545,8 @@ tune_id,alias,name
 13297,"An Clog San Cloigteac","Kilwinning's Steeple"
 13297,"Clock In The Steeple, The","Kilwinning's Steeple"
 13297,"Kilwinning Steeple","Kilwinning's Steeple"
+13301,"'S Toil Leam Fhìn Buntàta 's Ìm","'s Toigh Leam Fhìn Buntàta 's Ìm"
+13301,"S'Toigh Leam Fhin Buntata S'Im","'s Toigh Leam Fhìn Buntàta 's Ìm"
 13309,"Molly McGuire's","Highland Skip"
 13309,"Neil Gow's","Highland Skip"
 13313,"Bröllopsmarsj I C Frå Verdalen","Bruremarsj Frå Verdal"
@@ -26459,6 +26466,7 @@ tune_id,alias,name
 17934,"Funny Old","Finbarr Dwyer's"
 17936,Cashman's,"DAF Truck"
 17937,"Polca Uí Liatháin",Lehane's
+17938,"We'll Fight For Uncle Sam","Whiskey In The Jar"
 17943,"Fiddle Tunned Like A Viol","Le Reel De Violon Du Monte En Vielle"
 17943,"Le Reel De Violon Du Monde En Veille","Le Reel De Violon Du Monte En Vielle"
 17943,"Le Violon Accordé Comme Une Viole","Le Reel De Violon Du Monte En Vielle"
@@ -27330,6 +27338,8 @@ tune_id,alias,name
 20928,"Ed's Big Five-o","Ed's Big 5 0"
 20944,"Humors Of Avondale, The","Humours Of Avondale, The"
 20956,"Humors Of Clarina, The","Humours Of Clarina, The"
+20965,Lispole,"Sleamhnán Lios Póil"
+20965,"Lispole , The","Sleamhnán Lios Póil"
 20972,"Celia's Favorite","Celia's Favourite"
 20985,"Sands Of Loch Bee, The","Road To Gerinish, The"
 20996,"Hovering Hawks #1","Hovering Hawks"
@@ -27869,3 +27879,4 @@ tune_id,alias,name
 23572,"Taka's No.2",Taka's
 23573,"Taka's No.3",Taka's
 23589,"John Harrington's Lament","Postman's Lament, The"
+23607,Nóra's,"Out Of The County"
