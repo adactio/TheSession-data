@@ -1448,7 +1448,6 @@ tune_id,alias,name
 210,"Hurler's March, The","Humours Of Ballyloughlin, The"
 210,"Mairseal Na HIomanaithe","Humours Of Ballyloughlin, The"
 210,"Máirseál Na NIománaithe","Humours Of Ballyloughlin, The"
-211,"Donal De Barra's  Slide",Inisheer
 211,"Inis Oir",Inisheer
 211,"Inis Oirr",Inisheer
 211,"Inis Oírr",Inisheer
@@ -3609,9 +3608,9 @@ tune_id,alias,name
 577,"Rose In The Garden, The","Ah Surely"
 577,"Up Cloontia","Ah Surely"
 577,"Windy Gap, The","Ah Surely"
-578,McCabe's,McCabe's
-578,"Paddy Taylor's",McCabe's
-578,"Tripping Up The Stairs",McCabe's
+578,McCabe's,"Paddy Taylor's"
+578,"Paddy Taylor's","Paddy Taylor's"
+578,"Tripping Up The Stairs","Paddy Taylor's"
 579,"An Mála Fataí","Bag Of Spuds, The"
 579,"Bag O' Spuds, The","Bag Of Spuds, The"
 579,"Bag Of Potatoes, The","Bag Of Spuds, The"
@@ -8693,14 +8692,15 @@ tune_id,alias,name
 1668,"Twisting The Hayrope","An Súisín Bán"
 1668,"Twisting The Rope","An Súisín Bán"
 1668,"White Blanket, The","An Súisín Bán"
-1669,"Happy Days Of Youth, The","Happy Bloom Of Youth, The"
-1669,"John McKenna's","Happy Bloom Of Youth, The"
-1669,"McKenna's No. 2","Happy Bloom Of Youth, The"
-1669,"Sean McKenna's","Happy Bloom Of Youth, The"
-1669,"Sean McKenna's No 2","Happy Bloom Of Youth, The"
-1669,"Sean McKenna's No. 2","Happy Bloom Of Youth, The"
-1669,"Thomas Byrne's","Happy Bloom Of Youth, The"
-1669,"Thos Byrnes","Happy Bloom Of Youth, The"
+1669,"Happy Bloom Of Youth, The","Happy Days Of Youth, The"
+1669,"Happy Days Of Youth, The","Happy Days Of Youth, The"
+1669,"John McKenna's","Happy Days Of Youth, The"
+1669,"McKenna's No. 2","Happy Days Of Youth, The"
+1669,"Sean McKenna's","Happy Days Of Youth, The"
+1669,"Sean McKenna's No 2","Happy Days Of Youth, The"
+1669,"Sean McKenna's No. 2","Happy Days Of Youth, The"
+1669,"Thomas Byrne's","Happy Days Of Youth, The"
+1669,"Thos Byrnes","Happy Days Of Youth, The"
 1670,"An Manglam","Cocktail, The"
 1670,"Cock's Tail, The","Cocktail, The"
 1672,"Biddy Of Sligo","Biddy From Sligo"
@@ -10842,6 +10842,7 @@ tune_id,alias,name
 2379,"All The Ways To Galway","Kerry Cow, The"
 2379,"An Bhó Chiarraíoch","Kerry Cow, The"
 2379,"I Wish I Had A Kerry Cow","Kerry Cow, The"
+2379,"Jenny Put The Kettle On","Kerry Cow, The"
 2379,"Road To Galway","Kerry Cow, The"
 2379,"Road To Galway, The","Kerry Cow, The"
 2380,"""Utah Barndance""","Dances At Kinvara, The"
@@ -12399,6 +12400,7 @@ tune_id,alias,name
 3032,"Lady Mary Hay's Favourite Scotch Measure","Lady Mary Haye's Scotch Measure"
 3032,"Lady Mary Hay's Scotch Measure","Lady Mary Haye's Scotch Measure"
 3032,"Mary Hays Scotch Measure","Lady Mary Haye's Scotch Measure"
+3033,"Jackson's Hi Ho",Jackson's
 3034,"Ardara Girls, The",Clarke's
 3034,"Ardara Lasses",Clarke's
 3034,"Ardara Lasses, The",Clarke's
@@ -12538,13 +12540,13 @@ tune_id,alias,name
 3104,"Jack The Bridge","Weaver's Delight, The"
 3105,"Beaton's Last","Put Me In The Big Chest"
 3105,"Big Coffin","Put Me In The Big Chest"
-3105,"Cuir 's A' Chiste Mhoir Mi","Put Me In The Big Chest"
+3105,"Cuir 's A' Chiste Mhòir Mi","Put Me In The Big Chest"
 3105,"Cuir 'sa Chiste Mhòr Mi","Put Me In The Big Chest"
-3105,"Cuir Chiste Mhoir Mi","Put Me In The Big Chest"
-3105,"Cuir Sa Chiste Mhoir Mi","Put Me In The Big Chest"
-3105,"Cuir Sa' Chiste Mhoir Mi","Put Me In The Big Chest"
-3105,"Cuir's A'Chiste Mhoir Mi","Put Me In The Big Chest"
-3105,"Cur Dhan Chiste Mhor Mi","Put Me In The Big Chest"
+3105,"Cuir Chiste Mhòir Mi","Put Me In The Big Chest"
+3105,"Cuir Sa Chiste Mhòir Mi","Put Me In The Big Chest"
+3105,"Cuir Sa' Chiste Mhòir Mi","Put Me In The Big Chest"
+3105,"Cuir's A'Chiste Mhòir Mi","Put Me In The Big Chest"
+3105,"Cur Dhan Chiste Mhòr Mi","Put Me In The Big Chest"
 3105,"Lying In The Casket","Put Me In The Big Chest"
 3105,"Lying In The Coffin","Put Me In The Big Chest"
 3105,"Miss Cruickshank's","Put Me In The Big Chest"
@@ -13488,6 +13490,7 @@ tune_id,alias,name
 3561,"Nova Scotia Barn Dance, The","Nova Scotia, The"
 3561,"Nova Scotia Polka","Nova Scotia, The"
 3562,"16th Of October","Come Let Us Dance And Sing"
+3562,"As-tu Vu Le Ramoneur?","Come Let Us Dance And Sing"
 3562,"Come Dance And Sing","Come Let Us Dance And Sing"
 3562,"La Belle Catharine","Come Let Us Dance And Sing"
 3562,"Muffin Man","Come Let Us Dance And Sing"
@@ -14137,6 +14140,7 @@ tune_id,alias,name
 3924,"John McGrath's Composition","John McGrath's"
 3930,"Ballinacally, The","Tom Moylan's Frolic"
 3930,"Ballynacally, The","Tom Moylan's Frolic"
+3930,Gorman's,"Tom Moylan's Frolic"
 3930,"Joe Burke's Favourite","Tom Moylan's Frolic"
 3930,"Tom Moylan's Frolics","Tom Moylan's Frolic"
 3930,"Tom Moyland's Frolic","Tom Moylan's Frolic"
@@ -14189,6 +14193,7 @@ tune_id,alias,name
 3971,"I Ne'er Shall Wean Her","Cairngorum Mountain"
 3971,"Mrs. O'Sullivan's","Cairngorum Mountain"
 3971,"Mrs. Sullivan's","Cairngorum Mountain"
+3981,"Dogs Among The Bushes","Con Cassidy's"
 3981,"Lazy Dog","Con Cassidy's"
 3990,"Cha Till Mi Tuille","Mac Crimmon's Lament"
 3990,"Never More Shall I Return","Mac Crimmon's Lament"
@@ -24083,6 +24088,7 @@ tune_id,alias,name
 12545,"Kerrie Kebbuck, The","Kirrie Kebbuck, The"
 12547,"New Feathers, The","Feathers, The"
 12547,"Y Plu","Feathers, The"
+12549,"Grumpy Willie's","Willie Macrae's"
 12552,"Comhairleoir Duilleain","Counsellor Dillon"
 12553,"Lúcás Ó Duilleain","Luke Dillon"
 12560,"Ingar Do Shuidhe Finn","Butter Boys"
@@ -26285,6 +26291,7 @@ tune_id,alias,name
 17459,"Female Saylor","Female Sailor, The"
 17459,"Female Saylor, The","Female Sailor, The"
 17459,"La Matelote","Female Sailor, The"
+17459,Maclote,"Female Sailor, The"
 17459,"March For The Sailors","Female Sailor, The"
 17459,"Marche Pour Les Matelots","Female Sailor, The"
 17459,"Masters In This Hall","Female Sailor, The"
@@ -26480,7 +26487,7 @@ tune_id,alias,name
 17934,"Funny Old","Finbarr Dwyer's"
 17936,Cashman's,"DAF Truck"
 17937,"Polca Uí Liatháin",Lehane's
-17938,"We'll Fight For Uncle Sam","Whiskey In The Jar"
+17938,"We'll Fight For Uncle Sam","Fiddle Doo"
 17943,"Fiddle Tunned Like A Viol","Le Reel De Violon Du Monte En Vielle"
 17943,"Le Reel De Violon Du Monde En Veille","Le Reel De Violon Du Monte En Vielle"
 17943,"Le Violon Accordé Comme Une Viole","Le Reel De Violon Du Monte En Vielle"
@@ -27688,7 +27695,6 @@ tune_id,alias,name
 22517,Tatervalsen,"Tater Valsen"
 22517,Tinker's,"Tater Valsen"
 22556,"Lucy Farr's","East Clare, The"
-22565,Ewing,"Mrs Thom"
 22585,"Chief's Jig No. 2",Chief's
 22586,"Chief's Jig No. 3",Chief's
 22587,"Chief's Jig No. 1",Chief's
@@ -27910,3 +27916,13 @@ tune_id,alias,name
 23659,"Paddy Fahey's No 5","Paddy Fahey's"
 23659,"Paddy Fahey's No. 5","Paddy Fahey's"
 23661,"Schmaltz , The",Rewrites
+23676,"An Druim-fhionn Dh'leas","Drimen Duff"
+23676,"An Druim-fhionn Dubh","Drimen Duff"
+23676,"Black Cow, The","Drimen Duff"
+23676,"Dear Black Cow, The","Drimen Duff"
+23676,"Drimon Duff","Drimen Duff"
+23676,"Drumion Dubh","Drimen Duff"
+23676,"Gloomy Night Is Gath'ring Fast, The","Drimen Duff"
+23676,"Hughie Graham","Drimen Duff"
+23677,"Barbara Allen","Butchers Of Bristol, The"
+23680,"Sneug Of Foula","Sneug O' Foula"
