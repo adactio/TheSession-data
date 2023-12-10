@@ -796,6 +796,7 @@ tune_id,alias,name
 102,"General McBean","Colonel McBain"
 102,"John Frank","Colonel McBain"
 102,"Johnny's Wedding","Colonel McBain"
+102,McBan's,"Colonel McBain"
 102,"Sean Frank","Colonel McBain"
 102,"Sean Frank's","Colonel McBain"
 102,"Smoky House, The","Colonel McBain"
@@ -7555,9 +7556,8 @@ tune_id,alias,name
 1395,"Charlie Harris'","Goat On The Green, The"
 1395,"Frog's Frolics, The","Goat On The Green, The"
 1395,"Goat In The Green, The","Goat On The Green, The"
-1395,"Grey Goose (in The Goodman MS), The","Goat On The Green, The"
+1395,"Grey Goose, The","Goat On The Green, The"
 1395,"Humours Of Dingle, The","Goat On The Green, The"
-1395,"Old Apples In Winter","Goat On The Green, The"
 1395,"Old Apples In Winter","Goat On The Green, The"
 1395,"Paddy Cronin's","Goat On The Green, The"
 1397,"Dan Backus' Favorite","Miss McGuinness"
@@ -8399,6 +8399,7 @@ tune_id,alias,name
 1612,"Our Hero","Mo Ghile Mear"
 1614,"Johnny O'Leary's","Sergeant Cahill"
 1614,"Sergeant Cahill's Favourite","Sergeant Cahill"
+1614,"Sgt. Cahill's","Sergeant Cahill"
 1614,"Sgt. Cahill's Favourite","Sergeant Cahill"
 1615,"Cous Teehan's","Road To Glountane, The"
 1615,"Cus Teahan's","Road To Glountane, The"
@@ -8929,6 +8930,7 @@ tune_id,alias,name
 1752,"Scholar, The","South Shore, The"
 1754,"Hen And Her Clutch, The","Jolly Tinker, The"
 1754,"Round The World","Jolly Tinker, The"
+1754,"Timpan , The","Jolly Tinker, The"
 1755,Mathematician's,"Mathematician, The"
 1757,"Mitford Galloway","Rattlin' Roarin' Willie"
 1757,"Mitford Galloway, The","Rattlin' Roarin' Willie"
@@ -17301,6 +17303,9 @@ tune_id,alias,name
 6271,"Gloomy Winter's Noo Awa'","Gloomy Winter"
 6271,"Gloomy Winter's Now Awa","Gloomy Winter"
 6271,"Lord Balgonie's Favourite","Gloomy Winter"
+6271,"Lord Balgownie's Favourite","Gloomy Winter"
+6271,"Mr Nairne's","Gloomy Winter"
+6271,"Reverend Mr Patrick McDonald Of Kilmore","Gloomy Winter"
 6272,"Over The Hills","Paddy Killed The Rat"
 6272,"Pat Killed The Rat","Paddy Killed The Rat"
 6274,"John Mosai McGinley's","John Mhosaí McGinley's"
@@ -18819,6 +18824,7 @@ tune_id,alias,name
 7208,"Firth House, The","Danny Meehan's"
 7211,"Pat Joe's","Paddy Joe's"
 7211,Pat-Joe's,"Paddy Joe's"
+7213,"James McGettrick's",McGettrick's
 7213,"Jimmy McGettrick's",McGettrick's
 7214,"Ha'd The Lass Till I Run At Her","I Had A Lass Till I Ran At Her"
 7214,"Had The Lass Tel I Won At Hir","I Had A Lass Till I Ran At Her"
@@ -19610,6 +19616,7 @@ tune_id,alias,name
 7692,"Cornphíopa Franklin",Franklin's
 7695,"Coquet Side","Coket Side"
 7695,Coquetside,"Coket Side"
+7696,"Christmas Day In The Morning","Irish Girl, The"
 7698,"Rideau Lake","Rideau Lake Jig, The"
 7698,"Rideau Lake, The","Rideau Lake Jig, The"
 7702,"Barlow's Knife","Barlow Knife"
@@ -23956,6 +23963,7 @@ tune_id,alias,name
 12336,"Miss Stewart, Bombay","Miss Christina Stewart"
 12336,"Miss Stewart's Jig - Of Bombay","Miss Christina Stewart"
 12337,"Plethen Newlyn",Newlyn
+12345,"Miss Jane Bruce's","Miss Bruce"
 12350,"Mamzelle Kennedy","Mademoiselle Kennedy"
 12353,"Crowley's No.1",Crowley's
 12371,"Miss Menzies Of Culdare","Mrs. Menzies Of Culdares"
@@ -24841,6 +24849,7 @@ tune_id,alias,name
 13615,"Lass Of Dallowgill, The","Lass O' Dallowgill, The"
 13617,"Possum's Tail Is Bare, Sandy Boys, Do Get Along Sandy Boys","Possum's Tail Is Bare, The"
 13618,"Donald Cameron's","Donald Cameron's Polka"
+13625,"An Stoirm","Ardenza Storm's"
 13625,"Ardenza's Storm","Ardenza Storm's"
 13626,"Blue Stack Highland","Bluestack Highland, The"
 13626,"Charlie O'Neill's","Bluestack Highland, The"
@@ -25364,6 +25373,11 @@ tune_id,alias,name
 14800,Casey's,Casseys
 14800,Cassey's,Casseys
 14800,Cossey's,Casseys
+14800,"Cossy Jigg, The",Casseys
+14803,"Humors Of Listivain, The","Humours Of Listivain, The"
+14803,"Humours Of Bandon, The","Humours Of Listivain, The"
+14803,"Jerry's Rambles","Humours Of Listivain, The"
+14803,"Jolly Old Woman, The","Humours Of Listivain, The"
 14807,"Tady's Wattle","Tadie's Wattle"
 14808,"Fishguard, The","Ril Abergwaun"
 14810,"Crossing Boness","Crossing Warness"
@@ -25432,6 +25446,7 @@ tune_id,alias,name
 14867,"Cailíní Shligigh","Sligo Lasses, The"
 14868,"Mio-ad Mic Paidin","McFadden's Mishap"
 14869,"Aeribeact Na bPiobairi","Piper's Picnic, The"
+14870,"Men Of Ness, The","Ness Pipers, The"
 14871,"Ta Fios Agam Go De Is Mait Leat","I Know What You Like"
 14872,"Caislean Ui Donnabain","Castle Donovan"
 14873,Macrimmon,"Piper's Weird, The"
@@ -26298,6 +26313,7 @@ tune_id,alias,name
 17419,"In A Mild Evening In May","Air Feasgar Ciuin Ceitein"
 17420,"German #1","Róise Bheag Róise Móire's"
 17421,"German #2","Proinnsias Ó Maonaigh's"
+17421,"Proinsias Ó Maonaigh's","Proinnsias Ó Maonaigh's"
 17423,"Red Haired Girl","Red-Haired Girl, The"
 17423,"Red Haired Girl, The","Red-Haired Girl, The"
 17430,"Purseholder #3",Purseholder
@@ -26710,6 +26726,7 @@ tune_id,alias,name
 18518,"Bear Hunting Feast Dance",Karhunpeijaispolska
 18523,"Wedding Dance",Hääpolska
 18534,"In The Vicarage Field","Pappilan Pellolla"
+18554,"Willie MacKenzie","Willy MacKenzie's"
 18556,"Cuckoo's Nest (Roscoe Parish's Version)",Richmond
 18567,"Rabbit Stew, The","Rabbit Stew"
 18577,"Highland Laddie, The","Traditional Laddie"
@@ -26930,6 +26947,8 @@ tune_id,alias,name
 19234,"Rogha Inghean Bhrunach","Miss Brown"
 19247,"Quilty Fisherman","Quilty Fishermen"
 19247,"Quilty Fisherman, The","Quilty Fishermen"
+19247,"Quilty Fishermen","Quilty Fishermen"
+19247,"Quilty Fishermen, The","Quilty Fishermen"
 19261,"Cold Side, The","Coldside, The"
 19261,"Coolside, The","Coldside, The"
 19263,"A Chailíní, An BhFaca Sibh Seóirse?","Girls Have You Seen George?"
@@ -27907,7 +27926,6 @@ tune_id,alias,name
 23430,"Captain H. Munro Of Newtown","Captain H. Munro"
 23450,"King Of The Sea, The","King Of The Sea"
 23450,"Ree Ny Marrey","King Of The Sea"
-23459,"Xovellanos, 1",Xovellanos
 23463,"Neither A High Place Nor A Low Place","Ní Ar Chnoc Ná Ar Ísleacht"
 23467,"Violin Sonata No.1","Violin Sonata"
 23474,"Mike Hoban's Joy","Mike Hoban's"
@@ -27945,10 +27963,10 @@ tune_id,alias,name
 23676,"Hughie Graham","Drimen Duff"
 23677,"Barbara Allen","Butchers Of Bristol, The"
 23680,"Sneug Of Foula","Sneug O' Foula"
-23698,"I Gcuimhne Ailbhe","An Féileacán Lonrach"
 23699,"Taibhse Loch Garman","Mr. Furlong's Pigeon"
 23703,"Doctor Fegg","New Bouree"
 23730,"Bó Mhín Na Toitean","Highland Lassie Going To The Fair, The"
 23741,"Duncan McNeil Esq.'s Farewell To Melfort","Duncan McNeill's Farewell To Melfort"
 23741,"Duncan McNeill Esq. Farewell To Melfort","Duncan McNeill's Farewell To Melfort"
 23745,"Ev Chistr 'Ta Laou","Cider Song, The"
+23799,"Hughie Rory MacKinnon","Hughie Rory"
