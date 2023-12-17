@@ -258,6 +258,7 @@ tune_id,alias,name
 30,"Portsmouth Hornipe, The","Off To California"
 30,"Trip To California","Off To California"
 30,Whiskey,"Off To California"
+30,"Whiskey In The Jar","Off To California"
 30,"Whiskey, The","Off To California"
 31,"Frainc A Phoill's","Franc A'Phoill"
 31,"Frainc A'Phoill","Franc A'Phoill"
@@ -5531,6 +5532,9 @@ tune_id,alias,name
 964,"Up Against The Buachalláns","Up Against The Buachaláns"
 964,"Up Against The Buchalawns","Up Against The Buachaláns"
 966,"Black Pat's","Black Pat"
+967,"Fairy Bush, The","Morning Thrush, The"
+967,"Fairy Bush, The","Morning Thrush, The"
+967,"Thrush In The Morning, The","Morning Thrush, The"
 967,"Thrush In The Morning, The","Morning Thrush, The"
 969,"After The Sun Goes Down","Buckley's Fancy"
 969,Buckley's,"Buckley's Fancy"
@@ -10130,8 +10134,6 @@ tune_id,alias,name
 2147,"Flop Eared Mule, The","Flop-Eared Mule, The"
 2149,"Bris An Fhinneog","Smash The Windows"
 2149,"Fred Finn's","Smash The Windows"
-2151,"Fairy Bush, The","Thrush In The Morning, The"
-2151,"Morning Thrush, The","Thrush In The Morning, The"
 2152,"Rose Bush","A Merry Christmas"
 2152,Rose-Bush,"A Merry Christmas"
 2153,"Gay Myra, Toast Of All The Town","White Joak"
@@ -15476,8 +15478,10 @@ tune_id,alias,name
 4883,"Jenny Ling","Jenny Lind"
 4883,"Jenny Linn","Jenny Lind"
 4883,"Johnny And His Camera","Jenny Lind"
+4883,"Last Of June, The","Jenny Lind"
 4883,Murphy's,"Jenny Lind"
 4883,"Quinn's Irish","Jenny Lind"
+4883,"Under Siege In Ennis","Jenny Lind"
 4885,"Les Patins Blanc","Tes Jolis Patins Blanc"
 4885,"Les Satins Blanc","Tes Jolis Patins Blanc"
 4888,"Waking Of The Fauld, The","Waking O' The Fauld, The"
@@ -19468,6 +19472,7 @@ tune_id,alias,name
 7585,"A' Bhean A Bh'aig An Taillear Chaol","Lady Madelina Sinclair"
 7585,"Braes Of Aberarder","Lady Madelina Sinclair"
 7585,"Braes Of Aberarder, The","Lady Madelina Sinclair"
+7585,"Fhuair Mi Nead Na Gurra-gùig","Lady Madelina Sinclair"
 7585,"Lady Madalena Sinclair","Lady Madelina Sinclair"
 7585,"Lady Madalina Sinclair's Birthday","Lady Madelina Sinclair"
 7585,"Lady Madeline Sinclair","Lady Madelina Sinclair"
@@ -19928,6 +19933,7 @@ tune_id,alias,name
 7924,"Cill Chais","Cill Cais"
 7925,"C, The",C
 7925,"Curly Ker",C
+7925,"Polka D'Auvergne",C
 7925,"Voiceless Palative Plosive Followed By The Inherent Vowel",C
 7927,Riverdance,"Dance Of The Riverwoman"
 7929,"An Buchall Droite","An Buachaill Dreoite"
@@ -21290,6 +21296,7 @@ tune_id,alias,name
 9035,Tullagh's,"An Tulach"
 9036,"Prelude #2",Prelude
 9036,"Prelude No. 2",Prelude
+9036,Promenade,Prelude
 9038,"Boules Et Guirlandes #1","Boules Et Guirlandes"
 9038,"Boules Et Guirlandes 1","Boules Et Guirlandes"
 9038,Laridé,"Boules Et Guirlandes"
@@ -23266,12 +23273,6 @@ tune_id,alias,name
 11661,"Jimmy Neehan's Cat","Nyan Cat"
 11661,"Nyah Cat","Nyan Cat"
 11661,"Nyhan's Cat","Nyan Cat"
-11663,"Bridal, The","Jenny Lind, The"
-11663,"Jenny Lind's","Jenny Lind, The"
-11663,"Jenny Lind's Favorite Serenading","Jenny Lind, The"
-11663,"Jenny Lind's Favourite","Jenny Lind, The"
-11663,"Jenny Lind's Favourite Serenading","Jenny Lind, The"
-11663,"Last Of June, The","Jenny Lind, The"
 11665,"Hare's Leap","Rabbit, The"
 11665,Janese,"Rabbit, The"
 11669,"War-Hent Trabrin","War Hent Trabrin"
@@ -24298,6 +24299,8 @@ tune_id,alias,name
 12800,"Mr. Thomas Rae","Tom Rae"
 12800,"Red Mill, The","Tom Rae"
 12800,"Tom Rae's","Tom Rae"
+12801,"C'uin A Thig Thu Ars Am Bodach","Amorous Lover, The"
+12801,"When Will You Come Said The Old Man","Amorous Lover, The"
 12804,"A Cuppa Java Varsovienne","A Cuppa Java"
 12806,"Willie D.'s Favourite","Miramichi Fire, The"
 12811,"Arrane Ben Hraghtalagh","Arrane Ben Drogh Hraghtalagh"
@@ -26000,6 +26003,7 @@ tune_id,alias,name
 16404,Signepolska,Signepolskan
 16404,"Signes Polska",Signepolskan
 16419,MacIssac's,MacIsaac's
+16419,"Mary Ann MacIsaac's",MacIsaac's
 16422,"Banks Of Helicon, The","On The Banks Of Helicon"
 16424,"2-Rowed Scottishe",2-Rivisjenkka
 16424,"Two-Rowed Scottishe",2-Rivisjenkka
@@ -26947,7 +26951,6 @@ tune_id,alias,name
 19234,"Rogha Inghean Bhrunach","Miss Brown"
 19247,"Quilty Fisherman","Quilty Fishermen"
 19247,"Quilty Fisherman, The","Quilty Fishermen"
-19247,"Quilty Fishermen","Quilty Fishermen"
 19247,"Quilty Fishermen, The","Quilty Fishermen"
 19261,"Cold Side, The","Coldside, The"
 19261,"Coolside, The","Coldside, The"
@@ -27970,3 +27973,7 @@ tune_id,alias,name
 23741,"Duncan McNeill Esq. Farewell To Melfort","Duncan McNeill's Farewell To Melfort"
 23745,"Ev Chistr 'Ta Laou","Cider Song, The"
 23799,"Hughie Rory MacKinnon","Hughie Rory"
+23803,"Dainty Dish","Dainty Dish Before The King"
+23825,"Vals Til Mor Og Far","Waltz For Mum And Dad"
+23827,"Fáilte An Fhánai","Wayfarer's Welcome, The"
+23827,"Failte An Fhanai","Wayfarer's Welcome, The"
