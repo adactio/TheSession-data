@@ -121,10 +121,7 @@ tune_id,alias,name
 9,"Stoat That Ate Me Sandals, The","Banish Misfortune"
 9,"Whore Amongst The Nettles Roaring, The","Banish Misfortune"
 10,"Barney's Goat","Butterfly, The"
-10,"Bug, The","Butterfly, The"
-10,"Butterfly Gig, The","Butterfly, The"
 10,"Eitil Im","Butterfly, The"
-10,Fiona,"Butterfly, The"
 10,"Im Ag Eitilt","Butterfly, The"
 10,"Kick The Peeler","Butterfly, The"
 10,"Red Admiral Butterfly, The","Butterfly, The"
@@ -905,23 +902,24 @@ tune_id,alias,name
 113,"Shank's Mare","Toss The Feathers"
 113,"Shanks Mare","Toss The Feathers"
 113,"Toss The Feathers #1","Toss The Feathers"
-114,"Bowl Of Coffee, The",Temperance
-114,"Road To Newbridge, The",Temperance
-114,"Teatotaler, The",Temperance
-114,"Teatotaler's Fancy, The",Temperance
-114,"Teatotaler's, The",Temperance
-114,"Teatotalers, The",Temperance
-114,"Teatotaller, The",Temperance
-114,"Teatotaller's Fancy, The",Temperance
-114,Teatotlers,Temperance
-114,"Teetotaler, The",Temperance
-114,"Teetotalers, The",Temperance
-114,"Teetotaller, The",Temperance
-114,"Teetotaller's Fancy, The",Temperance
-114,"Teetotaller's, The",Temperance
-114,"Teetotler, The",Temperance
-114,"Temperance, The",Temperance
-114,"Temprance, The",Temperance
+114,"Bowl Of Coffee, The",Teetotaller's
+114,"Road To Newbridge, The",Teetotaller's
+114,"Teatotaler, The",Teetotaller's
+114,"Teatotaler's Fancy, The",Teetotaller's
+114,"Teatotaler's, The",Teetotaller's
+114,"Teatotalers, The",Teetotaller's
+114,"Teatotaller, The",Teetotaller's
+114,"Teatotaller's Fancy, The",Teetotaller's
+114,Teatotlers,Teetotaller's
+114,"Teetotaler, The",Teetotaller's
+114,"Teetotalers, The",Teetotaller's
+114,"Teetotaller, The",Teetotaller's
+114,"Teetotaller's Fancy, The",Teetotaller's
+114,"Teetotaller's, The",Teetotaller's
+114,"Teetotler, The",Teetotaller's
+114,Temperance,Teetotaller's
+114,"Temperance, The",Teetotaller's
+114,"Temprance, The",Teetotaller's
 115,"Four Green Fields","Over The Moor To Maggie"
 115,"Green Meadow","Over The Moor To Maggie"
 115,"Green Meadow, The","Over The Moor To Maggie"
@@ -4068,6 +4066,7 @@ tune_id,alias,name
 665,"Cleite Na Péacóige","Peacock's Feathers, The"
 665,"Peacock's Feather No.2, The","Peacock's Feathers, The"
 665,"Peacock's Feather, The","Peacock's Feathers, The"
+665,"Peacock's Feathers 2, The","Peacock's Feathers, The"
 666,"Alexander's Favorite",Alexander's
 666,"Alexander's Favourite",Alexander's
 666,Alexanders,Alexander's
@@ -4362,6 +4361,7 @@ tune_id,alias,name
 719,"Tear The Callico","Rip The Calico"
 719,"Tommy Glenny's","Rip The Calico"
 719,"Trip To Calico","Rip The Calico"
+719,"Warrior's , The","Rip The Calico"
 720,"An Sean-draighneán","Old Blackthorn, The"
 720,"Auld Blackthorn, The","Old Blackthorn, The"
 720,"Blackthorn Stick, The","Old Blackthorn, The"
@@ -13233,7 +13233,6 @@ tune_id,alias,name
 3437,"Bobby Casey's","Scully Casey's"
 3437,"Casey's Return","Scully Casey's"
 3437,"Quilty Shore, The","Scully Casey's"
-3438,"Ewe, The","Ewe, The"
 3438,"Green Blanket, The","Ewe, The"
 3438,"Miss Huntley's","Ewe, The"
 3438,"Yew, The","Ewe, The"
@@ -15800,6 +15799,7 @@ tune_id,alias,name
 5118,"Jackson's Trip To Augrim","Jackson's Trip To Aughrim"
 5119,"Asailín Ag Seáinín","Banks Of Inverness, The"
 5119,"Banks Of Enverness, The","Banks Of Inverness, The"
+5119,"Ceanngulla, The","Banks Of Inverness, The"
 5119,"Salmon Tails Up The River","Banks Of Inverness, The"
 5119,"Salmon Tails Up The Water","Banks Of Inverness, The"
 5119,"Siege Of Ennis, The","Banks Of Inverness, The"
@@ -16498,7 +16498,6 @@ tune_id,alias,name
 5661,"Reel De Jos Cormier",MacDonald's
 5664,Sakura,"Cherry Blossom, The"
 5664,"Sakura Zensen","Cherry Blossom, The"
-5668,"Luseblus (Sweater Blues)",Luseblus
 5668,"Sweater Blues",Luseblus
 5670,"Highfield, The",Highfield
 5675,"An Páistín Fionn","An Paistin Fionn"
@@ -21131,6 +21130,7 @@ tune_id,alias,name
 8895,"Johnny O'Leary's",Toureendarby
 8895,Taureen,Toureendarby
 8895,"Taureen Derby",Toureendarby
+8895,"Taureen Derby's",Toureendarby
 8895,"There's Worse Than That Around",Toureendarby
 8895,Tooreenderby,Toureendarby
 8895,"West Kerry",Toureendarby
@@ -23516,6 +23516,7 @@ tune_id,alias,name
 11827,"Waltz Clog Guilmette","Valse-Clog De Joseph Guilmette"
 11827,"Waltz-Clog Guilmette","Valse-Clog De Joseph Guilmette"
 11832,"Merry Swiss Boy, The","Swiss Boy, The"
+11832,Schweizerbue,"Swiss Boy, The"
 11832,"Swiss Air","Swiss Boy, The"
 11833,"Bernie Cunnion's Favorite","Bernie Cunnion's Favourite"
 11833,"Boys Of Thomastown","Bernie Cunnion's Favourite"
@@ -25922,8 +25923,6 @@ tune_id,alias,name
 16021,"A Harper's Tune","McSweeney's Lament"
 16021,"Harp Tune","McSweeney's Lament"
 16025,"Ebrel Suite An Dro 1","Le Petit Oiseau"
-16026,"Ebrel Suite An Dro 2","Gavotte De Lorient"
-16027,"Ebrel Suite Gavotte","Ridée Pour Jean-Michel Veillon"
 16028,"7x8 Alexis","Newyorkers, The"
 16029,"7x8 Alexis D","Happy Ruinous House, The"
 16030,"5x8 Nito","Flying To Birmingham"
@@ -26214,7 +26213,6 @@ tune_id,alias,name
 17043,"Ríl Sheáin Parnell","Seán Parnell's"
 17044,"Mick Carr's #2","Mick Carr's Highland"
 17058,"Indigo, The",Indigo
-17072,"Stolen Notes","Glory, The"
 17074,"Prince Charles","Prins Karel"
 17074,"Prince Karel","Prins Karel"
 17078,"Polonaise Spoof","Polonessa Spoof"
@@ -26292,7 +26290,6 @@ tune_id,alias,name
 17300,"An Thou Were My Ain Thing","Gin Thou Wert Mine Awn Thing"
 17300,"Scotch Song","Gin Thou Wert Mine Awn Thing"
 17306,"Hooly And Fairly",Ballyhooley
-17317,"Anada Pa Gael","Añada Pa Gael"
 17320,"My Love, My Love","My Love My Love"
 17325,"Salt Springs","Salt Spring"
 17325,Saltspring,"Salt Spring"
@@ -27957,6 +27954,7 @@ tune_id,alias,name
 23573,"Taka's No.3",Taka's
 23589,"John Harrington's Lament","Postman's Lament, The"
 23607,Nóra's,"Out Of The County"
+23631,"Highland Lassie Going To The Fair, The","Bó Mhín Na Toitean"
 23633,"Rynne Minute, The","O'Flaherty's Farewell"
 23635,"Adam Work's","Rolling In Late"
 23643,"Rain On Rùm","An T-uisge Air Rùm"
@@ -27997,3 +27995,8 @@ tune_id,alias,name
 23870,"Leanbhai Na HEireann I mBeithi","Leanbh Ghil Mhilis"
 23875,"Strily Vale","Struy Vale"
 23875,"Struey Vale","Struy Vale"
+23881,"Lady Georgina Russell's","Lady Georgina Russell"
+23887,"An Cailin Deas Óg","Pretty Young Maid, The"
+23887,"An Cailín Deas Óg","Pretty Young Maid, The"
+23887,"Pretty Young Girl, The","Pretty Young Maid, The"
+23889,"Writer's Block Bourrée","Writer's Block"
