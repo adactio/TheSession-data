@@ -42,7 +42,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 72,"Trouble In The Kitchen & Dev'lish Mary","2006-08-03 18:30:00","2006-08-03 22:30:00","The Artery","Moor Street, Fitzroy",Melbourne,Victoria,Australia,-37.80171585,144.97904968
 73,"Sidmouth Folk Week","2006-08-04 00:00:00","2006-08-11 00:00:00","Various Venues",,Sidmouth,Devon,England,50.67864990,-3.23756003
 77,"James Morrison Traditional Music Festival","2006-08-04 00:00:00","2006-08-06 00:00:00","Various Venues",,Riverstown,Sligo,Ireland,54.13043976,-8.39525032
-70,"ESB BEO Celtic Music Festival","2006-08-05 00:00:00","2006-08-20 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+70,"ESB BEO Celtic Music Festival","2006-08-05 00:00:00","2006-08-20 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 78,"Jamie Laval And Ashley Broder","2006-08-05 00:00:00","2006-08-05 00:00:00","The Red Light Cafe","553 Amsterdam Ave NE",Atlanta,Georgia,USA,33.78821945,-84.36799622
 74,"Ceol Na GConallach – The Donegal Sessions","2006-08-05 20:00:00","2006-08-05 22:15:00","Various Venues",,Kilcar,Donegal,Ireland,54.63311005,-8.60491085
 66,"Turloughmore Ceili Band","2006-08-06 16:00:00","2006-08-06 20:00:00","Commodore John Barry Arts And Cultural Center","6815 Emlen Street",Philadelphia,Pennsylvania,USA,40.05020142,-75.19068146
@@ -451,7 +451,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 452,"Paddy Keenan and John Walsh - Workshops and House Concert","2007-09-22 13:00:00","2007-09-22 00:00:00","The McKeagney Residence","29251 Country Hills Rd.","San Juan Capistrano",California,USA,33.53850937,-117.67082977
 500,"The Spirit of Our Music / Concert Fundraiser","2007-09-22 19:30:00","2007-09-22 00:00:00","New York Irish Center","1040 Jackson Ave, Long Island City",Queens,"New York",USA,40.74213028,-73.95295715
 510,"Ceili House Live","2007-09-22 21:00:00","2007-09-22 22:00:00","Percy French Hotel",,Strokestown,Roscommon,Ireland,53.78246689,-8.09945011
-505,"Altan With The RTÉ Concert Orchestra","2007-09-26 00:00:00","2007-09-26 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+505,"Altan With The RTÉ Concert Orchestra","2007-09-26 00:00:00","2007-09-26 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 552,"Sive By John B. Keane","2007-09-27 00:00:00","2007-11-25 00:00:00","Irish Repertory Theatre","132 W. 22nd Street",Manhattan,"New York",USA,40.74269104,-73.99475861
 455,"Rattle The Boards In Concert","2007-09-27 20:00:00","2007-09-27 22:30:00","Hibernian Cultural Centre","19 Temple Street",Worcester,Massachusetts,USA,42.24975586,-71.82767487
 515,"Clare Champions Concert","2007-09-28 20:00:00","2007-09-28 00:00:00","Cois Na HAbhna","Galway Road, Dulick",Ennis,Clare,Ireland,52.86122894,-8.97736359
@@ -954,7 +954,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1059,Banjaxed!,"2008-08-16 21:00:00","2008-08-16 00:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 1066,"Fleadh Cheoil Na HEireann","2008-08-17 00:00:00","2008-08-24 00:00:00","Various Venues",,Tullamore,Offaly,Ireland,53.27759171,-7.49225998
 1074,"Worlds Largest Session","2008-08-21 00:00:00","2008-08-21 00:00:00","Tullamore Fleadh Cheoil",,Tullamore,Offaly,Ireland,53.27390671,-7.49454784
-1045,"Zoe Conway With Meitheal Orchestra","2008-08-21 13:00:00","2008-08-21 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+1045,"Zoe Conway With Meitheal Orchestra","2008-08-21 13:00:00","2008-08-21 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 1055,"Andy Irvine In Concert","2008-08-22 00:00:00","2008-08-22 00:00:00",Kennedys,,Craughwell,Galway,Ireland,53.22569656,-8.73313522
 1060,"Dulcet Tones","2008-08-23 21:00:00","2008-08-23 00:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 1064,"Tønder Festival","2008-08-28 20:00:00","2008-08-31 23:45:00","Various Venues",,Tønder,"South Jutland",Denmark,54.93262863,8.86727333
@@ -1482,7 +1482,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1579,"Jason Aldean","2009-08-12 19:00:00","2009-08-12 00:00:00","Campanelli Stadium","1 Lexington Ave",Brockton,Massachusetts,USA,42.08538055,-71.02921295
 1632,"The Milliners","2009-08-13 09:30:00","2009-08-13 00:00:00",Jimmy's,"43 E 7th St",Manhattan,"New York",USA,40.72815704,-73.98839569
 1616,"Gateway To The Tall Ships","2009-08-13 20:00:00","2009-08-16 00:00:00","Custom House Square",,Belfast,Antrim,"Northern Ireland",54.57349396,-5.94357824
-1627,"Altan With The RTE Concert Orchestra","2009-08-14 08:00:00","2009-08-14 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+1627,"Altan With The RTE Concert Orchestra","2009-08-14 08:00:00","2009-08-14 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 1633,"The Milliners","2009-08-14 21:00:00","2009-08-14 00:00:00","Rocky Sullivan's","34 Van Dyke St",Brooklyn,"New York",USA,40.67387009,-74.01179504
 1442,"9th Summer School of Irish Dancing","2009-08-15 00:00:00","2009-08-21 00:00:00","Zarubova Primary School","Zarubova 17",Prague,Bohemia,"Czech Republic",49.86555099,13.56981564
 1602,"Céilí @ Mangonui","2009-08-15 19:30:00","2009-08-15 22:15:00","Mangonui Hall","Waterfront Road",Mangonui,Northland,"New Zealand",-34.99378204,173.53453064
@@ -1995,7 +1995,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2176,"Mark Lysaght","2010-10-28 21:30:00","2010-10-28 23:45:00","McNeill's Pub","140 Capel Street",Dublin,Dublin,Ireland,53.34775925,-6.26868010
 2183,"Gala Concert Featuring Draíocht & Micheal O Raghailligh","2010-10-29 00:00:00","2010-10-30 00:00:00","Ballintogher Community Centre",,Ballintogher,Sligo,Ireland,54.20103836,-8.36717033
 2121,"Sha Nôl, Sha Mlân","2010-10-29 10:30:00","2010-10-31 17:00:00","Various Venues",,Ystalyfera,Glamorgan,Wales,51.48583221,-3.18167138
-2179,"Nancy Curtin In Concert W Nancy Conescu & Eddie Parente","2010-10-29 19:30:00","2010-10-29 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2179,"Nancy Curtin In Concert W Nancy Conescu & Eddie Parente","2010-10-29 19:30:00","2010-10-29 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2178,"Sarah McQuaid","2010-10-29 20:00:00","2010-10-29 23:45:00","Irish American Association Of Northwest Jersey","352 Richard Mine Road",Rockaway,"New Jersey",USA,40.91407013,-74.57511139
 2181,"All-Ireland Victory Celebrations","2010-10-29 21:00:00","2010-10-29 00:00:00","Devon Inn Hotel",,Templeglantine,Limerick,Ireland,52.39717102,-9.17310047
 2175,"Irish - Brazilian Music Festival","2010-10-30 20:00:00","2010-10-30 23:45:00","Various Venues",,Kenmare,Kerry,Ireland,52.54154205,-6.95559502
@@ -2014,7 +2014,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2192,"Seamus Tansey - King Of The Concert Flute","2010-11-11 21:30:00","2010-11-11 23:45:00","McNeill's Pub","140 Capel Street",Dublin,Dublin,Ireland,53.34775925,-6.26868010
 2182,"Maine Pipes And Fiddle Workshop","2010-11-12 00:00:00","2010-11-14 00:00:00","Beech Hill School",,Ellsworth,Maine,USA,44.54341125,-68.41946411
 2138,"Fiddle Hell","2010-11-12 12:00:00","2010-11-13 11:00:00","The Horse And Chains","79 High Street",Bushey,Hertfordshire,England,51.64153671,-0.35909539
-2180,"Peter Yeates in Concert","2010-11-13 19:30:00","2010-11-13 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2180,"Peter Yeates in Concert","2010-11-13 19:30:00","2010-11-13 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2198,"Fleadh at Maryland Irish Festival","2010-11-14 00:00:00","2010-11-14 00:00:00","Timonium Fairgrounds","Cow Palace, 2200 York Rd",Timonium,Maryland,USA,39.44670868,-76.63017273
 2199,"Dick Miles","2010-11-14 20:00:00","2010-11-14 00:00:00","An Spailpín Fánach","29 South Main Street",Cork,Cork,Ireland,51.89657974,-8.47654247
 2205,"Riverdance Composer Bill Whelan In Conversation","2010-11-17 08:00:00","2010-11-17 09:30:00","Irish Arts Center","726 11th Avenue",Manhattan,"New York",USA,40.76662064,-73.99369812
@@ -2027,7 +2027,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2202,"The Launch Of 'The Leitrim Cake' Recorded By The Late Joe 'Lacky' Gallagher","2010-11-19 20:30:00","2010-11-20 01:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 2109,"The Will Lang Bodrhan Day","2010-11-20 09:30:00","2010-11-20 18:30:00","The Archway","15 Swinegate",Grantham,Lincolnshire,England,52.91495895,-0.64284980
 2163,Brogue,"2010-11-20 20:00:00","2010-11-20 22:30:00","Aeolian Hall","795 Dundas St.",London,Ontario,Canada,42.99067688,-81.22486115
-2110,"Martin Hayes, Dennis Cahill & The RTÉ Concert Orchestra","2010-11-24 20:00:00","2010-11-24 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+2110,"Martin Hayes, Dennis Cahill & The RTÉ Concert Orchestra","2010-11-24 20:00:00","2010-11-24 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 2203,"Irish Night At Bodie Art","2010-11-25 21:30:00","2010-11-25 23:45:00","Bodie Art","Via S.Giovanni, 254",Cagliari,Sardegna,Italy,39.22109985,9.11934471
 2216,"Mick O'Brien (Pipes) & Dave Flynn (Guitar) - Open Session","2010-11-25 21:30:00","2010-11-25 23:45:00","McNeill's Pub","140 Capel Street",Dublin,Dublin,Ireland,53.34775925,-6.26868010
 2102,"Stewart Hardy Residential Fiddle Workshops","2010-11-26 13:00:00","2010-11-28 17:00:00","The Archway","15 Swinegate",Grantham,Lincolnshire,England,52.91495895,-0.64284980
@@ -2047,7 +2047,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2191,"John Joe Gordon Festival","2010-12-10 20:30:00","2010-12-12 23:45:00","Various Venues",,Belleek,Fermanagh,"Northern Ireland",54.48001099,-8.09251976
 2217,"www.LiveTrad.com Webcast","2010-12-10 23:00:00","2010-12-10 00:00:00","The Fiddlestone Bar","Main St",Belleek,Fermanagh,"Northern Ireland",54.47916412,-8.09177494
 2228,"Workshops With Talty, Rynne, Quinn & Lupari","2010-12-11 00:00:00","2010-12-11 00:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
-2230,"Community Celtic Concert Off The Commons","2010-12-11 19:30:00","2011-05-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2230,"Community Celtic Concert Off The Commons","2010-12-11 19:30:00","2011-05-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2234,"Dungarvan Singers' Club","2010-12-13 20:00:00","2010-12-13 00:00:00","Bridie Dees","18 Mary Street,",Dungarvan,Waterford,Ireland,52.08834457,-7.62133598
 2227,"Designed By Foreigners For The Use Of Peasants... The Concertina.","2010-12-14 20:00:00","2010-12-14 22:00:00","The Malbay","The Square","Miltown Malbay",Clare,Ireland,52.85444641,-9.40118885
 2133,"Téada – Irish Christmas In America","2010-12-16 08:00:00","2010-12-16 10:00:00","20th Century Theatre","3021 Madison Road",Cincinnati,Ohio,USA,39.15111923,-84.43289948
@@ -2105,7 +2105,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2282,"Ceoltoir BCFE Gig","2011-02-10 20:30:00","2011-02-10 23:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 2314,"Trad Session With Special Guest Noreen O'Donoghue (Harp)","2011-02-10 21:30:00","2011-02-10 00:00:00","McNeill's Pub","140 Capel Street",Dublin,Dublin,Ireland,53.34775925,-6.26868010
 2229,"13th Irish Music Workshop Weekend","2011-02-11 18:00:00","2011-02-13 14:00:00",Paul-Schneider-Freizeitheim,"Strauchhof 1",Langgöns,Hessen,Germany,50.50000000,8.66666985
-2281,"2nd Saturday Community Celtic Concert Off The Commons With JIm Malcolm","2011-02-12 19:30:00","2011-02-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2281,"2nd Saturday Community Celtic Concert Off The Commons With JIm Malcolm","2011-02-12 19:30:00","2011-02-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2284,"Grand Rapids Super Sessiun","2011-02-13 07:00:00","2011-02-13 09:00:00","The Black Rose","100 Ionia Ave. S.W.","Grand Rapids",Michigan,USA,42.96055222,-85.67057037
 2312,"Irish Super Session","2011-02-13 07:00:00","2011-02-13 09:00:00","The Black Rose","100 Ionia Ave. S.W.","Grand Rapids",Michigan,USA,42.96055222,-85.67057037
 2317,"Session With Mary Rowsome (Flute)","2011-02-17 21:45:00","2011-02-17 00:00:00","McNeill's Pub","140 Capel Street",Dublin,Dublin,Ireland,53.34775925,-6.26868010
@@ -2137,7 +2137,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2309,"A Tribute To The Famous McNultys: The First Family Of Irish Music","2011-03-11 08:00:00","2011-03-11 10:15:00","Symphony Space","2537 Broadway",Manhattan,"New York",USA,40.79396057,-73.97261810
 2308,"Ceili At The Roundhouse w/ DeDanann, Vasen, Mike Marshal & Darol Anger","2011-03-11 12:00:00","2011-03-12 23:00:00","Historic Roundhouse Complex","1200 Main St",Evanston,Wyoming,USA,41.27045441,-110.96868134
 2291,"Mellor Brook Fiddle Day 2011","2011-03-12 09:30:00","2011-03-12 23:30:00","Mellor Brook Community Centre","Whalley Road","Mellor Brook",Lancashire,England,53.77665329,-2.54411983
-2348,"Stringed Migration","2011-03-12 19:30:00","2011-03-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2348,"Stringed Migration","2011-03-12 19:30:00","2011-03-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2342,"Kathryn Tickell Band","2011-03-13 07:30:00","2011-03-13 00:00:00","Alington Hall","Shrewsbury School",Shrewsbury,Shropshire,England,52.70274734,-2.76323223
 2350,"Boyne Celtic Session","2011-03-13 13:00:00","2011-03-13 15:00:00","Boyne Library","Park Street","Boyne City",Michigan,USA,45.22238541,-85.01293945
 2341,"Sara Grey And Kieron Means Concert","2011-03-13 16:00:00","2011-03-13 18:00:00","Lutheran Theological Seminary Chapel","147 Seminary Ridge",Gettysburg,Pennsylvania,USA,39.83187485,-77.24458313
@@ -2161,7 +2161,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2365,"Workshops With Oisin Mac Diarmada And Seamus Begley","2011-03-26 10:00:00","2011-03-26 14:45:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.37953949,-122.76171875
 2370,"March For The Alternative: Jobs, Growth, Justice","2011-03-26 11:00:00","2011-03-26 04:30:00","Victoria Embankment",,Westminster,London,England,51.49860764,-0.13390601
 2363,"The Friday Night Sessions CD Launch Featuring Danny Kyle Award Winners 2011 Yuptae","2011-03-26 19:30:00","2011-03-26 22:30:00","St. Andrew's In The Square","1 St. Andrew's Square",Glasgow,Glasgow,Scotland,55.85637283,-4.25716591
-2366,"Concert W Oisin Mac Diarmada And Seamus Begley West Coast Tour","2011-03-26 19:30:00","2011-03-26 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2366,"Concert W Oisin Mac Diarmada And Seamus Begley West Coast Tour","2011-03-26 19:30:00","2011-03-26 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2239,"Red Fox Ceilidhs!","2011-03-26 20:00:00","2011-03-26 23:00:00","Hazel Street Community Centre","Sawday Street",Leicester,Leicestershire,England,52.62313461,-1.13754523
 2372,"Máire Ní Chathasaigh and Chris Newman","2011-03-26 20:00:00","2011-03-26 22:00:00","Farnham Maltings","Bridge Square",Farnham,Surrey,England,51.21181870,-0.79686701
 2377,"Jackie Daly & Matt Cranitch In Concert","2011-03-26 20:00:00","2011-03-26 23:00:00","Irish American Association Of Northwest Jersey","352 Richard Mine Road",Rockaway,"New Jersey",USA,40.91407013,-74.57511139
@@ -2186,7 +2186,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2386,"The Triskells Folk Music Band En Concierto","2011-04-09 14:00:00","2011-04-09 16:00:00","Casa De La Cultura José Maria Velazco","Calle Roberto Gayol Esquina Excelsior Colonia Guadalupe Insurgentes A Dos Calles Del Metro Potrero","Mexico City","Ciudad De México",Mexico,19.47697067,-99.13217163
 2311,"Concertinas Onstage!","2011-04-09 19:30:00","2011-04-09 22:00:00","All Souls Unitarian Universalist Church","399 Main St.",Greenfield,Massachusetts,USA,42.58733749,-72.59899139
 2374,"Máire Ní Chathasaigh and Chris Newman","2011-04-09 19:30:00","2011-04-09 21:30:00","Pitchcombe VIllage Hall",,Pitchcombe,Gloucestershire,England,51.77127075,-2.21735406
-2384,"2nd Saturday, Community Celtic Concert Off The Commons","2011-04-09 19:30:00","2011-04-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2384,"2nd Saturday, Community Celtic Concert Off The Commons","2011-04-09 19:30:00","2011-04-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2392,"Workshops With Master Irish Musicians","2011-04-10 11:30:00","2011-04-10 01:30:00","Irish American Heritage Center","4626 N. Knox Avenue",Chicago,Illinois,USA,41.96527863,-87.74449921
 2305,"Andy Cutting Concert","2011-04-10 19:30:00","2011-04-10 21:45:00","Bubbenhall Village Hall","Lower End",Bubbenhall,Warwickshire,England,52.35062027,-1.46903670
 2379,"Masters In Collaboration V: Joanie Madden Meets Seamus Begley; Live Conversation with the Musicians","2011-04-13 08:00:00","2011-04-13 09:45:00","Symphony Space","2537 Broadway",Manhattan,"New York",USA,40.79396057,-73.97261810
@@ -2211,13 +2211,13 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2276,"Old Blind Dogs","2011-05-05 20:00:00","2011-05-05 00:00:00","20th Century Theatre","3021 Madison Road",Cincinnati,Ohio,USA,39.15111923,-84.43289948
 2403,Dervish!,"2011-05-05 20:00:00","2011-05-05 22:30:00","Maidment Building","Shrewsbury School",Shrewsbury,Shropshire,England,52.70274734,-2.76323223
 2406,"Junctions - New Traditional Music Encounters","2011-05-05 20:00:00","2011-05-05 23:30:00","The Pavilion","13 Carey's Lane",Cork,Cork,Ireland,51.89864349,-8.47380733
-2407,"1st Friday Ceili Mor With Johnny Box Connolly","2011-05-06 19:30:00","2011-05-06 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2407,"1st Friday Ceili Mor With Johnny Box Connolly","2011-05-06 19:30:00","2011-05-06 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2416,"Repeat Webcast Of OAIM Launch On LiveTrad.com","2011-05-06 22:00:00","2011-05-06 00:00:00",O'Connors,,Doolin,Clare,Ireland,53.01600266,-9.37757778
 2411,"Dermot Byrne, Floriane Blancke, Eugene Lambe & Caroline Hampshire","2011-05-10 20:00:00","2011-05-10 21:30:00","Unitarian Church","112 St. Stephen's Green West",Dublin,Dublin,Ireland,53.33774185,-6.26249695
 2422,"La Grande Rencontre  Québec/Irlande","2011-05-12 00:00:00","2011-05-15 00:00:00","Agora Hydro-Québec Et Chaufferie","Quartier Des Spectacles, 175 Avenue Du Président-Kennedy",Montreal,Quebec,Canada,45.50922394,-73.56800079
 2413,"John Dwyer, Edel Fox, Lia Byrne And Niall Byrne At The Steeple Sessions","2011-05-12 20:00:00","2011-05-12 21:30:00","Unitarian Church","112 St. Stephen's Green West",Dublin,Dublin,Ireland,53.33774185,-6.26249695
 2423,"Skerries Traditional Music Weekend","2011-05-13 08:00:00","2011-05-15 23:45:00","Various Venues",,Skerries,Dublin,Ireland,53.58412552,-6.10460615
-2408,"2nd Sat, Community Celtic Concert With Lisa Ornstein And Dan Compton","2011-05-14 18:45:00","2011-05-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2408,"2nd Sat, Community Celtic Concert With Lisa Ornstein And Dan Compton","2011-05-14 18:45:00","2011-05-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2417,"Spraoi In Concert","2011-05-14 19:30:00","2011-05-14 00:00:00","House Concert",,Toronto,Ontario,Canada,43.65322495,-79.38318634
 2405,"Ronan Pinc Avec Tony Mc Carthy","2011-05-14 20:00:00","2011-05-14 23:45:00","Hotel Le Cheval Blanc And Irish Bar","34 Rue De La Madeleine",Plancoet,Bretagne,France,48.52293396,-2.23831797
 2421,"Ronan Pinc & Tony McCarthy In Concert","2011-05-14 20:00:00","2011-05-14 23:45:00","Hotel Le Cheval Blanc And Irish Bar","34 Rue De La Madeleine",Plancoet,Bretagne,France,48.52293396,-2.23831797
@@ -2260,7 +2260,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2393,"Irishes Kulturfestival 2011","2011-06-11 19:00:00","2011-06-12 23:00:00","The CoachHaus","Koblenzerstr. 4",Rheinbach,Nordrhein-Westfalen,Germany,50.62551880,6.95451260
 2466,"Spraoi Chiarrai In Concert","2011-06-11 20:00:00","2011-06-11 21:30:00","St. Mary's Church Of Ireland","Main St",Killarney,Kerry,Ireland,52.05868530,-9.50914860
 2442,"A Night With The McConnell Brothers","2011-06-11 20:30:00","2011-06-11 00:00:00","St. Mary's High School",Brollagh,Belleek,Fermanagh,"Northern Ireland",54.47313690,-8.09835434
-2453,"2nd Sunday Irish Session","2011-06-12 15:00:00","2011-06-12 18:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2453,"2nd Sunday Irish Session","2011-06-12 15:00:00","2011-06-12 18:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2467,"Lizzie's Birthday Session","2011-06-13 16:00:00","2011-06-13 00:00:00","The New Sydney Hotel","87 Bathurst St",Hobart,Tasmania,Australia,-42.88085938,147.32522583
 2468,"Junctions #3 - Cathal Hayden, Arty McGlynn, Aoife O'Donovan, Karan Casey, Nic Gareiss, Buille And More","2011-06-16 20:00:00","2011-06-16 23:30:00","The Pavilion","13 Carey's Lane",Cork,Cork,Ireland,51.89864349,-8.47380733
 2469,"Maleny Celtic Winter School","2011-06-17 00:00:00","2011-06-19 00:00:00","Finbar's Lounge Bar","12 Bicentenary Lane",Maleny,Queensland,Australia,-26.75911522,152.85046387
@@ -2393,7 +2393,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2545,"""Ómós do Sheán 'Ac Dhonncha"" Tribute Weekend","2011-10-01 16:00:00","2011-10-02 00:00:00","Various Venues",,Ahascragh,Galway,Ireland,53.39989090,-8.33495522
 2535,"Cady Finlayson and Vita Tanga","2011-10-05 09:30:00","2011-10-05 11:00:00","Symphony Space","2537 Broadway",Manhattan,"New York",USA,40.79396057,-73.97261810
 2592,"Beautiful People + Live Seisúin","2011-10-06 19:00:00","2011-10-06 20:30:00","Irish Arts Center","726 11th Avenue",Manhattan,"New York",USA,40.76662064,-73.99369812
-2560,"2nd Sat Community concert w Leo Mac Namara and Aurora Burd","2011-10-08 19:30:00","2011-10-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2560,"2nd Sat Community concert w Leo Mac Namara and Aurora Burd","2011-10-08 19:30:00","2011-10-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2594,"The Long Notes","2011-10-12 20:00:00","2011-10-12 23:00:00","Pleasance Cabaret Bar","Pleasance Courtyard",Edinburgh,Lothian,Scotland,56.46298981,-4.22976780
 2367,"Portal Irish Music Week","2011-10-13 00:00:00","2011-10-18 00:00:00","Various Venues",,Portal,Arizona,USA,31.91370201,-109.14144897
 2591,"A Tribute to Harrigan & Hart: The Original Men Who Owned Broadway","2011-10-13 20:00:00","2011-10-13 21:30:00","Symphony Space","2537 Broadway",Manhattan,"New York",USA,40.79396057,-73.97261810
@@ -2430,7 +2430,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2618,"Junctions - New Traditional Music Encounters","2011-11-10 20:00:00","2011-11-10 00:00:00","The Pavilion","13 Carey's Lane",Cork,Cork,Ireland,51.89864349,-8.47380733
 2563,"Yachats Celtic Music Festival","2011-11-11 00:00:00","2011-11-13 00:00:00","Yachats Commons","441 Higway 101",Yachats,Oregon,USA,44.31282043,-124.10504913
 2518,"Button Boxes And Moothies","2011-11-11 09:00:00","2011-11-13 23:45:00","Various Venues",,Aberdeen,Aberdeenshire,Scotland,57.14057541,-2.18056512
-2615,"Randal Bays with Davey Mathias","2011-11-12 18:45:00","2011-11-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2615,"Randal Bays with Davey Mathias","2011-11-12 18:45:00","2011-11-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2623,"Robin Williamson","2011-11-12 19:30:00","2011-11-12 22:30:00","The Fraser Centre","Douglas St",Milngavie,Strathclyde,Scotland,56.49067307,-4.20264578
 2555,"In Love With The Dance","2011-11-12 20:00:00","2011-11-12 22:00:00","Ardhowen Theatre",,Enniskillen,Fermanagh,"Northern Ireland",54.34363174,-7.63092995
 2614,"Bits N Pieces CD Launch At Ennis Trad Fest 2012","2011-11-13 15:00:00","2011-11-13 16:30:00","Temple Gate Hotel","The Square",Ennis,Clare,Ireland,52.85159683,-8.96230221
@@ -2449,11 +2449,11 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2627,"Sean Nós Dance DVD Launch Party","2011-12-01 06:00:00","2011-12-01 08:30:00","Club Chonradh Na Gaeilge","6 Harcourt St",Dublin,Dublin,Ireland,53.33718872,-6.26323318
 2633,"An Irish Christmas: A Musical Solstice Celebration","2011-12-07 20:00:00","2011-12-18 00:00:00","Irish Arts Center","726 11th Avenue",Manhattan,"New York",USA,40.76662064,-73.99369812
 2635,"Dervish - The Leitrim Equation2 - Launch On LiveTrad.com (recorded Concert)","2011-12-09 22:00:00","2011-12-09 00:00:00","The Button Factory",,Dublin,Dublin,Ireland,53.34980392,-6.26030970
-2630,"Hanz Araki, CD Release","2011-12-10 19:30:00","2011-12-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2630,"Hanz Araki, CD Release","2011-12-10 19:30:00","2011-12-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2631,"Cady Finlayson & Vita Tanga: Irish Music Show And Workshops","2011-12-11 14:00:00","2011-12-11 16:00:00","Sixth Street Synagogue","325 E. 6th St.",Manhattan,"New York",USA,40.72689819,-73.98715210
 2640,"Christmas Session","2011-12-22 20:00:00","2011-12-23 00:15:00",Devitt's,"78 Camden Street Lower",Dublin,Dublin,Ireland,53.33554077,-6.26546001
 2636,"Fidil, Tim O'Brien, Arty McGlynn - Live Webcast On LiveTrad.com","2011-12-30 20:30:00","2011-12-30 22:30:00","Ionad Cois Locha",,Dunlewey,Donegal,Ireland,55.01937103,-8.11112976
-2652,"Molly's Revenge In Concert","2012-01-14 19:30:00","2012-01-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2652,"Molly's Revenge In Concert","2012-01-14 19:30:00","2012-01-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2536,"1st Paddy Keenen Uilleann Pipe Gathering","2012-01-15 00:00:00","2012-01-21 00:00:00","Naturfreundehaus Elmstein","Esthaler Str. 63 - 67",Elmstein,Rheinland-Pfalz,Germany,49.36138153,7.95115423
 2973,"Irish Fiddle Concert with Cady Finlayson","2012-01-19 19:30:00","2012-01-19 21:30:00","Northwest Park","145 Land Road",Windsor,Connecticut,USA,41.67448807,-81.32875824
 2657,"Laura Cortese's Acoustic Project","2012-01-20 07:30:00","2012-01-20 10:30:00","Eron Johnson Architectural Antiques","389 South Lipan Street",Denver,Colorado,USA,39.70949936,-105.00200653
@@ -2691,7 +2691,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2879,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2012-10-12 20:00:00","2012-10-12 22:15:00","Down Arts Centre","2-6 Irish Street",Downpatrick,Down,"Northern Ireland",54.32878876,-5.71554756
 2867,"Aberdeen Folk Club 50th Birthday","2012-10-12 20:30:00","2012-10-14 23:00:00","Blue Lamp","121 Gallowgate",Aberdeen,Aberdeenshire,Scotland,57.15119553,-2.09902835
 2923,"Scoil Cheoil Na Botha","2012-10-12 21:00:00","2012-10-14 21:00:00","Urbleshannny NS",Carrowhatta,Scotstown,Monaghan,Ireland,54.27788925,-7.06695127
-2919,"Grainne Murphy And Kathleen Boyle In Concert","2012-10-13 19:30:00","2012-10-13 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2919,"Grainne Murphy And Kathleen Boyle In Concert","2012-10-13 19:30:00","2012-10-13 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2878,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2012-10-13 21:30:00","2012-10-13 11:00:00","Minogue's Bar",Tulla,Tulla,Clare,Ireland,52.86921310,-8.76078129
 2926,"Inaugural Hobart Fleadh Nua","2012-10-14 00:00:00","2012-10-14 00:00:00","The New Sydney Hotel","87 Bathurst St",Hobart,Tasmania,Australia,-42.88085938,147.32522583
 2880,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2012-10-14 20:30:00","2012-10-14 22:45:00","The Village Arts Centre",,Kilworth,Cork,Ireland,52.17588043,-8.25011730
@@ -2771,7 +2771,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 2971,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2012-12-07 19:30:00","2012-12-07 21:45:00","The Glasshouse Arts Centre","Wollaston Road",Stourbridge,"West Midlands",England,52.46739578,-2.15602231
 2885,"The Gloaming","2012-12-07 20:00:00","2012-12-07 00:00:00","Pavilion Theatre","Marine Road","Dún Laoghaire",Dublin,Ireland,53.29299927,-6.13455009
 2976,"Live Traditional Irish Music Webcast On LiveTrad.com","2012-12-07 22:00:00","2012-12-07 00:00:00","The Fiddlestone Bar","Main St",Belleek,Fermanagh,"Northern Ireland",54.47916412,-8.09177494
-2954,"Bronnie Griffin, Johnny Connolly, Cary Novotny, Nancy Conescu And Mike Doolin Together For A Mighty Night Of Tunes And Songs!","2012-12-08 19:30:00","2012-12-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+2954,"Bronnie Griffin, Johnny Connolly, Cary Novotny, Nancy Conescu And Mike Doolin Together For A Mighty Night Of Tunes And Songs!","2012-12-08 19:30:00","2012-12-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 2968,"Colin Nea Album Launch 'Between The Jigs And The Reels'","2012-12-08 20:00:00","2012-12-08 00:00:00","The Roadside Tavern","Kincora Road, Rathbaun",Lisdoonvarna,Clare,Ireland,53.02841949,-9.29133987
 2886,"The Gloaming","2012-12-09 20:00:00","2012-12-09 00:00:00","The Limelight",,Belfast,Antrim,"Northern Ireland",54.71363068,-6.21428013
 2962,"John Doyle In Concert","2012-12-12 19:00:00","2012-12-12 21:00:00","The Front Porch","221 Water Street East",Charlottesville,Virginia,USA,38.02980042,-78.48036957
@@ -2815,7 +2815,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3036,"The Concertina Cruinniú","2013-02-08 00:00:00","2013-02-10 00:00:00","Various Venues",,"Miltown Malbay",Clare,Ireland,52.85620117,-9.40077591
 3076,"Kevin Carr in concert","2013-02-08 19:30:00","2013-02-08 22:00:00","Oregon Stamp Society","4828 NE 33rd",Portland,Oregon,USA,45.55790710,-122.62918091
 3068,"Carmel Gunning, John Regan, Séamus O'Kane and Joe Grady (GROG)","2013-02-08 20:30:00","2013-02-03 22:30:00","Aras An Mhuilinn","Mount Street",Mullingar,Westmeath,Ireland,53.52406311,-7.34038591
-3077,"Jim Malcolm in Concert","2013-02-09 19:30:00","2013-02-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3077,"Jim Malcolm in Concert","2013-02-09 19:30:00","2013-02-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3100,"Brendan Mulvihill Tune Teach, Book Sale and Signing, and Performance","2013-02-10 15:00:00","2013-02-10 20:00:00","The Auld Shebeen","3971 Chain Bridge Road",Fairfax,Virginia,USA,38.84692383,-77.30609131
 3101,"Brendan Mulvihill Tune Book Sale and Signing at Session","2013-02-12 20:00:00","2013-02-12 23:00:00","McGinty's Public House","911 Ellsworth Drive","Silver Spring",Maryland,USA,38.99650192,-77.02624512
 3086,"Scoil Cheoil an Earraigh","2013-02-13 00:00:00","2013-02-17 00:00:00","Various Venues",,Ballyferriter,Kerry,Ireland,52.16614914,-10.40598965
@@ -2845,7 +2845,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3080,"The Hobart Fleadh Ceol","2013-03-08 20:00:00","2013-03-10 00:00:00","The New Sydney Hotel","87 Bathurst St",Hobart,Tasmania,Australia,-42.88085938,147.32522583
 3094,"6th Mellor Brook Fiddle Day","2013-03-09 10:00:00","2013-03-09 16:30:00","Mellor Brook Community Centre","Whalley Road","Mellor Brook",Lancashire,England,53.77665329,-2.54411983
 3099,"Scottish Fiddlers of Los Angeles' 32nd Annual Spring Concert","2013-03-09 19:30:00","2013-03-09 19:30:00","Hermosa Beach Playhouse","710 Pier Ave.","Hermosa Beach",California,USA,33.86444092,-118.39391327
-3134,"Johnny B. Connolly - 2nd Saturday Community Concert","2013-03-09 19:30:00","2013-03-09 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3134,"Johnny B. Connolly - 2nd Saturday Community Concert","2013-03-09 19:30:00","2013-03-09 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3133,"Harp of Éire: Six Centuries of Irish Music","2013-03-09 20:00:00","2013-03-09 20:00:00","Cathedral Of St. Mark","231 East 100 Street","Salt Lake City",Utah,USA,40.76732635,-111.88391876
 3117,"Residential Fiddle Techniques Week","2013-03-10 13:00:00","2013-03-15 16:00:00","The Archway","15 Swinegate",Grantham,Lincolnshire,England,52.91495895,-0.64284980
 3135,"The Chancers Return to Maui! From Portland Oregon","2013-03-14 18:00:00","2013-03-14 21:00:00","Mulligan's On The Blue","100 Kaukahi St.",Maui,Hawaii,USA,20.67449951,-156.43702698
@@ -2904,7 +2904,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3072,"Trad Athy Weekend","2013-05-02 00:00:00","2013-05-06 00:00:00",Clancy's,"12 Leinster Street",Athy,Kildare,Ireland,52.99257660,-6.98106432
 3180,"Cup of Tae Festival","2013-05-03 00:00:00","2013-05-06 00:00:00","Various Venues",,Ardara,Donegal,Ireland,54.76546478,-8.41501141
 3176,"Brian Hughes","2013-05-03 20:00:00","2013-05-03 20:00:00","Athy Arts Centre","Woodstock Street",Athy,Kildare,Ireland,52.99623871,-6.99243164
-3178,"Ryan McKasson and the Syncopaths","2013-05-11 19:30:00","2013-05-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3178,"Ryan McKasson and the Syncopaths","2013-05-11 19:30:00","2013-05-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3162,"Sponsored session- play traditional music for 12 hours in aid of Sight Advice South Lakes","2013-05-11 23:00:00","2013-05-11 23:00:00","The Watermill Inn",,Ings,Cumbria,England,54.38102341,-2.85616708
 3188,"May Madness","2013-05-18 10:30:00","2013-05-18 10:30:00","St Wulframs Parish Church","Church Street",Grantham,Lincolnshire,England,52.91522980,-0.64122307
 3184,"CD Release Concert | Laura Cortese with Mariel Vandersteel","2013-05-18 19:30:00","2013-05-18 23:00:00","Eron Johnson Architectural Antiques","389 South Lipan Street",Denver,Colorado,USA,39.70949936,-105.00200653
@@ -3095,7 +3095,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3323,"Traditional Whistle Classes | Scots Music Group","2013-09-11 19:00:00","2013-12-04 21:00:00","Boroughmuir School","26 Viewforth EH10 4LR",Edinburgh,Lothian,Scotland,55.93832397,-3.20897698
 3330,"Linlithgow Folk Festival","2013-09-11 20:00:00","2013-09-15 17:00:00","Various Venues",,Linlithgow,"West Lothian",Scotland,55.97162628,-3.60258460
 3278,"Dingle Tradfest","2013-09-12 00:00:00","2013-09-15 00:00:00","Various Venues",,Dingle,Kerry,Ireland,52.14093781,-10.26401424
-3332,"iomas - intuition. Momentous sean-nós project with Iarla ÓLionáird and the RTÉ Concert Orchestra","2013-09-12 20:00:00","2013-09-12 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+3332,"iomas - intuition. Momentous sean-nós project with Iarla ÓLionáird and the RTÉ Concert Orchestra","2013-09-12 20:00:00","2013-09-12 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 3315,"Gerry Whelan Memorial Weekend","2013-09-13 00:00:00","2013-09-15 00:00:00","Various Venues",,Cootehill,Cavan,Ireland,54.07226944,-7.07510710
 3338,"Lancaster’s Music Weekend of Sessions ( a biannual David Lyth production)","2013-09-13 20:00:00","2013-09-15 18:00:00","Various Venues",,Lancaster,Lancashire,England,54.03943634,-2.78115702
 3288,"Red Herring in concert","2013-09-13 22:00:00","2013-09-14 01:00:00","Le Vagabond","Nieuwe Binnenweg 99-B",Rotterdam,Zuid-Holland,Netherlands,51.91601944,4.46795130
@@ -3118,14 +3118,14 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3355,"Trad for Trócaire","2013-10-03 21:00:00","2013-10-04 00:00:00","Slevin's Pub","Main Street",Dunboyne,Meath,Ireland,53.41897964,-6.47666597
 3331,"Celtic Harmonies International Festival","2013-10-04 00:00:00","2013-10-13 00:00:00","Various Venues",,Bromont,Quebec,Canada,45.53702545,-72.57110596
 3353,"Paddy O'Brien Tune Collection Concert & Celebration","2013-10-04 19:30:00","2013-10-04 19:30:00","Celtic Junction Arts Center","836 Prior Ave","St Paul",Minnesota,USA,44.96621704,-93.18202209
-3352,"1st Friday Ceili Mor","2013-10-04 20:00:00","2013-10-04 20:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3352,"1st Friday Ceili Mor","2013-10-04 20:00:00","2013-10-04 20:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3341,"Trad for Trocaire","2013-10-06 15:00:00","2013-10-06 15:00:00","Mr. Dooley's Boston Tavern","77 Broad Street",Boston,Massachusetts,USA,42.35770798,-71.05345154
 3325,"Scottish Session Tunes Workshop, 6 weeks","2013-10-07 00:00:00","2013-11-11 00:00:00","St Bride's Community Centre","10 Orwell Terrace",Edinburgh,Lothian,Scotland,55.94239807,-3.22011256
 3280,"Cork Folk Festival","2013-10-10 00:00:00","2013-10-13 00:00:00","Various Venues",,Cork,Cork,Ireland,51.89899445,-8.46672726
 3362,"Scoil Cheoil Na Botha","2013-10-11 20:00:00","2013-10-13 00:00:00","Various Venues",,Scotstown,Monaghan,Ireland,54.27807617,-7.06778383
 3281,"Féile Frank Mc Gann","2013-10-12 00:00:00","2013-10-14 00:00:00","Various Venues",,Strokestown,Roscommon,Ireland,53.77706146,-8.09795284
 3349,"Catskills Irish Arts Week Fall Series-Columbus Day Weekend","2013-10-12 00:00:00","2013-10-14 00:00:00","Various Venues",,"East Durham","New York",USA,42.37268448,-74.09535217
-3351,"Colleen Raney - CD Release 'Here This is Home'","2013-10-12 19:30:00","2013-10-12 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3351,"Colleen Raney - CD Release 'Here This is Home'","2013-10-12 19:30:00","2013-10-12 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3361,"CODA Folk No.2","2013-10-13 10:00:00","2013-10-13 10:00:00","CODA Music Centre","Chewton Farm Road",Christchurch,Dorset,England,50.74808884,-1.68537104
 3354,"The Black Family in Concert","2013-10-13 17:00:00","2013-10-13 19:00:00","Irish American Heritage Center","4626 N. Knox Avenue",Chicago,Illinois,USA,41.96527863,-87.74449921
 3363,"Paddy Keenan and John Walsh in Concert","2013-10-13 19:00:00","2013-10-13 22:00:00","Second Stage","Washington Street",Amherst,Virginia,USA,37.58218384,-79.04879761
@@ -3147,7 +3147,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3382,"Celtic Music Group Class","2013-11-06 19:00:00","2013-11-06 19:00:00","Sweet Music Studio","56 Lincoln Ave","South Hadley",Massachusetts,USA,42.23040009,-72.58151245
 3282,"Ennis Trad Festival","2013-11-07 00:00:00","2013-11-11 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84351349,-8.98374653
 3387,"Comhaltas comes to Hastings - session to launch the Hastings branch","2013-11-07 20:00:00","2013-11-07 20:00:00","The Stag","14 All Saints Street",Hastings,"East Sussex",England,50.85877609,0.59525698
-3384,"Tillers Folly in Concert","2013-11-09 19:30:00","2013-11-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3384,"Tillers Folly in Concert","2013-11-09 19:30:00","2013-11-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3373,"Taisce: a Concert for the Irish Traditional Music Archive","2013-11-10 20:00:00","2013-11-10 20:00:00","Abbey Theatre","26/27 Lower Abbey Street",Dublin,Dublin,Ireland,53.34870148,-6.25787306
 3383,"Scottish Country Dance (Ceilidh)","2013-11-15 18:30:00","2013-11-15 18:30:00","Lakeside Presbyterian Church","4601 S. Flagler Drive","West Palm Beach",Florida,USA,26.67082596,-80.04792786
 3359,"Folk Of The Wood Live Music & Ceilidh","2013-11-15 19:30:00","2013-11-15 19:30:00","The Portico Gallery","23A Knights Hill","West Norwood",London,England,51.43101883,-0.10418450
@@ -3202,7 +3202,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3429,"Dirk Powell, Michael McGoldrick, Brendan Gleeson, Francis Gaffney","2014-01-08 20:00:00","2014-01-08 20:00:00","Mermaid Arts Centre","Main Street",Bray,Wicklow,Ireland,53.20211029,-6.10972500
 3430,"Dirk Powell, Michael McGoldrick, Brendan Gleeson, Francis Gaffney","2014-01-09 20:00:00","2014-01-09 20:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 3431,"Dirk Powell, Michael McGoldrick, Brendan Gleeson, Francis Gaffney","2014-01-10 20:00:00","2014-01-10 20:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
-3424,"Story Road - 2nd Saturday Community Concert","2014-01-11 19:30:00","2014-01-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3424,"Story Road - 2nd Saturday Community Concert","2014-01-11 19:30:00","2014-01-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3432,"Dirk Powell, Michael McGoldrick, Brendan Gleeson, Francis Gaffney","2014-01-11 20:30:00","2014-01-11 20:30:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94535828,-8.09559250
 3433,"Dirk Powell, Michael McGoldrick, Brendan Gleeson, Francis Gaffney","2014-01-12 20:00:00","2014-01-12 20:00:00","Pavilion Theatre","Marine Road","Dún Laoghaire",Dublin,Ireland,53.29299927,-6.13455009
 3434,"Dirk Powell, Michael McGoldrick, Brendan Gleeson, Francis Gaffney","2014-01-15 20:00:00","2014-01-15 20:00:00","Birr Theatre","Oxmantown M﻿all",Birr,Offaly,Ireland,53.09811401,-7.91184759
@@ -3218,13 +3218,13 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3422,"Cape Cod Ceili Weekend XI","2014-01-24 17:00:00","2014-01-26 17:00:00","Irish Village","828 Main Street","South Yarmouth",Massachusetts,USA,41.71143341,-70.20682526
 3442,"Northern Roots Traditional Music Festival","2014-01-25 00:00:00","2014-01-25 00:00:00","New England Youth Theater","100 Flat Street",Battleboro,Vermont,USA,42.84962082,-72.56039429
 3453,"Full Set","2014-01-25 15:00:00","2014-01-25 15:00:00","The Ark","11a Eustace Street, Temple Bar",Dublin,Dublin,Ireland,53.34501648,-6.26503849
-3457,"Andrea Beaton in Concert","2014-01-25 19:30:00","2014-01-25 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3457,"Andrea Beaton in Concert","2014-01-25 19:30:00","2014-01-25 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3451,Altan,"2014-01-25 20:00:00","2014-01-25 20:00:00","St. Patrick's Cathedral","St. Patrick's Close",Dublin,Dublin,Ireland,53.33919525,-6.27146101
 3452,"Karen Casey and Niall Vallely","2014-01-26 14:00:00","2014-01-26 14:00:00","The Ark","11a Eustace Street, Temple Bar",Dublin,Dublin,Ireland,53.34501648,-6.26503849
 3462,"Horse & Jockey Singers Circle","2014-01-28 00:00:00","2014-01-28 00:00:00","Horse & Jockey Hotel",,"Horse & Jockey",Tipperary,Ireland,52.61589432,-7.77574778
 3446,"Celtic Jam","2014-01-31 20:00:00","2014-01-31 20:00:00","The Brittania Inn",,Crickhowell,Powys,Wales,51.85892105,-3.13741946
 3460,"Open session at the most northern Irish pub in the world!","2014-02-01 20:00:00","2014-02-01 20:00:00","Oliver's Corner Levi","Tähtitie 4","Kittilä, Sirkka, Levi",Lappi,Finland,67.92223358,26.50464439
-3466,"Jim Malcolm in Concert - 2nd Saturday Community Concert Series","2014-02-08 19:30:00","2014-02-08 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3466,"Jim Malcolm in Concert - 2nd Saturday Community Concert Series","2014-02-08 19:30:00","2014-02-08 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3448,"Irish Dance Ceili","2014-02-08 20:00:00","2014-02-08 20:00:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
 3467,"Jim Malcolm in Concert - Pine Grove Community Concerts","2014-02-09 18:00:00","2014-02-09 18:00:00","The Pine Grove Community House","225 Laneda Ave",Manzanita,Oregon,USA,45.71870422,-123.93658447
 3423,"7th Annual Sean-nós Northwest Festival","2014-02-14 19:00:00","2014-02-16 18:00:00","Evergreen State College","2700 Evergreen Parkway NW",Olympia,Washington,USA,47.07370377,-122.97459412
@@ -3241,7 +3241,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3469,"Hastings CCE Irish Music Night","2014-02-27 20:00:00","2014-02-27 20:00:00","The Stag","14 All Saints Street",Hastings,"East Sussex",England,50.85877609,0.59525698
 3492,Solas,"2014-02-27 20:00:00","2014-02-27 20:00:00","Sellersville Theater","24 West Temple Ave",Sellersville,Pennsylvania,USA,40.35934448,-75.31163025
 3472,"Irish Traditional Music Session","2014-02-28 18:00:00","2014-02-28 18:00:00","Sips On The Square","60 S Court Sq.",Troy,Alabama,USA,31.80715179,-85.97178650
-3496,"CD Release, ""Songs My Father Sang"" - Golden Bough","2014-02-28 19:30:00","2014-02-28 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3496,"CD Release, ""Songs My Father Sang"" - Golden Bough","2014-02-28 19:30:00","2014-02-28 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3490,"Green Tie Event 2014 to Benefit the Ward Irish Music Archives and the Milwaukee Irish Fest School of Music","2014-03-01 18:00:00","2014-03-01 18:00:00","Tripoli Shrine Center","3000 W Wisconsin Ave",Milwaukee,Wisconsin,USA,43.03951645,-87.95143127
 3485,"A repertoire of songs celebrating March and St Patrick's Day","2014-03-01 20:30:00","2014-03-01 21:45:00","St Clares Chapel","Main St",Cavan,Cavan,Ireland,53.99037552,-7.35954142
 3493,"Skipper's Alley - Lynched - Landless","2014-03-01 20:30:00","2014-03-01 20:30:00","St Mary's Church Of Ireland","83 Howth Road",Howth,Dublin,Ireland,53.38871384,-6.07681179
@@ -3249,7 +3249,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3482,"Celticado - St Patrick's Day Concert","2014-03-08 10:00:00","2014-03-08 10:00:00","Wadsworth Atheneum Museum Of Art","600 Main St",Hartford,Connecticut,USA,41.76503372,-72.66261292
 3463,"Sean Keane In Concert","2014-03-08 19:00:00","2014-03-08 21:00:00","Irish American Heritage Center","4626 N. Knox Avenue",Chicago,Illinois,USA,41.96527863,-87.74449921
 3468,"Scottish Fiddlers of Los Angeles 33rd Annual Spring concert","2014-03-08 19:30:00","2014-03-08 19:30:00","Hermosa Beach Playhouse","710 Pier Ave.","Hermosa Beach",California,USA,33.86444092,-118.39391327
-3497,"Peter Yeates and New Shilling","2014-03-08 19:30:00","2014-03-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3497,"Peter Yeates and New Shilling","2014-03-08 19:30:00","2014-03-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3461,"Niamh Ni Charra and  Band in Concert","2014-03-08 20:00:00","2014-03-08 22:00:00","Hibernian Cultural Centre","19 Temple Street",Worcester,Massachusetts,USA,42.24975586,-71.82767487
 3488,"Elaine Reilly Banjo  in Session","2014-03-08 22:30:00","2014-03-08 22:30:00","Farrells Lounge","Main St",Ballinalee,Longford,Ireland,53.72864151,-7.80120802
 3470,"Slainte - Brand New Irish Rock Musical","2014-03-13 19:00:00","2014-03-16 18:00:00","The Citadel Theater",,Hamilton,Ontario,Canada,43.25001907,-79.86608887
@@ -3259,13 +3259,13 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3507,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2014-03-15 19:30:00","2014-03-15 21:45:00","Headon-cum-Upton Village Hall",,Headon,Nottinghamshire,England,53.29249573,-0.72847199
 3481,"Leprechaun Plunge With Celticado","2014-03-16 14:00:00","2014-03-16 14:00:00","Brunelle's Marina","1 Alvord St","South Hadley",Massachusetts,USA,42.26037979,-72.60104370
 3502,"St. Patrick's Day Celebration: Greene Memorial Choir with Broadway Bluegrass","2014-03-16 16:00:00","2014-03-16 16:00:00","Greene Memorial United Methodist Church","402 Second Street",Roanoke,Virginia,USA,37.27026749,-79.94380951
-3441,"Dónal Lunny and Friends","2014-03-16 20:00:00","2014-03-16 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+3441,"Dónal Lunny and Friends","2014-03-16 20:00:00","2014-03-16 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 3464,"St Patrick's Day Session","2014-03-17 14:30:00","2014-03-17 14:30:00","Portaferry Sailing Club","Shore Road",Portaferry,Down,"Northern Ireland",54.37738419,-5.54529190
 3511,"St. Patrick's Day Celebration","2014-03-17 19:00:00","2014-03-17 19:00:00","The Old Dublin","171 Quinnipiac Street",Wallingford,Connecticut,USA,41.45660019,-72.82768250
 3380,"International Celtic Music Festival in Mexico","2014-03-20 00:00:00","2014-03-23 00:00:00","Various Venues",,"Puerto Vallarta",Jalisco,Mexico,20.61584473,-105.23025513
 3512,"CherryGrove Album Launch","2014-03-20 20:00:00","2014-03-20 23:00:00",Stereo,"22-28 Renfield Lane",Glasgow,Glasgow,Scotland,55.86199188,-4.25629520
 3506,"String Clinic & Jam Session","2014-03-21 17:30:00","2014-03-21 17:30:00","Sweet Music Studio","56 Lincoln Ave","South Hadley",Massachusetts,USA,42.23040009,-72.58151245
-3503,"Hanneke Cassel - CD Release","2014-03-21 19:30:00","2014-03-21 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3503,"Hanneke Cassel - CD Release","2014-03-21 19:30:00","2014-03-21 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3508,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2014-03-21 19:30:00","2014-03-21 21:30:00","Town Hall Seattle","1119 8th Ave",Seattle,Washington,USA,47.60902023,-122.32990265
 3500,"Irish Dance Ceili","2014-03-22 20:00:00","2014-03-22 20:00:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
 3509,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2014-03-23 19:00:00","2014-03-23 21:15:00",YWCA,"1026 North Forest Street",Bellingham,Washington,USA,48.74527740,-122.47893524
@@ -3282,7 +3282,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3534,"Hastings CCE and St Albans CCE family social and session","2014-04-05 20:00:00","2014-04-05 23:00:00","Hastings And St Leonards Angling Association","Marine Parade",Hastings,"East Sussex",England,50.85536575,0.58761549
 3517,"Dónal McCague with Michael McCague and Maggie Carty","2014-04-10 20:00:00","2014-04-10 22:00:00","St. Finbarr's Church","Main Street",Carrickmacross,Monaghan,Ireland,53.97796631,-6.71989155
 3520,"Carrickmacross Comhaltas branch concert","2014-04-11 20:00:00","2014-04-11 22:30:00","The Holy Family Hall",,Carrickmacross,Monaghan,Ireland,53.99937439,-6.60638618
-3505,"Hanz Araki","2014-04-12 19:30:00","2014-04-12 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3505,"Hanz Araki","2014-04-12 19:30:00","2014-04-12 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3518,"We Banjo 3","2014-04-12 20:00:00","2014-04-12 22:30:00","St. Louis Secondary School Hall","Castle Street",Carrickmacross,Monaghan,Ireland,53.97797775,-6.71882391
 3519,"Sets céilí with the Awbeg / 5 Counties Céilí Band","2014-04-13 15:00:00","2014-04-13 18:00:00","Inver College",,Carrickmacross,Monaghan,Ireland,53.98154831,-6.59542418
 3538,"The Ragged Rascals","2014-04-13 16:00:00","2014-04-13 16:00:00","McGonigal's Pub","105 S Cook St.",Barrington,Illinois,USA,42.15361786,-88.13459015
@@ -3300,7 +3300,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3559,"DkIT Ceol Oirghialla Traditional Music Ensemble","2014-04-29 19:00:00","2014-04-29 19:00:00","American Irish Historical Society","991 Fifth Avenue",Manhattan,"New York",USA,40.77772141,-73.96280670
 3564,"Buille 10th Anniversary Concert","2014-04-30 20:30:00","2014-04-30 20:30:00","The Pavilion","13 Carey's Lane",Cork,Cork,Ireland,51.89864349,-8.47380733
 3566,"Buille 10th Anniversary Concert","2014-05-01 20:00:00","2014-05-01 20:00:00","The Charlemont Arms Hotel","English Street","Armagh City",Armagh,"Northern Ireland",54.35229874,-6.65574694
-3555,"DIT Irish Traditional Music Ensemble - Lunchtime Concert","2014-05-02 13:00:00","2014-05-02 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+3555,"DIT Irish Traditional Music Ensemble - Lunchtime Concert","2014-05-02 13:00:00","2014-05-02 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 3567,"Buille 10th Anniversary Concert","2014-05-02 20:00:00","2014-05-02 20:00:00","The Duncairn Centre For Arts And Culture","Duncairn Avenue",Belfast,Antrim,"Northern Ireland",54.61289597,-5.93807364
 3551,"The 2014 Philadelphia Fleadh","2014-05-03 11:00:00","2014-05-03 21:00:00","Pennypack Park","Cresco Ave",Philadelphia,Pennsylvania,USA,40.04862595,-75.02871704
 3542,"Irish Dance Ceili","2014-05-03 20:00:00","2014-05-03 20:00:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
@@ -3312,7 +3312,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3527,"Paddy Keenan and John Walsh","2014-05-09 19:30:00","2014-05-09 22:30:00","Richland Community Hall","8985 Gull Road",Richland,Michigan,USA,42.37599945,-85.45717621
 3529,"The Lacemakers with special guest Jim Hinton","2014-05-09 19:30:00","2014-05-09 19:30:00","Templar's Hall","14134 Midland Rd",Poway,California,USA,32.97033310,-117.03662109
 3543,"Scottish Flute Day","2014-05-10 09:30:00","2014-05-10 17:00:00","St. James Parish Church","Rosefield Place, Portobello",Edinburgh,Lothian,Scotland,55.95225143,-3.11782670
-3574,"Eliot Grasso with Glen Waddell - 2nd Saturday Community Concert","2014-05-10 19:30:00","2014-05-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3574,"Eliot Grasso with Glen Waddell - 2nd Saturday Community Concert","2014-05-10 19:30:00","2014-05-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3563,"Cillian Vallely & Ryan McGiver in Concert","2014-05-14 19:00:00","2014-05-14 19:00:00","Coconino Center For The Arts","2300 N. Fort Valley Rd.",Flagstaff,Arizona,USA,35.22333145,-111.65556335
 3357,"Fleadh 64","2014-05-16 00:00:00","2014-05-18 00:00:00","Various Venues",,Clones,Monaghan,Ireland,54.17968369,-7.23066711
 3552,"World Fiddle Day Tribute to ""The Star Above The Garter"" LP","2014-05-17 16:30:00","2014-05-17 16:30:00","Lyons Bar","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
@@ -3363,7 +3363,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3533,"April Verch Band","2014-07-17 00:00:00","2014-07-17 00:00:00","Mendocino Headlands State Park","45100 Main St",Mendocino,California,USA,39.30479813,-123.80154419
 3609,"Summer Celtic Concerts","2014-07-17 19:30:00","2014-07-18 22:00:00","Shepherd of the Hills Lutheran Church","1601 N. San Francisco St.",Flagstaff,Arizona,USA,35.21357346,-111.64298248
 3592,"Cleveland Irish Cultural Festival - Temple Bar & Museum Sessions","2014-07-18 17:00:00","2014-07-20 23:00:00","Cuyahoga County Fairgrounds","164 Eastland Rd, Berea",Cleveland,Ohio,USA,41.36582947,-81.84394073
-3546,Altan,"2014-07-19 20:00:00","2014-07-19 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+3546,Altan,"2014-07-19 20:00:00","2014-07-19 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 3550,"Irish Traditional Music Summer School","2014-07-21 00:00:00","2014-07-25 00:00:00","Various Venues",,Letterkenny,Donegal,Ireland,54.95584106,-7.73427868
 3625,"Inishowen Traditional Singing Workshop","2014-07-23 10:00:00","2014-07-23 10:00:00","Coláiste Ailigh",Knocknamona,Letterkenny,Donegal,Ireland,54.96363831,-7.72681713
 3584,"Eliza Carthy folk music concert","2014-07-24 19:30:00","2014-07-24 19:30:00","The Lakes School","Troutbeck Bridge",Windermere,Cumbria,England,54.39507675,-2.92153001
@@ -3404,7 +3404,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3655,"Paddy Keenan, Junji Shirota and Mareka Naito","2014-08-28 20:00:00","2014-08-28 20:00:00","Monroe's Tavern","14 Dominick Street Upper",Galway,Galway,Ireland,53.26996994,-9.05776978
 3663,"John McEvoy, John Wynne, Rachel Garvey and Ruairi McGorman","2014-08-28 20:00:00","2014-08-28 20:00:00","Strokestown Park House",,Strokestown,Roscommon,Ireland,53.77685547,-8.09748840
 3667,"Electric Picnic 2014","2014-08-29 17:00:00","2014-08-31 14:00:00","Stradbally Estate",,Stradbally,Laois,Ireland,53.01579666,-7.14947176
-3679,"Phoenix Rising: The Music of Mícheál Ó Súilleabháin","2014-09-04 20:00:00","2014-09-04 23:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+3679,"Phoenix Rising: The Music of Mícheál Ó Súilleabháin","2014-09-04 20:00:00","2014-09-04 23:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 3634,"Glenntown Irish Music Festival","2014-09-05 18:00:00","2014-09-07 15:00:00","Various Venues",,Göteborg,Gothenburg,Sweden,57.70886993,11.97455978
 3638,"Frankie Gavin and De Dannan","2014-09-05 20:00:00","2014-09-05 22:00:00","Newman University Church","87a St. Stephen's Green",Dublin,Dublin,Ireland,53.33684921,-6.26054335
 3662,"Liam O’Connor, Seán McKeon and John Blake in concert","2014-09-05 20:00:00","2014-09-05 21:30:00","The Pepper Canister Church","2 Mount St Crescent",Dublin,Dublin,Ireland,53.33684921,-6.24423599
@@ -3441,7 +3441,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3698,"Album launch: Danny Diamond / Fiddle Music","2014-10-03 21:00:00","2014-10-03 21:00:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
 3688,"Perry Hall Folk Music Night, featuring Steve Warner","2014-10-04 19:00:00","2014-10-04 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 3695,"Handed Down!      , the second in the series","2014-10-04 20:00:00","2014-10-04 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
-3708,"Shaun Davey's Voices from the Merry Cemetery","2014-10-08 20:00:00","2014-10-08 22:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+3708,"Shaun Davey's Voices from the Merry Cemetery","2014-10-08 20:00:00","2014-10-08 22:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 3635,"Portal Irish Music Week","2014-10-09 00:00:00","2014-10-14 00:00:00","Portal Peak Lodge","Rock House Rd",Portal,Arizona,USA,31.91271400,-109.14209747
 3713,"Trad for Trocaire session","2014-10-10 18:00:00","2014-10-10 18:00:00","The Market Tavern","10 Anglesea St.",Cork,Cork,Ireland,51.89522552,-8.46520901
 3642,"The Voice Squad","2014-10-10 20:00:00","2014-10-10 22:00:00","Newman University Church","87a St. Stephen's Green",Dublin,Dublin,Ireland,53.33684921,-6.26054335
@@ -3486,7 +3486,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 3746,"Ensemble Ériu plus special guest Inni-K","2014-11-02 20:00:00","2014-11-02 23:00:00","Unitarian Church","112 St. Stephen's Green West",Dublin,Dublin,Ireland,53.33774185,-6.26249695
 3738,"Irish Session","2014-11-03 00:00:00","2014-11-03 00:00:00",,,,,,,
 3747,"Folk Fiddle Autumn 2014","2014-11-05 00:00:00","2014-11-05 00:00:00","Band On The Wall","25 Swan Street",Manchester,"Greater Manchester",England,53.48539734,-2.23437357
-3748,"Laurence Nugent in concert","2014-11-08 19:30:00","2014-11-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+3748,"Laurence Nugent in concert","2014-11-08 19:30:00","2014-11-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 3751,"Candlelit concert with Tim O' Brien and Kevin Burke","2014-11-08 21:00:00","2014-11-08 21:00:00","Dún Na Séad Castle",,Baltimore,Cork,Ireland,51.48223877,-9.37380123
 3741,"Gatehouse (John McEvoy John Wynne Jacinta McEvoy and Rachel Garvey)","2014-11-12 20:00:00","2014-11-12 20:00:00","The Grand Social","35 Liffey Street",Dublin,Dublin,Ireland,53.34690094,-6.26344109
 3757,"William Kennedy Piping Festival","2014-11-13 00:00:00","2014-11-16 00:00:00","Various Venues",,"Armagh City",Armagh,"Northern Ireland",54.34786606,-6.65409708
@@ -3648,7 +3648,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6127,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2015-05-07 19:00:00","2015-05-07 19:00:00","Folklife Center At Crandall Public Library","251 Glen Street","Glens Falls","New York",USA,43.30009460,-73.53514099
 6081,"Tunes in the Church","2015-05-07 20:00:00","2015-05-07 20:00:00","The Holy Trinity",,Westport,Mayo,Ireland,53.80205536,-9.52184677
 6121,Altan,"2015-05-07 20:00:00","2015-05-07 20:00:00",Mac,"Cannon Hill Park",Birmingham,"West Midlands",England,52.45219040,-1.89889956
-6114,"Lunchtime Concert - DIT Irish Traditional Music Ensemble","2015-05-08 13:00:00","2015-05-08 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+6114,"Lunchtime Concert - DIT Irish Traditional Music Ensemble","2015-05-08 13:00:00","2015-05-08 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 6082,"Tunes in the Church","2015-05-08 20:00:00","2015-05-08 20:00:00","St. Columba's Church","Bindon Street",Ennis,Clare,Ireland,52.84566879,-8.98572063
 6112,"Monthly Céilí","2015-05-08 20:00:00","2015-05-08 20:00:00","Niebyl-Proctor Marxist Library","6501 Telegraph Avenue",Oakland,California,USA,37.85111618,-122.26067352
 6122,"3rd annual South Downs Tionol with Brian McNamara","2015-05-08 20:00:00","2015-05-09 22:00:00","St Mary's Church And Church Hall","Church Street","West Chiltington","West Sussex",England,50.95379257,-0.44889840
@@ -3796,7 +3796,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6279,Lynched,"2015-10-08 20:00:00","2015-10-08 23:00:00","Mermaid Arts Centre","Main Street",Bray,Wicklow,Ireland,53.20211029,-6.10972500
 6262,"Catskill Irish Arts Fall Weekend","2015-10-09 00:00:00","2015-10-11 00:00:00","Various Venues",,"East Durham","New York",USA,42.37268448,-74.09535217
 6280,Lynched,"2015-10-09 20:00:00","2015-10-09 23:00:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
-6236,"Na Rósaí","2015-10-10 19:30:00","2015-10-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+6236,"Na Rósaí","2015-10-10 19:30:00","2015-10-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 6233,"Handed Down   Rte's Field Trips To Sliabh Luachra 1946 to 1990","2015-10-10 20:00:00","2015-10-10 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 6258,"MÓRglór Award Night 2015 - a concert celebrating Eoin O'Neill","2015-10-10 20:00:00","2015-10-10 20:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 6263,"Irish Dance Ceili","2015-10-10 20:00:00","2015-10-10 20:00:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
@@ -3810,7 +3810,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6287,"Irish session Slovenia","2015-10-21 19:00:00","2015-10-21 19:00:00","Zlata Ladjica","Jurčičev Trg 1",Ljubljana,Ljubljana,Slovenia,46.04828644,14.50522804
 6286,"Irish Trad Workshop & Learners Session","2015-10-22 19:30:00","2015-10-22 19:30:00","Emma's Kreativ Cafe","Wisbyer Str. 73",Berlin,Berlin,Germany,52.55416107,13.41559029
 6284,"Irish session in Thonon-les-Bains, Haute Savoie","2015-10-22 21:00:00","2015-10-22 21:00:00","Bar/Restaurant Le Nuancé","39 Avenue De La Dame, Les Fleysets",Thonon-Les-Bains,Chablais,France,46.37120056,6.48391294
-6238,"Scéalta na Samhna","2015-10-23 13:00:00","2015-10-23 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+6238,"Scéalta na Samhna","2015-10-23 13:00:00","2015-10-23 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 6059,"Wardle Folk Festival 2015","2015-10-23 19:00:00","2015-10-25 22:00:00","Wardle Academy","Birch Road",Rochdale,"Greater Manchester",England,53.64202881,-2.12693143
 6283,"The Roaring Kelly Band","2015-10-24 16:00:00","2015-10-24 16:00:00","O'Connor's Pub","210 NE 2nd St","Delray Beach",Florida,USA,26.46513748,-80.07074738
 6239,"Perry Hall Folk Music Night, featuring Lynn Hollyfield","2015-10-24 19:00:00","2015-10-24 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
@@ -3889,8 +3889,8 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6373,"7th Annual Benefit for Doctors without Borders","2016-02-27 17:00:00","2016-02-27 17:00:00","The Ancient Order Of Hibernians","25300 5 Mile Road",Redford,Michigan,USA,42.39999771,-83.29004669
 6374,"Celtic Calling","2016-03-04 17:00:00","2016-03-06 21:00:00","Various Venues",,Charleston,"West Virginia",USA,38.35119247,-81.63835907
 6344,"Chris Langan Weekend","2016-03-04 18:00:00","2016-03-06 17:00:00","The Tranzac Club","292 Brunswick Ave",Toronto,Ontario,Canada,43.66579056,-79.38786316
-3749,"Day of Irish Music Workshops with Pete Cooper (fiddle), Jem Hammond (flute/whistle) & Kitty Greenwood (Play It By Ear)","2016-03-05 09:30:00","2016-03-05 18:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
-6148,"Shropshire Hills Irish Music Day 2016","2016-03-05 09:30:00","2016-03-05 09:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+3749,"Day of Irish Music Workshops with Pete Cooper (fiddle), Jem Hammond (flute/whistle) & Kitty Greenwood (Play It By Ear)","2016-03-05 09:30:00","2016-03-05 18:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
+6148,"Shropshire Hills Irish Music Day 2016","2016-03-05 09:30:00","2016-03-05 09:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 6354,"String Circle fiddle workshop","2016-03-05 10:00:00","2016-03-05 16:00:00","Tribe Porty","19 Windsor Place, Portobello",Edinburgh,Lothian,Scotland,55.95135880,-3.11319518
 6382,"Donal Lunny and Paddy Glackin","2016-03-05 20:00:00","2016-03-05 20:00:00","Sirius Arts Centre","The Old Yacht Club, Westbourne Place",Cobh,Cork,Ireland,51.84954071,-8.29656982
 6351,"Irish Music Retreat","2016-03-06 00:00:00","2016-03-11 00:00:00","Various Venues",,"Roche Harbor",Washington,USA,48.60982132,-123.14879608
@@ -3920,7 +3920,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6335,"Cruinniú na bhFliúit/The Flute Meeting  2016","2016-03-31 00:00:00","2016-04-02 00:00:00","Various Venues",,Ballyvourney,Cork,Ireland,51.94565582,-9.17063236
 6350,"Patrick Ourceau Irish Fiddle Workshop Weekend","2016-04-02 00:00:00","2016-04-03 00:00:00","Home Of Dave Marlatt And Mary Whalen","9717 N. 32nd St.",Richland,Michigan,USA,42.40098190,-85.45516968
 6355,"String Circle fiddle workshop","2016-04-02 10:00:00","2016-04-02 16:00:00","Tribe Porty","19 Windsor Place, Portobello",Edinburgh,Lothian,Scotland,55.95135880,-3.11319518
-6278,"Irish Music Workshops with Pete Cooper, Jem Hammond & Kitty Greenwood","2016-04-05 21:30:00","2016-04-05 21:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+6278,"Irish Music Workshops with Pete Cooper, Jem Hammond & Kitty Greenwood","2016-04-05 21:30:00","2016-04-05 21:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 6415,"Boxwood's Williamsburg Traditional Music Weekend","2016-04-07 16:00:00","2016-04-10 14:00:00","Various Venues",,Williamsburg,Virginia,USA,37.27070236,-76.70745850
 6393,"Perry Hall Folk Music Night, featuring Brooksie Wells","2016-04-09 19:00:00","2016-04-09 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 6381,Altan,"2016-04-09 20:00:00","2016-04-09 20:00:00","Kings Place","90 York Way","Kings Cross",London,England,51.53482437,-0.12175610
@@ -3938,7 +3938,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6423,"Dreos - CD Launch with Dr Eliot Grasso, Brandon Vance and Glen Waddell","2016-04-23 21:00:00","2016-04-24 02:00:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.37953949,-122.76171875
 6360,"Féile Chois Cuain 2016","2016-04-29 00:00:00","2016-05-02 00:00:00","Various Venues",,Louisburgh,Mayo,Ireland,53.76313782,-9.80908489
 6418,"NYAH Weekend of Irish Music in Co Cavan : Concert & Sessions","2016-04-29 00:00:00","2016-05-02 00:00:00","Various Venues",,Butlerbridge,Cavan,Ireland,53.98971939,-7.36333179
-6437,"Lunchtime concert w/ DIT Irish Traditional Music Ensemble","2016-04-29 13:00:00","2016-04-29 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+6437,"Lunchtime concert w/ DIT Irish Traditional Music Ensemble","2016-04-29 13:00:00","2016-04-29 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 6439,"Lachlan Concert","2016-04-30 22:00:00","2016-04-30 22:00:00","Boyd's Jig & Reel Pub","101 S. Central St.",Knoxville,Tennessee,USA,35.97014999,-83.91854095
 6436,"The Great Scottish Flute Night","2016-05-06 19:30:00","2016-05-06 19:30:00","City Of Edinburgh Methodist Church Hall","25 Nicolson Square",Edinburgh,Lothian,Scotland,55.94538879,-3.18599415
 6421,"The 3rd FluteFling Scottish Flute Day","2016-05-07 09:00:00","2016-05-07 09:00:00","The Old Parish Church Hall","Bellfield Street, Portobello",Edinburgh,Lothian,Scotland,55.95278549,-3.10759950
@@ -4125,7 +4125,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6631,"Paddy O Brien & Erin Hart","2016-10-06 20:00:00","2016-10-06 23:30:00","Farnham Arms Hotel","11 Main Street",Cavan,Cavan,Ireland,53.99128723,-7.36006594
 6606,"Columbus Day Weekend CIAW  Fall Series","2016-10-07 00:00:00","2016-10-09 00:00:00","Various Venues",,"East Durham","New York",USA,42.37268448,-74.09535217
 6630,"Máire Ní Chathasaigh & Chris Newman (Irish Harp & Guitar)","2016-10-07 19:30:00","2016-10-07 19:30:00","Unity Spiritual Center Denver","3021 S. University Blvd.",Denver,Colorado,USA,39.66275024,-104.95998383
-6540,"Gothard Sisters in Concert","2016-10-08 19:30:00","2016-10-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+6540,"Gothard Sisters in Concert","2016-10-08 19:30:00","2016-10-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 6644,"Master classes in flute and fiddle","2016-10-10 00:00:00","2016-10-10 00:00:00","Áras Chrónáin Ionad Cultúir","Watery Lane, Orchard Road",Clondalkin,Dublin,Ireland,53.32207108,-6.39305782
 6639,"Colly Moore and Enda McCabe","2016-10-12 21:00:00","2016-10-12 21:00:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
 6632,"Singing Your Heart Out","2016-10-14 20:00:00","2016-10-14 23:00:00","Our Lady Of Lourdes Church Centre","222 Trittiford Rd",Birmingham,"West Midlands",England,52.41459656,-1.82079899
@@ -4156,7 +4156,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6692,"IrishFest Atlanta","2016-11-04 00:00:00","2016-11-05 00:00:00","Holiday Inn Atlanta-Perimeter / Dunwoody","4386 Chamblee Dunwoody Rd",Atlanta,Georgia,USA,33.91937637,-84.31680298
 6642,"Frankie Gavin and De Dannan","2016-11-04 19:45:00","2016-11-04 19:45:00","Sirius Arts Centre","The Old Yacht Club, Westbourne Place",Cobh,Cork,Ireland,51.84954071,-8.29656982
 6657,"Irish Dance Ceili","2016-11-04 20:00:00","2016-11-04 20:00:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
-6524,"Old Time Fiddle Workshop","2016-11-05 10:00:00","2016-11-05 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+6524,"Old Time Fiddle Workshop","2016-11-05 10:00:00","2016-11-05 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 6661,"Celtia Fest","2016-11-05 11:00:00","2016-11-05 20:30:00","Teatro Angela Peralta","Aristóteles, Polanco IV Secc","Mexico City","Mexico City",Mexico,19.43323898,-99.19335175
 6662,"Celtic Music Gathering","2016-11-06 11:00:00","2016-11-06 11:00:00","El Mango","Callejón De Los Campesinos 7",Tepoztlán,Morelos,Mexico,18.98506355,-99.09691620
 6561,"Ennis Trad Fest 2016","2016-11-10 00:00:00","2016-11-14 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84351349,-8.98374653
@@ -4252,7 +4252,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6769,"CD launch Tim O' Shea and Friends","2017-02-25 17:30:00","2017-02-25 17:30:00","The Gleneagle Hotel","Muckross Road",Killarney,Kerry,Ireland,52.05173111,-9.50676441
 6747,"London Fiddle Convention","2017-02-26 12:30:00","2017-02-26 22:00:00","Cecil Sharp House","2 Regent's Park Road",Camden,London,England,51.53818130,-0.14952140
 6746,"Pint of Irish Celtic Retreat","2017-03-03 16:00:00","2017-03-05 14:00:00","Camp Wrightwood",,Wrightwood,California,USA,34.42714691,-117.58706665
-6650,"3rd Shropshire Hills Irish Music Day","2017-03-04 09:30:00","2017-03-04 18:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+6650,"3rd Shropshire Hills Irish Music Day","2017-03-04 09:30:00","2017-03-04 18:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 6715,"String Circle fiddle workshops","2017-03-04 10:00:00","2017-03-04 16:00:00","Tribe Porty","19 Windsor Place, Portobello",Edinburgh,Lothian,Scotland,55.95135880,-3.11319518
 6766,"Irish Memory Orchestra Apprentice Scheme","2017-03-08 00:00:00","2017-03-08 00:00:00","Lisheenkyle National School",,Athenry,Galway,Ireland,53.29206085,-8.84459686
 6775,"Bringing It All Back Home: A Retrospective with Nuala O’Connor, Philip King & Dónal Lunny.","2017-03-09 19:00:00","2017-03-09 20:30:00","Irish Traditional Music Archive","73 Merrion Square South",Dublin,Dublin,Ireland,53.33893967,-6.25039005
@@ -4275,7 +4275,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6773,"Open Session","2017-03-19 15:00:00","2017-03-19 17:30:00",,,,,,,
 6800,"Dennis Spring and the Sons of the Full Moon","2017-03-19 18:00:00","2017-03-19 21:00:00",,,,,,,
 6801,"Folk Club","2017-03-23 20:00:00","2017-03-23 22:00:00","Nomi’s Home","Najot (ניות)",Jerusalem,Jerusalem,Israel,31.76830292,35.20284653
-6804,"Irish Traditional Music Ensemble Lunchtime Concert","2017-03-24 13:00:00","2017-03-24 13:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+6804,"Irish Traditional Music Ensemble Lunchtime Concert","2017-03-24 13:00:00","2017-03-24 13:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 6740,"The Steampacket Sessions Irish Music Weekend","2017-03-24 17:30:00","2017-03-26 14:00:00",,,,,,,
 6796,"Lίadan concert","2017-03-24 19:30:00","2017-03-24 19:30:00","Milford Church",,Castletroy,Limerick,Ireland,52.67149353,-8.56655025
 6765,"A Weekend of Irish Music Sessions in Lancaster","2017-03-24 20:00:00","2017-03-26 18:00:00","Various Venues",,Lancaster,Lancashire,England,54.03943634,-2.78115702
@@ -4290,7 +4290,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6808,"Fleadh Cheoil Cheatharlach 2017","2017-04-07 00:00:00","2017-04-09 00:00:00","Various Venues",,Borris,Carlow,Ireland,52.59851074,-6.92658758
 6797,"Recital with Gerry O’Connor","2017-04-07 20:00:00","2017-04-07 21:30:00","St. Finbarr's Church","Main Street",Carrickmacross,Monaghan,Ireland,53.97796631,-6.71989155
 6792,"Perry Hall Folk Music Night, featuring Rupert Wates","2017-04-08 19:00:00","2017-04-08 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
-6822,"Dreos in Concert","2017-04-08 19:30:00","2017-04-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+6822,"Dreos in Concert","2017-04-08 19:30:00","2017-04-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 6794,"Beoga in concert","2017-04-08 20:00:00","2017-04-08 22:30:00","St. Louis Secondary School Hall","Castle Street",Carrickmacross,Monaghan,Ireland,53.97797775,-6.71882391
 6739,"Easter 2017 – Folk up Denbigh Moors!","2017-04-13 11:00:00","2017-04-18 11:00:00","Sportsman’s Arms Inn","Denbigh Moors",Bylchau,Denbighshire,Wales,53.18390656,-3.42500210
 6815,"Fiddle Masterclass","2017-04-17 22:00:00","2017-04-21 18:00:00",Labanan,,"Baie D'Audièrne",Bretagne,France,47.91680145,-4.47418213
@@ -4308,7 +4308,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 6836,Pipeline,"2017-04-29 20:00:00","2017-04-29 20:00:00","ONO Bern","Kramgasse 10",Bern,Berne,Switzerland,46.94813156,7.45172834
 6786,"Andy Irvine & Donal Lunny Concert","2017-05-05 19:00:00","2017-05-05 19:00:00","St Patricks Gateway Centre","Patrick Street",Waterford,Waterford,Ireland,52.26004791,-7.11339808
 6817,"JP Collins Celtic Festival","2017-05-05 19:30:00","2017-05-07 18:00:00","Kent Theatre","24 Coburg St.","Saint John","New Brunswick",Canada,45.27570343,-66.05928040
-6829,"1st Friday Ceili Mor","2017-05-05 19:30:00","2017-05-05 23:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+6829,"1st Friday Ceili Mor","2017-05-05 19:30:00","2017-05-05 23:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 6837,"Buttons and Bows","2017-05-06 00:00:00","2017-05-06 00:00:00","Ionad Cultúrtha",,Ballyvourney,Cork,Ireland,51.94318771,-9.17049599
 6818,"NYAH Comhaltas Present Concert of Champions","2017-05-07 19:00:00","2017-05-07 23:00:00","Farnham Arms Hotel","11 Main Street",Cavan,Cavan,Ireland,53.99128723,-7.36006594
 6838,"Usher's Island CD launch","2017-05-10 20:00:00","2017-05-10 20:00:00","Chorlton Irish Club","17 High Lane, Chorlton-cum-Hardy",Manchester,"Greater Manchester",England,53.43938446,-2.27655411
@@ -4511,7 +4511,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7015,"A Celtic Winter Night","2017-11-18 19:00:00","2017-11-18 19:00:00","Evangelische Trinitatiskirche Aue","Brühlstraße, 76227 Karlsruhe","Karlsruhe, Durlach",Baden-Wuerttenburg,Germany,48.98943329,8.46192837
 6956,"Handed Down - ""Kerry Music and Musicians - A source of Influence on my personal style"" presented by Charlie Piggott","2017-11-18 20:00:00","2017-11-18 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7022,"Randal Bays with Susan Waters, Willie Bays and Owen Bays - 10th Anniversary house concert","2017-11-18 20:00:00","2017-11-18 23:45:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.37953949,-122.76171875
-6754,"Stewart Hardy Workshop Weekend","2017-11-18 21:30:00","2017-11-19 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+6754,"Stewart Hardy Workshop Weekend","2017-11-18 21:30:00","2017-11-19 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7026,"Music in the age of artificial creation","2017-11-20 19:00:00","2017-11-20 19:00:00","St. Dunstan And All Saints","Stepney High Street",Stepney,London,England,51.51728821,-0.04262620
 6988,"Oíche Cheoil le Jaskane agus The Dreamers","2017-11-24 20:00:00","2017-11-24 22:00:00","An Taibhdhearc","19 Middle Street",Galway,Galway,Ireland,53.27191925,-9.05273342
 7021,"Fiddle Duo Séamus & Manus McGuire at ITMA","2017-11-25 13:00:00","2017-11-25 14:00:00","Irish Traditional Music Archive","73 Merrion Square South",Dublin,Dublin,Ireland,53.33893967,-6.25039005
@@ -4519,7 +4519,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7025,"Irish Music Show with the Ragged Rascals","2017-12-03 16:00:00","2017-12-03 19:00:00","McGonigal's Pub","105 S Cook St.",Barrington,Illinois,USA,42.15361786,-88.13459015
 7036,"Muireann Nic Amhlaoibh with Donal O’Connor & Gerry O’Beirne","2017-12-08 20:00:00","2017-12-08 22:00:00","Cultúrlann Sweeney","O'Connell Street",Kilkee,Clare,Ireland,52.67964172,-9.64505959
 7013,"A Celtic Winter Night","2017-12-09 19:00:00","2017-12-09 19:00:00","Protestantische Markuskirche","Am Sommerwald 98",Pirmasens,Rheinland-Pfalz,Germany,49.21503067,7.62167978
-7027,"MAC - 2nd Saturday Community Concert","2017-12-09 19:30:00","2017-12-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7027,"MAC - 2nd Saturday Community Concert","2017-12-09 19:30:00","2017-12-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 6957,"Handed Down - ""Journey into Traditions; Placing the Button Accordion in the Sliabh Luachra Context"" presented by Maire O Keeffe","2017-12-09 20:00:00","2017-12-09 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7032,"Handed Down “ Journey into Tradition “ Placing the Button Accordion in the Sliabh Luachra Context presented by Màire O Keeffe","2017-12-09 20:00:00","2017-12-22 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7033,"John Spillane","2017-12-15 20:30:00","2017-12-15 22:30:00","Ionad Cultúrtha",,Ballyvourney,Cork,Ireland,51.94318771,-9.17049599
@@ -4589,8 +4589,8 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7131,"3rd Annual Celtic Calling Gathering","2018-03-02 16:00:00","2018-03-04 23:45:00","Various Venues",,Charleston,"West Virginia",USA,38.35119247,-81.63835907
 6959,"Cancelled: Handed Down - ""Sliabh Luachra Influences in the 1980's"" presented by Paudie O Connor","2018-03-03 20:00:00","2018-03-03 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7127,"Handed Down - Sliabh Luachra influences from the 1980’s presented by Paudie O Connor","2018-03-03 20:00:00","2018-03-03 20:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
-6991,"4th Shropshire Hills Irish Fiddle Day","2018-03-03 21:30:00","2018-03-03 21:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
-7134,"CRUMAC - 2nd Saturday Community Concert","2018-03-10 19:30:00","2018-03-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+6991,"4th Shropshire Hills Irish Fiddle Day","2018-03-03 21:30:00","2018-03-03 21:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
+7134,"CRUMAC - 2nd Saturday Community Concert","2018-03-10 19:30:00","2018-03-10 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7125,"Irish Dance Ceili","2018-03-10 20:00:00","2018-03-10 20:00:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
 7129,"NYAH Jig of Life Award to Jackie Daly 2018","2018-03-10 20:30:00","2018-03-10 20:30:00","Backyard Arts Centre",Moynehall,Cavan,Cavan,Ireland,53.96472168,-7.35671997
 7141,"Niel Gow Scottish Fiddle Festival","2018-03-16 00:00:00","2018-03-18 00:00:00","Various Venues",,"Dunkeld & Birnham","Perth And Kinross",Scotland,56.55857086,-3.57106709
@@ -4648,7 +4648,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7104,"Heidi Talbot, Breanndán Ó Beaglaoich, John McCusker & Paul Meehan","2018-05-12 00:00:00","2018-05-12 00:00:00","Fiddle Fair Marquee",,Baltimore,Cork,Ireland,51.48046875,-9.36756992
 7140,"Fiddlinscool with Gregor Borland","2018-05-12 09:00:00","2018-05-13 17:00:00","Hatton Castle",,Newtyle,"Perth And Kinross",Scotland,56.55657196,-3.13726163
 7185,"Philadelphia Fleadh Festival","2018-05-12 11:00:00","2018-05-12 21:00:00","The National  Guard Armory","2700 Southampton Road",Philadelphia,Pennsylvania,USA,40.11228561,-74.98799133
-7196,"The Fretless","2018-05-12 19:30:00","2018-05-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7196,"The Fretless","2018-05-12 19:30:00","2018-05-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7105,"Heidi Talbot, Breanndán Ó Beaglaoich, John McCusker & Paul Meehan","2018-05-15 00:00:00","2018-05-15 00:00:00","Station House Theatre",,Clifden,Galway,Ireland,53.48860931,-10.01930046
 7076,"Heidi Talbot, Breanndán Ó Beaglaoich, John McCusker & Paul Meehan","2018-05-16 20:00:00","2018-05-16 20:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
 7107,"Heidi Talbot, Breanndán Ó Beaglaoich, John McCusker & Paul Meehan","2018-05-17 00:00:00","2018-05-17 00:00:00","Riverbank Arts Centre","Main Street",Newbridge,Kildare,Ireland,53.18184280,-6.79530430
@@ -4659,7 +4659,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7197,"Gerry O'Connor and Richard Mandel - House Concert","2018-05-18 21:00:00","2018-05-18 23:45:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.37953949,-122.76171875
 7109,"Heidi Talbot, Breanndán Ó Beaglaoich, John McCusker & Paul Meehan","2018-05-19 00:00:00","2018-05-19 00:00:00","Pavilion Theatre","Marine Road","Dún Laoghaire",Dublin,Ireland,53.29299927,-6.13455009
 7198,"Session Irlandaise Ouverte durant l'escale à Calais","2018-05-19 02:00:00","2018-05-19 05:00:00","Quai Fournier",,Calais,"Nord-Pas De Calais",France,50.95980072,1.85856998
-7137,"Irish Fiddle Workshop","2018-05-19 09:30:00","2018-05-19 17:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7137,"Irish Fiddle Workshop","2018-05-19 09:30:00","2018-05-19 17:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7204,"Tunes at the Riverbed","2018-05-19 18:30:00","2018-05-19 18:30:00","Antiguo Cauce Del Río Túria",,Valencia,Valencia,Spain,39.48011398,-0.38698849
 7160,"Perry Hall Folk Music Night, featuring Tom Margolis","2018-05-19 19:00:00","2018-05-19 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 7110,"Heidi Talbot, Breanndán Ó Beaglaoich, John McCusker & Paul Meehan","2018-05-20 00:00:00","2018-05-20 00:00:00","National Opera House","High Street",Wexford,Wexford,Ireland,52.33776474,-6.46236181
@@ -4748,14 +4748,14 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7188,"Goderich Celtic Roots Festival","2018-08-10 00:00:00","2018-08-12 00:00:00","Various Venues",,Goderich,Ontario,Canada,43.72173309,-81.62636566
 7256,"Cascadia Irish Music Week Teachers Concert","2018-08-10 20:00:00","2018-08-10 20:00:00","The Longhouse At The Evergreen State College","2700 Evergreen Parkway NW",Olympia,Washington,USA,47.07290268,-122.97708130
 7285,"Perry Hall Folk Music Night, featuring Damian Keavney","2018-08-11 19:00:00","2018-08-11 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
-7307,"KGB — Keenan, Gavin and Byrne","2018-08-11 19:30:00","2018-08-11 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7307,"KGB — Keenan, Gavin and Byrne","2018-08-11 19:30:00","2018-08-11 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7257,"Cascadia Irish Music Week Teachers Concert","2018-08-11 20:00:00","2018-08-11 20:00:00","Wedgwood Presbyterian Church","8008 35th Ave NE",Seattle,Washington,USA,47.68689346,-122.29019165
 7190,"Fleadh Cheoil na hÉireann Drogheda","2018-08-12 00:00:00","2018-08-19 00:00:00","Various Venues",,Drogheda,Louth,Ireland,53.71601868,-6.33942080
 7236,"Milwaukee Irish Fest Summer School","2018-08-13 18:30:00","2018-08-17 13:00:00","CelticMKE Center","1532 N. Wauwatosa Ave",Milwaukee,Wisconsin,USA,43.05170059,-88.00701141
 7306,"Liz Knowles","2018-08-14 22:00:00","2018-08-14 23:00:00","Rothe House","Parliament Street",Kilkenny,Kilkenny,Ireland,52.65430450,-7.25444508
 7234,"Scoil Na gCláirseach—Festival of Early Irish Harp","2018-08-15 00:00:00","2018-08-21 00:00:00","Coláiste Pobail Osraí","Bóthar Urmhumhan",Kilkenny,Kilkenny,Ireland,52.65414429,-7.24478769
 7278,"Martin Hayes Quartet","2018-08-16 19:30:00","2018-08-16 19:30:00","Saint Canice's Cathedral","The Close, Coach Road",Kilkenny,Kilkenny,Ireland,52.65102386,-7.24849510
-7308,"Zoe Conway and John McIntyre","2018-08-17 19:30:00","2018-08-17 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7308,"Zoe Conway and John McIntyre","2018-08-17 19:30:00","2018-08-17 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7182,"Masters of Tradition festival","2018-08-22 00:00:00","2018-08-26 00:00:00","Various Venues",,Bantry,Cork,Ireland,51.68478775,-9.46678257
 7309,"Iarla Ó Lionáird and Steve Cooney","2018-08-23 19:45:00","2018-08-23 19:45:00","Lyric Theatre","55 Ridgeway Street",Belfast,Antrim,"Northern Ireland",54.57720566,-5.93097019
 7310,"The Carolan Celebration","2018-08-24 20:00:00","2018-08-24 20:00:00","First Presbyterian Church","Rosemary Street",Belfast,Antrim,"Northern Ireland",54.60031509,-5.92984581
@@ -4807,7 +4807,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7357,"Sean Nós workshop with Antoine O Farachán","2018-10-04 20:00:00","2018-10-04 23:00:00","Bridgewater Inn",,Sallins,Kildare,Ireland,53.24959183,-6.66528988
 7340,"Dave Flynn - Around the World in 80 Minutes","2018-10-04 20:30:00","2018-10-04 20:30:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 7349,"Bellingham Irish Festival","2018-10-05 00:00:00","2018-10-07 00:00:00","Various Venues",,Bellingham,Washington,USA,48.75489807,-122.47811890
-7358,"1st Friday Ceili Mor","2018-10-05 19:30:00","2018-10-05 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7358,"1st Friday Ceili Mor","2018-10-05 19:30:00","2018-10-05 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7337,"Outside the Box - Máirtín O'Connor with Dave Flynn's Irish Memory Orchestra","2018-10-05 20:00:00","2018-10-05 20:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 7331,"All For Me Grog: The Songs and Stories of the Dubliners","2018-10-05 20:30:00","2018-10-05 22:30:00","The Presentation Centre","Convent Road",Enniscorthy,Wexford,Ireland,52.50579071,-6.57309532
 7365,"Bodhrán Workshop","2018-10-06 15:00:00","2018-10-06 16:00:00","Sallins National School",,Sallins,Kildare,Ireland,53.25170135,-6.66078997
@@ -4824,11 +4824,11 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7297,"Creation low session Perigueux 1er contact","2018-10-13 20:00:00","2018-10-13 20:00:00","At Home",,Périgueux,Dordogne,France,45.18407059,0.72320002
 7210,"O’Flaherty Irish Music Retreat","2018-10-18 00:00:00","2018-10-21 00:00:00","Hoblitzelle Camp And Conference Center","8060 Singleton Rd",Midlothian,Texas,USA,32.39478683,-97.00495911
 7359,"Fairfax Irish Festival","2018-10-19 00:00:00","2018-10-21 00:00:00","Various Venues",,Fairfax,California,USA,37.98714447,-122.58886719
-7138,"Fiddle Workshop with John Dipper","2018-10-20 10:00:00","2018-10-20 10:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
-7139,"Guitar workshop with Dave Malkin","2018-10-20 10:00:00","2018-10-20 10:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7138,"Fiddle Workshop with John Dipper","2018-10-20 10:00:00","2018-10-20 10:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
+7139,"Guitar workshop with Dave Malkin","2018-10-20 10:00:00","2018-10-20 10:00:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7370,"Early Irish Harp Discovery Day","2018-10-20 13:00:00","2018-10-20 16:00:00","Irish Traditional Music Archive","73 Merrion Square South",Dublin,Dublin,Ireland,53.33893967,-6.25039005
 7368,"Fiddle, Flute & Whistle Workshops with the Friel Sisters","2018-10-20 13:30:00","2018-10-20 17:30:00","Crescent Arts Centre","2-4 University Rd",Belfast,Antrim,"Northern Ireland",54.58621979,-5.93596983
-7347,"Dipper Malkin in Concert","2018-10-20 19:30:00","2018-10-20 19:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7347,"Dipper Malkin in Concert","2018-10-20 19:30:00","2018-10-20 19:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7376,"Caoimhín Ó Raghallaigh and Landless","2018-10-20 20:00:00","2018-10-20 23:00:00","The Duncairn Centre For Arts And Culture","Duncairn Avenue",Belfast,Antrim,"Northern Ireland",54.61289597,-5.93807364
 7377,"Karan Casey and Band","2018-10-20 20:00:00","2018-10-20 20:00:00","Cultúrlann Sweeney","O'Connell Street",Kilkee,Clare,Ireland,52.67964172,-9.64505959
 7372,"Fiddlers on the Farm","2018-10-21 14:00:00","2018-10-21 17:00:00","Gore Place","52 Gore Street",Waltham,Massachusetts,USA,42.37313843,-71.21231079
@@ -4864,7 +4864,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7174,"25th William Kennedy Piping Festival","2018-11-15 00:00:00","2018-11-18 00:00:00","Various Venues",,"Armagh City",Armagh,"Northern Ireland",54.34786606,-6.65409708
 7382,"The Hastings Fleadh","2018-11-16 00:00:00","2018-11-18 00:00:00","Various Venues",,Hastings,"East Sussex",England,50.85358810,0.57233500
 7335,"2nd Aberdeen ""FluteFling""","2018-11-17 10:00:00","2018-11-17 16:30:00","Inchgarth Community Centre","Aboyne Pl",Aberdeen,Aberdeenshire,Scotland,57.12205124,-2.13276076
-7391,"The Saturday Coffee Sessions no 3","2018-11-17 10:30:00","2018-11-17 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7391,"The Saturday Coffee Sessions no 3","2018-11-17 10:30:00","2018-11-17 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7398,"Handed Down: Dan Murphy and The Fàilte Bar Abbeyfeale presented by Donal Murphy","2018-11-17 20:00:00","2018-11-17 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7383,"Open the Door for Three","2018-11-18 19:30:00","2018-11-18 23:00:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.37953949,-122.76171875
 7387,"Within a Mile of Dublin 2: The Goodman Collection","2018-11-22 13:00:00","2018-11-22 14:00:00","Irish Traditional Music Archive","73 Merrion Square South",Dublin,Dublin,Ireland,53.33893967,-6.25039005
@@ -4891,7 +4891,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7444,"IMBOLC International Music Festival","2019-01-27 00:00:00","2019-02-10 00:00:00","Cultúrlann Uí Chanáin","37 Great James Street",Derry,Derry,"Northern Ireland",54.99959183,-7.32491016
 7437,"Imagining Ireland","2019-01-30 19:30:00","2019-01-30 19:30:00","The Barbican Centre","Silk Street",London,London,England,51.52003098,-0.09233000
 7438,"Féile na Tána","2019-02-01 00:00:00","2019-02-03 00:00:00","Various Venues",,Carlingford,Louth,Ireland,54.04686737,-6.19018078
-7447,"Imbolc Ceili Mor","2019-02-01 19:30:00","2019-02-01 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7447,"Imbolc Ceili Mor","2019-02-01 19:30:00","2019-02-01 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7413,"The Outside Track","2019-02-02 19:30:00","2019-02-02 21:30:00","Palmer Creek Lodge","606 4th Street",Dayton,Oregon,USA,45.21897125,-123.07610321
 7439,"Andy Irvine and Donal Lunny","2019-02-02 20:00:00","2019-02-02 20:00:00","Mermaid Arts Centre","Main Street",Bray,Wicklow,Ireland,53.20211029,-6.10972500
 7445,"Bouzouki Workshop: Duo Zouk","2019-02-03 12:00:00","2019-02-03 14:00:00","Cultúrlann Uí Chanáin","37 Great James Street",Derry,Derry,"Northern Ireland",54.99959183,-7.32491016
@@ -4899,8 +4899,8 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7443,"Louise Mulcahy lecture: A History of Women in Uilleann Piping 1800s-1900s","2019-02-08 13:00:00","2019-02-08 13:00:00","Cultúrlann Uí Chanáin","37 Great James Street",Derry,Derry,"Northern Ireland",54.99959183,-7.32491016
 7427,"Ímar, Savannah Donohoe, Charlie Galloway & MC Gary Lynch ","2019-02-08 19:30:00","2019-02-08 19:30:00","Backyard Arts Centre",Moynehall,Cavan,Cavan,Ireland,53.96472168,-7.35671997
 7432,"Women and traditional/folk music research symposium","2019-02-09 08:30:00","2019-02-09 18:00:00","Hardiman Research Building","National University Of Ireland Galway, University Road",Galway,Galway,Ireland,53.27935410,-9.06087112
-7448,"Jim Malcolm in concert","2019-02-09 19:30:00","2019-02-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
-7390,"Session of the Century: 100 tunes in a day","2019-02-10 10:00:00","2019-02-10 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7448,"Jim Malcolm in concert","2019-02-09 19:30:00","2019-02-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
+7390,"Session of the Century: 100 tunes in a day","2019-02-10 10:00:00","2019-02-10 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7442,"Concertina Cruinniú","2019-02-15 00:00:00","2019-02-17 00:00:00","Various Venues",,"Miltown Malbay",Clare,Ireland,52.85620117,-9.40077591
 7425,"Winter Trad Seisiun","2019-02-15 19:30:00","2019-02-15 22:30:00","Irish American Club","22770 Lakeshore Blvd.",Euclid,Ohio,USA,41.61135101,-81.52313232
 7461,"Mikey Kenney","2019-02-20 19:30:00","2019-02-20 19:30:00","Smugglers Record Shop","9 King Street",Deal,Kent,England,51.22476196,1.40318584
@@ -4915,11 +4915,11 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7473,NYAH,"2019-03-08 00:00:00","2019-03-18 00:00:00","Various Venues",,Cavan,Cavan,Ireland,53.99083328,-7.36055613
 7428,"Mick O Connor, Rosie Stewart, P J Hernon and Bríd Harper","2019-03-08 19:30:00","2019-03-08 19:30:00","Johnston Central Library","Farnham Street",Cavan,Cavan,Ireland,53.99259949,-7.36183977
 7459,"Lowcountry Irish Fest","2019-03-09 00:00:00","2019-03-09 00:00:00","Charleston Music Hall","37 John Street",Charleston,"South Carolina",USA,32.78669357,-79.93283844
-7465,"Saturday Coffee Session no 6","2019-03-09 10:30:00","2019-03-09 12:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
-7453,Realta,"2019-03-09 19:30:00","2019-03-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7465,"Saturday Coffee Session no 6","2019-03-09 10:30:00","2019-03-09 12:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
+7453,Realta,"2019-03-09 19:30:00","2019-03-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7454,"Irish Dance Ceili","2019-03-09 20:00:00","2019-03-09 23:45:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
 7466,"Handed Down : ""Matt Cranitch—Take a Bow""","2019-03-09 20:00:00","2019-03-09 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
-7457,"Annual Shamrock Cruise","2019-03-10 14:30:00","2019-03-10 17:30:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50542831,-122.66351318
+7457,"Annual Shamrock Cruise","2019-03-10 14:30:00","2019-03-10 17:30:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50517273,-122.69236755
 7477,"Scottish Fiddle Workshop with Athena Tergis","2019-03-13 19:00:00","2019-03-13 19:00:00","Ripley Grier Studios","520 8th Avenue",Manhattan,"New York",USA,40.75373840,-73.99210358
 7476,"Fiddle Workshop: Irish Fiddling in the Sligo Style with Manus McGuire","2019-03-13 19:30:00","2019-03-13 19:30:00","Irish Arts Center","726 11th Avenue",Manhattan,"New York",USA,40.76662064,-73.99369812
 7422,"Kilkenny Tradfest 2019","2019-03-15 00:00:00","2019-03-18 00:00:00","Various Venues",,Kilkenny,Kilkenny,Ireland,52.65490341,-7.24640274
@@ -4940,7 +4940,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7462,"Perry Hall Folk Music Night, featuring Rick LaRocca","2019-03-30 19:00:00","2019-03-30 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 7440,"Zoë Conway, Dónal Lunny & Máirtín O'Connor","2019-03-30 20:00:00","2019-03-30 20:00:00","Mermaid Arts Centre","Main Street",Bray,Wicklow,Ireland,53.20211029,-6.10972500
 7485,"Golden Bough","2019-03-30 20:00:00","2019-03-30 23:00:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.37953949,-122.76171875
-7487,"1st Friday Ceili Mor","2019-04-05 19:30:00","2019-04-05 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7487,"1st Friday Ceili Mor","2019-04-05 19:30:00","2019-04-05 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7526,"Celtic Roots Festival by Celtic in the Heartland","2019-04-06 13:00:00","2019-04-06 23:45:00","Union Pacific Depot","402 North 2nd Street",Lawrence,Kansas,USA,38.97829819,-95.23442078
 7486,"The Tannahill Weavers","2019-04-06 21:00:00","2019-04-06 23:45:00","Aladdin Theatre","3017 SE Milwaukie Ave",Portland,Oregon,USA,45.50080872,-122.65454865
 7318,"Kevin Crawford & Wild Atlantic Music Tours","2019-04-07 00:00:00","2019-04-13 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84351349,-8.98374653
@@ -4951,7 +4951,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7517,"Ballydehob Irish Traditional Music Festival","2019-04-12 00:00:00","2019-04-14 00:00:00","Various Venues",,Ballydehob,Cork,Ireland,51.56224442,-9.46686554
 7527,"Dylan Foley in Concert","2019-04-12 19:30:00","2019-04-12 21:30:00","Richland Community Hall","8985 Gull Road",Richland,Michigan,USA,42.37599945,-85.45717621
 7513,"Ceardlann Earraigh","2019-04-13 00:00:00","2019-04-13 00:00:00","Scoil Na Mainistreach","Oldtown Road",Celbridge,Kildare,Ireland,53.33782196,-6.54219198
-7488,"The Fire - 2nd Saturday Community Concert","2019-04-13 19:30:00","2019-04-13 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7488,"The Fire - 2nd Saturday Community Concert","2019-04-13 19:30:00","2019-04-13 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7489,"Handed Down: From Sliabh Luachra to the USA presented by Pádraig MacMathúna","2019-04-13 20:00:00","2019-04-13 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7492,"Tony McManus","2019-04-13 20:00:00","2019-04-13 20:00:00","Rosemount Hall","41 Rosemount Avenue",Ottawa,Ontario,Canada,45.40119934,-75.72543335
 7494,"Irish Dance Ceili","2019-04-13 20:00:00","2019-04-13 23:45:00","German Canadian Club","1 Cove Rd",London,Ontario,Canada,42.96726608,-81.26614380
@@ -5123,14 +5123,14 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7629,"Kincora Trad Fest","2019-10-11 00:00:00","2019-10-13 00:00:00","Various Venues",,Ballina,Tipperary,Ireland,52.81104660,-8.44404793
 7633,"Tola Custy Fiddle Workshop","2019-10-12 14:00:00","2019-10-12 17:00:00","Bradwell Lodge","Bradwell Lane, Porthill",Newcastle-under-Lyme,Staffordshire,England,53.03778458,-2.22494102
 7651,"Perry Hall Folk Music Night, featuring Brooksie Wells","2019-10-12 19:00:00","2019-10-12 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
-7582,"Molly's Revenge - 2nd Saturday Community Concert","2019-10-12 19:30:00","2019-10-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7582,"Molly's Revenge - 2nd Saturday Community Concert","2019-10-12 19:30:00","2019-10-12 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7680,"Séamus Begley & Donogh Hennessey","2019-10-12 21:00:00","2019-10-12 21:00:00","Áras Éanna",,Inisheer,Galway,Ireland,53.06452942,-9.53108978
-7691,"The Saturday Coffee Sessions","2019-10-13 10:30:00","2019-10-13 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7691,"The Saturday Coffee Sessions","2019-10-13 10:30:00","2019-10-13 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7685,"Sligo Live","2019-10-18 00:00:00","2019-10-28 00:00:00","Various Venues",,Sligo,Sligo,Ireland,54.27195358,-8.47788334
 7675,"Fairfax Irish Festival","2019-10-18 19:00:00","2019-10-20 19:00:00","Various Venues",,Fairfax,California,USA,37.98714447,-122.58886719
 7658,Lankum,"2019-10-18 20:00:00","2019-10-18 23:00:00",Dolan's,"3-4 Dock Road",Limerick,Limerick,Ireland,52.65883255,-8.63820648
 7697,"Kevin Burke","2019-10-19 00:00:00","2019-10-19 00:00:00","Coastguard Cultural Centre","Love Ln",Tramore,Waterford,Ireland,52.15674210,-7.15945721
-7689,"Saturday Coffee Sessions","2019-10-19 10:30:00","2020-03-07 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7689,"Saturday Coffee Sessions","2019-10-19 10:30:00","2020-03-07 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7637,Daimh,"2019-10-19 19:30:00","2019-10-19 22:00:00","Sherwood Center For The Arts","22689 SW Pine Street",Sherwood,Oregon,USA,45.35565186,-122.83982849
 7674,"Handed Down Sat Oct 19 “ Kerry  Music recorded in New York 1950’s”  Denis Murphy and Corneilus O Sullivan presented by Bryan O Leary","2019-10-19 20:00:00","2019-10-19 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7319,"Blackie O'Connell & Wild Atlantic Music Tours","2019-10-20 00:00:00","2019-10-26 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84351349,-8.98374653
@@ -5156,7 +5156,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7616,"Four Men And A Dog","2019-11-06 20:00:00","2019-11-06 22:30:00",Dolan's,"3-4 Dock Road",Limerick,Limerick,Ireland,52.65883255,-8.63820648
 7720,"Liz Carroll & Kate Burke In Concert","2019-11-07 19:00:00","2019-11-07 19:00:00","Abbotsford Convent","1 St Heliers St, Abbotsford",Melbourne,Victoria,Australia,-37.80306244,145.00479126
 7699,"Four Men And A Dog","2019-11-08 00:00:00","2019-11-08 00:00:00","Ionad Cultúrtha",,Ballyvourney,Cork,Ireland,51.94318771,-9.17049599
-7705,"Winifred Horan, CD Release tour","2019-11-09 19:30:00","2019-11-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7705,"Winifred Horan, CD Release tour","2019-11-09 19:30:00","2019-11-09 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7655,"Téada with Seamus Begley","2019-11-09 20:00:00","2019-11-09 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 7703,"Handed Down “Going to the Well for Water” presented by Máire O Keeffe","2019-11-09 20:00:00","2019-11-09 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7721,"Uneven Ground in Concert","2019-11-10 14:00:00","2019-11-10 15:00:00","Loutit District Library","407 Columbus Ave.","Grand Haven",Michigan,USA,43.06428528,-86.22660065
@@ -5170,7 +5170,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7701,Gatehouse,"2019-11-15 20:00:00","2019-11-15 20:00:00","The Pillar House","8 Society Street",Ballinasloe,Galway,Ireland,53.33028030,-8.22203636
 7730,TradTalk,"2019-11-16 09:30:00","2019-11-16 17:00:00","Hibernia Confernce Centre","Dublin Castle, Dame Street",Dublin,Dublin,Ireland,53.34288788,-6.26742840
 7724,"Deadstring Trad Guitar Immersion Day","2019-11-16 10:00:00","2019-11-16 17:00:00","Passim School Of Music","26 Church St.",Cambridge,Massachusetts,USA,42.37423325,-71.11999512
-7690,"The Saturday Coffee Sessions","2019-11-16 10:30:00","2019-11-16 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7690,"The Saturday Coffee Sessions","2019-11-16 10:30:00","2019-11-16 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7736,Session,"2019-11-16 18:30:00","2019-11-16 18:30:00","Café Giraffe","1428 Karla Jeřábka","Roudnice Nad Labem",Bohemia,"Czech Republic",50.42302322,14.25433064
 7646,"Trad for Charity Weekend Fundraiser","2019-11-16 19:00:00","2019-11-17 23:30:00","West End Bar Fenit","West End Fenit",Tralee,Kerry,Ireland,52.27672195,-9.86434364
 7681,"Perry Hall Folk Music Night, featuring Matt Roach","2019-11-16 19:00:00","2019-11-16 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
@@ -5183,7 +5183,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7656,"Matt Molloy, John Carty, and Brian McGrath","2019-11-22 20:00:00","2019-11-22 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 7716,"Matt Molloy, John Carty, and Brian McGrath","2019-11-23 19:00:00","2019-11-23 19:00:00","South And City College","High Street Deritend, Digbeth",Birmingham,"West Midlands",England,52.47470093,-1.88494396
 7729,Lankum,"2019-11-23 19:30:00","2019-11-23 19:30:00","St. Luke's","Summerhill North",Cork,Cork,Ireland,51.90420914,-8.45690155
-7738,"Na Rosai and the Irish musicians of Portland United","2019-11-23 19:30:00","2019-11-23 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7738,"Na Rosai and the Irish musicians of Portland United","2019-11-23 19:30:00","2019-11-23 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7657,Lúnasa,"2019-11-23 20:00:00","2019-11-23 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 7719,"Stories from the Old World","2019-11-28 20:00:00","2019-11-28 20:00:00","Farmleigh House","White's Rd, Phoenix Park",Dublin,Dublin,Ireland,53.35588074,-6.32981348
 7747,"Tunes For David","2019-11-29 19:30:00","2019-11-29 23:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
@@ -5192,7 +5192,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7731,"Sesión de Música Celta","2019-12-01 14:00:00","2019-12-01 18:00:00","El Paraíso Del Café","Calle Rayón No. 18, Colonia Centro",Cuernavaca,Morelos,Mexico,18.92188263,-99.23971558
 7749,"Celtic songs and tunes session","2019-12-01 15:00:00","2019-12-01 15:00:00","Marino's Restaurant & Bar","1066 Adelaide Street North",London,Ontario,Canada,43.00983047,-81.24125671
 7743,"Lisnagun: A Benefit Concert for Brendan & Michèle","2019-12-06 21:00:00","2019-12-06 21:00:00",Kino,"23 A Washington Street",Cork,Cork,Ireland,51.89747238,-8.48063564
-7692,"The Saturday Coffee Sessions","2019-12-07 10:30:00","2019-12-07 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7692,"The Saturday Coffee Sessions","2019-12-07 10:30:00","2019-12-07 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7726,"Zoe Conway and John McIntyre","2019-12-07 19:00:00","2019-12-07 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 7740,"Handed Down “ Saying Goodbye to 1969” presented by Matt Cranitch","2019-12-07 20:00:00","2019-12-07 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 7722,"The Roaring Kelly Band at the West Palm Beach Arts Festival","2019-12-08 12:00:00","2019-12-08 14:00:00","Armory Art Center","811 Park Place","West Palm Beach",Florida,USA,26.69854164,-80.06108856
@@ -5201,7 +5201,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7688,"Charlie Piggott and Eugene Lambe","2019-12-12 20:30:00","2019-12-12 20:30:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 7700,"Cormac Begley and friends","2019-12-13 00:00:00","2019-12-13 00:00:00","Ionad Cultúrtha",,Ballyvourney,Cork,Ireland,51.94318771,-9.17049599
 7751,"Irish Night: Irish Sessions by Crann Úll","2019-12-13 19:00:00","2019-12-13 19:00:00","Museo Regional De Guadalajara","Liceo 60",Guadalajara,Jalisco,Mexico,20.67777061,-103.34621429
-7739,"Kevin Burke - 2nd Saturday Community Concert","2019-12-14 19:30:00","2019-12-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7739,"Kevin Burke - 2nd Saturday Community Concert","2019-12-14 19:30:00","2019-12-14 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7741,"Clare Youth Trad Orchestra with Seán Keane","2019-12-14 20:00:00","2019-12-14 20:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 7759,"New Michael Gorman CD launch","2019-12-14 20:00:00","2019-12-14 20:00:00","The Twelve Pins","263 Seven Sisters Rd.","Finsbury Park",London,England,51.56546783,-0.10445600
 7761,"December Trad Session","2019-12-19 19:00:00","2019-12-19 22:00:00","The Wychwood Brewery Tap","Eagle Maltings, The Crofts",Witney,Oxfordshire,England,51.78318787,-1.48830116
@@ -5211,17 +5211,17 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7661,Beoga,"2019-12-22 20:00:00","2019-12-22 20:00:00","St. Luke's","Summerhill North",Cork,Cork,Ireland,51.90420914,-8.45690155
 7773,"Sharon Shannon and band with special guests","2019-12-29 20:00:00","2019-12-29 20:00:00","Monroe's Tavern","14 Dominick Street Upper",Galway,Galway,Ireland,53.26996994,-9.05776978
 7760,"Lake School Of Celtic Music, Song & Dance","2020-01-02 00:00:00","2020-01-07 00:00:00","Various Venues",,Koroit,Victoria,Australia,-38.29228592,142.36706543
-7765,"1st Friday Ceili Mor","2020-01-03 19:30:00","2020-01-03 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7765,"1st Friday Ceili Mor","2020-01-03 19:30:00","2020-01-03 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7772,"Kilfenora Céilí Band Concerts","2020-01-04 00:00:00","2020-01-05 00:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 7782,"FREE Introductory Dance Session ~ Old Style Irish Dancing","2020-01-11 13:00:00","2020-01-11 13:45:00","The Woodville Arms","111 Lake Street",Lurgan,Armagh,"Northern Ireland",54.47298050,-6.32591915
 7783,"Old Style Step ~ Irish Solo Dance Workshop for Adults","2020-01-11 13:45:00","2020-01-11 16:30:00","The Woodville Arms","111 Lake Street",Lurgan,Armagh,"Northern Ireland",54.47298050,-6.32591915
 7787,"Trad Artist Residency Clinic with John Carty","2020-01-11 14:00:00","2020-01-11 17:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
-7766,"John Whelan - 2nd Saturday Community Concert","2020-01-11 19:30:00","2020-01-11 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7766,"John Whelan - 2nd Saturday Community Concert","2020-01-11 19:30:00","2020-01-11 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7753,"The 21st Jimmy McHugh Memorial Concert","2020-01-11 20:00:00","2020-01-11 20:00:00","Woodside Halls","36 Glenfarg Street",Glasgow,Glasgow,Scotland,55.87305832,-4.26726055
 7758,"Ross Ainslie, Jim Murray, Dónal O’Connor, and Jack Talty","2020-01-14 20:00:00","2020-01-14 23:00:00","The Sugar Club","8 Lower Leeson Street",Dublin,Dublin,Ireland,53.33549881,-6.25664330
 7744,"Celtic Connections","2020-01-16 00:00:00","2020-02-02 00:00:00","Various Venues",,Glasgow,Glasgow,Scotland,55.86167145,-4.25833464
 7774,"Boston Celtic Music Festival","2020-01-16 00:00:00","2020-01-19 00:00:00","Various Venues",,Cambridge,Massachusetts,USA,42.37397385,-71.12059021
-7693,"The Saturday Coffee Sessions","2020-01-18 10:30:00","2020-01-18 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7693,"The Saturday Coffee Sessions","2020-01-18 10:30:00","2020-01-18 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7748,Goitse,"2020-01-18 19:00:00","2020-01-18 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 7763,"Perry Hall Folk Music Night, featuring The Meantime","2020-01-18 19:00:00","2020-01-18 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 7746,"Cherish The Ladies","2020-01-18 19:30:00","2020-01-18 19:30:00","Glasgow Royal Concert Hall","2 Sauchiehall Street",Glasgow,Glasgow,Scotland,55.86547852,-4.28372622
@@ -5244,9 +5244,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7803,Kern,"2020-02-02 20:00:00","2020-02-02 20:00:00",Whelan's,"25 Wexford St",Dublin,Dublin,Ireland,53.33661652,-6.26572561
 7792,"MÁM featuring Cormac Begley","2020-02-05 00:00:00","2020-02-07 00:00:00","Sadlers Wells","Rosebery Avenue",Clerkenwell,London,England,51.52628326,-0.10940470
 7768,"Irish Mandolin Weekend Intensive Workshop","2020-02-07 19:00:00","2020-02-09 16:00:00","Private Home",,Larkspur,California,USA,37.93408966,-122.53525543
-7806,"Na Rosai - 1st Friday Ceili Mor","2020-02-07 19:30:00","2020-02-07 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+7806,"Na Rosai - 1st Friday Ceili Mor","2020-02-07 19:30:00","2020-02-07 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 7795,"The Fiddle Case","2020-02-07 21:00:00","2020-02-07 21:00:00","DC Music Club","20 Camden Row",Dublin,Dublin,Ireland,53.33636475,-6.26874256
-7694,"The Saturday Coffee Sessions","2020-02-08 10:30:00","2020-02-08 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7694,"The Saturday Coffee Sessions","2020-02-08 10:30:00","2020-02-08 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7796,"Sharon Shannon","2020-02-08 20:00:00","2020-02-08 20:00:00",Draíocht,"The Blanchardstown Centre",Blanchardstown,Dublin,Ireland,53.39186859,-6.39101171
 7801,"Doireann Glackin and Sarah Flynn","2020-02-08 20:00:00","2020-02-08 23:00:00","Private Home",,"Knocklishen Beg",Carlow,Ireland,52.89007568,-6.64666557
 7842,"2020 San Marcos Celtic Festival","2020-02-09 12:00:00","2020-02-09 18:00:00","San Marcos Activity Center","501 E Hopkins St","San Marcos",Texas,USA,29.88479996,-97.93289948
@@ -5293,7 +5293,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7864,"Cancelled: St. Patrick's Festival","2020-03-13 00:00:00","2020-03-17 00:00:00","Various Venues",,Grevena,Grevena,Greece,40.08376312,21.42733002
 7883,"A Weekend of Irish Music Sessions in Lancaster","2020-03-13 19:00:00","2020-03-15 17:30:00","Various Venues",,Lancaster,Lancashire,England,54.03943634,-2.78115702
 7891,"Cancelled: Matt cranitch and Jackie Daly","2020-03-13 20:00:00","2020-03-13 23:00:00","Tullamore Rugby Club",,Tullamore,Offaly,Ireland,53.26690292,-7.49886227
-7892,"Cancelled: Martin Hayes and the Common Ground Ensemble","2020-03-14 00:00:00","2020-03-15 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7892,"Cancelled: Martin Hayes and the Common Ground Ensemble","2020-03-14 00:00:00","2020-03-15 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7898,"Cancelled: Jackie Daly and Matt Cranitch","2020-03-14 00:00:00","2020-03-14 00:00:00","Coleman Traditional Irish Music Centre","Main Street",Gurteen,Sligo,Ireland,53.99589920,-8.52268887
 7778,"Cancelled: Accordion Masterclass with Máirtín O’Connor","2020-03-14 11:00:00","2020-03-14 12:00:00","The Parade Tower","Kilkenny Castle, The Parade",Kilkenny,Kilkenny,Ireland,52.65046310,-7.24929810
 7779,"Cancelled: Bouzouki Masterclass with Dónal Lunny","2020-03-14 11:00:00","2020-06-14 12:00:00","The Parade Tower","Kilkenny Castle, The Parade",Kilkenny,Kilkenny,Ireland,52.65046310,-7.24929810
@@ -5302,20 +5302,20 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7866,"Perry Hall Folk Music Night, featuring Michael Kelly","2020-03-14 19:00:00","2020-03-14 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 7807,"Cancelled: Teada - St Patrick's Day Tour USA","2020-03-14 20:00:00","2020-03-14 23:00:00","Aladdin Theatre","3017 SE Milwaukie Ave",Portland,Oregon,USA,45.50080872,-122.65454865
 7884,"Bampton F.C. Oli Cousins Memorial Concert","2020-03-14 20:00:00","2020-03-14 23:30:00","The Romany Inn","Bridge Street",Bampton,Oxfordshire,England,51.72554398,-1.54684567
-7767,"Cancelled: Annual Shamrock Cruise","2020-03-15 14:30:00","2020-03-15 17:30:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50542831,-122.66351318
+7767,"Cancelled: Annual Shamrock Cruise","2020-03-15 14:30:00","2020-03-15 17:30:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50517273,-122.69236755
 7853,"Cancelled: Andy Irvine and Paul Brady","2020-03-16 07:00:00","2020-03-16 07:00:00","The Royal Theatre","Old Westport Road",Castlebar,Mayo,Ireland,53.85322952,-9.30411720
 7839,"Cancelled: Céilí at the Crossroads","2020-03-17 12:00:00","2020-03-17 12:00:00","Various Venues",,Moycullen,Galway,Ireland,53.33672333,-9.17895126
-7833,"Cancelled: Louise Mulcahy, Noel Hill, Paddy Glackin and Stephen Rea","2020-03-18 19:30:00","2020-03-18 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7833,"Cancelled: Louise Mulcahy, Noel Hill, Paddy Glackin and Stephen Rea","2020-03-18 19:30:00","2020-03-18 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7893,"Cancelled: Notes and Narratives: Danny Meehan interviewed by Caoimhín MacAoidh","2020-03-19 00:00:00","2020-03-19 00:00:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001953
 7894,"Cancelled: Danny O’Mahoney,Liz Kane, and Diarmuid Ó Meachair","2020-03-20 00:00:00","2020-03-20 00:00:00","Ionad Cultúrtha",,Ballyvourney,Cork,Ireland,51.94318771,-9.17049599
 7895,"Cancelled: Gerry O'Connor fiddle workshop","2020-03-21 11:00:00","2020-03-21 16:00:00","Mermaid Arts Centre","Main Street",Bray,Wicklow,Ireland,53.20211029,-6.10972500
 7847,"Cancelled: Frankie Gavin","2020-03-24 19:30:00","2020-03-24 19:30:00","The Fiddler","229 Kilburn High Road",Kilburn,London,England,51.54233932,-0.19884640
-7834,"Cancelled: Sorcha Ní Scolaí, Pádraic Mac Mathúna, Seán Keane, Noel O’Grady and Stephen Rea","2020-03-25 19:30:00","2020-03-25 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7834,"Cancelled: Sorcha Ní Scolaí, Pádraic Mac Mathúna, Seán Keane, Noel O’Grady and Stephen Rea","2020-03-25 19:30:00","2020-03-25 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7901,"Euskal-irlandar folk session","2020-03-27 20:00:00","2020-03-27 20:00:00","Auzo Etxea - Casa Social","Andikollano, 30",Lutxana-Barakaldo,"Basque Country",Spain,43.28893280,-2.98006463
-7704,"Cancelled: Delicious Duets","2020-03-28 09:30:00","2020-03-28 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+7704,"Cancelled: Delicious Duets","2020-03-28 09:30:00","2020-03-28 16:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 7856,"Cancelled: Réalta","2020-03-28 19:00:00","2020-03-28 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 7886,"Cancelled: Meath Beo: Brian Carolan and Brendan Rowan","2020-03-29 17:30:00","2020-03-29 20:00:00","Headfort School",,Kells,Meath,Ireland,53.73417664,-6.84719610
-7835,"Cancelled: Colm Broderick, Mary Bergin, Tony Linnane, Mick Conneely","2020-04-01 19:30:00","2020-04-01 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7835,"Cancelled: Colm Broderick, Mary Bergin, Tony Linnane, Mick Conneely","2020-04-01 19:30:00","2020-04-01 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7868,"Cancelled: Féile Patrick Byrne 2020","2020-04-01 20:00:00","2020-04-05 23:45:00","Various Venues",,Carrickmacross,Monaghan,Ireland,53.97668076,-6.71889210
 7869,"Cancelled: Gerry O'Connor and Gilles le Bigot","2020-04-02 20:00:00","2020-04-02 22:00:00","St. Finbarr's Church","Main Street",Carrickmacross,Monaghan,Ireland,53.97796631,-6.71989155
 7802,"Cancelled: Sean-nós Northwest Traditional Irish weekend","2020-04-03 00:00:00","2020-04-05 00:00:00","Evergreen State College","2700 Evergreen Parkway NW",Olympia,Washington,USA,47.07370377,-122.97459412
@@ -5387,7 +5387,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7929,"Ye Vagabonds with Cormac Begley","2020-09-19 00:00:00","2020-09-19 00:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
 7932,"Celtic/ITM session","2020-09-23 19:00:00","2020-09-23 21:00:00","The  Home Of Adam Sweet","117 Amherst St",Granby,Massachusetts,USA,42.26252747,-72.53737640
 7826,"Cancelled: NASC Folk and Traditional Music Festival","2020-09-26 00:00:00","2020-09-26 00:00:00","Marley House","Marlay Park, Grange Road",Rathfarnham,Dublin,Ireland,53.27328491,-6.26886511
-7933,"Caoimhín Ó Raghallaigh and Cormac Begley","2020-09-30 20:00:00","2020-09-30 22:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7933,"Caoimhín Ó Raghallaigh and Cormac Begley","2020-09-30 20:00:00","2020-09-30 22:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7857,"The 41st Cork Folk Festival","2020-10-01 00:00:00","2020-10-04 00:00:00","Various Venues",,Cork,Cork,Ireland,51.89899445,-8.46672726
 7918,"UP workshop","2020-10-03 09:30:00","2020-10-03 17:30:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Bretagne,France,48.27680969,-3.56044793
 7844,"Portal Music Week","2020-10-08 00:00:00","2020-10-12 00:00:00",,,,,,,
@@ -5433,7 +5433,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 7979,"Whelan Master Session #4: Brian Conway","2020-12-05 00:00:00","2020-12-05 00:00:00",,,,,,,
 7990,"Éigse Dhiarmuid Uí Shúilleabháin 2020 digital concert","2020-12-05 21:00:00","2020-12-05 22:30:00",,,,,,,
 7988,"Delving further into the Wavy Bow Collection with John Carty","2020-12-06 17:00:00","2020-12-06 18:00:00",,,,,,,
-7977,"Martin Hayes livestream","2020-12-08 20:00:00","2020-12-08 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+7977,"Martin Hayes livestream","2020-12-08 20:00:00","2020-12-08 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 7986,"John Whelan's ""Taking Time"" slow session","2020-12-09 00:00:00","2020-12-09 00:00:00",,,,,,,
 7982,"Steady Speed Session: Scottish and Scandy","2020-12-09 20:30:00","2020-12-09 21:30:00",,,,,,,
 7964,"Mary O's Virtual Session #51: Louisa Bennion and Friends (France Edition #2)","2020-12-10 19:30:00","2020-12-10 21:30:00",,,,,,,
@@ -5755,7 +5755,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8309,"Masters Of Tradition","2021-09-29 00:00:00","2021-11-17 00:00:00",,,,,,,
 8326,"New season: Laid back Irish session tunes with Rowan Leslie","2021-09-29 00:00:00","2021-09-29 00:00:00",,,,,,,
 8337,"Sorcha Costello and Frankie Gavin","2021-09-30 08:00:00","2021-09-30 08:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
-8312,"Tradition Now: An Córda Óir/The Golden Thread","2021-09-30 20:00:00","2021-09-30 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+8312,"Tradition Now: An Córda Óir/The Golden Thread","2021-09-30 20:00:00","2021-09-30 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 8324,"Duala: Meet the Artists Nuala Kennedy & Tara Breen","2021-10-01 13:00:00","2021-10-01 13:00:00",,,,,,,
 8334,"Moffat Rammy 2021 and Walking Festival 2021","2021-10-01 19:00:00","2021-10-03 23:00:00","Annandale Arms Hotel","High Street",Moffat,"Dumfries and Galloway",Scotland,55.33427048,-3.44525838
 8322,"Steve Cooney and Dermot Byrne","2021-10-01 20:00:00","2021-10-01 20:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
@@ -5763,8 +5763,8 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8341,"Slow session with Brendan McCreanor","2021-10-02 14:00:00","2021-10-02 15:30:00",,,,,,,
 8296,"Cancelled: Session","2021-10-02 17:00:00","2021-10-02 19:00:00","Monadnock Center For History And Culture",,Peterborough,"New Hampshire",USA,42.87700272,-71.95075226
 8336,"Jim Murray, Tara Breen and Pádraig Rynne","2021-10-02 20:00:00","2021-10-02 20:00:00","Triskel Christchurch","Tobin Street",Cork,Cork,Ireland,51.89778900,-8.47542381
-8311,"Tradition Now: Edwina Guckian and Caitlín Nic Gabhann","2021-10-03 14:00:00","2021-10-03 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
-8310,"Tradition Now: Jack Talty","2021-10-03 20:00:00","2021-10-03 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+8311,"Tradition Now: Edwina Guckian and Caitlín Nic Gabhann","2021-10-03 14:00:00","2021-10-03 14:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
+8310,"Tradition Now: Jack Talty","2021-10-03 20:00:00","2021-10-03 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 8355,"New season: Laid back Irish session tunes with Rowan Leslie","2021-10-06 00:00:00","2021-10-06 00:00:00",,,,,,,
 8330,"Andy Irvine","2021-10-06 20:00:00","2021-10-06 22:00:00",,,,,,,
 8358,"Steve Cooney, Martin Hayes and David Power","2021-10-06 20:00:00","2021-10-06 20:00:00",,,,,,,
@@ -5774,7 +5774,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8323,"Mick Conneely and David Munnelly","2021-10-09 20:00:00","2021-10-09 20:00:00","The Séamus Ennis Arts Centre","Main Street",Naul,Dublin,Ireland,53.58350372,-6.28787231
 8350,"Celebrating Dublin’s Resilience live concert","2021-10-09 21:00:00","2021-10-09 21:00:00","Meeting House Square","Temple Bar",Dublin,Dublin,Ireland,53.34555435,-6.26321697
 8315,"Zoë Conway and John McIntyre","2021-10-10 16:00:00","2021-10-10 17:00:00","Carlingford Heritage Centre","Church Road",Carlingford,Louth,Ireland,54.04686737,-6.19018078
-8321,"Martin Hayes in conversation","2021-10-12 20:00:00","2021-10-12 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+8321,"Martin Hayes in conversation","2021-10-12 20:00:00","2021-10-12 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 8359,Dervish,"2021-10-12 20:00:00","2021-10-12 20:00:00","Ropetackle Arts Centre","Little High Street","Shoreham By Sea","West Sussex",England,50.83251572,-0.27896199
 8266,"Foxford Traditional Weekend","2021-10-13 00:00:00","2021-10-17 00:00:00","Various Venues",,Foxford,Mayo,Ireland,53.98344040,-9.10387325
 8372,"New season: Laid back Irish session tunes with Rowan Leslie","2021-10-13 00:00:00","2021-10-13 00:00:00",,,,,,,
@@ -5872,7 +5872,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8418,"Éigse Dhiarmuid Uí Shúilleabháin","2021-12-03 00:00:00","2021-12-05 00:00:00","Various Venues",,Ballyvourney,Cork,Ireland,51.94565582,-9.17063236
 8455,"Tommy Reck album launch with Néillidh Mulligan, Tommy Keane and Mick O’Brien","2021-12-03 20:00:00","2021-12-03 22:00:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001953
 8421,"Niamh Ní Charra Band","2021-12-03 21:00:00","2021-12-03 23:00:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
-8433,"Saturday Coffee Sessions: Fiddles in harmony","2021-12-04 10:30:00","2021-12-04 10:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+8433,"Saturday Coffee Sessions: Fiddles in harmony","2021-12-04 10:30:00","2021-12-04 10:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 8453,"'Harping On' and Steve Cooney","2021-12-04 16:00:00","2021-12-04 18:00:00","St. Patricks Church","Church Square",Monaghan,Monaghan,Ireland,54.24816132,-6.97003555
 8297,"Slow Irish Session","2021-12-04 18:30:00","2021-12-04 20:30:00","Cargo Coffee East","750 East Washington Ave",Madison,Wisconsin,USA,43.08091354,-89.37595367
 8408,"Rob Zielinski and Donough O'Donovan","2021-12-04 19:00:00","2021-12-04 19:00:00","Private Residence","Mount Hawthorn",Perth,"Western Australia",Australia,-31.91958809,115.83560944
@@ -5897,7 +5897,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8481,"Laid back Irish session tunes with Rowan Leslie","2022-01-12 00:00:00","2022-01-12 00:00:00",,,,,,,
 8483,"BCMFest (Boston Celtic Music Festival)","2022-01-13 19:00:00","2022-01-16 00:00:00",,,,,,,
 8478,"Masterclass and concert with Atlantic Arc","2022-01-14 00:00:00","2022-01-16 00:00:00","Black Box Theatre","Dyke Road",Galway,Galway,Ireland,53.28173828,-9.05556583
-8447,"Saturday Coffee Sessions: Fiddles in Harmony","2022-01-15 10:30:00","2022-01-15 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+8447,"Saturday Coffee Sessions: Fiddles in Harmony","2022-01-15 10:30:00","2022-01-15 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 8488,"Laid back Irish session tunes with Rowan Leslie","2022-01-19 00:00:00","2022-01-19 00:00:00",,,,,,,
 8476,"Steady Speed Irish Session with WiseWood Folk UK","2022-01-21 20:30:00","2022-01-21 21:30:00",,,,,,,
 8457,"perfectionnement au UP","2022-01-22 09:30:00","2022-01-22 17:30:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Bretagne,France,48.27680969,-3.56044793
@@ -5927,7 +5927,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8499,"Mandolin workshop with Marla Fibish","2022-02-04 00:00:00","2022-02-06 00:00:00",,,,,,,
 8477,"Steady Speed Irish Session with WiseWood Folk UK","2022-02-04 20:30:00","2022-02-04 21:30:00",,,,,,,
 8467,"Féile na Tána","2022-02-05 00:00:00","2022-02-06 00:00:00",,,,,,,
-8448,"Saturday Coffee Sessions: Fiddles in Harmony","2022-02-05 10:30:00","2022-02-05 10:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+8448,"Saturday Coffee Sessions: Fiddles in Harmony","2022-02-05 10:30:00","2022-02-05 10:30:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 8490,"Ardán: Sorcha Costello, Kate McHugh and Elaine Reilly","2022-02-05 18:00:00","2022-02-05 18:00:00","The Séamus Ennis Arts Centre","Main Street",Naul,Dublin,Ireland,53.58350372,-6.28787231
 8472,"The Friel Sisters","2022-02-05 19:00:00","2022-02-05 19:00:00","Òran Mór","Byres Rd",Glasgow,Glasgow,Scotland,55.87406921,-4.29502821
 8509,"Laid back Irish session tunes with Rowan Leslie","2022-02-09 00:00:00","2022-02-09 00:00:00",,,,,,,
@@ -5973,12 +5973,12 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8559,"Brian Finnegan with The Hunger of the Skin Band","2022-03-12 20:00:00","2022-03-12 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 8519,"The Mayor of London’s St. Patrick’s festival","2022-03-13 12:00:00","2022-03-13 18:00:00","Trafalgar Square",,Westminster,London,England,51.50801086,-0.12787201
 8564,Téada,"2022-03-13 18:00:00","2022-03-13 18:00:00","The Focal Point","2720 Sutton Blvd",Maplewood,Missouri,USA,38.61168289,-90.31970978
-8546,"Patrick Ball - Come Dance With Me In Ireland: A Pilgrimage to Yeats Country","2022-03-13 19:00:00","2022-03-13 19:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+8546,"Patrick Ball - Come Dance With Me In Ireland: A Pilgrimage to Yeats Country","2022-03-13 19:00:00","2022-03-13 19:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 8587,"Donal Lunny’s Atlantic Arc","2022-03-13 19:30:00","2022-03-13 19:30:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 8571,"Mairi Campbell's Slow Session Class","2022-03-14 19:00:00","2022-03-14 21:00:00",,,,,,,
 8567,"Lúnasa with Daoirí Farrell","2022-03-15 19:30:00","2022-03-15 19:30:00","Music Box Supper Club","1148 Main Avenue",Cleveland,Ohio,USA,41.49821854,-81.70702362
 8608,Téada,"2022-03-15 19:30:00","2022-03-15 19:30:00","Jammin Java","227 Maple Ave East",Vienna,Virginia,USA,38.90404892,-77.26100922
-8523,"Drawing from the Well: The Liam O’Flynn Collection","2022-03-15 20:00:00","2022-03-15 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+8523,"Drawing from the Well: The Liam O’Flynn Collection","2022-03-15 20:00:00","2022-03-15 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 8580,"Laidback Irish session tunes with Rowan Leslie","2022-03-16 00:00:00","2022-03-16 00:00:00",,,,,,,
 8582,"Kilkenny Tradfest","2022-03-16 00:00:00","2022-03-20 00:00:00","Various Venues",,Kilkenny,Kilkenny,Ireland,52.65490341,-7.24640274
 8596,"Aisling Twomey and Anna Eggersberger","2022-03-16 13:15:00","2022-03-16 14:00:00","Irish World Academy Of Music And Dance","University Of Limerick",Limerick,Limerick,Ireland,52.67316055,-8.56970787
@@ -5991,7 +5991,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8556,"The All-Ireland Cultural Society of Oregon's 2nd Virtual St. Patrick's Day Celebration","2022-03-17 12:00:00","2022-03-17 23:45:00",,,,,,,
 8553,"The Céilí Allstars","2022-03-17 18:00:00","2022-03-17 18:00:00","Coughlan's Bar","7 Douglas Street",Cork,Cork,Ireland,51.89255142,-8.46830368
 8609,Téada,"2022-03-17 19:00:00","2022-03-17 19:00:00","Caffe Lena","47 Phila St","Saratoga Springs","New York",USA,43.08054733,-73.78340912
-8617,"St Patrick's Day Ceili Mor","2022-03-17 19:00:00","2022-03-17 21:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+8617,"St Patrick's Day Ceili Mor","2022-03-17 19:00:00","2022-03-17 21:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 8616,"Norwich Slow Tune St Patrick's Day Session","2022-03-17 19:30:00","2022-03-17 19:30:00",,,,,,,
 8613,"Kilfenora Céilí Band","2022-03-17 20:00:00","2022-03-17 20:00:00","Watergate Theatre","Parliament Street",Kilkenny,Kilkenny,Ireland,52.65422821,-7.25438976
 8614,Brynmor,"2022-03-17 20:00:00","2022-03-17 22:00:00",ROAR,"633 N. Liberty St.",Winston-Salem,"North Carolina",USA,36.10265732,-80.24515533
@@ -6012,7 +6012,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8607,Lúnasa,"2022-03-24 19:30:00","2022-03-24 19:30:00","University Of Georgia Performing Arts Center","230 River Road",Athens,Georgia,USA,33.94197464,-83.36952972
 8631,"Paudie O’ Connor and Aoife Ní Chaoimh","2022-03-25 20:00:00","2022-03-25 21:30:00","Siamsa Tire Theatre","Town Park",Tralee,Kerry,Ireland,52.26641083,-9.70802879
 8574,"Pádraic Keane album launch","2022-03-25 20:30:00","2022-03-25 20:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
-8588,"Martin Hayes and The Common Ground Ensemble","2022-03-26 00:00:00","2022-03-27 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+8588,"Martin Hayes and The Common Ground Ensemble","2022-03-26 00:00:00","2022-03-27 00:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 8508,"Saturday Coffee sessions: Fiddles in Harmony","2022-03-26 10:30:00","2022-03-26 12:45:00","Aston On Clun Village Hall","Craven Arms","Aston On Clun",Shropshire,England,52.43093491,-2.88084793
 8624,"Virtual Guided Session two year anniversary","2022-03-26 14:00:00","2022-03-26 14:00:00",,,,,,,
 8549,"Gatehouse In Concert","2022-03-26 20:00:00","2022-03-26 20:00:00","The Glens Centre","The New Line",Manorhamilton,Leitrim,Ireland,54.30315399,-8.17305565
@@ -6050,8 +6050,8 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8641,"Cormac Begley","2022-04-10 19:00:00","2022-04-10 19:00:00","Levis Corner House","Main Street",Ballydehob,Cork,Ireland,51.56301117,-9.45953560
 8537,"Derek Hickey and MacDara Faolain","2022-04-10 20:00:00","2022-04-10 20:00:00","Gleneagle INEC Arena","Muckross Road, Poulnamuck",Killarney,Kerry,Ireland,52.05231094,-9.50682163
 8645,"Matt Molloy and John Carty","2022-04-10 20:00:00","2022-04-10 23:30:00","The White Horse","West Village",Ballincollig,Cork,Ireland,51.88625336,-8.60631180
-8547,"Martin Hayes","2022-04-11 19:00:00","2022-04-11 21:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
-8618,"Martin Hayes in Concert","2022-04-11 19:00:00","2022-04-11 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+8547,"Martin Hayes","2022-04-11 19:00:00","2022-04-11 21:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
+8618,"Martin Hayes in Concert","2022-04-11 19:00:00","2022-04-11 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 8427,"Scoil Gheimhridh Ghaoth Dobhair","2022-04-14 00:00:00","2022-04-18 00:00:00","Various Venues",,"Gaoth Dobhair",Donegal,Ireland,55.05010223,-8.23220253
 8595,"Matt Molloy and John Carty","2022-04-14 00:00:00","2022-04-15 00:00:00","Stiúideo Cuan","Páirc Na Meán",Spiddal,Galway,Ireland,53.24679947,-9.26137733
 8670,"Piping Heaven/Piping Hell in ómos do Pat Broderick","2022-04-15 00:00:00","2022-04-17 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84351349,-8.98374653
@@ -6066,7 +6066,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8679,"Gerry O'Connor","2022-04-22 00:00:00","2022-04-22 00:00:00","Private Residence",,Chico,California,USA,39.72849274,-121.83747864
 8622,"Steady Speed Irish Session with WiseWood Folk (UK)","2022-04-22 20:30:00","2022-04-22 21:30:00",,,,,,,
 8683,"Gerry O'Connor and Richard Mandel","2022-04-23 00:00:00","2022-04-23 00:00:00","The Plough And Stars","116 Clement Street At 2nd Avenue","San Francisco",California,USA,37.78339005,-122.46054840
-8620,"Saturday Coffee Sessions: Fiddles in Harmony","2022-04-23 10:30:00","2022-04-23 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+8620,"Saturday Coffee Sessions: Fiddles in Harmony","2022-04-23 10:30:00","2022-04-23 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 8684,"Gerry O’Connor and Richard Mandel","2022-04-26 19:00:00","2022-04-26 21:00:00","Lincoln City Cultural Center","540 NE Hwy 101","Lincoln City",Oregon,USA,44.97018433,-124.01423645
 8685,"Gerry O'Connor and Richard Mandel","2022-04-27 19:00:00","2022-04-27 21:00:00","Artichoke Music","2007 SE Powell Blvd",Portland,Oregon,USA,45.49980545,-122.64537048
 8649,"Irish Session at Boondocks","2022-04-28 19:00:00","2022-04-28 23:00:00","Boondocks Hideout","Rådhusgata 2",Tønsberg,Vestfold,Norway,59.26713181,10.40666866
@@ -6137,7 +6137,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8741,"Laidback Irish session tunes with Rowan Leslie","2022-06-08 00:00:00","2022-06-08 00:00:00",,,,,,,
 8715,"Minnesota Irish Music Weekend","2022-06-09 00:00:00","2022-06-12 00:00:00","Celtic Junction Arts Center","836 Prior Ave","St Paul",Minnesota,USA,44.96621704,-93.18202209
 8627,"Doolin FolkFest","2022-06-10 00:00:00","2022-06-12 00:00:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01697159,-9.37518024
-8661,"Gulf Coast Cruinniú","2022-06-10 00:00:00","2022-06-12 00:00:00","The University Of St. Thomas Campus","3800 Montrose Blvd",Houston,Texas,USA,29.73822784,-95.39167023
+8661,"Gulf Coast Cruinniú","2022-06-10 00:00:00","2022-06-12 00:00:00","The University Of St. Thomas Campus","3800 Montrose Blvd",Houston,Texas,USA,29.73820686,-95.39163208
 8692,"National Celtic Folk Festival","2022-06-10 00:00:00","2022-06-13 00:00:00","Various Venues",,Portarlington,Victoria,Australia,-38.10737228,144.63206482
 8739,"Skerries Traditional Music Weekend","2022-06-10 00:00:00","2022-06-12 00:00:00","Various Venues",,Skerries,Dublin,Ireland,53.58412552,-6.10460615
 8738,Téada,"2022-06-10 20:00:00","2022-06-10 20:00:00","An Táin Arts Centre","Crowe Street",Dundalk,Louth,Ireland,54.00433350,-6.40118504
@@ -6235,7 +6235,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8726,"Masters of Tradition Festival","2022-08-24 00:00:00","2022-08-28 00:00:00","Various Venues",,Bantry,Cork,Ireland,51.68478775,-9.46678257
 8845,"Laidback Irish session tunes with Rowan Leslie","2022-08-24 00:00:00","2022-08-24 00:00:00",,,,,,,
 8752,"Declan Folan and Leonard Barry","2022-08-24 13:00:00","2022-08-24 14:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
-8734,Teada,"2022-08-24 19:30:00","2022-08-24 21:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+8734,Teada,"2022-08-24 19:30:00","2022-08-24 21:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 8823,"TradMusic Workshop","2022-08-25 19:00:00","2022-08-28 20:00:00","Ritterburg Lockenhaus","Eugen Horvath Platz 1",Lockenhaus,Burgenland,Austria,47.41101074,16.40901375
 8848,"Traditional harps from Ireland and Ukraine","2022-08-25 20:30:00","2022-08-25 20:30:00","Áras Éanna",,Inisheer,Galway,Ireland,53.06452942,-9.53108978
 8841,"Traditional Celtic Music Session and Retreat","2022-08-26 00:00:00","2022-08-28 00:00:00","The Brothers' Place",,"St.James, Beaver Island",Michigan,USA,45.74258804,-85.52632141
@@ -6258,7 +6258,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8825,"Féile Séamus Creagh","2022-09-07 00:00:00","2022-09-10 00:00:00","Gower Street United Church","Queen's Road","St. John's",Newfoundland,Canada,47.56542587,-52.70957184
 8807,"Féile Cheoil Larry Reynolds","2022-09-08 00:00:00","2022-09-11 00:00:00","Various Venues",,Ballinasloe,Galway,Ireland,53.32945251,-8.21314621
 8854,"16th Gerry Whelan memorial weekend","2022-09-09 00:00:00","2022-09-11 00:00:00","Various Venues",,Cootehill,Cavan,Ireland,54.07226944,-7.07510710
-8814,"Drawing from the Well at ITMA","2022-09-11 19:30:00","2022-09-11 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+8814,"Drawing from the Well at ITMA","2022-09-11 19:30:00","2022-09-11 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 8850,"Drawing From The Well","2022-09-12 19:30:00","2022-09-12 19:30:00","Seamus Heaney HomePlace","45 Main Street",Bellaghy,Derry,"Northern Ireland",54.80753326,-6.52147913
 8849,"Drawing From The Well","2022-09-13 20:00:00","2022-09-13 20:00:00","Linenhall Arts Centre","Linenhall Street",Castlebar,Mayo,Ireland,53.85815811,-9.29781151
 8871,"Laidback Irish session tunes with Rowan Leslie","2022-09-14 00:00:00","2022-09-14 00:00:00",,,,,,,
@@ -6352,7 +6352,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8768,"Patrick O'Keeffe Traditional Music Festival","2022-10-27 16:00:00","2022-10-31 23:45:00","Various Venues",,Castleisland,Kerry,Ireland,52.23532486,-9.46829796
 8943,"Book Launch: Cry of a People Gone","2022-10-27 19:30:00","2022-10-27 19:30:00","The Teachers' Club","36 Parnell Square West",Dublin,Dublin,Ireland,53.35311127,-6.26517963
 8959,Altan,"2022-10-27 20:00:00","2022-10-27 20:00:00","The Barns At Wolf Trap","1635 Trap Road",Vienna,Virginia,USA,38.93254852,-77.26552582
-8954,"Paddy Keenan with Cyril O'Donoghue, Colleen Shanks, Eamonn de Barra","2022-10-27 20:30:00","2022-10-27 20:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+8954,"Paddy Keenan with Cyril O'Donoghue, Colleen Shanks, Eamonn de Barra","2022-10-27 20:30:00","2022-10-27 20:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 8765,"Cáceres Irish Fleadh 2022","2022-10-28 00:00:00","2022-10-30 00:00:00","Various Venues",,Cáceres,Extremadura,Spain,39.47621536,-6.37085867
 8812,"Return To London Town Festival","2022-10-28 00:00:00","2022-10-31 00:00:00","Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55567932,-0.21401903
 8968,"The Cooley Collins Trad Festival","2022-10-28 00:00:00","2022-10-31 00:00:00","Various Venues",,Gort,Galway,Ireland,53.06664276,-8.81874847
@@ -6421,7 +6421,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8819,"Birmingham TradFest","2022-11-24 00:00:00","2022-11-27 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47740173,-1.90575504
 9004,"Norwich Slow Tune Session","2022-11-24 19:30:00","2022-11-24 19:30:00",,,,,,,
 8961,Dervish,"2022-11-25 20:00:00","2022-11-25 20:00:00","Selby Town Hall","York Street",Selby,"North Yorkshire",England,53.78286362,-1.07338619
-8994,"Saturday coffee sessions: Fiddles in Harmony","2022-11-26 10:15:00","2022-11-26 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+8994,"Saturday coffee sessions: Fiddles in Harmony","2022-11-26 10:15:00","2022-11-26 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 8966,"Remembering Brendan Mulkere","2022-11-26 19:00:00","2022-11-26 22:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 9002,"Máirtín O’Connor, Cathal Hayden and Seamie O’Dowd","2022-11-27 19:00:00","2022-11-27 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 9008,"The Traditional Irish Music Session","2022-11-28 16:00:00","2022-11-28 18:00:00",,,,,,,
@@ -6450,8 +6450,8 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9019,"Kevin Burke","2023-01-12 20:00:00","2023-01-12 21:45:00","Mermaid Arts Centre","Main Street",Bray,Wicklow,Ireland,53.20211029,-6.10972500
 9020,"Dónal O’Connor, Harry Bradley and Libby McCrohan","2023-01-13 13:00:00","2023-01-13 13:00:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60159683,-5.92705822
 9032,"West Atlantic Sessions","2023-01-13 20:00:00","2023-01-13 20:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
-9001,"Saturday Coffee Session: Fiddles in Harmony","2023-01-14 10:15:00","2023-01-14 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
-9021,"Kalos - 2nd Saturday Community Concert","2023-01-14 19:30:00","2023-01-14 21:45:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9001,"Saturday Coffee Session: Fiddles in Harmony","2023-01-14 10:15:00","2023-01-14 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
+9021,"Kalos - 2nd Saturday Community Concert","2023-01-14 19:30:00","2023-01-14 21:45:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9058,"Norwich Slow Tune Session","2023-01-19 19:30:00","2023-01-19 19:30:00",,,,,,,
 9062,"Notes & Narratives: Seamus Kelly & Aileen Saunders","2023-01-19 20:30:00","2023-01-19 20:30:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001953
 9031,"Letterkenny Trad Week","2023-01-20 00:00:00","2023-01-28 00:00:00","Various Venues",,Letterkenny,Donegal,Ireland,54.95584106,-7.73427868
@@ -6470,15 +6470,15 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8861,"Celtic Arts Foundation Winter School","2023-02-03 00:00:00","2023-02-14 00:00:00","Seabeck Conference Center","13395 Lagoon Drive NW",Seabeck,Washington,USA,47.56156158,-122.83641815
 9025,"Féile na Tána","2023-02-03 00:00:00","2023-02-05 00:00:00","Various Venues",,Carlingford,Louth,Ireland,54.04686737,-6.19018078
 9059,"John McFadden Festival","2023-02-03 00:00:00","2023-02-05 00:00:00","Various Venues",,Newport,Mayo,Ireland,53.88527679,-9.54636860
-9064,"1st Friday Ceili Mor","2023-02-03 19:30:00","2023-02-03 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9064,"1st Friday Ceili Mor","2023-02-03 19:30:00","2023-02-03 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9066,"Steady Speed Irish Session Tunes with WiseWood Folk (UK)","2023-02-03 20:30:00","2023-02-03 20:30:00",,,,,,,
 9000,"Martin Hayes and The Common Ground Ensemble","2023-02-04 00:00:00","2023-02-04 00:00:00","Grand Opera House","2-4 Great Victoria Street",Belfast,Antrim,"Northern Ireland",54.59570312,-5.93433905
-9055,"Saturday Coffee Session - Fiddles in Harmony","2023-02-04 10:15:00","2023-02-04 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+9055,"Saturday Coffee Session - Fiddles in Harmony","2023-02-04 10:15:00","2023-02-04 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 9052,"Irish Session","2023-02-05 15:00:00","2023-02-05 19:00:00","Creative Compound","630 Main St.",Honesdale,Pennsylvania,USA,41.57097626,-75.25521088
 9080,"European Folk Jam Session / Eвропейска Фолк Свирня","2023-02-05 19:30:00","2023-02-05 22:30:00","Bar The Raven And The Cannonball","ул. Позитано 3, входът към безистена 1000",Sofia,Sofia,Bulgaria,42.69543839,23.32173920
 9081,"Laidback Irish session tunes with Rowan Leslie","2023-02-08 00:00:00","2023-02-08 00:00:00",,,,,,,
 9033,"Concertina Cruinniú","2023-02-10 00:00:00","2023-02-12 00:00:00","Various Venues",,"Miltown Malbay",Clare,Ireland,52.85620117,-9.40077591
-9063,"Dréos - 2nd Saturday Community Concert","2023-02-11 19:30:00","2023-02-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9063,"Dréos - 2nd Saturday Community Concert","2023-02-11 19:30:00","2023-02-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9087,"Diarmuid Ó Meachair album launch","2023-02-11 19:30:00","2023-02-11 19:30:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 9034,"Scoil Cheoil an Earraigh","2023-02-15 00:00:00","2023-02-19 00:00:00","Various Venues",,Ballyferriter,Kerry,Ireland,52.16614914,-10.40598965
 9102,"Seán Ó Riada Memorial Lecture 2023 with Dr. Deirdre Ní Chonghaile","2023-02-15 17:15:00","2023-02-15 17:15:00","University College Cork","College Road",Cork,Cork,Ireland,51.89255142,-8.48905849
@@ -6503,7 +6503,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9073,"North Texas Irish Festival 2023","2023-03-03 00:00:00","2023-03-05 00:00:00","Fair Park","3809 Grand Ave.",Dallas,Texas,USA,32.77936172,-96.76119232
 9115,"Belfast Piping Tionól","2023-03-03 00:00:00","2023-03-05 00:00:00","An Droichead","20 Cooke Street, Ormeau Road",Belfast,Antrim,"Northern Ireland",54.58829498,-5.92300272
 9127,"Chris Langan Traditional Irish Music Weekend","2023-03-03 00:00:00","2023-03-05 00:00:00","Various Venues",,Toronto,Ontario,Canada,43.65189362,-79.38171387
-9098,"1st Friday Ceili Mor with Randal Bays","2023-03-03 19:30:00","2023-03-03 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9098,"1st Friday Ceili Mor with Randal Bays","2023-03-03 19:30:00","2023-03-03 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9122,"Pipe tuning and voicing course with Bill Haneman","2023-03-04 10:00:00","2023-03-05 16:00:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001953
 9123,"Talk by Louise Mulcahy: Mná na bPíob/Women in Piping 1800-1900","2023-03-04 19:30:00","2023-03-04 20:30:00","An Droichead","20 Cooke Street, Ormeau Road",Belfast,Antrim,"Northern Ireland",54.58829498,-5.92300272
 9130,"Laidback Irish session tunes with Rowan Leslie","2023-03-08 00:00:00","2023-03-08 00:00:00",,,,,,,
@@ -6513,9 +6513,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9119,Líadan,"2023-03-10 20:00:00","2023-03-10 23:00:00","Stiúideo Cuan","Páirc Na Meán",Spiddal,Galway,Ireland,53.24679947,-9.26137733
 9093,"Steady Speed Irish session with WiseWood Folk (UK)","2023-03-10 20:30:00","2023-03-10 21:30:00",,,,,,,
 9134,"Try The Pipes","2023-03-11 11:00:00","2023-03-11 13:00:00","Ballyfermot Library","Ballyfermot Road",Ballyfermot,Dublin,Ireland,53.34283829,-6.35956001
-9097,"Jim, Susie and Beth Malcolm - 2nd Saturday Community Concert","2023-03-11 19:30:00","2023-03-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
-9096,"6th Annual Shamrock Cruise with Tom Creegan and Eliot Grasso","2023-03-12 14:30:00","2023-03-12 17:30:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50542831,-122.66351318
-9086,"Drawing From The Well concert","2023-03-12 19:30:00","2023-03-12 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+9097,"Jim, Susie and Beth Malcolm - 2nd Saturday Community Concert","2023-03-11 19:30:00","2023-03-11 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
+9096,"6th Annual Shamrock Cruise with Tom Creegan and Eliot Grasso","2023-03-12 14:30:00","2023-03-12 17:30:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50517273,-122.69236755
+9086,"Drawing From The Well concert","2023-03-12 19:30:00","2023-03-12 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 9113,"Lunchtime Concert: Conor Caldwell and Ryan Molloy","2023-03-14 13:15:00","2023-03-14 14:00:00","Irish World Academy Of Music And Dance","University Of Limerick",Limerick,Limerick,Ireland,52.67316055,-8.56970787
 9143,"St. Patrick's Week Folk Festival","2023-03-14 20:00:00","2023-03-19 22:00:00","The Star","539 Fishponds Road, Fishponds",Bristol,Bristol,England,51.47643280,-2.53981972
 9076,"Kilkenny Trad Fest","2023-03-15 00:00:00","2023-03-19 00:00:00","Various Venues",,Kilkenny,Kilkenny,Ireland,52.65490341,-7.24640274
@@ -6538,7 +6538,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9084,"Maire Ni Cathasaigh and Chris Newman","2023-03-24 19:00:00","2023-03-24 21:00:00","The Irish Cultural Center Of The Mohawk Valley","623 Columbia Street",Utica,"New York",USA,43.10406876,-75.24087524
 9094,"Steady Speed Irish session with WiseWood Folk (UK)","2023-03-24 20:30:00","2023-03-24 21:30:00",,,,,,,
 9131,"perfectionnement aux UP","2023-03-25 09:15:00","2023-03-25 09:15:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Bretagne,France,48.27680969,-3.56044793
-9129,"Saturday Coffee Session - Fiddles in Harmony","2023-03-25 10:15:00","2023-03-25 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+9129,"Saturday Coffee Session - Fiddles in Harmony","2023-03-25 10:15:00","2023-03-25 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 9150,"Kevin Burke in concert","2023-03-25 12:00:00","2023-03-25 13:00:00",,,,,,,
 9157,"Virtual Guided Session Three Year Anniversary","2023-03-25 14:00:00","2023-03-25 15:00:00",,,,,,,
 9120,"Skipper's Alley","2023-03-25 20:00:00","2023-03-25 23:00:00","Stiúideo Cuan","Páirc Na Meán",Spiddal,Galway,Ireland,53.24679947,-9.26137733
@@ -6558,9 +6558,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9164,"Set Dancing Céilí with Sliabh Aughty","2023-04-02 13:00:00","2023-04-02 16:00:00","London Irish Centre","50-52 Camden Square",Camden,London,England,51.54375839,-0.13222030
 9103,"Maurice O'Keefe Festival","2023-04-07 00:00:00","2023-04-09 00:00:00","Various Venues",,Kiskeam,Cork,Ireland,52.17599487,-9.15702820
 9173,"Piping Heaven/Piping Hell - Pat Broderick Memorial Tionól 2023","2023-04-07 16:30:00","2023-04-08 23:45:00","Various Venues",,Ennis,Clare,Ireland,52.84351349,-8.98374653
-9145,"1st Friday Ceili Mor with John Whelan","2023-04-07 19:30:00","2023-04-07 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9145,"1st Friday Ceili Mor with John Whelan","2023-04-07 19:30:00","2023-04-07 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9167,"Session with the pipers","2023-04-07 21:00:00","2023-04-07 21:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
-9146,"2nd Saturday Community Concert with John Whelan","2023-04-08 19:30:00","2023-04-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9146,"2nd Saturday Community Concert with John Whelan","2023-04-08 19:30:00","2023-04-08 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9151,"Cormac Begley & Liam O'Connor","2023-04-09 19:45:00","2023-04-09 22:45:00","Muirioch Hall",,Ballydavid,Kerry,Ireland,52.19100571,-10.37148380
 9072,"Clifden Trad Fest","2023-04-13 00:00:00","2023-04-16 00:00:00","Various Venues",,Clifden,Galway,Ireland,53.48913574,-10.02023888
 9075,"Baltimore Irish Trad Fest","2023-04-14 00:00:00","2023-04-16 00:00:00","Various Venues",,Baltimore,Maryland,USA,39.29038620,-76.61219025
@@ -6578,7 +6578,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9198,"The Máirtín O'Connor Band","2023-04-24 19:30:00","2023-04-24 19:30:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 9185,"Northern Streams Festival","2023-04-27 00:00:00","2023-04-30 00:00:00","Various Venues",,Edinburgh,Lothian,Scotland,55.95035934,-3.20666552
 9105,"Féile Oriel","2023-04-28 00:00:00","2023-04-30 00:00:00","Various Venues",,Monaghan,Monaghan,Ireland,54.24693298,-6.96128321
-9147,"The Old Blind Dogs - Celtic Community Concert","2023-04-28 19:30:00","2023-04-28 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9147,"The Old Blind Dogs - Celtic Community Concert","2023-04-28 19:30:00","2023-04-28 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9190,Réalta,"2023-04-28 20:00:00","2023-04-28 20:00:00","Roe Valley Arts And Cultural Centre","24 Main Street",Limavady,Derry,"Northern Ireland",55.05201721,-6.95271778
 9180,"Cup of Tae Festival","2023-04-29 00:00:00","2023-05-02 00:00:00","Various Venues",,Ardara,Donegal,Ireland,54.76546478,-8.41501141
 9208,Mayfest,"2023-04-29 00:00:00","2023-05-01 00:00:00","Various Venues",,Richmond,"North Yorkshire",England,54.40516281,-1.73658502
@@ -6608,7 +6608,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9216,"Irish Trad Session","2023-05-17 20:30:00","2023-05-17 20:30:00","The Lucky Sparrow Irish Pub","Triptolemou 44, Gazi",Athens,Athens,Greece,37.97803116,23.71162033
 9210,"Notes & Narratives: Deirdre Ní Chonghaile","2023-05-18 20:30:00","2023-05-18 20:30:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001953
 8686,"Tionol GanAinm","2023-05-19 09:30:00","2023-05-20 17:00:00","Lise Diwan Karaez",Kerampuilh,Carhaix,Bretagne,France,48.27680969,-3.56044793
-9249,"Daimh — Live All-Community Concert","2023-05-19 19:30:00","2023-05-19 21:45:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9249,"Daimh — Live All-Community Concert","2023-05-19 19:30:00","2023-05-19 21:45:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9170,"Mick, Louise and Michelle Mulcahy","2023-05-19 20:00:00","2023-05-19 20:00:00","Dunmore Town Hall",,Dunmore,Galway,Ireland,53.61811829,-8.74576187
 9207,"Handed Down Scartaglin “Paddy Glackin in conversation with Nickie McAuliffe”","2023-05-19 20:00:00","2023-05-19 22:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 9110,"The Consequences","2023-05-20 00:00:00","2023-05-20 00:00:00","Commodore John Barry Arts And Cultural Center","6815 Emlen Street",Philadelphia,Pennsylvania,USA,40.05020142,-75.19068146
@@ -6631,7 +6631,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9027,"Launches of Carmel Gunning CD/Books","2023-05-30 20:00:00","2023-05-30 23:00:00","Cois Na HAbhna","Galway Road, Dulick",Ennis,Clare,Ireland,52.86122894,-8.97736359
 9258,"Laidback Irish session tunes with Rowan Leslie","2023-05-31 00:00:00","2023-05-31 00:00:00",,,,,,,
 9230,"The London Lasses LL25 Album Launch Concert","2023-06-01 20:00:00","2023-06-01 20:00:00","Matt Molloy's","Bridge Street",Westport,Mayo,Ireland,53.79941177,-9.52231789
-9218,"The Gulf Coast Cruinniú","2023-06-02 00:00:00","2023-06-04 00:00:00","The University Of St. Thomas Campus","3800 Montrose Blvd",Houston,Texas,USA,29.73822784,-95.39167023
+9218,"The Gulf Coast Cruinniú","2023-06-02 00:00:00","2023-06-04 00:00:00","The University Of St. Thomas Campus","3800 Montrose Blvd",Houston,Texas,USA,29.73820686,-95.39163208
 9229,"Edel Fox, Neill Byrne & Macdara Ó Faoláin","2023-06-02 00:00:00","2023-06-03 00:00:00","Stiúideo Cuan","Páirc Na Meán",Spiddal,Galway,Ireland,53.24679947,-9.26137733
 9186,"Ceol Aneas","2023-06-02 17:00:00","2023-06-05 18:00:00","Various Venues",,Nelson,Nelson,"New Zealand",-41.30643082,173.31431580
 9231,"The London Lasses LL25 Album Launch Concert","2023-06-02 20:00:00","2023-06-02 20:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94535828,-8.09559250
@@ -6657,7 +6657,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9219,"Jim Dowling Uilleann Pipe and Trad Festival","2023-06-15 00:00:00","2023-06-18 00:00:00","Various Venues",,Glengarriff,Cork,Ireland,51.68489838,-9.44631863
 9278,"Reel Thing - Music From These Parts - Declan Folan Leonard Barry And Shane McGowan","2023-06-15 20:00:00","2023-06-15 20:00:00","Roscommon Arts Centre","Circular Road",Roscommon,Roscommon,Ireland,53.63076401,-8.18379498
 9255,"Brendan Mulvihill, Angelina Carberry and Dan Brouder","2023-06-16 19:00:00","2023-06-16 19:00:00","Barns Of Rose Hill","95 Chalmers Court",Berryville,Virginia,USA,39.14910889,-77.98072815
-9239,"Karan Casey with Niamh Dunne and Seán Óg Graham","2023-06-18 19:30:00","2023-06-18 21:45:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9239,"Karan Casey with Niamh Dunne and Seán Óg Graham","2023-06-18 19:30:00","2023-06-18 21:45:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9302,"June McCormack and Michael Rooney","2023-06-21 13:00:00","2023-06-21 13:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
 9304,"Nuala Kennedy, Tara Breen, and Tony Byrne","2023-06-22 00:00:00","2023-06-22 00:00:00","Colfers Pub","Main Street, Danescastle",Carrig-on-Bannow,Wexford,Ireland,52.23853302,-6.73216581
 9286,"Connacht Fleadh","2023-06-23 00:00:00","2023-07-02 00:00:00","Various Venues",,Ballina,Mayo,Ireland,54.11190033,-9.15732670
@@ -6714,7 +6714,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9273,"McGoldrick, McCusker & Doyle | Landless","2023-07-27 19:30:00","2023-07-27 19:30:00","The Empire","42 Botanic Ave",Belfast,Antrim,"Northern Ireland",54.58817673,-5.93242693
 9274,"With Fife & Drum","2023-07-27 19:30:00","2023-07-27 19:30:00","Strand Arts Centre","152-154 Holywood Rd",Belfast,Antrim,"Northern Ireland",54.60062790,-5.87976313
 9275,"Pride Céilí in association with Belfast Pride","2023-07-27 20:00:00","2023-07-27 20:00:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60159683,-5.92705822
-9054,"Session Fest 2023","2023-07-28 15:00:00","2023-07-30 17:00:00","Private Land",,"Church Stretton",Shropshire,England,52.95083618,-0.71672398
+9054,"Session Fest 2023","2023-07-28 15:00:00","2023-07-30 17:00:00","Private Land",,"Church Stretton",Shropshire,England,52.54069901,-2.80348396
 9277,"Céilí with the Johnny Reidy Céilí Band","2023-07-28 19:00:00","2023-07-28 19:00:00","Duncairn Cultural Arts Centre","Duncairn Ave",Belfast,Antrim,"Northern Ireland",54.61231995,-5.93663788
 9328,"Seán Cleland Presents: Mayor Harrison's Fedora","2023-07-28 19:00:00","2023-07-28 21:00:00","Seman Violins","4447 Oakton Street",Skokie,Illinois,USA,42.02598190,-87.73973846
 9264,"the olllam | Clare Sands","2023-07-28 19:30:00","2023-07-28 19:30:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58755112,-5.93597174
@@ -6745,7 +6745,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9372,"An Rí Rá Montana Irish Fest","2023-08-11 00:00:00","2023-08-13 00:00:00","Original Mine Yard","433 North Main Street",Butte,Montana,USA,46.01707077,-112.53711700
 9383,"La Crosse Irish Fest","2023-08-11 15:00:00","2023-08-13 17:00:00","1 Oktoberfest Strasse",,"La Crosse",Wisconsin,USA,43.80876541,-91.25186157
 9365,"Galway Days","2023-08-12 11:00:00","2023-08-12 11:00:00","Town Square Park",,Anchorage,Alaska,USA,61.22033310,-149.88833618
-9336,"Irish Memory Orchestra 10th Anniversary Celebration","2023-08-12 20:30:00","2023-08-12 20:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+9336,"Irish Memory Orchestra 10th Anniversary Celebration","2023-08-12 20:30:00","2023-08-12 20:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 9330,"Zoë Conway & John McIntyre with guests Dónal Lunny & Máirtín O'Connor","2023-08-13 16:00:00","2023-08-13 17:00:00","Carlingford Heritage Centre","Church Road",Carlingford,Louth,Ireland,54.04686737,-6.19018078
 9367,"Heritage Week 2023: Workshops in the use of an audio reel-to-reel machine","2023-08-14 00:00:00","2023-08-18 00:00:00","Irish Traditional Music Archive","73 Merrion Square South",Dublin,Dublin,Ireland,53.33893967,-6.25039005
 9217,"2023 Milwaukee Irish Fest Summer School","2023-08-14 18:30:00","2023-08-18 12:15:00","CelticMKE Center","1532 N. Wauwatosa Ave",Milwaukee,Wisconsin,USA,43.05170059,-88.00701141
@@ -6754,7 +6754,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9307,"Kerrie Herrity and John Dwyer","2023-08-16 13:00:00","2023-08-16 13:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
 9211,"Milwaukee Irish Fest","2023-08-17 00:00:00","2023-08-20 00:00:00","The Henry W. Maier Festival Park","200 North Harbor Drive",Milwaukee,Wisconsin,USA,43.02737427,-87.89793396
 9354,"Notes & Narratives: Donegal's Musical Dohertys","2023-08-17 20:30:00","2023-08-17 20:30:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001953
-9299,"Altan and the RTÉ Concert Orchestra","2023-08-18 20:00:00","2023-08-18 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+9299,"Altan and the RTÉ Concert Orchestra","2023-08-18 20:00:00","2023-08-18 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 9346,"Faeries of the Moonlight","2023-08-19 16:00:00","2023-09-04 18:00:00","John Hinkel Park Amphitheater","41 Somerset Place",Berkeley,California,USA,37.89522934,-122.27285767
 9331,"Martin Hayes & Friends","2023-08-19 19:30:00","2023-08-19 21:15:00","Saint Canice's Cathedral","The Close, Coach Road",Kilkenny,Kilkenny,Ireland,52.65102386,-7.24849510
 9385,"Piping Day","2023-08-20 11:00:00","2023-08-20 11:00:00","Pro Re Nata","6135 Rockfish Gap Turnpike",Crozet,Virginia,USA,38.04881287,-78.71425629
@@ -6819,14 +6819,14 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9425,Goitse,"2023-10-04 20:00:00","2023-10-04 20:00:00",Whelan's,"25 Wexford St",Dublin,Dublin,Ireland,53.33661652,-6.26572561
 9436,"Féile Liam O’Flynn","2023-10-05 00:00:00","2023-10-08 00:00:00","Various Venues",,Naas,Kildare,Ireland,53.22146606,-6.65740919
 9322,Altan,"2023-10-06 19:30:00","2023-10-06 19:30:00","Wiltshire Music Centre","Ashley Road","Bradford On Avon",Wiltshire,England,51.35319901,-2.25847006
-9451,"1st Friday Ceili Mor","2023-10-06 19:30:00","2023-10-06 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9451,"1st Friday Ceili Mor","2023-10-06 19:30:00","2023-10-06 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9426,Goitse,"2023-10-06 20:00:00","2023-10-06 20:00:00","Flowerfield Arts Centre","185 Coleraine Road",Portstewart,Derry,"Northern Ireland",55.16580963,-6.70393705
 9471,"Martin Hayes","2023-10-06 21:00:00","2023-10-06 23:00:00","De Barra's","55 Pearse Street",Clonakilty,Cork,Ireland,51.62295151,-8.88901043
 9395,"Mossie Martin Workshop followed by Open Session","2023-10-07 15:00:00","2023-10-07 15:00:00","Charlton Inn","29 Charlton Rd","Shepton Mallet",Somerset,England,51.18784332,-2.53569579
 9427,Goitse,"2023-10-07 20:00:00","2023-10-07 22:00:00","Duncairn Cultural Arts Centre","Duncairn Ave",Belfast,Antrim,"Northern Ireland",54.61231995,-5.93663788
 9473,"Sharon Shannon & Band","2023-10-07 20:00:00","2023-10-07 20:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 9327,Altan,"2023-10-08 19:00:00","2023-10-08 22:30:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
-9298,"Tradition Now","2023-10-08 19:30:00","2023-10-08 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+9298,"Tradition Now","2023-10-08 19:30:00","2023-10-08 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 9349,"Women of Note","2023-10-11 19:30:00","2023-10-12 21:00:00","Irish Arts Center","726 11th Avenue",Manhattan,"New York",USA,40.76662064,-73.99369812
 9445,"Ceili Group's 49th Annual Irish Music & Dance Festival","2023-10-12 20:00:00","2023-10-14 23:00:00","Commodore John Barry Arts And Cultural Center","6815 Emlen Street",Philadelphia,Pennsylvania,USA,40.05020142,-75.19068146
 9368,"Seamus Grant Weekend Festival","2023-10-13 00:00:00","2023-10-15 00:00:00","Various Venues",,Clonmany,Donegal,Ireland,55.26231003,-7.40986443
@@ -6875,7 +6875,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9502,"Return to London Town - Saturday Set Dancing Céilí with The Parish Céilí Band","2023-10-28 16:00:00","2023-10-28 16:00:00","St Agnes' Centre","Caddington Road",Cricklewood,London,England,51.56127930,-0.20847335
 9511,"Perry Hall Folk Music Night, featuring Steven Gellman, with Margaret Wolfe","2023-10-28 19:00:00","2023-10-28 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 9503,"Return to London Town - Saturday Evening Concert","2023-10-28 19:30:00","2023-10-28 19:30:00","Crown Hotel","152 Cricklewood Broadway",Cricklewood,London,England,51.55567932,-0.21401903
-9394,"Drawing from the Well: Tommy Peoples","2023-10-28 20:00:00","2023-10-28 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+9394,"Drawing from the Well: Tommy Peoples","2023-10-28 20:00:00","2023-10-28 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 9442,Réalta,"2023-10-28 20:00:00","2023-10-28 20:00:00","The Old Church Centre","1 Church Lane",Cushendall,Antrim,"Northern Ireland",55.12535095,-6.04333878
 9444,"Réalta album launch","2023-10-29 13:30:00","2023-10-29 15:00:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60159683,-5.92705822
 9504,"Return to London Town - Sunday Afternoon Set Dancing Céilí with The Parish Céilí Band","2023-10-29 14:00:00","2023-10-29 14:00:00","St Agnes' Centre","Caddington Road",Cricklewood,London,England,51.56127930,-0.20847335
@@ -6903,7 +6903,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9497,"Wight Walk & Fiddle","2023-11-10 00:00:00","2023-11-13 00:00:00","Northcourt House",,Shorwell,"Isle Of Wight",England,50.64476776,-1.35420620
 9519,"November Second Friday Ceili Mor","2023-11-10 19:00:00","2023-11-10 23:00:00","VFW Hall Post #661","630 Hood St. NE",Salem,Oregon,USA,44.95193863,-123.02780914
 9484,Dervish,"2023-11-10 19:30:00","2023-11-10 21:30:00","Jaqua Concert Hall","The Shedd Institute, 868 High Street",Eugene,Oregon,USA,44.05005646,-123.08886719
-9487,"Saturday Coffee Session: Fiddles in Harmony","2023-11-11 10:15:00","2023-11-11 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+9487,"Saturday Coffee Session: Fiddles in Harmony","2023-11-11 10:15:00","2023-11-11 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 9522,"New York Trad Fest 2023","2023-11-11 19:00:00","2023-11-11 23:00:00",Connolly's,"121 West 45th Street",Manhattan,"New York",USA,40.75732422,-73.98363495
 9525,"Martin Hayes with Brian Donnellan, Colm O Kane & David Power","2023-11-11 20:00:00","2023-11-11 20:00:00","Theatre Royal","The Mall",Waterford,Waterford,Ireland,52.25973129,-7.10627985
 9465,"Sessie in Cafe de Keizer","2023-11-12 16:00:00","2023-11-12 16:00:00","Café De Keizer","Keizerstraat 14",Gorinchem,Zuid-Holland,Netherlands,51.83043289,4.97875643
@@ -6935,7 +6935,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9478,"Trad Session for all ages with Eoin O’Neill and Yvonne Casey","2023-12-09 12:00:00","2023-12-09 14:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 9412,Altan,"2023-12-09 19:30:00","2023-12-09 21:30:00","Fitzroy Presbyterian Church","77 University Street",Belfast,Antrim,"Northern Ireland",54.58583069,-5.93062496
 9415,"Steph Geremia with John McCusker, Alan Kelly & Aaron Jones","2023-12-09 19:30:00","2023-12-09 19:30:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
-9419,"Saturday Coffee Session - Fiddle in Harmony","2023-12-10 10:15:00","2023-12-10 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+9419,"Saturday Coffee Session - Fiddle in Harmony","2023-12-10 10:15:00","2023-12-10 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 9544,"Caitlín Nic Gabhann, Síle Denvir, Pádraic Keane, Andrea Palandri","2023-12-10 17:00:00","2023-12-10 17:00:00","St. John's Theatre","The Square",Listowel,Kerry,Ireland,52.44478989,-9.48621750
 9414,Altan,"2023-12-10 20:00:00","2023-12-10 20:00:00","Pavilion Theatre","Marine Road","Dún Laoghaire",Dublin,Ireland,53.29299927,-6.13455009
 9528,"Drawing From The Well","2023-12-10 20:00:00","2023-12-10 20:00:00","St. John's Theatre","The Square",Listowel,Kerry,Ireland,52.44478989,-9.48621750
@@ -6944,7 +6944,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9527,"Caoimhín Ó Raghallaigh, Catherine McEvoy & Mícheál Ó Raghallaigh","2023-12-14 20:00:00","2023-12-14 20:00:00","St. John's Theatre","The Square",Listowel,Kerry,Ireland,52.44478989,-9.48621750
 9540,"Notes & Narratives with Eilís Lavelle","2023-12-14 20:30:00","2023-12-14 22:00:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001953
 9546,"Caitlín Nic Gabhann, Síle Denvir, Pádraic Keane, Andrea Palandri","2023-12-15 20:00:00","2023-12-15 20:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94535828,-8.09559250
-9488,"Saturday Coffee Session: Fiddles in Harmony","2023-12-16 10:15:00","2023-12-16 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43722153,-2.83267260
+9488,"Saturday Coffee Session: Fiddles in Harmony","2023-12-16 10:15:00","2023-12-16 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 9529,"The Pipes of Christmas (25th Anniversary Concert)","2023-12-16 14:00:00","2023-12-16 16:30:00","Madison Avenue Presbyterian Church","921 Madison Ave",Manhattan,"New York",USA,40.76894379,-73.93683624
 9480,"MÓRglór Concert 2023 celebrating Siobhán Peoples","2023-12-16 20:00:00","2023-12-16 20:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84378433,-8.97752762
 9547,"Caitlín Nic Gabhann, Síle Denvir, Pádraic Keane, Andrea Palandri","2023-12-16 20:00:00","2023-12-16 22:00:00","University College Cork","College Road",Cork,Cork,Ireland,51.89255142,-8.48905849
@@ -6966,18 +6966,17 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9564,"Zoë Conway and John McIntyre with Louise and Michelle Mulcahy","2024-01-12 20:00:00","2024-01-12 20:00:00",FluXus,"Westzijde 148",Zaandam,Noord-Holland,Netherlands,52.44502258,4.82000637
 9594,"ABC Transcription Tools Walkthrough and Q&A - Focus on Traditional Irish Music Teachers and Students","2024-01-13 08:00:00","2024-01-13 11:00:00",,,,,,,
 9555,"Mary Dillon, Dónal O’Connor & Neil Martin","2024-01-13 14:00:00","2024-01-13 14:00:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60159683,-5.92705822
-9569,"Cantrip - 2nd Saturday Community Concert","2024-01-13 19:30:00","2024-01-13 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
+9569,"Cantrip - 2nd Saturday Community Concert","2024-01-13 19:30:00","2024-01-13 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9615,"Laidback Irish session tunes with Rowan Leslie","2024-01-17 00:00:00","2024-01-17 00:00:00",,,,,,,
 9622,"The Maurice Lennon Trio","2024-01-18 20:00:00","2024-01-18 20:00:00","Matt Molloy's","Bridge Street",Westport,Mayo,Ireland,53.79941177,-9.52231789
 9559,"Letterkenny Trad Week","2024-01-19 00:00:00","2024-01-30 00:00:00","Regional Cultural Centre","Cove Hill, Port Road",Letterkenny,Donegal,Ireland,54.95383453,-7.73226118
 9591,"Cillian Vallely and Kevin Crawford","2024-01-19 19:30:00","2024-01-19 19:30:00","Symphony Space","2537 Broadway",Manhattan,"New York",USA,40.79396057,-73.97261810
 9617,"Keane Connolly McGorman","2024-01-19 20:30:00","2024-01-19 20:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
 9587,"Cancelled: Perry Hall Folk Music Night, featuring Lynn Hollyfield","2024-01-20 19:00:00","2024-01-20 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
-9637,"The Michael McGoldrick Family Band","2024-01-21 19:00:00","2024-01-21 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
+9637,"The McGoldrick Family","2024-01-21 19:00:00","2024-01-21 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 9560,Tradfest,"2024-01-24 00:00:00","2024-01-28 00:00:00","Various Venues",,Dublin,Dublin,Ireland,53.34938049,-6.26055908
 9634,"Padraig Rynne, Tara Breen, Jim Murray","2024-01-24 19:00:00","2024-01-24 19:00:00","The Pepper Canister Church","2 Mount St Crescent",Dublin,Dublin,Ireland,53.33684921,-6.24423599
 9554,"Matt and Shannon Heaton","2024-01-24 19:30:00","2024-01-24 19:30:00","The Burren","247 Elm St.",Somerville,Massachusetts,USA,42.39549255,-71.12140656
-8893,"The Trans-Atlantic Session","2024-01-24 20:00:00","2024-01-24 22:00:00",,,,,,,
 9635,"Maurice Lennon Trio","2024-01-25 19:00:00","2024-01-25 19:00:00","The Pepper Canister Church","2 Mount St Crescent",Dublin,Dublin,Ireland,53.33684921,-6.24423599
 9618,"John McCartin, Padraig McGovern, Dave Sheridan and Tom Morrow","2024-01-26 20:30:00","2024-01-26 20:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
 9631,"Bríd Harper","2024-01-27 13:00:00","2024-01-27 13:00:00","Millbank Theatre","Chapel Green",Rush,Dublin,Ireland,53.52178574,-6.10284281
@@ -6988,14 +6987,21 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9590,"Rynne, Breen, Murray","2024-01-27 20:00:00","2024-01-27 23:00:00","An Droichead","20 Cooke Street, Ormeau Road",Belfast,Antrim,"Northern Ireland",54.58829498,-5.92300272
 9593,"Cherish The Ladies","2024-01-27 20:00:00","2024-01-27 20:00:00","Coleman Traditional Irish Music Centre","Main Street",Gurteen,Sligo,Ireland,53.99589920,-8.52268887
 9561,"Féile na Tána 2024","2024-01-28 00:00:00","2024-02-05 00:00:00","Various Venues",,Carlingford,Louth,Ireland,54.04686737,-6.19018078
+9643,"Sean Keane: A Portrait of an Artist","2024-01-28 15:30:00","2024-01-28 15:30:00","Irish Film Institute","6 Eustace Street",Dublin,Dublin,Ireland,53.34462357,-6.26493883
 9592,"Paddy Keenan, Paddy Glackin and Steve Cooney","2024-01-28 16:00:00","2024-01-28 17:30:00","Carlingford Heritage Centre","Church Road",Carlingford,Louth,Ireland,54.04686737,-6.19018078
+8893,"The Trans-Atlantic Session","2024-01-31 20:00:00","2024-01-31 22:00:00",,,,,,,
 9588,"Féile Sheáin Mhic Pháidín – John Mc Fadden Festival","2024-02-02 00:00:00","2024-02-04 00:00:00","Various Venues",,Newport,Mayo,Ireland,53.88527679,-9.54636860
 7403,"Annual Tune Junkie Weekend","2024-02-02 18:00:00","2024-02-04 16:00:00","Historic Grove Theater","123 Randolph Rd","Oak Ridge",Tennessee,USA,36.01469421,-84.26679230
+9649,"1st Friday Ceili Mor","2024-02-02 19:30:00","2024-02-02 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9614,Altan,"2024-02-02 20:00:00","2024-02-02 20:00:00","Town Hall Theatre","Courthouse Square",Galway,Galway,Ireland,53.27609634,-9.05440235
+9653,"Sean Cleland & The Kilgubbin Project Record Release Concert","2024-02-03 00:00:00","2024-02-03 00:00:00","Martyr's Pub","3855 N. Lincoln Ave",Chicago,Illinois,USA,41.95223236,-87.67681885
 9619,"Diarmuid Ó Meachair with Paddy McEvoy","2024-02-03 17:30:00","2024-02-03 17:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
+9641,"Tommy & Saundra O'Sullivan","2024-02-03 18:30:00","2024-02-03 21:30:00","Waverly Community Clubhouse, Island Pointe Drive",,Moneta,Virginia,USA,37.05989456,-79.63755798
 9539,"Session with the pipers","2024-02-06 21:00:00","2024-02-06 21:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
-8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2024-02-08 18:00:00","2024-03-08 20:00:00",,,,,,,
+8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2024-02-08 18:00:00","2024-02-08 20:00:00",,,,,,,
 9575,"Concertina Cruinniú","2024-02-09 00:00:00","2024-02-11 00:00:00","Various Venues",,"Miltown Malbay",Clare,Ireland,52.85620117,-9.40077591
+9644,"Fiddles in Harmony","2024-02-10 10:15:00","2024-02-10 10:15:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
+9648,"Féile Portland - A Weekend Celebration of Irish Language & Culture","2024-02-16 18:00:00","2024-02-18 19:30:00","Portland Community College - Sylvania Campus","12000 SW 49th Ave",Portland,Oregon,USA,45.43924713,-122.73258972
 9035,"Flurry Festival","2024-02-16 19:00:00","2024-02-18 00:00:00","City Center","522 Broadway","Saratoga Springs","New York",USA,43.08498383,-73.78318024
 9640,"Russell Festival Doolin","2024-02-22 00:00:00","2024-02-26 00:00:00","Various Venues",,Doolin,Clare,Ireland,53.01602936,-9.37741947
 9626,"Belfast TradFest Winter Weekend","2024-02-23 00:00:00","2024-02-25 00:00:00","Various Venues",,Belfast,Antrim,"Northern Ireland",54.59728622,-5.93011999
@@ -7007,14 +7013,19 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9616,"Gerry O'Connor and Don Penzien","2024-02-25 16:00:00","2024-02-25 18:00:00","Chief O'Neill's Pub","3471 N. Elston",Chicago,Illinois,USA,41.94464874,-87.70552063
 9557,"The Bothy Band","2024-02-25 19:00:00","2024-02-25 19:00:00","Waterfront Hall","2 Lanyon Place",Belfast,Antrim,"Northern Ireland",54.59746552,-5.92003822
 9574,"The Alex Green Whistle Festival","2024-03-01 00:00:00","2024-03-03 00:00:00","Various Venues",,Aberdeen,Aberdeenshire,Scotland,57.14057541,-2.18056512
+9642,"Brendan Gleeson's Farewell To Hughes's","2024-03-01 18:30:00","2024-03-01 18:30:00","Irish Film Institute","6 Eustace Street",Dublin,Dublin,Ireland,53.34462357,-6.26493883
 9621,"John Blake, Sorcha Costello, Diarmuid O Meachair, James Carty, Caoimhin O Fearghail","2024-03-03 07:00:00","2024-03-03 07:00:00","Gleneagle INEC Club","Muckross Road, Poulnamuck",Killarney,Kerry,Ireland,52.05231094,-9.50682163
 9580,"Session with the Pipers","2024-03-05 21:30:00","2024-03-05 21:30:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 9639,"Brittany Winter School","2024-03-06 00:00:00","2024-03-10 00:00:00","Various Venues",,Arzon,Bretagne,France,47.54939651,-2.89361072
+9645,"Fiddles in Harmony","2024-03-09 10:15:00","2024-03-09 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
+9650,"7th Annual Shamrock Cruise","2024-03-10 16:00:00","2024-03-10 19:00:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50517273,-122.69236755
+9646,"Drawing from the Well: Tommie Potts","2024-03-14 20:00:00","2024-03-14 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
 9568,Anúna,"2024-03-15 19:00:00","2024-03-15 19:00:00","Belfast Cathedral","Donegall St",Belfast,Antrim,"Northern Ireland",54.60319901,-5.92997837
 9581,"Manchester Collective: After Dark Ceilidh","2024-03-15 21:15:00","2024-03-15 21:15:00","Queen Elizabeth Hall","Southbank Centre",London,London,England,51.50608063,-0.11630420
 9576,"Réalta featuring Myles McCormack","2024-03-16 20:00:00","2024-03-16 20:00:00","Flowerfield Arts Centre","185 Coleraine Road",Portstewart,Derry,"Northern Ireland",55.16580963,-6.70393705
 9629,Danú,"2024-03-16 20:00:00","2024-03-16 20:00:00","Bankhead Theater","2400 First Street",Livermore,California,USA,37.68335724,-121.76829529
 9558,"Tullamore TradFest 2024","2024-03-22 00:00:00","2024-03-24 00:00:00","Various Venues",,Tullamore,Offaly,Ireland,53.27759171,-7.49225998
+9651,IMAR,"2024-03-24 19:30:00","2024-03-24 19:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38218689,-122.77165985
 9542,"The Wild Atlantic Concertina Week","2024-03-27 00:00:00","2024-03-31 00:00:00","Various Venues",,"Gaoth Dobhair",Donegal,Ireland,55.05010223,-8.23220253
 9573,"Irish Festival - The Spring Gathering","2024-04-18 00:00:00","2024-04-20 00:00:00","Various Venues",,Tampere,Pirkanmaa,Finland,61.49775314,23.76095390
 9261,"Totally Trad Upstate Irish Arts Weekend","2024-04-19 18:00:00","2024-04-20 12:00:00","Celtic Hall","430 New Karner Road",Albany,"New York",USA,42.73873901,-73.84483337
@@ -7023,6 +7034,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9578,"Leonard Barry","2024-04-26 20:00:00","2024-04-26 20:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26845169,-8.47679996
 9570,"Handed Down ""Sliabh Luachra Legends  Denis Murphy and Johnny O Leary"" presented by Bryan O Leary","2024-05-11 20:00:00","2024-05-11 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 9571,"Handed Down ""Denis Murphy from Lisheen"" hosted by Aoife Nic Cormaic","2024-05-17 20:00:00","2024-05-17 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
+9647,"Gulf Coast Cruinniú","2024-05-30 00:00:00","2024-06-02 00:00:00","The University Of St. Thomas Campus","3800 Montrose Blvd",Houston,Texas,USA,29.73820686,-95.39163208
 9463,"Acadia Festival of Traditional Music & Dance","2024-06-23 00:00:00","2024-06-29 00:00:00","College Of The Atlantic","105 Eden Street","Bar Harbor",Maine,USA,44.39469528,-68.22238922
-9623,"The Bothy Band","2024-08-21 20:00:00","2024-08-21 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
-9624,"The Bothy Band","2024-08-22 20:00:00","2024-08-22 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+9652,"Corvallis Celtic Festival","2024-07-25 17:00:00","2024-07-28 17:00:00","Various Venues",,Corvallis,Oregon,USA,44.56456757,-123.26204681
+9655,SessionFest,"2024-07-26 15:00:00","2024-07-28 00:00:00","Private Land",,"Church Stretton",Shropshire,England,52.54069901,-2.80348396
+9623,"The Bothy Band","2024-08-21 20:00:00","2024-08-21 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
+9624,"The Bothy Band","2024-08-22 20:00:00","2024-08-22 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826693
