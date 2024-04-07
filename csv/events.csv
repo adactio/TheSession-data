@@ -1135,7 +1135,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1251,"Trail West","2008-11-22 14:00:00","2008-11-22 14:00:00","Islay Inn","1256 Argyle Street",Glasgow,Glasgow,Scotland,55.86638260,-4.28891468
 1258,"Birr Comhaltas Concert - Featuring Angelina Carberry And Martin Quinn","2008-11-22 20:00:00","2008-11-22 00:00:00","Birr Theatre","Oxmantown M﻿all",Birr,Offaly,Ireland,53.09811401,-7.91184759
 1235,"Fiddle Fest","2008-11-28 09:00:00","2008-11-29 22:00:00","St. Matthias Anglican Church Hall","600 Richmond Avenue",Victoria,"British Columbia",Canada,48.41766739,-123.33156586
-1256,"Christmas Ceili","2008-11-30 20:00:00","2008-11-30 00:00:00","The Gaelic Club","64 Devonshire St, Surry Hills",Sydney,"New South Wales",Australia,-33.88583374,151.20755005
+1256,"Christmas Ceili","2008-11-30 20:00:00","2008-11-30 00:00:00","The Gaelic Club","64 Devonshire St, Surry Hills",Sydney,"New South Wales",Australia,-33.88582230,151.20751953
 1264,"St Andrews's Day Ceilidh","2008-11-30 20:00:00","2008-11-30 23:00:00","British Legion Hall",,Keynsham,Somerset,England,51.41505814,-2.50252604
 1250,"Trad Musicians Retreat","2008-12-01 00:00:00","2009-03-01 00:00:00","Hotel Le Cheval Blanc And Irish Bar","34 Rue De La Madeleine",Plancoet,Bretagne,France,48.52293396,-2.23831797
 1263,"Session With The Pipers","2008-12-02 21:30:00","2008-12-02 23:30:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
@@ -1273,7 +1273,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1404,"Uilleann Pipers Club Schaffhausen Workshop 2009","2009-03-28 14:00:00","2009-03-29 20:00:00","Various Venues",,Schaffhausen,Schaffhausen,Switzerland,47.70776749,8.64144230
 1411,"Máire Ní Chathasaigh and Chris Newman","2009-03-28 19:30:00","2009-03-28 22:00:00","Harringworth Village Hall",,Corby,Northamptonshire,England,52.49057770,-0.68378389
 1382,"Paddy Homan","2009-03-28 20:00:00","2009-03-28 00:00:00","Baile Corcaigh","1426 Bagley",Detroit,Michigan,USA,42.32973480,-83.06517029
-1390,"Ceili - Set Dance The Night Away","2009-03-28 20:00:00","2009-03-28 00:00:00","The Gaelic Club","64 Devonshire St, Surry Hills",Sydney,"New South Wales",Australia,-33.88583374,151.20755005
+1390,"Ceili - Set Dance The Night Away","2009-03-28 20:00:00","2009-03-28 00:00:00","The Gaelic Club","64 Devonshire St, Surry Hills",Sydney,"New South Wales",Australia,-33.88582230,151.20751953
 1392,"Cillian Vallely,Kevin Crawford and Donal Clancy","2009-03-28 20:00:00","2009-03-28 23:45:00","Irish American Association Of Northwest Jersey","352 Richard Mine Road",Rockaway,"New Jersey",USA,40.91407013,-74.57511139
 1317,"Italy-Eire Football Match","2009-03-31 00:00:00","2009-04-01 00:00:00","Various Venues",,Bari,Puglia,Italy,41.12591171,16.87211418
 1399,"Irish Taranta Party Music Match","2009-03-31 19:00:00","2009-03-31 00:00:00","Piazza Del Ferrarese",,Bari,Puglia,Italy,41.12591171,16.87211418
@@ -5638,7 +5638,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 8200,"Personal Reflections on Canon Goodman's Collection with Steve Cooney, Iarla Ó Lionáird & Odhrán Ó Casaide","2021-05-26 20:00:00","2021-05-26 20:00:00",,,,,,,
 8202,"Norwich Slow Tune Session","2021-05-27 19:30:00","2021-05-27 19:30:00",,,,,,,
 8172,"Na Píobairí Uilleann Annual Tionól 2021","2021-05-28 00:00:00","2021-05-29 00:00:00",,,,,,,
-8156,"Sydney Fleadh","2021-05-28 19:00:00","2021-05-30 00:00:00","The Gaelic Club","64 Devonshire St, Surry Hills",Sydney,"New South Wales",Australia,-33.88583374,151.20755005
+8156,"Sydney Fleadh","2021-05-28 19:00:00","2021-05-30 00:00:00","The Gaelic Club","64 Devonshire St, Surry Hills",Sydney,"New South Wales",Australia,-33.88582230,151.20751953
 8132,"Saileog Ní Cheannabháin at the Lock Inn","2021-05-28 19:30:00","2021-05-28 19:30:00",,,,,,,
 8193,"Carrying the Tunes - The Dock Live","2021-06-04 00:00:00","2021-06-08 00:00:00","Cryan's Teach Ceoil","Bridge Street",Carrick-on-Shannon,Leitrim,Ireland,53.94459152,-8.09501362
 8201,"Slow session with Brendan McCreanor","2021-06-05 14:00:00","2021-06-05 14:00:00",,,,,,,
@@ -7088,31 +7088,39 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9774,"Session with the Pipers","2024-04-02 21:00:00","2024-04-02 21:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 9748,"Clifden Traditional Music Festival","2024-04-04 00:00:00","2024-04-07 00:00:00","Various Venues",,Clifden,Galway,Ireland,53.48913574,-10.02023888
 9782,"Féile Patrick Byrne","2024-04-04 00:00:00","2024-04-07 00:00:00","Various Venues",,Carrickmacross,Monaghan,Ireland,53.97797775,-6.71882391
+9791,"CCÉ Convention","2024-04-04 00:00:00","2024-04-07 00:00:00","The Hyatt Regency","2 Fountain Plaza",Buffalo,"New York",USA,42.88798523,-78.87426758
 8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2024-04-04 18:00:00","2024-04-04 20:00:00",,,,,,,
+9789,"Maid of the Mill Tradfest","2024-04-05 00:00:00","2024-04-07 00:00:00","Multiple Venues",,Keady,Armagh,"Northern Ireland",54.24850464,-6.70504332
 9753,"1st Friday Ceili Mor","2024-04-05 19:30:00","2024-04-05 23:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
 9749,"Zoe Conway and John McIntyre","2024-04-05 20:30:00","2024-04-05 22:00:00","Centre Culturel La Providence","8bis, Rue Saint-Augustin",Nice,"Provence Côte D'azur",France,43.69926071,7.27926922
 9674,Moonrakers,"2024-04-06 19:30:00","2024-04-06 21:30:00","All Saints Church","Castle Street","High Wycombe",Buckinghamshire,England,51.63002014,-0.74929363
 9686,"Frankie Gavin with Catherine McHugh","2024-04-07 19:00:00","2024-04-07 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
+9793,"Tune Workshop & Community Session with Shannon Heaton","2024-04-08 19:00:00","2024-04-08 19:00:00","County Clare Irish Pub","1234 N. Astor",Milwaukee,Wisconsin,USA,43.04668427,-87.89944458
 9730,"Play it By Ear","2024-04-10 19:30:00","2024-04-10 19:30:00","The Pilgrim Centre","Dale Street SY7 9NY","Craven Arms",Shropshire,England,52.43978119,-2.83284879
 9693,"Walker Creek Music Camp","2024-04-11 00:00:00","2024-04-24 00:00:00","Walker Creek Ranch And Conference Center","1700 Marshall Petaluma Road",Petaluma,California,USA,38.17374039,-122.81404877
 9706,"Archiving Irish America Conference: Music, Dance, and Culture","2024-04-11 18:00:00","2024-04-13 21:00:00","CelticMKE Center","1532 N. Wauwatosa Ave",Milwaukee,Wisconsin,USA,43.05170059,-88.00700378
 9709,"Baltimore Irish Trad Fest","2024-04-12 00:00:00","2024-04-14 00:00:00","Various Venues",,Baltimore,Maryland,USA,39.29038620,-76.61219025
 9764,"Second Friday Ceili Mor","2024-04-12 19:00:00","2024-04-12 23:00:00","VFW Hall Post #661","630 Hood St. NE",Salem,Oregon,USA,44.95193863,-123.02780914
 9681,"Sliabh Aughty","2024-04-12 19:30:00","2024-04-12 19:30:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
+9790,"Matt & Shannon Heaton","2024-04-12 19:30:00","2024-04-12 19:30:00","Chief O'Neill's Pub","3471 N. Elston",Chicago,Illinois,USA,41.94464874,-87.70552063
+9796,"AyrCCÉ Traditional Irish Music Session","2024-04-12 20:00:00","2024-04-12 20:00:00",Mulligan's,"7-9 Arthur Street KA7 1QJ",Ayr,Ayrshire,Scotland,55.46225357,-4.63130093
 9755,"Mick Conneely, David Munnelly, and Catríona Ní Cheanabháin","2024-04-12 20:30:00","2024-04-12 20:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
 9711,"Glengormley Spring Workshops Weekender","2024-04-13 00:00:00","2024-04-14 00:00:00","Edmond Rice College","96-100 Hightown Road",Glengormley,Antrim,"Northern Ireland",54.66659927,-5.96974897
 9733,"Fiddles in Harmony","2024-04-13 10:15:00","2024-04-13 12:45:00","The Shropshire Hills Discovery Centre","School Road SY7 9RS","Craven Arms",Shropshire,England,52.43839645,-2.83242583
 9724,"Sliabh Aughty session","2024-04-13 19:00:00","2024-04-13 19:00:00","Brendan The Navigator","90 Highgate Hill",Highgate,London,England,51.56909180,-0.14167780
+9800,"Perry Hall Folk Music Night, featuring Woody Lissauer, with Laura Gillespie","2024-04-13 19:00:00","2024-04-13 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40940857,-76.46701050
 9675,Moonrakers,"2024-04-13 19:30:00","2024-04-13 21:30:00","St Chad's Church",,"Bishops Tachbrook",Warwickshire,England,52.24998093,-1.54209495
 9754,"Dick Hensold and Patsy O'Brien - 2nd Saturday Community Concert","2024-04-13 19:30:00","2024-04-13 21:30:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
 9760,"Scottish Fiddlers of Los Angeles 40th Anniversary Concert with Special Guests Alasdair Fraser and Natalie Haas","2024-04-13 19:30:00","2024-04-13 19:30:00","Hermosa Beach Community Theatre","710 Pier Avenue","Hermosa Beach",California,USA,33.86419296,-118.39398956
 9725,"Set-Dancing Céilí with Sliabh Aughty","2024-04-14 00:00:00","2024-04-14 00:00:00","London Irish Centre","50-52 Camden Square",Camden,London,England,51.54386902,-0.13235010
 9669,"Matt and Shannon Heaton","2024-04-14 19:00:00","2024-04-14 21:30:00","Celtic Junction Arts Center","836 Prior Ave","St Paul",Minnesota,USA,44.96621704,-93.18202209
+9794,"Matt and Shannon Heaton Concert","2024-04-14 19:00:00","2024-04-14 19:00:00","The Celtic Junction","836 Prior Ave","St. Paul",Minnesota,USA,44.96621704,-93.18202209
 9573,"Irish Festival - The Spring Gathering","2024-04-18 00:00:00","2024-04-20 00:00:00","Various Venues",,Tampere,Pirkanmaa,Finland,61.49775314,23.76095390
 9715,"Leonard Barry Trio","2024-04-18 19:30:00","2024-04-18 19:30:00","Firth Hall","Firth Court",Sheffield,"South Yorkshire",England,53.38195038,-1.48779976
 9727,"Edinburgh FluteFling 10th Anniversary Weekend 2024","2024-04-19 00:00:00","2024-04-21 00:00:00","The Heart Of Newhaven","Newhaven Main Street",Edinburgh,Lothian,Scotland,55.98035812,-3.19552326
 9261,"Totally Trad Upstate Irish Arts Weekend","2024-04-19 18:00:00","2024-04-20 12:00:00","Celtic Hall","430 New Karner Road",Albany,"New York",USA,42.73873901,-73.84483337
 9757,"Tara Breen, Pádraig Rynne, and Jim Murray","2024-04-19 19:30:00","2024-04-19 19:30:00","London Irish Centre","50-52 Camden Square",Camden,London,England,51.54386902,-0.13235010
+9803,"Calum Stewart","2024-04-19 19:30:00","2024-04-19 22:30:00","The Heart Of Newhaven","Newhaven Main Street",Edinburgh,Lothian,Scotland,55.98035812,-3.19552326
 9766,"Seánie O'Loingsigh with Tony Byrne and Robbie Walsh","2024-04-19 19:45:00","2024-04-19 19:45:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 9684,"Leonard Barry with Andy Morrow and Seamie O’Dowd","2024-04-20 19:30:00","2024-04-20 19:30:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 9699,"Caitlín Nic Gabhann and Ciarán Ó Maonaigh","2024-04-21 13:00:00","2024-04-21 13:00:00","The Lark","Church Street",Balbriggan,Dublin,Ireland,53.60950470,-6.17898369
@@ -7137,10 +7145,15 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9677,Moonrakers,"2024-05-11 19:30:00","2024-05-11 21:30:00","St Mary Magdalene Church",,"Great Hampden",Buckinghamshire,England,51.71355820,-0.77329630
 9570,"Handed Down ""Sliabh Luachra Legends  Denis Murphy and Johnny O Leary"" presented by Bryan O Leary","2024-05-11 20:00:00","2024-05-11 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 9741,"Gŵyl Uilleann Glanyfferi / Ferryside Uilleann Pipes Festival","2024-05-17 09:00:00","2024-05-19 16:00:00","Various Venues",,Ferryside,Carmarthenshire,Wales,51.76765060,-4.36889696
+9795,"Song & tune writing workshop","2024-05-17 18:00:00","2024-05-19 16:00:00","Benslow Music","Benslow Lane",Hitchin,Hertfordshire,England,51.95035172,-0.26430911
+9797,"San Francisco Scottish Fiddlers","2024-05-17 19:00:00","2024-05-17 21:00:00","Davis Veterans Memorial Center","203 East 14th Street",Davis,California,USA,38.55688095,-121.74797821
 9683,Dervish,"2024-05-17 19:30:00","2024-05-17 19:30:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 9571,"Handed Down ""Denis Murphy from Lisheen"" hosted by Aoife Nic Cormaic","2024-05-17 20:00:00","2024-05-17 22:30:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
+9798,"San Francisco Scottish Fiddlers","2024-05-18 19:00:00","2024-05-18 21:00:00","Glaser Center","547 Mendocino Avenue","Santa Rosa",California,USA,38.44345856,-122.71647644
+9799,"San Francisco Scottish Fiddlers","2024-05-19 13:00:00","2024-05-19 15:00:00","Freight And Salvage","2020 Addison Street",Berkeley,California,USA,37.87070084,-122.26955414
 9743,"Na Píobairí Uilleann annual Tionól 2024","2024-05-24 00:00:00","2024-05-26 00:00:00","Anner Hotel","Dublin Road",Thurles,Tipperary,Ireland,52.67779160,-7.78997564
 9647,"Gulf Coast Cruinniú","2024-05-30 00:00:00","2024-06-02 00:00:00","The University Of St. Thomas Campus","3800 Montrose Blvd",Houston,Texas,USA,29.73820686,-95.39163208
+9792,"Mike McGoldrick and Dezi Donnelly","2024-06-16 17:30:00","2024-06-16 17:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06180954
 9463,"Acadia Festival of Traditional Music & Dance","2024-06-23 00:00:00","2024-06-29 00:00:00","College Of The Atlantic","105 Eden Street","Bar Harbor",Maine,USA,44.39469528,-68.22238922
 9726,"Llar Trad Fest 2024","2024-06-28 00:00:00","2024-07-01 00:00:00","Various Venues",,"La Pola Somiedo",Asturies,Spain,43.09269333,-6.25594568
 9740,"Perfectionnement aux jeu des régulateurs avec Peter Merbeth","2024-06-29 09:30:00","2024-06-29 09:30:00","Salle Paul Simon à Carhaix","Bâtiment Des Associations, Boulevard De La République",Carhaix,Bretagne,France,48.27622223,-3.57574463
