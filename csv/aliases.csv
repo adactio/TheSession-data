@@ -1822,6 +1822,7 @@ tune_id,alias,name
 281,"Bluebells, The","Master Crowley's"
 281,"Clarke's Favourite","Master Crowley's"
 281,Crowley's,"Master Crowley's"
+281,"Crowley's #1","Master Crowley's"
 281,Crowly's,"Master Crowley's"
 281,"Down The Strand","Master Crowley's"
 281,"Master CrowIey's","Master Crowley's"
@@ -7427,6 +7428,7 @@ tune_id,alias,name
 1356,"Reel Du Vagabon","Soldier's Joy"
 1356,"Reel Du Vagabond","Soldier's Joy"
 1356,Seksmannsril,"Soldier's Joy"
+1356,"Sexman Engelska","Soldier's Joy"
 1356,"Soldier's Joy, The","Soldier's Joy"
 1356,"Soldiers Joy","Soldier's Joy"
 1356,"Soldiers' Joy","Soldier's Joy"
@@ -9719,6 +9721,7 @@ tune_id,alias,name
 1974,"Táim Gan Airgead","I Have No Money"
 1976,"John McGettigan's","Martin Wilson's"
 1977,Humphrey's,"Reconciliation, The"
+1977,"Olive Branch, The","Reconciliation, The"
 1977,"Peacemaker, The","Reconciliation, The"
 1977,"Reconcilliation, The","Reconciliation, The"
 1979,"Banjaxed, The",Banjaxed
@@ -9999,6 +10002,7 @@ tune_id,alias,name
 2082,"Chanter's Tune, The","Chanter's Tune"
 2082,"Chanter's, The","Chanter's Tune"
 2082,"Last Night Joy","Chanter's Tune"
+2082,"Phone Fixing Tune, The","Chanter's Tune"
 2082,"Song Of The Chanter","Chanter's Tune"
 2082,"Song Of The Chanter, The","Chanter's Tune"
 2083,"Paddy Lynn's Delight","Sonny's Return"
@@ -11453,6 +11457,7 @@ tune_id,alias,name
 2606,"Patsy Mack","Denny Mescall's"
 2606,"Sleamhnán Dhinní Uí Mheiscil","Denny Mescall's"
 2607,"Dew Drops On The Corn","Australian Waters"
+2607,"Dewdrops On The Corn, The","Australian Waters"
 2607,"Jimmy Lyon's","Australian Waters"
 2607,"Vincent Campbell's","Australian Waters"
 2608,"Booley House Jig, The","Top It Off"
@@ -11762,7 +11767,6 @@ tune_id,alias,name
 2721,"Tarantella Calabraise",Tarantella
 2721,"Tarantella Napoletana",Tarantella
 2721,"Tarantella Neapolitan",Tarantella
-2723,"Dewdrops On The Corn, The","Dew Drops On The Corn"
 2724,"Any Auld Thing At All","Mac's Fancy"
 2724,"Big Ned","Mac's Fancy"
 2724,Haugh's,"Mac's Fancy"
@@ -14561,6 +14565,7 @@ tune_id,alias,name
 4155,"Farmer's Reel, The","Constitution, The"
 4155,"Le Reel Du Cultivateur","Constitution, The"
 4156,"Les Policemen",Chicken
+4156,"Poules Et Guenilles",Chicken
 4158,"Chris Droney's","Tripping To The Well"
 4158,"Goat Street Rambler, The","Tripping To The Well"
 4158,"Jack Doyle's","Tripping To The Well"
@@ -15560,6 +15565,7 @@ tune_id,alias,name
 4873,"Leaking Roof March, The","Leaking Roof, The"
 4875,"Raheen Medley #1, The","Raheen, The"
 4875,"Ríl An Ráithín","Raheen, The"
+4876,"Miss Wright's Fancy","Miss Fogo"
 4877,"Aoibhneasa An Dóchais","Brenda McCann's"
 4877,"Pleasures Of Hope","Brenda McCann's"
 4877,"Pleasures Of Hope, The","Brenda McCann's"
@@ -25706,6 +25712,7 @@ tune_id,alias,name
 15141,"Poc Buille","Mad Buckgoat, The"
 15142,"An Bockagh, The Lame Yellow Beggar","Beggar, The"
 15146,"Round The House And Mind The Dresser","Around The House And Mind The Dresser"
+15166,"Billy Church Memorial Breakdown","Cat On A Leash"
 15167,"Neil R. MacDonald's","Neil R. MacDonald"
 15170,Gus,Gustavo
 15175,"Big Sciota","Big Sciote"
@@ -27365,6 +27372,10 @@ tune_id,alias,name
 20304,"Music In The Kitchen","Ceol Sa Chistin"
 20309,"Salmon Tail","Samon Tail"
 20310,"Sweet Molly",Hobson's
+20321,"Cy Brien's","Cyril O'Brien's"
+20321,"Cy O'Brien's","Cyril O'Brien's"
+20321,"Cyril Brien's","Cyril O'Brien's"
+20321,"Cyril Joseph Brien's","Cyril O'Brien's"
 20324,"Lady Kelly's","Northern Lasses, The"
 20324,"Na Cailini Adtuaidh","Northern Lasses, The"
 20324,"Up Roscommon","Northern Lasses, The"
@@ -27619,7 +27630,7 @@ tune_id,alias,name
 21205,"Oban Pipes And Drums, The","Oban Pipes & Drums, The"
 21206,"John Allan","John Allan's"
 21206,"John Allen's","John Allan's"
-21207,"Chez Seychelles","Out The Gap"
+21207,"A Version Of Chez Seychelles","Out The Gap"
 21212,Gaptooth,"Gap Tooth"
 21236,"Humors Of Sweetwater, The","Humours Of Sweetwater"
 21242,"Lloyd House's","Lloyd House's Tune"
@@ -28009,7 +28020,6 @@ tune_id,alias,name
 23063,"Mike Kent's #1","Mike Kent's"
 23063,"Mike Kent's No. 1","Mike Kent's"
 23064,"Milk Of The Black Cow, The","Milk Of The Black Cow"
-23083,"Karen Tweed's","Out The Gap"
 23090,"Slippin' The Jig","Slipping The Jig"
 23090,"Slippin' The Jig #1","Slipping The Jig"
 23090,"Slippin' The Jig No. 1","Slipping The Jig"
@@ -28288,3 +28298,4 @@ tune_id,alias,name
 24449,"Daughter Of Twilight, The",Tinúviel's
 24450,"Sonny Comer's","Sonny Comer's Fling"
 24465,"Story Of My Old Rooster, The","L'histoire De Mon Vieux Coq"
+24508,"Widow Maker",Widowmaker
