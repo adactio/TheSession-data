@@ -1876,6 +1876,7 @@ tune_id,alias,name
 291,"Nancy Wants Her Own Share","Maggie In The Woods"
 291,"Saint Patrick Was A Gentleman","Maggie In The Woods"
 291,"St Patrick Was A Gentleman","Maggie In The Woods"
+292,"House On The Hill, The",Willafjord
 292,Villafjord,Willafjord
 292,"Willa Fjord",Willafjord
 292,Willafiord,Willafjord
@@ -3496,11 +3497,13 @@ tune_id,alias,name
 558,"Tommy Coen's","Coen's Memories"
 558,"Tommy Coen's Memories","Coen's Memories"
 559,"From Billy To Jack","Green Cottage, The"
+559,"Glen Cottage No. 1, The","Green Cottage, The"
 559,"Glen Cottage Polka #1, The","Green Cottage, The"
 559,"Glen Cottage, The","Green Cottage, The"
 559,"Glin Cottage No. 1, The","Green Cottage, The"
 559,"Glin Cottage, The","Green Cottage, The"
 559,"Green Cottage #1, The","Green Cottage, The"
+559,"Green Cottage No. 1, The","Green Cottage, The"
 559,"Quarry Cross, The","Green Cottage, The"
 559,"Teachín An Ghleanna","Green Cottage, The"
 560,"Cooleen Bridge","Tarbolton, The"
@@ -3791,6 +3794,7 @@ tune_id,alias,name
 602,"Whisky Before Breakfast","Whiskey Before Breakfast"
 603,"Kitchen Gal","Kitchen Girl, The"
 603,"Kitchen Girls, The","Kitchen Girl, The"
+604,Diamond,"Little Diamond, The"
 604,"Girl From Lettermore, The","Little Diamond, The"
 604,"Littler Diamond, The","Little Diamond, The"
 604,"Magic Slipper","Little Diamond, The"
@@ -4121,6 +4125,7 @@ tune_id,alias,name
 666,"Alexander's Favourite",Alexander's
 666,Alexanders,Alexander's
 666,"Ballymanus Fair",Alexander's
+666,Byrne's,Alexander's
 666,"Byrne's Favorite",Alexander's
 666,"Byth Ar Y Sul",Alexander's
 666,"Goswick Kirn",Alexander's
@@ -4510,6 +4515,7 @@ tune_id,alias,name
 735,"Paddy The Dandy","Going To Donnybrook"
 735,"Pride Of Leinster","Going To Donnybrook"
 735,"Pride Of Leinster, The","Going To Donnybrook"
+736,"""John Patterson""","Jump At The Sun"
 736,"Acidic Fairies, The","Jump At The Sun"
 736,"All For Piers","Jump At The Sun"
 736,"Dancing At The Sun","Jump At The Sun"
@@ -5209,6 +5215,7 @@ tune_id,alias,name
 876,"Rabbit's Burrow",Gneevgullia
 876,"Rabbit's Burrow, The",Gneevgullia
 877,"Bounce On Bess","Priest In His Boots, The"
+877,"Irish Lilt, The","Priest In His Boots, The"
 877,"Moorhen, The","Priest In His Boots, The"
 877,"Moorhens And Coots","Priest In His Boots, The"
 877,"Parson In His Boots, The","Priest In His Boots, The"
@@ -5218,7 +5225,7 @@ tune_id,alias,name
 877,"Rocking The Cradle","Priest In His Boots, The"
 877,"Sagart Na mBuataisi","Priest In His Boots, The"
 877,Tivoli,"Priest In His Boots, The"
-877,"Welch , The","Priest In His Boots, The"
+877,"Welch, The","Priest In His Boots, The"
 878,"Full Rigged Ship","Da Full Rigged Ship"
 878,"Full Rigged Ship, The","Da Full Rigged Ship"
 878,"Fully Rigged Ship, The","Da Full Rigged Ship"
@@ -5889,24 +5896,24 @@ tune_id,alias,name
 1022,"Gather Round The Fire","Did You Wash Your Father's Shirt"
 1023,"How About Whiskey Instead?","Humours Of Whiskey, The"
 1023,"Humours Of Whisky, The","Humours Of Whiskey, The"
-1024,"Ciaran O'Reilly's","Rising Sun, The"
-1024,"Lavery's No. 2","Rising Sun, The"
-1024,"Martin Mulhaire's","Rising Sun, The"
-1024,"Martin Mulhaire's #9","Rising Sun, The"
-1024,"Martin Mulhaire's No. 9","Rising Sun, The"
-1024,Mulhair's,"Rising Sun, The"
-1024,Mulhaire's,"Rising Sun, The"
-1024,"Mulhaire's #1","Rising Sun, The"
-1024,"Mulhaire's #9","Rising Sun, The"
-1024,"Mulhaire's No 9","Rising Sun, The"
-1024,"Mulhaire's No. 1","Rising Sun, The"
-1024,"Mulhaire's No. 9","Rising Sun, The"
-1024,"Mulhaire's Petticoat","Rising Sun, The"
-1024,Mulhare's,"Rising Sun, The"
-1024,"Mulhare's #9","Rising Sun, The"
-1024,"Mulhare's No. 9","Rising Sun, The"
-1024,Noreen's,"Rising Sun, The"
-1024,"Old Thatched House, The","Rising Sun, The"
+1024,"Ciaran O'Reilly's",Mulhaire's
+1024,"Lavery's No. 2",Mulhaire's
+1024,"Martin Mulhaire's",Mulhaire's
+1024,"Martin Mulhaire's #9",Mulhaire's
+1024,"Martin Mulhaire's No. 9",Mulhaire's
+1024,Mulhair's,Mulhaire's
+1024,Mulhaire's,Mulhaire's
+1024,"Mulhaire's #1",Mulhaire's
+1024,"Mulhaire's #9",Mulhaire's
+1024,"Mulhaire's No 9",Mulhaire's
+1024,"Mulhaire's No. 1",Mulhaire's
+1024,"Mulhaire's No. 9",Mulhaire's
+1024,"Mulhaire's Petticoat",Mulhaire's
+1024,Mulhare's,Mulhaire's
+1024,"Mulhare's #9",Mulhaire's
+1024,"Mulhare's No. 9",Mulhaire's
+1024,Noreen's,Mulhaire's
+1024,"Old Thatched House, The",Mulhaire's
 1025,"Big Squeeze, The","Sweeney's Wheel"
 1025,Sweeney's,"Sweeney's Wheel"
 1025,"Sweeny's Wheel","Sweeney's Wheel"
@@ -11070,6 +11077,7 @@ tune_id,alias,name
 2427,"Le Reel Du Forgeron","Ril Du Forgeron"
 2427,"Reel Du Forgeron","Ril Du Forgeron"
 2428,"Dúlamán Na Binne Buí","Neilly O'Boyle's"
+2428,"D​ú​laman Na Binne B​ú​idhe","Neilly O'Boyle's"
 2428,"Duloman Na Binnt Bui","Neilly O'Boyle's"
 2428,"Jacky Latin","Neilly O'Boyle's"
 2428,"Neillidh Boyle's","Neilly O'Boyle's"
@@ -19485,6 +19493,7 @@ tune_id,alias,name
 7462,"Up Mill Steps","Jack Robinson"
 7467,"An Uile-Íoc","She Hasn't The Thing She Thought She Had"
 7467,"Colne Royal","She Hasn't The Thing She Thought She Had"
+7467,"Denis Murphy's","She Hasn't The Thing She Thought She Had"
 7467,"Donal De Barra's","She Hasn't The Thing She Thought She Had"
 7467,"Long Dance, The","She Hasn't The Thing She Thought She Had"
 7467,"Perfect Cure, The","She Hasn't The Thing She Thought She Had"
@@ -19787,6 +19796,7 @@ tune_id,alias,name
 7702,"Barlow's Knife","Barlow Knife"
 7702,"Barlows Knife","Barlow Knife"
 7702,"Cabin Creek","Barlow Knife"
+7706,"Haste To Kilfenora","Trip To Kilfenora"
 7710,"Dancing Kettle, The","Singing Kettle, The"
 7715,"Rochdale Coconut Dance, The","Rochdale Coconut Dance"
 7716,Oonie's,"Oonie's March"
@@ -25438,8 +25448,12 @@ tune_id,alias,name
 14393,"Sugacais Mic Flanncada","Clancy's Frolics"
 14394,"1st Of August","First Of August"
 14395,"2nd Of August","Second Of August"
+14399,"Oona Ban","Úna Bhán"
+14399,"Oona Bhan","Úna Bhán"
+14399,"Oonagh Ban","Úna Bhán"
+14399,"Oonagh Bhán","Úna Bhán"
+14399,"Una Ban","Úna Bhán"
 14399,"Una Bhan","Úna Bhán"
-14399,"Una Bhan,Oonagh Bhán,Oona Bhan,Oonagh Ban,Oona Ban,Una Ban","Úna Bhán"
 14400,"Conlach Glas An Fhomhair","Coinleach Ghlas An Fhomhair"
 14400,"Green Stubble Fields Of Autumn, The","Coinleach Ghlas An Fhomhair"
 14402,"Johnny Is Gone To France","Johnny's Gone To France"
@@ -25927,6 +25941,8 @@ tune_id,alias,name
 15430,"Healing Fiddle","Violon Guerisseur"
 15435,"Finbar Dwyer's","Ardgroom, The"
 15435,"Finbarr Dwyer's","Ardgroom, The"
+15447,"Boyne Water, The","King William's"
+15447,"Jimmy Garson's","King William's"
 15449,"Farewell To Europe","Brexit, The"
 15451,"A Dissolution March For Little Britain","A Dissolution March For Island Britain"
 15451,"A March For Island Britain","A Dissolution March For Island Britain"
@@ -27426,6 +27442,8 @@ tune_id,alias,name
 20113,Djursdalapolskan,"Melancoliska Pollonessan"
 20113,"Melancholy Polonaise","Melancoliska Pollonessan"
 20113,"Melankoliska Polonessen","Melancoliska Pollonessan"
+20114,"Lights Out","Caidil Mo Ghaoil"
+20114,"Sleep Dearie Sleep","Caidil Mo Ghaoil"
 20120,"Fish In The Pothole","Fish In A Pothole"
 20128,"Champion, The","Willie Maclennan"
 20134,"Bon Voyage Monsieur Dumollet","Iontráil Na dTuismitheoirí"
@@ -27905,6 +27923,7 @@ tune_id,alias,name
 21882,"Yellow Horse, The","Gearran Buidhe"
 21893,"Clock Town Theme","Majora's Mask: Clock Town Day 1"
 21899,Bransle,"Les Quatre Branles"
+21900,Traditional,"Gan Ainm"
 21912,"Davy Roche's No. 1","Davy Roche's"
 21914,"Angus Allan Gillis","Tramper Down"
 21918,"Anne Marie Barry","Anne Marie Barrie"
@@ -27935,7 +27954,8 @@ tune_id,alias,name
 21982,"Paddy Hayes'","Sweet Statia"
 21982,"Paddy Hayes' Reel Number 2","Sweet Statia"
 21992,"Port Debbie","Ian's Return To Ireland"
-21994,"Duncormick Mummer's Single Jig","Duncormick Mummer's"
+21994,"Duncormick Mummer's Single","Duncormick Mummer's"
+21994,"Duncormick Mummers","Duncormick Mummer's"
 22003,"Paddy Fahey's No. 22","Paddy Fahey's"
 22004,"Sean's 60th, Sleamhnán Sean",Sean's
 22008,"John Ferguson's No.1",Vargus's
@@ -28464,5 +28484,4 @@ tune_id,alias,name
 24791,"Tang Polkas No. 1, The","Two Pups, The"
 24792,"Tang Polkas No. 2, The","Humours Of Harry, The"
 24796,"Polonaise From A Little Notebook For Anna Magdalena Bach","Polonaise In F"
-24821,"Double Sledder Lad","Sledder Lad, The"
-24821,"Double Sledder Lad, The","Sledder Lad, The"
+24821,"Double Sledder Lad","Double Sledder Lad, The"
