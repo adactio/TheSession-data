@@ -2725,6 +2725,7 @@ tune_id,alias,name
 440,Martinmastime,"Christmas Eve"
 440,"Oiche Nollag","Christmas Eve"
 440,"Oiche Nollaig","Christmas Eve"
+440,"Oidhche Nollaig","Christmas Eve"
 440,"Tommy Coen's","Christmas Eve"
 440,"Tommy Coen's Christmas Eve","Christmas Eve"
 441,Armagh,"John Ryan's"
@@ -2937,6 +2938,7 @@ tune_id,alias,name
 467,"Sword In The Hand, The","Leitrim Fancy, The"
 468,"Sarah Kelly's","Sarah Kelly's Delight"
 468,"Sarah's Delight","Sarah Kelly's Delight"
+469,"Cuileann Uí Chaoimh","Cuilin Ui Chaoimh"
 469,"Cuillinn Uí Caoimh","Cuilin Ui Chaoimh"
 469,"Cullen, The","Cuilin Ui Chaoimh"
 469,"Farewell To Gallifrey","Cuilin Ui Chaoimh"
@@ -5660,6 +5662,7 @@ tune_id,alias,name
 976,"Achill Sound","Old Maids Of Galway, The"
 976,"Ballina Lass, The","Old Maids Of Galway, The"
 976,"Ballina Lasses, The","Old Maids Of Galway, The"
+976,"Girls Of The County Mayo","Old Maids Of Galway, The"
 976,"Green Meadows, The","Old Maids Of Galway, The"
 976,"Hag's, The","Old Maids Of Galway, The"
 976,"In To The Room I Want You","Old Maids Of Galway, The"
@@ -5916,24 +5919,24 @@ tune_id,alias,name
 1022,"Gather Round The Fire","Did You Wash Your Father's Shirt"
 1023,"How About Whiskey Instead?","Humours Of Whiskey, The"
 1023,"Humours Of Whisky, The","Humours Of Whiskey, The"
-1024,"Ciaran O'Reilly's","Rising Sun, The"
-1024,"Lavery's No. 2","Rising Sun, The"
-1024,"Martin Mulhaire's","Rising Sun, The"
-1024,"Martin Mulhaire's #9","Rising Sun, The"
-1024,"Martin Mulhaire's No. 9","Rising Sun, The"
-1024,Mulhair's,"Rising Sun, The"
-1024,Mulhaire's,"Rising Sun, The"
-1024,"Mulhaire's #1","Rising Sun, The"
-1024,"Mulhaire's #9","Rising Sun, The"
-1024,"Mulhaire's No 9","Rising Sun, The"
-1024,"Mulhaire's No. 1","Rising Sun, The"
-1024,"Mulhaire's No. 9","Rising Sun, The"
-1024,"Mulhaire's Petticoat","Rising Sun, The"
-1024,Mulhare's,"Rising Sun, The"
-1024,"Mulhare's #9","Rising Sun, The"
-1024,"Mulhare's No. 9","Rising Sun, The"
-1024,Noreen's,"Rising Sun, The"
-1024,"Old Thatched House, The","Rising Sun, The"
+1024,"Ciaran O'Reilly's",Mulhaire's
+1024,"Lavery's No. 2",Mulhaire's
+1024,"Martin Mulhaire's",Mulhaire's
+1024,"Martin Mulhaire's #9",Mulhaire's
+1024,"Martin Mulhaire's No. 9",Mulhaire's
+1024,Mulhair's,Mulhaire's
+1024,Mulhaire's,Mulhaire's
+1024,"Mulhaire's #1",Mulhaire's
+1024,"Mulhaire's #9",Mulhaire's
+1024,"Mulhaire's No 9",Mulhaire's
+1024,"Mulhaire's No. 1",Mulhaire's
+1024,"Mulhaire's No. 9",Mulhaire's
+1024,"Mulhaire's Petticoat",Mulhaire's
+1024,Mulhare's,Mulhaire's
+1024,"Mulhare's #9",Mulhaire's
+1024,"Mulhare's No. 9",Mulhaire's
+1024,Noreen's,Mulhaire's
+1024,"Old Thatched House, The",Mulhaire's
 1025,"Big Squeeze, The","Sweeney's Wheel"
 1025,Sweeney's,"Sweeney's Wheel"
 1025,"Sweeny's Wheel","Sweeney's Wheel"
@@ -7847,6 +7850,8 @@ tune_id,alias,name
 1433,"Tommy Mulhair's","Tommy Mulhaire's"
 1433,"Tommy Mulhairs","Tommy Mulhaire's"
 1433,"Tommy Mulhare's","Tommy Mulhaire's"
+1435,"Belhelvie House","North Brig O' Edinburgh, The"
+1435,"Miss Watson","North Brig O' Edinburgh, The"
 1435,"North Bridge Of Edinburgh","North Brig O' Edinburgh, The"
 1435,"North Bridge Of Edinburgh, The","North Brig O' Edinburgh, The"
 1436,"Pullet, The","Boys Of Portaferry, The"
@@ -8684,6 +8689,7 @@ tune_id,alias,name
 1639,"Miss Ramsey's Highland Fling","Four Provinces Fling, The"
 1639,"Queen's Shilling, The","Four Provinces Fling, The"
 1640,"Banks Of Inverness, The","Siege Of Ennis, The"
+1640,"Brig Of Inverness, The","Siege Of Ennis, The"
 1640,Ceanagulla,"Siege Of Ennis, The"
 1640,"Ceanagulla, The","Siege Of Ennis, The"
 1640,Ceangulla,"Siege Of Ennis, The"
@@ -12009,9 +12015,9 @@ tune_id,alias,name
 2777,"P. Joe Hayes'","For The Sake Of Old Decency"
 2777,"P. Joe's","For The Sake Of Old Decency"
 2777,"Road To Old Decency, The","For The Sake Of Old Decency"
-2778,"Connie O'Connell's","Josephine Keegan's"
-2778,Keegan's,"Josephine Keegan's"
-2778,"Michael Queally's","Josephine Keegan's"
+2778,"Connie O'Connell's","Michael Queally's"
+2778,"Josephine Keegan's","Michael Queally's"
+2778,Keegan's,"Michael Queally's"
 2779,McSweeney's,"Feeding The Birds"
 2779,"Mike Rafferty's","Feeding The Birds"
 2781,"Aidan Coffey's","Johnny I Do Miss You"
@@ -16566,6 +16572,7 @@ tune_id,alias,name
 5480,"Johnny Henry's","An Ugly Customer"
 5480,"Johnny Watt Henry's","An Ugly Customer"
 5480,"Paddy Sean Nancy's","An Ugly Customer"
+5480,"Road To Ballymote, The","An Ugly Customer"
 5480,"Rochdaire Gránna","An Ugly Customer"
 5480,"Ugly Customer, The","An Ugly Customer"
 5481,"Humours Of Barrack Street, The","Barrack Street"
@@ -23452,6 +23459,7 @@ tune_id,alias,name
 11479,"Kinlock Of KInlock","Blow The Wind Southerly"
 11480,"In Memory Of Tommy McCarthy","Tommy McCarthy's"
 11481,"Kilkenny Races, The","Kilkenny Races"
+11483,"Shoemaker's Last, The",Rogers
 11485,"From Shore To Shore",Emigrant's
 11490,"Reel St Paul","Le Petit Bal A L'Huile"
 11501,"Oíche Mhaith","Oidche Mhaith"
@@ -25128,6 +25136,7 @@ tune_id,alias,name
 13582,"Clancy's Farewell To Whiskey","An Dro Des Petits Bateaux"
 13585,"Dan From Liverpool","Liverpool, The"
 13585,"Liverpool No. 1, The","Liverpool, The"
+13585,"Ríl Léarphóil A hAon","Liverpool, The"
 13587,"Red House In Cardiff","Little Red House In Cardiff"
 13587,"Red House In Cardiff, The","Little Red House In Cardiff"
 13587,"Red House Of Cardiff","Little Red House In Cardiff"
@@ -26332,6 +26341,7 @@ tune_id,alias,name
 16274,"By The Beautiful Blue Danube","Blue Danube"
 16283,"Dóchas Na hÉireann","Erin's Hope"
 16284,"Accidentals In The Workhouse","Workhouse, The"
+16284,"Carrickmacross Workhouse, The","Workhouse, The"
 16285,"Braes Of Auchtertyre, The","Randy Wives Of Fochabers, The"
 16297,"Darklight Soul",Darklight
 16299,"Down The Old Boreen","Old Boreen, The"
@@ -27089,6 +27099,8 @@ tune_id,alias,name
 18438,"Mrs. MacPherson Of Gibston","Mrs. McPherson Of Gibston"
 18438,"Mrs. McPherson Of Gibton","Mrs. McPherson Of Gibston"
 18439,"Sir George Clerk Of Pennycuick","Sir George Clark Of Penicuik"
+18440,"Mo Dhachaigh","Rose-Bud Of Allenvale, The"
+18440,"My Home","Rose-Bud Of Allenvale, The"
 18451,"Art Stoyles'",Art's
 18453,"Ducks Knocked Over My Father, The","Deuks Dang Ower My Daddy"
 18453,"Irish Show Boy, The","Deuks Dang Ower My Daddy"
@@ -28665,3 +28677,11 @@ tune_id,alias,name
 25031,"Brazen Mask, The","Brazen Mask"
 25040,"Richie Dwyer's Favorite","Richie Dwyer's Favourite"
 25041,Korstog,Crusade
+25093,"Suisheen Bawn, The","White Blanket, The"
+25094,"Ag Piocadh Suas Na Píosaí","Picking Up The Pieces"
+25095,"Fíbín Oibre","Work For The Willing"
+25096,"Peatsaí Fionn","Patsy The Fair One"
+25097,"Liverpool No. 2, The","Liverpool, The"
+25097,"Ríl Léarphóil A Dó","Liverpool, The"
+25098,"Harvest Fair Polka No. 2","Harvest Fair"
+25098,"Polca Aonach An Fhomhair A Dó","Harvest Fair"
