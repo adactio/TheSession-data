@@ -550,10 +550,13 @@ tune_id,alias,name
 71,"Stick Across The Hob, The",Morrison's
 71,"Stick On The Hob, The",Morrison's
 71,"Tom Carmondy's Favourite",Morrison's
+72,"An Gaba Meadrac","Merry Blacksmith, The"
+72,"An Gabha Meidhreach","Merry Blacksmith, The"
 72,"Blackened Smith, The","Merry Blacksmith, The"
 72,"Boys Of The Lake, The","Merry Blacksmith, The"
 72,"Corkonian, The","Merry Blacksmith, The"
 72,"Drayman's Round, The","Merry Blacksmith, The"
+72,"Ike Forrester's","Merry Blacksmith, The"
 72,"Music Of The Forge","Merry Blacksmith, The"
 72,"Paddy On The Railroad","Merry Blacksmith, The"
 72,"Peeler's Cap, The","Merry Blacksmith, The"
@@ -1146,6 +1149,7 @@ tune_id,alias,name
 150,"Fahey's Flight","Paddy Fahey's"
 150,"Fahey's Tractor","Paddy Fahey's"
 150,"Inneoin An Ġaḃa","Paddy Fahey's"
+150,"Paddy Fahey's No. 15","Paddy Fahey's"
 150,"Paddy Fahey's No. 3","Paddy Fahey's"
 150,"Paddy Fahy's","Paddy Fahey's"
 150,"Paddy Fahy's 14","Paddy Fahey's"
@@ -2570,6 +2574,7 @@ tune_id,alias,name
 418,Ieva's,"Ievan Polkka"
 418,"Ieva's Polkka","Ievan Polkka"
 418,"Ievan's Polkka","Ievan Polkka"
+418,"Kevin Burke Polka #2","Ievan Polkka"
 418,"Kuppari Eeva","Ievan Polkka"
 418,Leekspin,"Ievan Polkka"
 418,Leva's,"Ievan Polkka"
@@ -7779,6 +7784,7 @@ tune_id,alias,name
 1421,"O'Carolan's Draught","Carolan's Draught"
 1422,"Glassdrummond, The",Glassdrummond
 1423,"An Geall Briste","Broken Pledge, The"
+1424,"An Nóta Fada","Long Note, The"
 1426,Áine's,Dálaigh's
 1426,Anne's,Dálaigh's
 1426,"Breeches Buttoned On, The",Dálaigh's
@@ -8904,6 +8910,7 @@ tune_id,alias,name
 1698,"Seamus Murraigh's","Old Walls Of Liscarroll, The"
 1698,"Woodford, The","Old Walls Of Liscarroll, The"
 1700,"Miss Kelly","Five Points, The"
+1701,Galway,"Walter Sammon's Grandmother"
 1701,Harris',"Walter Sammon's Grandmother"
 1701,Harris's,"Walter Sammon's Grandmother"
 1701,"Mary Staunton's","Walter Sammon's Grandmother"
@@ -22237,6 +22244,7 @@ tune_id,alias,name
 9827,"Braigh Bhanbh","Highlands Of Banffshire, The"
 9827,"Highland Of Banffshire, The","Highlands Of Banffshire, The"
 9828,"Joe Cooley's Morning Dew","Mountain Dew"
+9833,"Goatherd And The Shepherd, The","Laird O' Cockpen, The"
 9835,"An Bóthar ó Thuaidh Go Dtí Árainn","Old Stage, The"
 9835,"As I Went Down To Derby","Old Stage, The"
 9835,"Behind The Bush In The Garden","Old Stage, The"
@@ -23726,10 +23734,10 @@ tune_id,alias,name
 11755,"Three Sisters, The",Bridget's
 11756,"A Favourite Duet By Mister Holmes","A Favourite Duet By Mr Holmes"
 11756,"A Favourite Duet By Mr. Holmes","A Favourite Duet By Mr Holmes"
+11759,"Heather Breeze, The",Maggie's
 11759,"Three Sisters Reels #3, The",Maggie's
 11759,"Three Sisters Reels No. 3, The",Maggie's
 11759,"Three Sisters Reels, The",Maggie's
-11759,"Three Sisters, The",Maggie's
 11764,"Balmoral, The","Balmoral Schottische, The"
 11765,"Big Snug's","Big Snugs"
 11767,"Burren Wind, The","Listen Maudie, The Burren Wind Plays My Fiddle"
@@ -25565,6 +25573,7 @@ tune_id,alias,name
 14348,"Miss Catherine Stewart—Pettyvaich","Miss Catherine Stewart Of Pittyvaich's"
 14348,"Miss Catherine Stewart, Pettyvaich","Miss Catherine Stewart Of Pittyvaich's"
 14348,"Miss Catherine Stewart, Pittyvaich","Miss Catherine Stewart Of Pittyvaich's"
+14357,Maivalsurin,"May , The"
 14359,"Little Dick Weldon","Ta Dick Veg Er Yannoo Mie"
 14359,"Ta Dick Veg","Ta Dick Veg Er Yannoo Mie"
 14364,"Hop, Skip, Jump! No. 3","Hop, Skip, Jump!"
@@ -28734,3 +28743,4 @@ tune_id,alias,name
 25124,"John Mahinney's","John Mahony's"
 25125,"Denis Murphy's Curragh Races","Ship Has Sailed, The"
 25131,"Stream Of Silver","Stream Of Silllver"
+25234,"Get Out, Ye Black And Tans, Black And Tans,","Come Out, Ye Black And Tans"
