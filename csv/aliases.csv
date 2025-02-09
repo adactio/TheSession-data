@@ -8417,6 +8417,7 @@ tune_id,alias,name
 1573,"Ríl An Chárthaigh","Hut In The Bog, The"
 1573,"Top Of The Morning","Hut In The Bog, The"
 1574,"Durrow, The","Boogie, The"
+1574,"John Nolan's","Boogie, The"
 1575,"An Phlasog Ghlas","My Dungannon Sweetheart"
 1575,"Eleanor Townsend","My Dungannon Sweetheart"
 1575,"Graham Townsend's","My Dungannon Sweetheart"
@@ -8841,13 +8842,13 @@ tune_id,alias,name
 1667,"Last House Of Connacht, The","Dinny O'Brien's"
 1667,"Last House Of Connaught","Dinny O'Brien's"
 1667,"Last House Of Connaught, The","Dinny O'Brien's"
-1668,"An Súisin Bán","Casadh An Tsúgáin"
-1668,"An Suisin Ban","Casadh An Tsúgáin"
-1668,"Twisting Of The Hayrope","Casadh An Tsúgáin"
-1668,"Twisting Of The Rope, The","Casadh An Tsúgáin"
-1668,"Twisting The Hayrope","Casadh An Tsúgáin"
-1668,"Twisting The Rope","Casadh An Tsúgáin"
-1668,"White Blanket, The","Casadh An Tsúgáin"
+1668,"An Súisin Bán","Casadh An tSúgáin"
+1668,"An Suisin Ban","Casadh An tSúgáin"
+1668,"Twisting Of The Hayrope","Casadh An tSúgáin"
+1668,"Twisting Of The Rope, The","Casadh An tSúgáin"
+1668,"Twisting The Hayrope","Casadh An tSúgáin"
+1668,"Twisting The Rope","Casadh An tSúgáin"
+1668,"White Blanket, The","Casadh An tSúgáin"
 1669,"Happy Bloom Of Youth, The","Happy Days Of Youth, The"
 1669,"Happy Days Of Youth, The","Happy Days Of Youth, The"
 1669,"John McKenna's","Happy Days Of Youth, The"
@@ -15174,8 +15175,9 @@ tune_id,alias,name
 4450,"Devlin's Favourite",Devlin's
 4457,"New Mown Meadow","Seán Mháire Mhicilín"
 4457,"Silver Tip, The","Seán Mháire Mhicilín"
-4460,Hickey's,"Old Pensioner, The"
-4460,"Hickey's No. 2","Old Pensioner, The"
+4460,Hickey's,Hickey's
+4460,"Hickey's No. 2",Hickey's
+4460,"Old Pensioner, The",Hickey's
 4461,"Jim Coleman","Jim Coleman's"
 4461,"Seamus Tansey's","Jim Coleman's"
 4467,"Bayman's Tune","Heel And Toe, The"
@@ -17358,7 +17360,8 @@ tune_id,alias,name
 6060,"Vel Shiuish Ben-Aeg Ny Ben Y Phoosee","Vel Shuish Ben Aeg Ny Ben Y Phoosee"
 6064,"Champion, The","Champion, The"
 6071,"Constitution Breakdown, The","Constitution Breakdown"
-6072,"MacNeils Of Ugadale , The","MacNeils Of Ugadale, The"
+6072,"MacNeils Of Ugadale","MacNeils Of Ugadale, The"
+6072,"MacNeils Of Ugadale, The","MacNeils Of Ugadale, The"
 6072,"McNeils Of Ugadale, The","MacNeils Of Ugadale, The"
 6074,Gopak,Hopak
 6079,"Ladies' 1st Choice","Ladies Choice"
@@ -21086,6 +21089,9 @@ tune_id,alias,name
 8651,"Contented Wi' Little","Lumps Of Pudding"
 8651,"Contented With Little","Lumps Of Pudding"
 8651,"If I Stand Like A Turk","Lumps Of Pudding"
+8651,"Lumps O' Puddin'","Lumps Of Pudding"
+8651,"Lumps O' Pudding, The","Lumps Of Pudding"
+8651,"Lumps Of Puddin'","Lumps Of Pudding"
 8651,"Shives Of Bread","Lumps Of Pudding"
 8651,"Talpiau Pwdin","Lumps Of Pudding"
 8651,"What Lumps Of Pudding My Mother Gave Me","Lumps Of Pudding"
@@ -26695,6 +26701,12 @@ tune_id,alias,name
 17243,"Boys From The East, The",Oriental
 17245,"O Dear Mother What Shall I Do","O Mother What Shall I Do"
 17246,Passaic,Trafalgar
+17247,"Fair One Let Me In, The","She Rose And Let Me In"
+17247,"She Raise And Loot Me In","She Rose And Let Me In"
+17247,"She Roase And Let ‘m In","She Rose And Let Me In"
+17247,"She Rose & Let Me Inn","She Rose And Let Me In"
+17247,"She Rose And Leit Me In","She Rose And Let Me In"
+17247,"She Rose And Loote Me In","She Rose And Let Me In"
 17254,Annagh,Anne's
 17254,Annas,Anne's
 17262,"Josephine Keegan's",Ross
@@ -26914,6 +26926,8 @@ tune_id,alias,name
 17775,"Cruiscin Lan","Crúiscín Lán"
 17775,"Cruiskeen Lawn, The","Crúiscín Lán"
 17785,"Fairest One",Glwysen
+17787,"Come To The Bower","Will You Come To The Bow'r?"
+17787,"Will You Come To The Bower ?","Will You Come To The Bow'r?"
 17791,"Dermot Astore",Dermot
 17791,"Hide Not Thy Anguish",Dermot
 17791,"Take Back The Virgin Page",Dermot
@@ -27222,8 +27236,10 @@ tune_id,alias,name
 18727,"St John's","St. John's, The"
 18727,"St John's, The","St. John's, The"
 18728,L'arachoudine,"La Rachoudine"
+18730,"One O'Leary",Tim's
 18730,"Tim's Mazurka #1",Tim's
 18731,"Tim's Mazurka #2",Tim's
+18731,"Two O'Leary",Tim's
 18737,"Ball That Was In Oban, The","Oban Ball, The"
 18746,"Goodnight, Irene","Irene Goodnight"
 18748,"Con Fada's",Thadelo's
@@ -28161,6 +28177,7 @@ tune_id,alias,name
 22086,"Larry Grogan's Air","Larry Grogan's"
 22095,"Tom Byrne's No.5","Tom Byrne's"
 22096,"Tom Byrne's No.6","Tom Byrne's"
+22098,"Father Frank Of Gorey","Father Frank From Gorey"
 22106,"Gavotte Sicard 2","Gavotte Sicard"
 22107,"Gavotte Sicard 3","Gavotte Sicard"
 22108,"Bonny Lass Of Headlake, The","Down In The Glen"
@@ -28176,10 +28193,10 @@ tune_id,alias,name
 22178,"Donegal Traveller",Tuam
 22179,"Paddy Fahey Reel No. 17","Paddy Fahey's"
 22180,"Paddy Fahey's Jig No. 8","Paddy Fahey's"
-22190,"Puca's Bush, The","Pucha's Bush"
-22190,"Pucca Bush, The","Pucha's Bush"
-22190,"Pucca's Bush, The","Pucha's Bush"
-22190,"Pucha's Bush, The","Pucha's Bush"
+22190,"Puca's Bush, The","Pucha's Bush, The"
+22190,"Pucca Bush, The","Pucha's Bush, The"
+22190,"Pucca's Bush, The","Pucha's Bush, The"
+22190,"Pucha's Bush","Pucha's Bush, The"
 22193,"Heather Breeze, The","Tipsy House"
 22205,"New Rigged Ship, The","Green Willis"
 22207,"Dans Loudieg #1","Rond Loudieg"
@@ -28364,6 +28381,7 @@ tune_id,alias,name
 23224,MacMahon's,"Máirseáil Mac Mahon"
 23224,"Máirseáil MacMahon","Máirseáil Mac Mahon"
 23259,"Magherabaun, The","Magerabaun, The"
+23260,"Mick Moloney's","Flanagan's Dream"
 23262,"Black Rock, The","Heman Dubh"
 23262,"He Mandu 's Truagh Nach Digeadh","Heman Dubh"
 23262,"Hé Mandu 's Truagh Nach Tigeadh","Heman Dubh"
@@ -28744,3 +28762,9 @@ tune_id,alias,name
 25125,"Denis Murphy's Curragh Races","Ship Has Sailed, The"
 25131,"Stream Of Silver","Stream Of Silllver"
 25234,"Get Out, Ye Black And Tans, Black And Tans,","Come Out, Ye Black And Tans"
+25262,"Rian Mátharta","A Mother's Touch"
+25264,"Forneth House","Mrs Crawford's Favourite"
+25264,"Miss Crawford's","Mrs Crawford's Favourite"
+25264,"Miss Crawford's Favorite","Mrs Crawford's Favourite"
+25264,"Mrs Crawford's Favorite","Mrs Crawford's Favourite"
+25281,"Land Of Plenty","Tír Na Flúirse"
