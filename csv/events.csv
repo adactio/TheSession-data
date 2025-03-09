@@ -1670,7 +1670,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1834,"John and James Carty with John Blake","2010-01-29 07:30:00","2010-01-29 00:00:00","London Irish Centre","50-52 Camden Square",Camden,London,England,51.54386902,-0.13235010
 1800,"Upper Potomac Fiddle Retreat","2010-01-29 08:00:00","2010-01-31 06:00:00","Shepherd University","210 N. King Street",Shepherdstown,"West Virginia",USA,39.43366623,-77.80443573
 1652,"3. Irish Folkfestival am St. Brigid's Day","2010-01-30 10:00:00","2010-01-30 00:00:00",Refektorium,"Klosterhof 10",Wahlsburg,Hessen,Germany,51.62538147,9.55704021
-1819,Brogue,"2010-01-31 19:30:00","2010-01-31 00:00:00",Tranzac,"292 Brunswick Ave",Toronto,Ontario,Canada,43.66528320,-79.40736389
+1819,Brogue,"2010-01-31 19:30:00","2010-01-31 00:00:00","The Tranzac Club","292 Brunswick Ave",Toronto,Ontario,Canada,43.66522598,-79.40753174
 1841,"Téada Concert","2010-01-31 20:30:00","2010-01-31 10:30:00","Róisín Dubh","Dominic Street",Galway,Galway,Ireland,53.27010345,-9.05808353
 1850,"Timothy Kennelly And Leond Villalba Memorial Show","2010-02-05 19:00:00","2010-02-06 01:00:00","The Benet Club","2 Marchwood Crescent",Ealing,London,England,51.52053070,-0.30985099
 1844,"Danú Concert","2010-02-05 20:30:00","2010-02-06 02:00:00","The Pavilion","13 Carey's Lane",Cork,Cork,Ireland,51.89864349,-8.47380733
@@ -1787,7 +1787,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1963,"Máire Ní Chathasaigh and Chris Newman","2010-05-22 20:00:00","2010-05-22 22:15:00","Sundial Theatre At Cirencester College","Fosse Way Campus, Stroud Road",Cirencester,Gloucestershire,England,51.71286774,-2.00062943
 1980,"Máire Ní Chathasaigh and Chris Newman","2010-05-23 19:45:00","2010-05-23 22:00:00","Norden Farm Centre For The Arts","Altwood Rd",Maidenhead,Berkshire,England,51.51589966,-0.75112683
 1919,". . . In Very Good Times","2010-05-25 19:30:00","2010-05-25 23:00:00","Trinity Centre","Baxter Road",Ilford,Essex,England,51.54870224,0.07195680
-1905,"The Chris Langan Weekend","2010-05-28 00:00:00","2010-05-30 00:00:00",Tranzac,"292 Brunswick Ave",Toronto,Ontario,Canada,43.66528320,-79.40736389
+1905,"The Chris Langan Weekend","2010-05-28 00:00:00","2010-05-30 00:00:00","The Tranzac Club","292 Brunswick Ave",Toronto,Ontario,Canada,43.66522598,-79.40753174
 1935,"Folk College With Simple Gifts","2010-05-28 01:00:00","2010-05-30 05:00:00","Juniata College","1800 Moore Street",Huntingdon,Pennsylvania,USA,40.49993134,-78.01752472
 1986,"Traditional Irish Music Concert Series","2010-05-31 19:30:00","2010-05-31 21:15:00","St. Nicholas' Collegiate Church","Shop Street",Galway,Galway,Ireland,53.27267075,-9.05346203
 1985,"County Sessions -  Limerick  Night","2010-06-01 20:00:00","2010-06-01 23:00:00","The Button Factory",,Dublin,Dublin,Ireland,53.34980392,-6.26030970
@@ -7582,7 +7582,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10207,"Féile na Tána 2025","2025-01-26 00:00:00","2025-02-03 00:00:00","Various Venues",,Carlingford,Louth,Ireland,54.04686737,-6.19018078
 10271,"IMBOLC Festival 2025","2025-01-26 00:00:00","2025-02-01 00:00:00","Various Venues",,Derry,Derry,"Northern Ireland",55.00830841,-7.31208801
 10233,"Tim O’Brien & Jan Fabricius With Dermot Byrne And Seamie O’Dowd","2025-01-26 20:00:00","2025-01-26 20:00:00","The White Horse","West Village",Ballincollig,Cork,Ireland,51.88647079,-8.60628986
-10268,"Wassailing Event with Tunes and Shout","2025-01-27 19:00:00","2025-01-27 21:00:00","The Golden Lion","2 High Street",Romford,London,England,51.57841110,0.18026000
+10268,"Wassailing Event with Tunes and Shout","2025-01-27 19:00:00","2025-01-27 21:00:00","The Golden Lion","2 High Street",Romford,London,England,51.57871246,0.17966910
 10305,"Laidback Irish session tunes with Rowan Leslie","2025-01-29 00:00:00","2025-01-29 00:00:00",,,,,,,
 10236,"Tim O’Brien & Jan Fabricius  with Dermot Byrne & Seamie O’Dowd","2025-01-30 20:00:00","2025-01-30 20:00:00","Hawk's Well Theatre","Temple Street",Sligo,Sligo,Ireland,54.26818085,-8.47642994
 10267,"Tionól Nioclás Tóibín","2025-01-31 00:00:00","2025-02-03 00:00:00","Various Venues",,Ring,Waterford,Ireland,52.04668045,-7.56673002
@@ -7643,7 +7643,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10304,"Corofin Trad Fest","2025-02-26 00:00:00","2025-03-02 00:00:00","Various Venues",,Corofin,Clare,Ireland,52.94485855,-9.06414032
 10371,"Laidback Irish session tunes with Rowan Leslie","2025-02-26 00:00:00","2025-02-26 00:00:00",,,,,,,
 10347,"RTÉ Radio 1 Folk Awards","2025-02-26 19:00:00","2025-02-26 19:00:00","Vicar Street","58-59 Thomas Street",Dublin,Dublin,Ireland,53.34344101,-6.28412008
-8893,"The Trans-Atlantic Session","2025-02-26 20:00:00","2025-02-26 22:00:00",,,,,,,
 10453,"Cancelled: Traditional music session","2025-02-27 21:00:00","2025-02-27 23:00:00","Barry's Bar","Main Street",Rathcormac,Cork,Ireland,52.07729340,-8.28328228
 10333,"33rd Belfast Tionól","2025-02-28 00:00:00","2025-03-01 00:00:00","Various Venues",,Belfast,Antrim,"Northern Ireland",54.59426498,-5.83913898
 10393,"North Texas Irish Festival","2025-02-28 00:00:00","2025-03-02 00:00:00","Fair Park","3809 Grand Ave.",Dallas,Texas,USA,32.77936172,-96.76119232
@@ -7669,6 +7668,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10351,"Cady Finlayson & Vita Tanga","2025-03-05 15:30:00","2025-03-05 16:30:00","Queens Library At Woodside","54-22 Skillman Avenue",Queens,"New York",USA,40.74551010,-73.90973663
 10302,Lúnasa,"2025-03-05 19:30:00","2025-03-05 19:30:00","City Winery Philadelphia","990 Filbert St",Philadelphia,Pennsylvania,USA,39.95252991,-75.15624237
 10419,Téada,"2025-03-05 19:30:00","2025-03-05 22:00:00","United Irish Cultural Center","2700 45th Avenue","San Francisco",California,USA,37.73595810,-122.50288391
+8893,"The Trans-Atlantic Session","2025-03-05 20:00:00","2025-03-05 22:00:00",,,,,,,
 8470,"The Ould Sod Virtual Traditional Irish Session on Zoom (first Thursdays of the month)","2025-03-06 18:00:00","2025-03-06 20:00:00",,,,,,,
 10400,Altan,"2025-03-06 20:00:00","2025-03-06 20:00:00","The Coach House","33157 Camino Capistrano","San Juan Capistrano",California,USA,33.48192596,-117.67181396
 10421,Téada,"2025-03-06 20:00:00","2025-03-06 20:00:00","Hopmonk Tavern","230 Petaluma Ave",Sebastopol,California,USA,38.40113831,-122.82271576
@@ -7691,7 +7691,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10406,"A St. Patrick's Day Celebration with Altan","2025-03-09 19:00:00","2025-03-09 19:00:00","Lone Tree Arts Center","10075 Commons Street","Lone Tree",Colorado,USA,39.53328705,-104.88307953
 10368,"Martin Hayes","2025-03-09 20:00:00","2025-03-09 20:00:00","Ballymaloe Grainstore","Ballymaloe House",Shanagarry,Cork,Ireland,51.86505508,-8.07483959
 10427,Dervish,"2025-03-10 19:30:00","2025-03-10 19:30:00","City Winery","609 Lafayette Street",Nashville,Tennessee,USA,36.15220261,-86.77634430
+10471,Danú,"2025-03-10 19:30:00","2025-03-10 19:30:00","The Athenaeum Center","2936 N Southport Ave",Chicago,Illinois,USA,41.93541336,-87.66419983
 10412,"Slow Irish Session","2025-03-11 19:00:00","2025-03-11 19:00:00","Tom's Place","Ul. Sheynovo 2",Sofia,Sofia,Bulgaria,42.69252014,23.33691406
+10472,"Laidback Irish session tunes with Rowan Leslie","2025-03-12 00:00:00","2025-03-12 00:00:00",,,,,,,
 10431,Téada,"2025-03-12 19:00:00","2025-03-12 19:00:00","The Irish Cultural Center Of The Mohawk Valley","623 Columbia Street",Utica,"New York",USA,43.10445023,-75.24142456
 10407,Lúnasa,"2025-03-12 20:00:00","2025-03-12 20:00:00","The Ark","316 S. Main","Ann Arbor",Michigan,USA,42.27920914,-83.74900818
 10428,Dervish,"2025-03-12 20:00:00","2025-03-12 20:00:00","City Winery","650 North Avenue NE",Atlanta,Georgia,USA,33.77133560,-84.36673737
@@ -7709,18 +7711,22 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10283,"Dave Flynn & the New Zealand String Quartet - Irish Airs and Graces","2025-03-14 19:30:00","2025-03-14 19:30:00","Whisky & Wood","60 Cambridge Terrace",Wellington,Wellington,"New Zealand",-41.29742813,174.78178406
 10375,"Celtic Psalms | Ursula Burns","2025-03-14 19:30:00","2025-03-14 19:30:00","Redeember Central Church","101 Donegall St.",Belfast,Antrim,"Northern Ireland",54.60396194,-5.93038225
 10395,"Dan Possumato & Friends","2025-03-14 19:30:00","2025-03-14 19:30:00","Camden Opera House","29 Elm St.",Camden,Maine,USA,44.20938873,-69.06587982
+10464,"St. Patrick's Day Ceili gathering","2025-03-14 19:30:00","2025-03-14 19:30:00","Bar Singles","The NDK Complex",Sofia,Sofia,Bulgaria,42.68441391,23.31916618
 10309,"Four Men and a Dog","2025-03-15 00:00:00","2025-03-16 00:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 10376,"Céilí Dancing workshop with Ronán Eastwood","2025-03-15 11:00:00","2025-03-15 13:00:00","2 Royal Avenue",,Belfast,Antrim,"Northern Ireland",54.59951782,-5.93090963
 10398,"St. Patrick's Day Walk-About","2025-03-15 11:30:00","2025-03-15 13:30:00","Salem Riverfront Carousel","101 Front St. NE",Salem,Oregon,USA,44.94100189,-123.04312897
 10377,"Outdoor Pipe Band Extravaganza","2025-03-15 12:00:00","2025-03-15 14:00:00","Various Venues",,Belfast,Antrim,"Northern Ireland",54.59426498,-5.83913898
 10378,"Snare Drum & Bagpipe Taster Session","2025-03-15 14:00:00","2025-03-15 15:00:00","2 Royal Avenue",,Belfast,Antrim,"Northern Ireland",54.59951782,-5.93090963
+10463,"St. Patrick's Day with Crow For Day","2025-03-15 14:30:00","2025-03-15 17:00:00","Oceanview Brew Works","627 San Pablo Ave",Albany,California,USA,37.89420700,-122.29998016
 10379,"Belfast TradFest Solo Highland Piping Competition","2025-03-15 15:00:00","2025-03-15 15:00:00","The MAC","10 Exchange St West",Belfast,Antrim,"Northern Ireland",54.60323715,-5.92737579
 10409,Lúnasa,"2025-03-15 17:00:00","2025-03-15 17:00:00","Old Town School Of Folk Music","4544 N. Lincoln Ave",Chicago,Illinois,USA,41.96421432,-87.68605804
 10344,"Lauren Collier","2025-03-15 19:00:00","2025-03-15 22:00:00","Kilmelford Village Hall","Melfort House",Kilmelford,Argyll,Scotland,56.26737976,-5.49477005
 10454,"Open The Door For Three","2025-03-15 19:00:00","2025-03-15 21:00:00","317 Main Community Music Center","317 Main Street",Yarmouth,Maine,USA,43.80295944,-70.19133759
+10467,"St. Patrick's day Special : sláinte live and session","2025-03-15 19:00:00","2025-03-15 23:45:00",Gujersaal,"Kleinjoggsrtrasse 4, Wermatswil",Uster,Zürich,Switzerland,47.36271667,8.74711323
 10199,"Afro Celt Sound System","2025-03-15 19:30:00","2025-03-15 19:30:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58755112,-5.93597174
 10456,Danú,"2025-03-15 19:30:00","2025-03-15 19:30:00","Overture Center","201 State Street",Madison,Wisconsin,USA,43.07459259,-89.38825989
 10225,"Irish Heartbeat Festival","2025-03-15 20:00:00","2025-03-15 23:00:00","Kulturzentrum Pumpwerk","Banter Deich 1a",Wilhelmshaven,Niedersachsen,Germany,53.51373672,8.11396408
+10466,"Rí Rua celebrate St Patrick's Day","2025-03-15 20:00:00","2025-03-15 20:00:00","The Bull's Head","373 Lonsdale Road",Barnes,London,England,51.47380447,-0.25101930
 10380,"Céilí Dancing workshop with Ronán Eastwood","2025-03-16 11:00:00","2025-03-16 13:00:00","2 Royal Avenue",,Belfast,Antrim,"Northern Ireland",54.59951782,-5.93090963
 10381,"Workshop – An introduction to traditional music for classical musicians with composer & cellist Neil Martin","2025-03-16 11:00:00","2025-03-16 13:00:00","The MAC","10 Exchange St West",Belfast,Antrim,"Northern Ireland",54.60323715,-5.92737579
 10185,"St Patrick’s Day Party ☘️","2025-03-16 12:00:00","2025-03-16 14:00:00","The Grand Hotel","St Hill Street",Whanganui,Manawatu-Whanganui,"New Zealand",-39.93228149,175.04858398
@@ -7728,6 +7734,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10363,"Sorcha Costello and Alan Murray","2025-03-16 15:00:00","2025-03-16 15:00:00","The McEvoy Atelier","340 Main Street",Islip,"New York",USA,40.72796631,-73.21739960
 10315,"8th Annual Shamrock Cruise","2025-03-16 16:00:00","2025-03-16 19:00:00","Portland Spirit","110 SE Caruthers St",Portland,Oregon,USA,45.50548935,-122.66426086
 10382,"Workshop - An introduction to Sean Nós / Old Style Step Dancing with Mary McGuiggan","2025-03-16 16:00:00","2025-03-16 17:30:00","2 Royal Avenue",,Belfast,Antrim,"Northern Ireland",54.59951782,-5.93090963
+10473,Daimh,"2025-03-16 16:00:00","2025-03-16 18:00:00","Shepherdstown Presbyterian Church","100 W. Washington St",Shepherdstown,"West Virginia",USA,39.42900467,-77.80715942
 10435,Dervish,"2025-03-16 19:00:00","2025-03-16 19:00:00","The Kate","300 Main Street","Old Saybrook",Connecticut,USA,41.29045105,-72.37549591
 10455,"Open The Door For Three","2025-03-16 19:00:00","2025-03-16 19:00:00","Blackstone River Theatre","549 Broad Street",Cumberland,"Rhode Island",USA,41.91455841,-71.39870453
 10318,"Máirtín O'Connor & Zoë Conway with Music Generation Cavan/Monaghan Cross-Border Folk Orchestra - Conducted by Michael Rooney","2025-03-16 20:00:00","2025-03-16 20:00:00","Ulster Hall","Bedford Street",Belfast,Antrim,"Northern Ireland",54.59477997,-5.93126011
@@ -7738,11 +7745,13 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10387,"St. Patrick’s Day Céilí with Ronán Eastwood & The Glengormley Céilí Band.","2025-03-17 13:00:00","2025-03-17 16:00:00","The MAC","10 Exchange St West",Belfast,Antrim,"Northern Ireland",54.60323715,-5.92737579
 10388,"Acoustic Stage - Compere Jack Warnock presents a varied programme of music & dance.","2025-03-17 13:00:00","2025-03-17 16:00:00","Saint Anne's Square","2 Edward St",Belfast,Antrim,"Northern Ireland",54.60353088,-5.92714119
 10389,"Festival Village at Cathedral Quarter","2025-03-17 13:00:00","2025-03-17 17:00:00","Various Venues",,Belfast,Antrim,"Northern Ireland",54.59426498,-5.83913898
+10269,"'Strum-and-Sing-Along' - St Patrick's Day Session","2025-03-17 18:00:00","2025-03-17 21:00:00","The Golden Lion","2 High Street",Romford,London,England,51.57871246,0.17966910
 10140,"Cara Dillon 'Coming Home'","2025-03-17 19:00:00","2025-03-17 19:00:00","Ulster Hall","Bedford Street",Belfast,Antrim,"Northern Ireland",54.59477997,-5.93126011
-10269,"St Patrick's Day Session","2025-03-17 19:00:00","2025-03-17 21:00:00","The Golden Lion","2 High Street",Romford,London,England,51.57841110,0.18026000
+10475,Altan,"2025-03-17 19:00:00","2025-03-17 19:00:00","Wheeler Opera House","320 East Hyman Avenue",Aspen,Colorado,USA,39.18936157,-106.81996918
 10420,Lúnasa,"2025-03-17 19:30:00","2025-03-17 19:30:00","Lensic Performing Arts Center","211 W. San Francisco Street","Santa Fe","New Mexico",USA,35.68782806,-105.94104767
 10438,Dervish,"2025-03-17 19:30:00","2025-03-17 19:30:00","The Flying Monkey","39 S. Main St.",Plymouth,"New Hampshire",USA,43.75704193,-71.68781281
 10234,"McGoldrick, McCusker & Doyle | RÓIS","2025-03-17 20:00:00","2025-03-17 20:00:00","The MAC","10 Exchange St West",Belfast,Antrim,"Northern Ireland",54.60323715,-5.92737579
+10468,"Café Ceilidh","2025-03-18 14:00:00","2025-03-18 15:30:00","Scottish Storytelling Centre","43-45 High Street",Edinburgh,Lothian,Scotland,55.95072556,-3.18489504
 10423,Lúnasa,"2025-03-18 19:30:00","2025-03-18 19:30:00","KiMo Theatre","423 Central Avenue NW",Albuquerque,"New Mexico",USA,35.08491135,-106.65251160
 10284,"Dave Flynn - Celtic Guitar Journey","2025-03-20 19:30:00","2025-03-20 19:30:00","Little Theatre","9 Dublin Street",Picton,Marlborough,"New Zealand",-41.29066086,174.00614929
 10408,Altan,"2025-03-20 20:00:00","2025-03-20 20:00:00","The Ark","316 S. Main","Ann Arbor",Michigan,USA,42.27920914,-83.74900818
@@ -7757,11 +7766,13 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10237,"David Munnelly, Mick Conneely & Caitriona Ní Cheannabháin","2025-03-22 20:00:00","2025-03-22 20:00:00","The Séamus Ennis Arts Centre","Main Street",Naul,Dublin,Ireland,53.58419037,-6.28839016
 10422,Altan,"2025-03-23 18:30:00","2025-03-23 18:30:00","The Kent Stage","175 East Main Street",Kent,Ohio,USA,41.15400314,-81.35657501
 10287,"Dave Flynn - Celtic Guitar Journey","2025-03-23 19:00:00","2025-03-23 19:00:00","Great Hall, Christchurch Arts Centre","2 Worcester Boulevard",Christchurch,Canterbury,"New Zealand",-43.53096008,172.62832642
+10474,Altan,"2025-03-25 19:30:00","2025-03-25 19:30:00","West Shore Theatre","317 Bridge Street","New Cumberland",Pennsylvania,USA,40.22713470,-76.86487579
 10288,"Dave Flynn - Celtic Guitar Journey","2025-03-26 19:00:00","2025-03-26 19:00:00","The Church Of The Good Shepherd","Pioneer Drive","Lake Tekapo",Canterbury,"New Zealand",-44.00485992,170.48571777
 10425,Altan,"2025-03-26 20:00:00","2025-03-26 20:00:00","Sellersville Theater","24 West Temple Ave",Sellersville,Pennsylvania,USA,40.35920715,-75.31143188
 10405,Altan,"2025-03-27 19:30:00","2025-03-27 19:30:00","The Kate","300 Main Street","Old Saybrook",Connecticut,USA,41.29045105,-72.37549591
 10289,"Dave Flynn - Celtic Guitar Journey","2025-03-28 19:30:00","2025-03-28 19:30:00","Roxburgh Hall","132 Scotland Street",Roxburgh,"Central Otago","New Zealand",-45.54235840,169.31503296
 10429,Altan,"2025-03-28 19:30:00","2025-03-28 21:00:00","Johnson Hall Opera House","280 Water St.",Gardiner,Maine,USA,44.22951126,-69.77310944
+10462,"The Coincidences","2025-03-29 00:00:00","2025-03-29 00:00:00","Numans Dorpshuis",,Numansdorp,Zuid-Holland,Netherlands,51.74901199,4.44941854
 10290,"Dave Flynn - Celtic Guitar Journey","2025-03-29 19:00:00","2025-03-29 19:00:00","Southland Musicians Club","33 Preston St",Invercargill,Southland,"New Zealand",-46.38629913,168.34950256
 10460,"In Concert - Runa","2025-03-29 19:00:00","2025-03-29 21:30:00","The Irish Cultural Center Of The Mohawk Valley","623 Columbia Street",Utica,"New York",USA,43.10445023,-75.24142456
 10163,Altan,"2025-03-29 20:00:00","2025-03-29 20:00:00","Stone Mountain Arts Center","695 Dugway Road",Brownfield,Maine,USA,43.90791702,-70.94454956
@@ -7777,10 +7788,12 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10244,"Tullamore TradFest 2025","2025-04-11 00:00:00","2025-04-13 00:00:00","Various Venues",,Tullamore,Offaly,Ireland,53.27692032,-7.49245977
 10298,"Ballydehob Trad Fest","2025-04-11 00:00:00","2025-04-13 00:00:00","Various Venues",,Ballydehob,Cork,Ireland,51.56254196,-9.45854187
 10358,"Danny Diamond and Brian Miller","2025-04-11 19:00:00","2025-04-11 19:00:00","CelticMKE Center","1532 N. Wauwatosa Ave",Milwaukee,Wisconsin,USA,43.05170059,-88.00698853
+10470,"Sharon Shannon and family","2025-04-11 20:00:00","2025-04-11 20:00:00","New Quay Church",,"New Quay",Clare,Ireland,53.15451813,-9.08283043
 10350,"Open Irish Session celebrating 50 years of De Wending","2025-04-13 14:00:00","2025-04-13 17:00:00","Dorpshuis De Wending","Zuidwending 199",Zuidwending,Groningen,Netherlands,53.09508133,6.93480968
 10331,"Castilla Fiddle camp IV","2025-04-17 10:00:00","2025-04-20 15:00:00","Various Venues",,"Molino De Butrera",Burgos,Spain,42.92990875,-3.57638001
 10107,"Coll Connections","2025-04-19 14:00:00","2025-04-22 14:00:00","Various Venues",,Arinagour,"Argyll and Bute",Scotland,56.62411880,-6.52850819
 10266,"Cruinniú na bhFliúít","2025-04-23 00:00:00","2025-04-26 00:00:00","Various Venues",,Ballyvourney,Cork,Ireland,51.94606018,-9.16860771
+10469,"The Sugarloaf Sessions","2025-04-25 00:00:00","2025-04-27 00:00:00","Various Venues",,Bray,Wicklow,Ireland,53.20069885,-6.11093187
 10322,"Diarmuid Ó Meachair","2025-04-25 19:30:00","2025-04-25 21:30:00","Irish Cultural Centre","200 New Boston Drive",Canton,Massachusetts,USA,42.15121841,-71.11511230
 10345,"Jenn Butterworth and Laura-Beth Salter","2025-04-26 19:00:00","2025-04-26 22:00:00","Kilmelford Village Hall","Melfort House",Kilmelford,Argyll,Scotland,56.26737976,-5.49477005
 10348,"Cormac Begley","2025-04-26 19:00:00","2025-04-26 19:00:00","Vicar Street","58-59 Thomas Street",Dublin,Dublin,Ireland,53.34344101,-6.28412008
@@ -7788,6 +7801,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10366,"KVMR Celtic Festival","2025-05-02 00:00:00","2025-05-04 00:00:00","Nevada County Fairgrounds","11228 McCourtney Road","Grass Valley",California,USA,39.21878815,-121.07141113
 10391,"Féile Oriel 2025","2025-05-02 00:00:00","2025-05-04 00:00:00","Various Venues",,Monaghan,Monaghan,Ireland,54.24924469,-6.96830797
 10449,"Portlaoise Tradfest","2025-05-02 00:00:00","2025-05-04 00:00:00","Various Venues",,Portlaoise,Laois,Ireland,53.03276062,-7.29953766
+10465,"The Chris Langan Irish Music Weekend","2025-05-02 19:00:00","2025-05-04 19:00:00","The Tranzac Club","292 Brunswick Ave",Toronto,Ontario,Canada,43.66522598,-79.40753174
 10437,"Kevin Burke","2025-05-03 19:30:00","2025-05-03 22:00:00","Phinney Center Concert Hall","6532 Phinney Ave N",Seattle,Washington,USA,47.67769241,-122.35428619
 10439,"Kevin Burke","2025-05-07 16:00:00","2025-05-07 16:00:00","Peninsula Arts Center","504 Pacific Avenue North","Long Beach",Washington,USA,46.35457230,-124.05405426
 10324,"Baltimore Fiddle Fair","2025-05-08 00:00:00","2025-05-11 00:00:00","Various Venues",,Baltimore,Cork,Ireland,51.48559952,-9.37042046
