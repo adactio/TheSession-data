@@ -1110,6 +1110,7 @@ tune_id,alias,name
 142,"Perthshire Hunt, The","Boyne Hunt, The"
 142,"Sailor's Trip To Liverpool, The","Boyne Hunt, The"
 142,"Scéal Na gCapali","Boyne Hunt, The"
+142,"Seilg Na Bóinne","Boyne Hunt, The"
 142,"Thomas A Carta","Boyne Hunt, The"
 142,"Tom The Blacksmith","Boyne Hunt, The"
 143,"Carpenter, The","Traveller, The"
@@ -3890,6 +3891,7 @@ tune_id,alias,name
 614,"Connamara Stockings","Connemara Stockings, The"
 614,"Connemara Stocking, The","Connemara Stockings, The"
 614,"Galway, The","Connemara Stockings, The"
+614,"Giosáin Ċonamara","Connemara Stockings, The"
 614,"Hobb's Favourite","Connemara Stockings, The"
 614,"Kilrush Races","Connemara Stockings, The"
 614,"North West, The","Connemara Stockings, The"
@@ -5373,6 +5375,7 @@ tune_id,alias,name
 901,"Paddy Cronin's","Speed The Plough"
 901,"Paddy Cronins","Speed The Plough"
 901,"Speed Da Plough","Speed The Plough"
+901,"Speed The Plow","Speed The Plough"
 901,"Tom Billy's","Speed The Plough"
 901,"Tom Billy's Speed The Plough","Speed The Plough"
 902,"Casey At The Party","Mama's Pet"
@@ -6785,6 +6788,7 @@ tune_id,alias,name
 1185,"Sonny Broghan's Fancy","Sonny Brogan's"
 1186,"Elsie Marlie","Elsie Marley"
 1186,"Elsie Marly","Elsie Marley"
+1186,"Elslie Marly","Elsie Marley"
 1187,"Burnt Potato, The","Little Burnt Potato, The"
 1187,"Frank's Two-Step","Little Burnt Potato, The"
 1189,"Haste To The Wedding","Rory O'More"
@@ -8292,6 +8296,9 @@ tune_id,alias,name
 1540,"Johnny Henry's","Throw Away The Keys"
 1540,O'Gorman's,"Throw Away The Keys"
 1540,"Pat Mullin's","Throw Away The Keys"
+1542,"Abigail Judge","Mrs. Judge"
+1542,"Madam Judge","Mrs. Judge"
+1542,"Mrs Judge","Mrs. Judge"
 1544,"Aly Bain's","Bob McQuillan's"
 1544,"Aunt Susan's Favourite","Bob McQuillan's"
 1544,"Bob McQuillen's","Bob McQuillan's"
@@ -8314,7 +8321,6 @@ tune_id,alias,name
 1550,"Humours Of Derrykissanne, The","Humours Of Derrycrossane, The"
 1550,"Humours Of Derrykrosane, The","Humours Of Derrycrossane, The"
 1550,"Lucy Casey","Humours Of Derrycrossane, The"
-1551,"Planxty Mistress Judge","Mrs. Judge"
 1552,"Lucy Cambell","Lucy Campbell"
 1552,"Lucy Cambell's","Lucy Campbell"
 1552,"Lucy Campbell","Lucy Campbell"
@@ -9571,9 +9577,6 @@ tune_id,alias,name
 1888,"Who Would Be King But Charlie","Behind The Bush In The Garden"
 1888,"Who'll Be King But Charlie","Behind The Bush In The Garden"
 1888,"Who'll Be King But Charlie?","Behind The Bush In The Garden"
-1890,"Abigail Judge","Mrs. Judge"
-1890,"Madam Judge","Mrs. Judge"
-1890,"Mrs Judge","Mrs. Judge"
 1892,"Neil Gow's Lament (For The Death Of His Second Wife)","Niel Gow's Lament For His Second Wife"
 1892,"Neil Gow's Lament For The Death Of His Second Wife","Niel Gow's Lament For His Second Wife"
 1892,"Neil Gows Lament For His Second Wife","Niel Gow's Lament For His Second Wife"
@@ -13559,8 +13562,8 @@ tune_id,alias,name
 3470,"Willie Taylor's","Willy Taylor's"
 3471,"Nancy Clough",Nancy
 3471,"Nancy Clough's",Nancy
-3471,"Nancy Clough's March",Nancy
-3471,"Nancy's March",Nancy
+3471,"Nancy My Love",Nancy
+3471,Nancy's,Nancy
 3472,"Leitrim's Greig's Pipes","Leitrim Bucks, The"
 3472,"Sligo-Leitrim Bucks, The","Leitrim Bucks, The"
 3473,"Eliza Ross",Uist
@@ -16244,7 +16247,6 @@ tune_id,alias,name
 5228,"Devine's Favourite",Devine's
 5229,"Polduilly Bridge","Poldwilly Bridge"
 5229,"Tent At The Fair, The","Poldwilly Bridge"
-5231,"Bourée á Trios Temps","Mazurka Des Écoliers De Saint Genest"
 5231,"Mazurka De Gilles Chabenat","Mazurka Des Écoliers De Saint Genest"
 5231,"Mazurka De Gilles Chabenat","Mazurka Des Écoliers De Saint Genest"
 5231,Minor,"Mazurka Des Écoliers De Saint Genest"
@@ -16310,6 +16312,7 @@ tune_id,alias,name
 5301,"A Kiss Behind The Door","Rooskey, The"
 5301,"Church Street Polkas #1, The","Rooskey, The"
 5301,"Church Street Polkas No. 1, The","Rooskey, The"
+5301,"John Egan's","Rooskey, The"
 5301,Roosky,"Rooskey, The"
 5301,"Roosky, The","Rooskey, The"
 5301,"Sligo To Dublin","Rooskey, The"
@@ -17841,6 +17844,7 @@ tune_id,alias,name
 6406,"Tribanna Gwent","Triban Gwent"
 6406,"Tribannau Gwent","Triban Gwent"
 6408,"Dear Dove, The","Y Deryn Pur"
+6408,"Fair Bird","Y Deryn Pur"
 6408,"Gentle Bird, The","Y Deryn Pur"
 6408,"Gentle Dove, The","Y Deryn Pur"
 6408,"Sincere Bird, The","Y Deryn Pur"
@@ -22895,8 +22899,10 @@ tune_id,alias,name
 10588,"James Gannon's March","Jamesy Gannon's"
 10588,"Jamesy Gannon's","Jamesy Gannon's"
 10589,"Old Moll Of Oxford","Old Molly Oxford"
+10592,"Humors Of Schull, The","Humours Of Schull, The"
 10592,"Humours Of Schull, The","Humours Of Schull, The"
 10592,"Old Grey Gander, The","Humours Of Schull, The"
+10592,"Rolling , The","Humours Of Schull, The"
 10592,"Súgra Scholia","Humours Of Schull, The"
 10592,"Súgra Scoill","Humours Of Schull, The"
 10593,"Bonaparte's Expedition","Bonapart's Expedition"
@@ -23227,7 +23233,7 @@ tune_id,alias,name
 11060,"Johnny O'Leary's","An Seanchaí Muimhneach"
 11060,"Munster Storyteller, The","An Seanchaí Muimhneach"
 11063,"Jimmy Duffy's Highland","Miss Ramsey's Highland"
-11068,Orotava,Orotaba
+11068,Orotaba,Orotava
 11070,"Dandy Brush, The","Dandy Brush"
 11074,"Boughleen Bue, The","Goat's Horns, The"
 11074,"Galloway Tom","Goat's Horns, The"
@@ -23418,6 +23424,7 @@ tune_id,alias,name
 11289,"La Valse De Sångshytt",Sangshyttevalsen
 11289,Sångshyttan,Sangshyttevalsen
 11289,Sångshyttevalsen,Sangshyttevalsen
+11294,"Si! Si! Si! Si!","Say Yes Four Times"
 11295,"Cuckoo, The","Cuckoo's Nest, The"
 11295,"Nest Of The Cuckoo","Cuckoo's Nest, The"
 11296,"Boys From Scart, The","Boys From Scart"
@@ -25202,6 +25209,7 @@ tune_id,alias,name
 13565,"My Kindly Sweetheart","Gentle Milkmaid, The"
 13569,"Quick Step, The","Christie's Quickstep"
 13569,"Quickstep, The","Christie's Quickstep"
+13577,"Planxty Reynolds","Gaelic Farmer, The"
 13578,"Calgary Fiddlers","Calgary Fiddlers Welcome To Shetland"
 13578,"Calgary Fiddlers'","Calgary Fiddlers Welcome To Shetland"
 13578,"Calgary Fiddlers' Welcome To Shetland","Calgary Fiddlers Welcome To Shetland"
@@ -25557,6 +25565,9 @@ tune_id,alias,name
 14239,"Clean Suggane","Arrane Y Ven-Thie"
 14239,"Invocation To St Bridget","Arrane Y Ven-Thie"
 14246,"Old Aunt Sally Put A Bug On Me","Sally, There's A Bug On Me"
+14257,"Guégan & Riou's",Mazur'jazz
+14257,"Hyacinthe & Lucien",Mazur'jazz
+14257,"La Mazurka De Guégan Et Riou",Mazur'jazz
 14258,"M1, The","Boxwood, The"
 14262,"Down Parade",Portobello
 14265,"Queer Fella","Queer Fellow"
@@ -28107,7 +28118,6 @@ tune_id,alias,name
 21718,Tulla,"An Tulach"
 21724,"Opener #2, The","North Wind, The"
 21725,"Opener #1, The",Sissi's
-21729,"Nancy My Love","Nancy Clough"
 21738,"From Generation To Generation","Ó Ghlúin Go Glúin"
 21744,"Top Road Polka #1","Top Road"
 21745,"Top Road Polka #2","Top Road"
@@ -28488,6 +28498,7 @@ tune_id,alias,name
 23428,"An Bhfaca Sibh Máire, Iníon Alasdair","Have You Seen Mary, Daughter Of Alasdair"
 23428,"Faca Sibh Mairi Nighean Alasdair","Have You Seen Mary, Daughter Of Alasdair"
 23428,"Faca Sibh Máiri Nighean An Alasdair","Have You Seen Mary, Daughter Of Alasdair"
+23429,"Be Real","B Real"
 23430,"Captain H. Munro Of Newtown","Captain H. Munro"
 23450,"King Of The Sea, The","King Of The Sea"
 23450,"Ree Ny Marrey","King Of The Sea"
@@ -28516,6 +28527,7 @@ tune_id,alias,name
 23631,"Highland Lassie Going To The Fair, The","Bó Mhín Na Toitean"
 23633,"Rynne Minute, The","O'Flaherty's Farewell"
 23635,"Adam Work's","Rolling In Late"
+23642,"Trip To O'Flaherty, The","Trip To O'Flaherty's, The"
 23643,"Rain On Rùm","An T-uisge Air Rùm"
 23658,"Twenty Eight","Dua Puluh Lapan"
 23659,"Paddy Fahey's #5","Paddy Fahey's"
@@ -28804,9 +28816,12 @@ tune_id,alias,name
 25264,"Miss Crawford's Favorite","Mrs Crawford's Favourite"
 25264,"Mrs Crawford's Favorite","Mrs Crawford's Favourite"
 25281,"Land Of Plenty","Tír Na Flúirse"
+25301,"(= A Day In The Mountains)","Beinn A' Cheathaich"
 25319,"Maria Letezia's 1","Maria Letezia's"
 25320,"Maria Letezia's 2","Maria Letezia's"
 25343,"To The Peaceful Life","Don Saol Sítheach"
 25356,"FCK PTN","Ukraine, The"
 25357,"Waiting For Aoife","Ag Fanacht Ar Aoife"
 25367,"Song Of The Stone","Òran Na Cloiche"
+25386,"Chervona Kalyna","Oi U Luzi Chervona Kalyna"
+25386,"Oh, The Red Viburnum In The Meadow","Oi U Luzi Chervona Kalyna"
