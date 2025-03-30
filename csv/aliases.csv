@@ -3741,6 +3741,7 @@ tune_id,alias,name
 583,"Clap Dance, The","Rattlin' Bog, The"
 583,Leabaidh,"Rattlin' Bog, The"
 583,"Mist On The Bog, The","Rattlin' Bog, The"
+583,"Nancy Ninja","Rattlin' Bog, The"
 583,"Old Bog Hole","Rattlin' Bog, The"
 583,"Old Bog Hole, The","Rattlin' Bog, The"
 583,"Rattling Bog","Rattlin' Bog, The"
@@ -11539,6 +11540,7 @@ tune_id,alias,name
 2593,"Muiris Ó Dálaigh's",Ballyoran
 2593,"Paddy Spillane's",Ballyoran
 2593,"Paddy Spillane's No.2",Ballyoran
+2593,"Polca Deálaí",Ballyoran
 2593,"Russian Cavalry",Ballyoran
 2594,"Ballinamore, The","Ballinamore, The"
 2594,"Balmoral, The","Ballinamore, The"
@@ -12883,6 +12885,7 @@ tune_id,alias,name
 3128,"Neilí Cleirigh","Neily Cleere's"
 3128,"Nell Cleare's","Neily Cleere's"
 3128,"Nelly Cleare's","Neily Cleere's"
+3128,"Nelly Cleere's","Neily Cleere's"
 3128,"Pádraig Ó Caoimh","Neily Cleere's"
 3129,"Back O' The Haggard","Back Of The Haggard, The"
 3129,Kershaw's,"Back Of The Haggard, The"
@@ -20289,6 +20292,7 @@ tune_id,alias,name
 7992,"Alistair Hunter","Alistair Hunter's"
 7994,"Deálaí's No. 1",Deálaí's
 7994,"Mary Lucey's",Deálaí's
+7994,"Sleamhnáin Deálaí #1",Deálaí's
 7997,"Going For Water","John Murphy's"
 7997,"John Murphy","John Murphy's"
 8002,Hoban's,"Hoban's On 63rd"
@@ -26514,6 +26518,8 @@ tune_id,alias,name
 16547,"Tommy Gunn's","Ríl Thaimi Mhic Giolla Dhuinn"
 16550,Cairngorms,"Am Monadh Ruadh"
 16560,"Roger The Weaver","All Covered With Moss"
+16561,"Cause For Which You Loved Me, The","John Roy Stewart"
+16561,"Sud An Gaol A Bh' Agad Orm","John Roy Stewart"
 16562,"Dan Galbey's","Dan Galbey"
 16569,"Irish Ho Hoane, The","Cold And Raw"
 16569,"Up In The Morning Early","Cold And Raw"
@@ -27887,10 +27893,12 @@ tune_id,alias,name
 20775,"Triochad Bliadhain O Shoin","Thirty Years Ago"
 20784,"Boys From Dildo, The","Boys Of Dildo, The"
 20786,"Calvin Payne's Step Dance Tune","Step Dance Tune"
+20790,"Knights' Fancy, The","Knights', The"
 20793,"Flying Circus","A Slip Of A Thing"
 20797,"Micheal An Feadaire","Whistling Mike"
 20798,"Rauidhri Ua Niall","Rogers O'Neill"
 20799,"Ríl Mhary Ellen","Mary Ellen's"
+20799,"Ríl Mhary-Ellen","Mary Ellen's"
 20801,"Fling Mhaigh Eo","Mayo Fling, The"
 20803,Homestead,"Hounds Way, The"
 20809,"MacCormack's Breakdown","McCormack's Breakdown"
@@ -27932,6 +27940,8 @@ tune_id,alias,name
 20985,"Sands Of Loch Bee, The","Road To Gerinish, The"
 20985,"Shores Of Loch Bee, The","Road To Gerinish, The"
 20996,"Hovering Hawks #1","Hovering Hawks"
+21001,"Badge Of Scotland, The","Thistle O' Scotland, The"
+21001,"Thistle Of Scotland, The","Thistle O' Scotland, The"
 21030,"Bridget O'Malley","Bríd Óg Ní Mháille"
 21034,"Andet Brudestykke No. 2","Andet Brudestykke"
 21034,"Andet Brujstyk' No. 2","Andet Brudestykke"
@@ -28456,6 +28466,7 @@ tune_id,alias,name
 23314,"When Will We Be Married?","When Will We Be Married"
 23318,"Deálaí's No. 2",Deálaí's
 23318,"Deálaí's No. 3",Deálaí's
+23318,"Sleamhnáin Deálaí #2",Deálaí's
 23323,"Christmas Stable","Stable, The"
 23324,"Tiarna Maigheó","Lord Mayo"
 23324,"Tiarna Mhuigheo","Lord Mayo"
@@ -28610,6 +28621,7 @@ tune_id,alias,name
 24113,Suantraí,"Bog Braon"
 24114,"Et Lite Barn","A Little Child"
 24114,"Little Child, The","A Little Child"
+24127,"Mòrag A Bha 'san Rudha","Pretty Marion"
 24131,"(Alledgedly) High, The",Códháirdeachais
 24131,Comhghairdeas,Códháirdeachais
 24131,Congratulations,Códháirdeachais
@@ -28816,7 +28828,7 @@ tune_id,alias,name
 25264,"Miss Crawford's Favorite","Mrs Crawford's Favourite"
 25264,"Mrs Crawford's Favorite","Mrs Crawford's Favourite"
 25281,"Land Of Plenty","Tír Na Flúirse"
-25301,"(= A Day In The Mountains)","Beinn A' Cheathaich"
+25301,"A Day In The Mountains","Beinn A' Cheathaich"
 25319,"Maria Letezia's 1","Maria Letezia's"
 25320,"Maria Letezia's 2","Maria Letezia's"
 25343,"To The Peaceful Life","Don Saol Sítheach"
@@ -28825,3 +28837,5 @@ tune_id,alias,name
 25367,"Song Of The Stone","Òran Na Cloiche"
 25386,"Chervona Kalyna","Oi U Luzi Chervona Kalyna"
 25386,"Oh, The Red Viburnum In The Meadow","Oi U Luzi Chervona Kalyna"
+25399,"Katie Morag Jig, Katie Morag Theme, Theme From Katie Morag","Katie Morag"
+25406,Craig-a-Bodich,Craig-a-Bhodaich
