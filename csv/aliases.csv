@@ -308,13 +308,14 @@ tune_id,alias,name
 38,"Dan Lowry's","Galway, The"
 38,McDermott's,"Galway, The"
 38,"McDermott's No.1","Galway, The"
-39,Daly's,"Kerry, The"
-39,"East Limerick","Kerry, The"
-39,"Easy Limerick, The","Kerry, The"
-39,Egan's,"Kerry, The"
-39,Egans,"Kerry, The"
-39,"John Egan's","Kerry, The"
-39,"Peg Ryan's","Kerry, The"
+39,Daly's,Egan's
+39,"East Limerick",Egan's
+39,"Easy Limerick, The",Egan's
+39,Egan's,Egan's
+39,Egans,Egan's
+39,"John Egan's",Egan's
+39,"Peg Ryan's",Egan's
+39,"Tragedy We Witnessed In Lexington Avenue Subway Station In 1984, The",Egan's
 40,"Fintan McManus's","Guns Of The Magnificent Seven, The"
 40,"Guns, The","Guns Of The Magnificent Seven, The"
 40,"Return Of The Magnificent Seven","Guns Of The Magnificent Seven, The"
@@ -414,6 +415,7 @@ tune_id,alias,name
 54,"Turlough McSweeney","King Of The Pipers"
 55,Castle,"Kesh, The"
 55,"Castle, The","Kesh, The"
+55,"Cheese String, The","Kesh, The"
 55,"Conrad's Lament","Kesh, The"
 55,"Conrad's Trip To The Bog","Kesh, The"
 55,Kerrigan's,"Kesh, The"
@@ -4069,6 +4071,7 @@ tune_id,alias,name
 644,"Shannonaire's, The","Silver Vale, The"
 644,"Shannonaires', The","Silver Vale, The"
 644,"Short Road, The","Silver Vale, The"
+646,"Frank's Special Sauce",Frank's
 646,Franks,Frank's
 646,"Hot Sauce",Frank's
 647,"Bracken Highland Fling, The","Cutting Bracken"
@@ -4354,6 +4357,7 @@ tune_id,alias,name
 702,"Mail Coach Road To Sligo, The","Blackthorn Stick, The"
 702,"Robin's Nest, The","Blackthorn Stick, The"
 702,"Three Weeks We Were Wed","Blackthorn Stick, The"
+703,Carcasses,Catharsis
 703,"Catharsis, The",Catharsis
 705,"Barrow Burn",Barrowburn
 705,"Barrow Burn, The",Barrowburn
@@ -5150,6 +5154,7 @@ tune_id,alias,name
 854,"Sport Of Chase","Sport Of The Chase, The"
 855,"Flow Gently Sweet Afton","Afton Water"
 857,"Fateful Head",Spootiskerry
+857,"Overplayed + Boring!!!!",Spootiskerry
 857,"Spoot Askerry",Spootiskerry
 857,"Spoot O' Skerry, The",Spootiskerry
 857,Spootaskerry,Spootiskerry
@@ -6304,6 +6309,7 @@ tune_id,alias,name
 1093,"Lexy MacAskill's","Lexie MacAskill"
 1093,"Lexy McAskill","Lexie MacAskill"
 1093,"Lexy McAskill's","Lexie MacAskill"
+1093,"Sexy Lexie","Lexie MacAskill"
 1093,"Sexy Lexy","Lexie MacAskill"
 1094,"A Northern Song","Corn Riggs"
 1094,"Corn Reeks, The","Corn Riggs"
@@ -9850,6 +9856,7 @@ tune_id,alias,name
 1977,"Olive Branch, The","Reconciliation, The"
 1977,"Peacemaker, The","Reconciliation, The"
 1977,"Reconcilliation, The","Reconciliation, The"
+1977,"That Time Bill Went To The Toilet And Never Came Back","Reconciliation, The"
 1979,"Banjaxed, The",Banjaxed
 1980,Dumphy's,Dunphy's
 1980,Dunphies,Dunphy's
@@ -15259,6 +15266,7 @@ tune_id,alias,name
 4475,"Tommy Peoples'","First Day Of Spring, The"
 4479,"Loughing Spoons, The","Laughing Spoons, The"
 4479,"Na Spúnóga Ag Scigireacht","Laughing Spoons, The"
+4481,"Mick Dwyer's","Bluebells Are Blooming, The"
 4484,"Millhouse, The","Mill House, The"
 4486,"Beautiful Gore Tree","Beautiful Gortree"
 4486,"Beautiful Goretree","Beautiful Gortree"
@@ -18118,7 +18126,13 @@ tune_id,alias,name
 6538,"Frankie Kennedy's","Jolly Pigeons, The"
 6538,"Jolly Pigeon, The","Jolly Pigeons, The"
 6539,"A Buddy MacMaster","Buddy MacMaster's"
+6541,"Barrack Hill","Peeler's Away With My Daughter, The"
+6541,"Battle March Of The O'Donnell Clans","Peeler's Away With My Daughter, The"
+6541,"Hills Of Glenorchie","Peeler's Away With My Daughter, The"
+6541,"I Love My Love In The Hay All Night","Peeler's Away With My Daughter, The"
 6541,"Peeler's Away With Me Daughter, The","Peeler's Away With My Daughter, The"
+6541,"Pipes In Glenbeigh","Peeler's Away With My Daughter, The"
+6541,"Triall - Catha Siol Dalaigh","Peeler's Away With My Daughter, The"
 6545,"Seán O'Duibhir An Ghleanna","John O'Dwyer Of The Glen"
 6546,"Johnny Doherty's","Green Pigeon, The"
 6546,"Westport Chorus","Green Pigeon, The"
@@ -25940,7 +25954,7 @@ tune_id,alias,name
 14856,"Cor Mic Tomais",Thompson's
 14856,"Spirvin's Fancy",Thompson's
 14857,"An Posad",Wedding
-14857,Wedding,Wedding
+14857,"Wedding, The",Wedding
 14859,"An Sean Gandal Liat","Old Grey Gander, The"
 14859,"An Seanghandal Liath","Old Grey Gander, The"
 14859,"Gray Hen, The","Old Grey Gander, The"
@@ -26101,6 +26115,8 @@ tune_id,alias,name
 15218,"Planxty Sir Ulick Burke","Sir Ulick Burke"
 15218,"Planxty Ulick Burke","Sir Ulick Burke"
 15222,"Ril Ui Sheachnasaigh",O'Shaughnessy's
+15226,"Hamish's Tune","A Trip To Bavaria"
+15226,"Remmerts Of Hereford","A Trip To Bavaria"
 15227,"Ferintosh Whiskey",Ferintosh
 15227,"Ferintosh Whisky",Ferintosh
 15227,Ferrintosh,Ferintosh
@@ -27028,6 +27044,7 @@ tune_id,alias,name
 17762,"Irish polka","Ademar O'Connor's"
 17766,"Reel For Jim DeWan","Tune For Jim DeWan"
 17767,Prospero's,Prosper's
+17774,"Eagle's Whistle, The","O'Donoghue's Grand"
 17775,"An Crúisgín Lán","Crúiscín Lán"
 17775,"Cruiscin Lan","Crúiscín Lán"
 17775,"Cruiskeen Lawn, The","Crúiscín Lán"
@@ -27075,6 +27092,7 @@ tune_id,alias,name
 17924,"Ould, The","Canadian, The"
 17934,"Funny Old","Finbarr Dwyer's"
 17936,Cashman's,"DAF Truck"
+17936,"John Walsh's","DAF Truck"
 17937,"Polca Uí Liatháin",Lehane's
 17938,"We'll Fight For Uncle Sam","Whiskey In The Jar"
 17942,"John Joe Moroney's Favorite","John Joe Moroney's Favourite"
@@ -28879,6 +28897,7 @@ tune_id,alias,name
 25019,"Peter Croll's Jig No.1","Peter Croll's"
 25020,"Peter Croll's Jig No.2","Peter Croll's"
 25022,"Peter Croll's Jig No.3","Peter Croll's"
+25024,"Lost In The Loop","Pete's Rambling"
 25031,"Brazen Mask, The","Brazen Mask"
 25040,"Richie Dwyer's Favorite","Richie Dwyer's Favourite"
 25041,Korstog,Crusade
@@ -28939,3 +28958,6 @@ tune_id,alias,name
 25567,"Hoslegata Christmas Polka #1, The","Hoslegata Christmas, The"
 25577,Inishbarra,"Inis Bearachain"
 25577,"Red Box, The","Inis Bearachain"
+25587,Moyard,"Moyard, The"
+25587,"Ríl Mhaigh Ard","Moyard, The"
+25595,"Battle Of The Bird Box, The","Bird Box, The"
