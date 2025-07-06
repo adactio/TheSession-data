@@ -2792,7 +2792,7 @@ tune_id,alias,name
 445,Itzikel,Frailach
 445,Iúil,Frailach
 445,"Little Isaac",Frailach
-447,"An Rós Sa BhFraoch","Rose In The Heather, The"
+447,"An Rós Sa bhFraoch","Rose In The Heather, The"
 447,"Corofin, The","Rose In The Heather, The"
 447,"Humours Of Corofin, The","Rose In The Heather, The"
 447,"Longford, The","Rose In The Heather, The"
@@ -7135,7 +7135,6 @@ tune_id,alias,name
 1258,"Powers Of Whiskey","Kinnegad Slashers, The"
 1258,"Put On Your Clothes","Kinnegad Slashers, The"
 1258,"Twin Sisters","Kinnegad Slashers, The"
-1260,"Destructive Jack","Jack Broke Da Prison Door"
 1260,"Jack Broke Down The Prison Door","Jack Broke Da Prison Door"
 1260,"Jack Broke The Prison Door","Jack Broke Da Prison Door"
 1260,"Jock Broke Da Prison Door","Jack Broke Da Prison Door"
@@ -14158,6 +14157,7 @@ tune_id,alias,name
 3739,"Tone Row's #2","A Thousand Farewells"
 3739,"Tone Row's No. 2","A Thousand Farewells"
 3739,"Tubercurry, The","A Thousand Farewells"
+3740,"Cnoc An Arbhair","Cornhill, The"
 3744,"Maire An Briste","Breeches Mary"
 3745,"I'm Waiting For You","Sailor's Cravat, The"
 3745,"Reel Of Tralishlane, The","Sailor's Cravat, The"
@@ -14171,6 +14171,7 @@ tune_id,alias,name
 3748,"Gin He Was A Bonny Lad","Because He Was A Bonny Lad"
 3748,"Gin I Was A Bonny Lad","Because He Was A Bonny Lad"
 3749,"Most Of The Notes Have Been Redacted. Anyone Know Why?","Klezmer, The"
+3749,"Orphan, The","Klezmer, The"
 3751,"Marquis Of Huntley., The","Bob Wi' The One Horn, The"
 3751,"Marquis Of Huntly, The","Bob Wi' The One Horn, The"
 3752,"Commonality, The","Well-Bred Foal, The"
@@ -15406,6 +15407,9 @@ tune_id,alias,name
 4579,"Smiler, The","Cat In The Corner, The"
 4579,"Smiling Jig","Cat In The Corner, The"
 4583,Campbell's,Campbell's
+4583,"Chase The Banshee",Campbell's
+4583,"Flanagans Chase The Banshee, The",Campbell's
+4583,"Flanagans' Banshee, The",Campbell's
 4585,Finnish,Metsäkukkia
 4585,"Flower Of The Woods, The",Metsäkukkia
 4585,"Flowering Forest, The",Metsäkukkia
@@ -18130,6 +18134,7 @@ tune_id,alias,name
 6533,"Happy Chinese, The","Chinese, The"
 6533,"Polka Chinoise","Chinese, The"
 6534,"Dandelion Clog, The","Bridge Of Athlone, The"
+6535,"Coach House, The","Iain MacPherson's"
 6538,"Frankie Kennedy's","Jolly Pigeons, The"
 6538,"Jolly Pigeon, The","Jolly Pigeons, The"
 6539,"A Buddy MacMaster","Buddy MacMaster's"
@@ -22448,7 +22453,7 @@ tune_id,alias,name
 9918,"Western Isles Dance No. 32","Ho, Gura H-aighearach A Nochd A' Dol A Laighe Mi"
 9919,"Seagull's Embrace","Seagulls Embrace"
 9925,"Lady Anne Bothwell's Lament","Lady Ann Bothwel's Lament"
-9927,"Little Spotted Pony","Spotted Pony, The"
+9927,"Little Spotted Pony",Shane
 9932,"Mrs Casey's",Mulvihill's
 9933,"Muiñeira De Freixido","Setting Sail"
 9936,"Sean Ryan's","Hogan's Pass"
@@ -24430,7 +24435,7 @@ tune_id,alias,name
 12389,"Dauphin, The","Dolphin, The"
 12392,"Prayer, The",Prayer
 12393,"Donacht Head","Donachd Head"
-12396,"An Damez Kozh","An Damez Kohz"
+12396,Larideè,"An Damez Kozh"
 12397,"Chinese Rag","Chinese Breakdown"
 12398,"Dragonship, The",Drakskeppet
 12402,"Mungo Ó Ceallaigh","Mungo Kelly's"
@@ -26067,6 +26072,7 @@ tune_id,alias,name
 15018,"Month Of January","Twas In The Month Of January"
 15018,"Month Of January, The","Twas In The Month Of January"
 15019,"Intercontinental Stomp","Incontinental Stomp"
+15020,"Banks Of The Hudson, The","A Bright May Morning"
 15029,"Garden Where The Praties Grow, The","Garden Where The Praties Grow"
 15035,"Betsy Likens","Betty Likens"
 15051,"Coloured Aristocracy","Colored Aristocracy"
@@ -27556,6 +27562,7 @@ tune_id,alias,name
 19191,"Rêve Du Quêteux Tremblay","Wiliam Tremblay's Dream"
 19191,Tremblay,"Wiliam Tremblay's Dream"
 19195,"Planxty Daly","Planxty O'Daly"
+19199,"Conamara Wedding","Waltz An Chleamhnais"
 19229,"Connachtman's Rambles, The","Camchuairt An Connachtaigh"
 19229,"Rambling Connachtman","Camchuairt An Connachtaigh"
 19230,"Siobháinín Seó","Siobhainin Seo"
@@ -28928,7 +28935,6 @@ tune_id,alias,name
 25040,"Richie Dwyer's Favorite","Richie Dwyer's Favourite"
 25041,Korstog,Crusade
 25051,"Uist , The","Mrs Isabel MacKenzie"
-25078,"Banks Of The Hudson, The","A Bright May Morning"
 25093,"Suisheen Bawn, The","White Blanket, The"
 25094,"Ag Piocadh Suas Na Píosaí","Picking Up The Pieces"
 25095,"Fíbín Oibre","Work For The Willing"
@@ -28965,6 +28971,8 @@ tune_id,alias,name
 25428,Tamlane,"Tam Lin"
 25435,"Perfect Storm, The","Perfect Storm"
 25442,"Rearrangement , The",Rearrangement
+25447,"John Teaimi","John Teaimí"
+25447,"Polca John Teaimí","John Teaimí"
 25455,"Alex (Sandy) F. Skinner","Alex Sandy Skinner"
 25455,"Sandy F. Skinner","Alex Sandy Skinner"
 25461,"My Only Jo And Dearie, O","Gan Ainm"
@@ -29001,3 +29009,5 @@ tune_id,alias,name
 25669,"Carnloch Bay","Carnlough Bay"
 25669,"Sweet Carnlough Bay","Carnlough Bay"
 25673,"Feachain Gleis, Feachan Gleash","Feachain Gleas"
+25684,"Na Portáin Sa Ghréiscphota","Crabs In The Greasepot"
+25693,"Sliabh Na mBan",Slievenamon
