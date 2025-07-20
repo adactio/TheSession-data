@@ -7257,7 +7257,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9891,"Sean Vaughan & Hugh Healy","2024-07-24 19:30:00","2024-07-24 19:30:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01649857,-9.37530231
 9902,"Pride Céilí","2024-07-24 19:30:00","2024-07-24 19:30:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60164261,-5.92706490
 9940,"Emer Mayock and Donal Siggins","2024-07-25 13:00:00","2024-07-25 13:00:00","Monroe's Tavern","14 Dominick Street Upper",Galway,Galway,Ireland,53.26997375,-9.05776882
-9652,"Corvallis Celtic Festival","2024-07-25 17:00:00","2024-07-28 17:00:00","Various Venues",,Corvallis,Oregon,USA,44.56456757,-123.26204681
 9903,"Niall Hanna | Damian McKeen","2024-07-25 18:15:00","2024-07-25 18:15:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60164261,-5.92706490
 9814,"AirVenture Flying Musicians Trad Session","2024-07-25 19:00:00","2024-07-25 21:00:00","AirVenture - UltraLight Barn And Forums Tent","3539-3899 Wittman Dr",Oshkosh,Wisconsin,USA,43.99189758,-88.57363129
 9904,"With Pipe & Drum","2024-07-25 19:00:00","2024-07-25 19:00:00","Titanic Hotel","8 Queens Rd, The Titanic Quarter",Belfast,Antrim,"Northern Ireland",54.60743332,-5.90833092
@@ -7990,6 +7989,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10589,"35th Joe Mooney Summer School","2025-07-19 00:00:00","2025-07-26 00:00:00","Various Venues",,Drumshanbo,Leitrim,Ireland,54.04780197,-8.04002380
 10717,"Rencontres Irlandaises de Tocane","2025-07-19 00:00:00","2025-07-25 00:00:00","Various Venues",,Tocane-Saint-Apre,Dordogne,France,45.25670242,0.49584389
 10671,"Forge & Fledge instruments band and Sheffield Flute Choir joint concert + session","2025-07-19 19:00:00","2025-07-19 22:00:00","The Perch Brewhouse","44 Garden Street",Sheffield,Yorkshire,England,53.38373566,-1.47680628
+10725,"Perry Hall Folk Music Night, featuring Eli Lev","2025-07-19 19:00:00","2025-07-19 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40932846,-76.46704102
+10722,"Timmy O'Connor Tribute Concert","2025-07-19 20:00:00","2025-07-19 22:30:00","An Cultúrlann","Church Street",Newmarket,Cork,Ireland,52.21470642,-8.99657631
+9652,"Corvallis Celtic Festival","2025-07-24 17:00:00","2025-07-27 17:00:00","PRAx, Common Fields, Old World Deli, Benton County Library, Dragon's Whistle",,Corvallis,Oregon,USA,44.56126022,-123.26094818
 10534,"Three Hares Folk Camp","2025-07-24 17:00:00","2025-07-27 13:00:00","Three Hares Farm","Dundry Lane",Bristol,Bristol,England,51.40211868,-2.64670444
 10326,"AirVenture 2025 Trad Irish Music Session","2025-07-24 19:00:00","2025-07-24 21:00:00","AirVenture - UltraLight Barn And Forums Tent","3539-3899 Wittman Dr",Oshkosh,Wisconsin,USA,43.99189758,-88.57363129
 10672,"Cobh Trad Fest","2025-07-25 00:00:00","2025-07-27 00:00:00","Various Venues",,Cobh,Cork,Ireland,51.85304260,-8.29509068
@@ -7997,8 +7999,8 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10710,"Open the Door for Three - House concert","2025-07-26 20:00:00","2025-07-26 23:45:00","Wee Ceili Room",,Tualatin,Oregon,USA,45.38125610,-122.76428986
 10529,"Belfast Trad Fest","2025-07-27 00:00:00","2025-08-03 00:00:00","Various Venues",,Belfast,Antrim,"Northern Ireland",54.59842300,-5.93330383
 10656,"Scoil Acla Summer School 2025","2025-07-27 00:00:00","2025-08-02 00:00:00","Various Venues",,"Achill Island",Mayo,Ireland,53.96195221,-10.01533508
+10726,"Moonrakers Picnic Concert","2025-07-27 18:00:00","2025-07-27 20:30:00","Waterperry Gardens",,Waterperry,Oxfordshire,England,51.75257492,-1.08882856
 10563,"Dervish + NOTIFY, The Irish Concertina Orchestra, Cormac McCarthy and the MGCE Concert Orchestra","2025-07-27 19:00:00","2025-07-27 23:00:00","Ulster Hall","34 Bedford Street",Belfast,Antrim,"Northern Ireland",54.59445572,-5.93106174
-10682,"Dervish + NOTIFY with Cormac McCarthy and the Irish Concertina Orchestra","2025-07-27 20:00:00","2025-07-27 20:00:00","Ulster Hall","34 Bedford Street",Belfast,Antrim,"Northern Ireland",54.59445572,-5.93106174
 10707,"Fleadh Cheoil Chill Chartha","2025-07-28 00:00:00","2025-08-01 00:00:00","Various Venues",,Kilcar,Donegal,Ireland,54.63239288,-8.58946228
 10714,"O'Carolan Harp Festival & Summer School","2025-07-28 00:00:00","2025-08-04 00:00:00","Various Venues",,Keadue,Roscommon,Ireland,54.05114365,-8.13775539
 10637,"Masterclass Assistants Opportunity","2025-07-28 09:00:00","2025-08-01 13:30:00","Ulster University","2-24 York Street",Belfast,Antrim,"Northern Ireland",54.60955048,-5.92369890
@@ -8012,13 +8014,11 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10700,"Céilí with Copperplate Céilí Band, Irish Dancing for Adults and Ethan Loughrey","2025-07-29 20:00:00","2025-07-29 20:00:00","Redeember Central Church","101 Donegall St.",Belfast,Antrim,"Northern Ireland",54.60396194,-5.93038225
 10600,"Goitse | Mick McAuley & John Doyle","2025-07-30 19:30:00","2025-07-30 19:30:00","The Empire","42 Botanic Ave",Belfast,Antrim,"Northern Ireland",54.58819580,-5.93265295
 10614,"Attic Sessions: Deirdre & Mairéad Hurley","2025-07-30 19:30:00","2025-07-30 19:30:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01649857,-9.37530231
-10683,"Goitse | Mick McAuley & John Doyle","2025-07-30 19:30:00","2025-07-30 19:30:00","The Empire","42 Botanic Ave",Belfast,Antrim,"Northern Ireland",54.58819580,-5.93265295
 10692,"Belfast Harp Festival / Féile Cruitírí Bhéal Feirste","2025-07-30 19:30:00","2025-07-30 19:30:00","Redeember Central Church","101 Donegall St.",Belfast,Antrim,"Northern Ireland",54.60396194,-5.93038225
 10693,"Ceol na n bPíob / The Music of the Pipes: R.L. O'Mealy","2025-07-30 19:30:00","2025-07-30 19:30:00","An Droichead","20 Cooke Street, Ormeau Road",Belfast,Antrim,"Northern Ireland",54.58829498,-5.92300272
 10719,"Caledonia Dreaming","2025-07-30 19:30:00","2025-07-30 19:30:00",Marktplatz,,Schönau,Baden-Wuerttenburg,Germany,49.43684769,8.80974102
 10703,"Festival Club: Joe Jack Attack & Becky Ní Éallaithe | Trad Disco with DJ Lachlan","2025-07-30 22:00:00","2025-07-30 22:00:00","The Deer’s Head","1-3 Lower Garfield Street",Belfast,Antrim,"Northern Ireland",54.60146713,-5.93027592
 10603,"Iarla Ó Lionáird & Tim Edey | Tempest","2025-07-31 19:30:00","2025-07-31 19:30:00","The Empire","42 Botanic Ave",Belfast,Antrim,"Northern Ireland",54.58819580,-5.93265295
-10684,"Iarla Ó Lionáird & Tim Edey | Tempest","2025-07-31 19:30:00","2025-07-31 19:30:00","The Empire","42 Botanic Ave",Belfast,Antrim,"Northern Ireland",54.58819580,-5.93265295
 10694,"With Pipe and Drum","2025-07-31 19:30:00","2025-07-31 19:30:00","The Great Hall, Stormont","Stormont BT4 3XX",Belfast,Antrim,"Northern Ireland",54.60145569,-5.82822704
 10695,"Brìghde Chaimbeul | Chris Stout & Catriona McKay","2025-07-31 19:30:00","2025-07-31 19:30:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60164261,-5.92706490
 10697,"Pride Céilí","2025-07-31 19:30:00","2025-07-31 19:30:00","The Black Box","18-22 Hill Street",Belfast,Antrim,"Northern Ireland",54.60164261,-5.92706490
@@ -8026,13 +8026,10 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10704,"Festival Club: Sinead McKenna Band | Trad Disco with DJ Lachlan","2025-07-31 22:00:00","2025-07-31 22:00:00","The Deer’s Head","1-3 Lower Garfield Street",Belfast,Antrim,"Northern Ireland",54.60146713,-5.93027592
 10676,"Dublin Irish Festival","2025-08-01 00:00:00","2025-08-03 00:00:00","Coffman Park","5200 Emerald Parkway",Dublin,Ohio,USA,40.11743546,-83.09609222
 10601,"Matt Molloy, John Carty & Brian McGrath | The Breath","2025-08-01 19:30:00","2025-08-01 19:30:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58464050,-5.93704557
-10685,"Matt Molloy, John Carty & Brian McGrath | The Breath","2025-08-01 19:30:00","2025-08-01 19:30:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58464050,-5.93704557
 10702,"Sets Céilí with Johnny Reidy Céilí Band & Ronán Eastwood","2025-08-01 20:00:00","2025-08-02 00:00:00","Redeember Central Church","101 Donegall St.",Belfast,Antrim,"Northern Ireland",54.60396194,-5.93038225
 10705,"Festival Club: NxNW | Trad Disco with DJ Lachlan","2025-08-01 22:00:00","2025-08-01 22:00:00","The Deer’s Head","1-3 Lower Garfield Street",Belfast,Antrim,"Northern Ireland",54.60146713,-5.93027592
 10602,"Julie Fowlis, Éamon Doorley, Zoë Conway, John McIntyre with The Ulster Orchestra","2025-08-02 13:00:00","2025-08-02 13:00:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58464050,-5.93704557
-10686,"Julie Fowlis, Éamon Doorley, Zoë Conway, John McIntyre with The Ulster Orchestra","2025-08-02 13:00:00","2025-08-02 13:00:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58464050,-5.93704557
 10604,"Moxie | Kinnaris Quintet","2025-08-02 19:30:00","2025-08-02 19:30:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58464050,-5.93704557
-10687,"Moxie | Kinnaris Quintet","2025-08-02 19:30:00","2025-08-02 19:30:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58464050,-5.93704557
 10706,"Festival Club: The Johnny Quinn Macs | Trad Disco with DJ Lachlan","2025-08-02 22:00:00","2025-08-02 22:00:00","The Deer’s Head","1-3 Lower Garfield Street",Belfast,Antrim,"Northern Ireland",54.60146713,-5.93027592
 10544,"Fleadh Cheoil na hÉireann 2025","2025-08-03 00:00:00","2025-08-10 00:00:00","Various Venues",,Wexford,Wexford,Ireland,52.33691788,-6.46333790
 10696,"Carlos Sweeney McCartin","2025-08-03 15:00:00","2025-08-03 15:00:00","The Empire","42 Botanic Ave",Belfast,Antrim,"Northern Ireland",54.58819580,-5.93265295
@@ -8047,12 +8044,15 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10625,"2025 Milwaukee Irish Fest Summer School","2025-08-11 18:30:00","2025-08-15 12:15:00","CelticMKE Center","1532 N. Wauwatosa Ave",Milwaukee,Wisconsin,USA,43.05170059,-88.00698853
 10545,"Milwaukee Irish Fest","2025-08-14 00:00:00","2025-08-17 00:00:00","The Henry W. Maier Festival Park","200 North Harbor Drive",Milwaukee,Wisconsin,USA,43.03150940,-87.89996338
 10711,"The Pipers' Gathering","2025-08-15 14:00:00","2025-08-18 10:00:00","Wisdom House Retreat And Conference Center","229 E Litchfield Rd.",Litchfield,Connecticut,USA,41.75838852,-73.15122986
+10727,"Project SMOK","2025-08-23 17:00:00","2025-08-23 23:00:00","The Oxford Arms Courtyard","Duke Street",Kington,Herefordshire,England,52.20417023,-3.02766013
 10615,"Attic Sessions: Aidan Connolly & Bryan O’Leary","2025-08-27 19:30:00","2025-08-27 19:30:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01649857,-9.37530231
 10716,"Trad Open Irish Session during Bie Daip Festival","2025-08-30 14:00:00","2025-08-30 17:00:00","Café Op De Hoek","St. Jansplein",Appingedam,Groningen,Netherlands,53.32047653,6.85599279
 10679,"CEILIDH -musicians wanted!","2025-08-30 19:00:00","2025-08-30 23:00:00","Zur Klinkenmühle","Zur Klinkenmühle 2",Willingshausen-Loshausen,Hessen,Germany,50.88161087,9.26171970
 10642,"Kraków Celtic Festival","2025-09-05 00:00:00","2025-09-07 00:00:00","CK Dworek Białoprądnicki","Papiernicza 2",Kraków,Małopolskie,Poland,50.09247971,19.94112206
 10645,"The Gateway to Manchester Tradfest","2025-09-05 00:00:00","2025-09-07 00:00:00","Various Venues",,Didsbury,"Greater Manchester",England,53.41034698,-2.22941709
+10723,"An Evening with Kevin Burke","2025-09-09 00:00:00","2025-09-09 00:00:00","Dewey Hall","91 Main Street",Sheffield,Massachusetts,USA,42.10956192,-73.35447693
 10670,"Anam Éireann | The Soul of Ireland","2025-09-11 19:30:00","2025-09-11 19:30:00","The Helix","Collins Avenue",Glasnevin,Dublin,Ireland,53.38624191,-6.25420713
+10724,"Lane to the Glen with Oisín Mac Diarmada, Daithí Gormley and Samantha Harvey","2025-09-13 19:30:00","2025-09-13 22:00:00","Winona Grange","8340 SW Seneca St",Tualatin,Oregon,USA,45.38317871,-122.76234436
 10353,Folkival,"2025-09-18 00:00:00","2025-09-20 00:00:00","Club Kuckucksei","Neckarstraße 14",Nürtingen,Baden-Wuerttenburg,Germany,48.62670898,9.33127022
 10457,"Portal Irish Music","2025-09-18 00:00:00","2025-09-22 00:00:00","Black Range Lodge","50 Main Street",Kingston,"New Mexico",USA,32.91647720,-107.70951843
 10664,"The Spanish Peaks Smallpipes Retreat","2025-09-18 09:00:00","2025-09-20 17:00:00","Various Venues",,"La Veta",Colorado,USA,37.50633621,-105.01109314
