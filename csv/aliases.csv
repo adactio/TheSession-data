@@ -157,6 +157,7 @@ tune_id,alias,name
 17,"Colraine, The","Coleraine, The"
 17,Corelaine,"Coleraine, The"
 17,"Kitty Of Coleraine","Coleraine, The"
+18,"Farting Badger, The","Concertina, The"
 18,"Micho Russell's","Concertina, The"
 18,"Miko Russel's","Concertina, The"
 18,"Old Concertina, The","Concertina, The"
@@ -6301,6 +6302,7 @@ tune_id,alias,name
 1089,Jezaique,Jizaique
 1089,Jizique,Jizaique
 1090,"Breton Breeze, The","Cahir's Kitchen"
+1091,"An Néal Faoi Sheol","Moving Cloud, The"
 1091,"An Néal Faoi Shiúl","Moving Cloud, The"
 1091,Lignadruan,"Moving Cloud, The"
 1091,"Moving Clouds","Moving Cloud, The"
@@ -10640,6 +10642,7 @@ tune_id,alias,name
 2249,"Gilibeart Mhac Fhlannchadha","Sean Reid's"
 2249,"Let's Be Drinking","Sean Reid's"
 2249,"Mick's Hands","Sean Reid's"
+2249,"Peeler's Jacket","Sean Reid's"
 2249,"Seán Reid's Fancy","Sean Reid's"
 2249,"Sean Reid's Favourite","Sean Reid's"
 2250,"Monaghan Twig","Tinker's Apron, The"
@@ -11511,12 +11514,12 @@ tune_id,alias,name
 2560,"Back Of The Forge, The","Mick Duggan's"
 2560,"Lovat Scouts","Mick Duggan's"
 2560,"Meentogues Lad, The","Mick Duggan's"
-2561,Fahy's,"Paddy Fahey's #10"
-2561,"Paddy Fahey's 10","Paddy Fahey's #10"
-2561,"Paddy Fahey's No. 10","Paddy Fahey's #10"
-2561,"Paddy Fahy's","Paddy Fahey's #10"
-2561,"Paddy Fahy's No. 10","Paddy Fahey's #10"
-2561,"Port Uimhir A Deiċ, Pádaí Ó Faṫaiġ","Paddy Fahey's #10"
+2561,Fahy's,"Paddy Fahey's"
+2561,"Paddy Fahey's 10","Paddy Fahey's"
+2561,"Paddy Fahey's No. 10","Paddy Fahey's"
+2561,"Paddy Fahy's","Paddy Fahey's"
+2561,"Paddy Fahy's No. 10","Paddy Fahey's"
+2561,"Port Uimhir A Deiċ, Pádaí Ó Faṫaiġ","Paddy Fahey's"
 2563,"Mímí And The New Generation","Mimi And The New Generation"
 2563,"Mimi And The New Generation #3","Mimi And The New Generation"
 2563,"Mimi And The New Generation Polkas","Mimi And The New Generation"
@@ -13085,6 +13088,7 @@ tune_id,alias,name
 3210,"Camden Town","Return To Camden Town, The"
 3210,"Mountain Meadow, The","Return To Camden Town, The"
 3210,"Return From Camden Town, The","Return To Camden Town, The"
+3211,"Farewell To Leitrim","Farewell To Leitrim"
 3211,"Fiddlers' Frolic","Farewell To Leitrim"
 3211,Kennaw's,"Farewell To Leitrim"
 3211,Lawson's,"Farewell To Leitrim"
@@ -13408,6 +13412,7 @@ tune_id,alias,name
 3346,"Paddy Fahey's No. 4","Paddy Fahey's"
 3346,"Paddy Fahy's","Paddy Fahey's"
 3347,"An Tunnag","Duck, The"
+3347,"Duck, The","Duck, The"
 3352,"Blue Bell, The","Bluebell Polka, The"
 3352,"Bluebell Hornpipe, The","Bluebell Polka, The"
 3352,"Coquelicots Polka","Bluebell Polka, The"
@@ -16929,8 +16934,9 @@ tune_id,alias,name
 5714,"Lavourette, The","Leverette, The"
 5714,"Leveret, The","Leverette, The"
 5718,"Mary's Shoes","Mary Shore"
-5718,"Mouse In The Church","Mary Shore"
 5718,"Mouse In The Church, The","Mary Shore"
+5718,"Pat Sweeney's Favourite","Mary Shore"
+5718,"Piper's Inn, The","Mary Shore"
 5719,"Snow In April",April
 5721,"Rodney Miller's","Border Collie, The"
 5725,"Another Ode To Genetics","Annie Laurie"
@@ -17069,8 +17075,12 @@ tune_id,alias,name
 5841,"Martin Ruane's","Cottage On The Hill, The"
 5842,"Mrs. Carolan's","Mrs Carolan's"
 5844,"Rector At The Feis, The","Rector At The Feis"
+5851,"Back O' The Haggard","Woodcock Hill"
+5851,"Back Of The Haggard, The","Woodcock Hill"
 5851,"Kevin Joyce","Woodcock Hill"
 5851,Russell's,"Woodcock Hill"
+5851,"Standing Abbey","Woodcock Hill"
+5851,"Vinegar Hill","Woodcock Hill"
 5852,Kieran's,Kieran's
 5855,"Neppendorfer Landler","Neppendorfer Laendler"
 5858,"Ceiliúir Na Spideoige","Warbling Robin, The"
@@ -17749,11 +17759,6 @@ tune_id,alias,name
 6298,"News From Moidart","Over The Water To Charlie"
 6298,"O'er The Water To Charlie","Over The Water To Charlie"
 6298,"Silken Wallet, The","Over The Water To Charlie"
-6301,"Back O' The Haggard","Back Of The Haggard, The"
-6301,"Kevin Joyce","Back Of The Haggard, The"
-6301,"Standing Abbey","Back Of The Haggard, The"
-6301,"Vinegar Hill","Back Of The Haggard, The"
-6301,"Woodcock Hill","Back Of The Haggard, The"
 6302,"Ḋá Éan San Tom","Two Birds In The Bush, The"
 6302,"Dhá Éan Ar An gCrann","Two Birds In The Bush, The"
 6302,"Two Birds On A Tree","Two Birds In The Bush, The"
@@ -19050,6 +19055,7 @@ tune_id,alias,name
 7100,"Joe Kearns's",McMahon's
 7100,Ryan's,McMahon's
 7100,"Séan Rían's",McMahon's
+7100,"Sean Ryan's",McMahon's
 7100,"Trip To Vermont",McMahon's
 7100,"Trip To Vermont, The",McMahon's
 7103,"I Lo'e Nae A Laddie But Ane","I Lo'e Na A Laddie But Ane"
@@ -20787,7 +20793,8 @@ tune_id,alias,name
 8271,"Ballintra Lass, The","Lasses Of Ballintra, The"
 8271,"Hedgehog, The","Lasses Of Ballintra, The"
 8271,"Lass Of Ballintra, The","Lasses Of Ballintra, The"
-8273,"Thrush's Nest, The","An Buachaillin Bui"
+8273,"An Buachaillin Bui","An Buachaillín Buí"
+8273,"Thrush's Nest, The","An Buachaillín Buí"
 8274,"Wizard's Walk, The","Wizard's Waltz, The"
 8280,"Jiggery Pokerwork, The","Jiggery Pokerwork"
 8280,"Jiggery Pokery","Jiggery Pokerwork"
@@ -21566,9 +21573,6 @@ tune_id,alias,name
 8908,"Scotty O'Neil","Scotty O'Neill"
 8908,"Scotty O'Neil's","Scotty O'Neill"
 8908,"Scotty O'Neill's","Scotty O'Neill"
-8911,"Mary Shore","Piper's Inn, The"
-8911,"Mouse In The Church, The","Piper's Inn, The"
-8911,"Pat Sweeney's Favourite","Piper's Inn, The"
 8913,"Miss Donella Beaton","Donella Beaton"
 8918,"John Walsh's","Daly's Mill"
 8918,"John Walsh's #2","Daly's Mill"
@@ -21640,6 +21644,7 @@ tune_id,alias,name
 8973,"King James' March To Ireland","Limerick Lamentation"
 8973,"King James' March To Limerick","Limerick Lamentation"
 8973,"Lament For Limerick, The","Limerick Lamentation"
+8973,"Lamentation For Limerick","Limerick Lamentation"
 8973,"Limerick Lamentations","Limerick Lamentation"
 8973,"Limerick's Lamentation","Limerick Lamentation"
 8973,Lochaber,"Limerick Lamentation"
@@ -23018,7 +23023,6 @@ tune_id,alias,name
 10592,"Súgra Scoill","Humours Of Schull, The"
 10593,"Bonaparte's Expedition","Bonapart's Expedition"
 10594,"An Slide Dubh","Slide Dubh"
-10598,"Duck, The","An Tunnag"
 10599,"Eibhlin Ni Riordain's","Eileen Ni Riordain's"
 10599,"Eileen Ní Ríordáin's","Eileen Ni Riordain's"
 10599,"Eileen O'Riordan's","Eileen Ni Riordain's"
@@ -23301,7 +23305,6 @@ tune_id,alias,name
 10980,"Vidar Skrede's Vals",Vidarvalsen
 10984,"Sophies Lullaby","Sophie's Lullaby"
 10986,"Bean An Fhir Rua","Red Haired Man's Wife, The"
-10991,"King's, The","King, The"
 10992,"Princes Welcome To Inverness, The","Prince's Welcome To Inverness, The"
 10992,"Princes' Welcome To Inverness, The","Prince's Welcome To Inverness, The"
 10993,"Fool's Jig, The","Port An Amadáin"
@@ -23743,7 +23746,6 @@ tune_id,alias,name
 11656,"A One Horse Open Sleigh","Jingle Bells, The"
 11656,"Jingle All The Way","Jingle Bells, The"
 11656,"One Horse Open Sleigh","Jingle Bells, The"
-11658,"Farewell To Leitrim",Kennaw's
 11661,"Cat's Nyan, The","Nyan Cat"
 11661,"Jimmy Neehan's Cat","Nyan Cat"
 11661,"Nyah Cat","Nyan Cat"
@@ -28747,6 +28749,7 @@ tune_id,alias,name
 23954,"Betsy Gray, The Patriot Maid","Girls Of Ballinahinch, The"
 23956,O'Lyne's,Hartney's
 23959,Winston's,Riddrie
+23990,Petranu-Valse,"Petranu Vals"
 23992,"Rose E Spine","Roses & Thorns"
 24011,Crowley's,Crowleys
 24013,"Pain Of Boils, The","Boils Of Pain, The"
@@ -28883,6 +28886,7 @@ tune_id,alias,name
 24627,"My Desire Is For The Lad","Air A'Ghille Tha Mo Rùn"
 24637,Yorick's,"Yorick Damian Paine"
 24637,Yoricks,"Yorick Damian Paine"
+24641,"Micho Russell's Mason's Apron","Micho Russell's Mason Apron Fling"
 24670,"Rabies's No. 12",Rabies's
 24670,"Rabies's No.12.",Rabies's
 24688,"Tom Byrne's No.10","Wexford, The"
@@ -29047,8 +29051,12 @@ tune_id,alias,name
 25709,"Frank McCollum's #2","Frank McCollum's"
 25714,"Trip To The Bay","Trip To The Bay, The"
 25717,"An Sceach Gheal","Fairy Tree, The"
+25720,"Nota Stota","Nóta Stóta"
 25721,"An Seachrán Sí","Stray Sod, The"
 25723,"An Damh Dubh","Black Stag, The"
 25726,"Brendan O'Regan's 3","Brendan O'Regan's"
 25741,"Pibddawns Rhymni","Rhymney, The"
 25741,Rimmi,"Rhymney, The"
+25755,"Peeler's Jacket, The","Flannel Jacket, The"
+25762,"First Night In Deville Town, The","New Flat, The"
+25764,"Sweet Tornado","Douce Tornade"
