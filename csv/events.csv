@@ -7400,7 +7400,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9970,"Drawing From The Well","2024-10-06 19:30:00","2024-10-06 19:30:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33474731,-6.25900984
 10072,"Gerry O’Connor","2024-10-08 13:15:00","2024-10-08 14:00:00","Irish World Academy Of Music And Dance","University Of Limerick",Limerick,Limerick,Ireland,52.67358780,-8.57243729
 10103,"Glen to Glen Piping Weekend","2024-10-11 00:00:00","2024-10-12 00:00:00","The Glens Aer Centre","New Line",Manorhamilton,Leitrim,Ireland,54.30506516,-8.16643715
-9453,"CelticFest Mississippi","2024-10-11 09:00:00","2024-10-13 17:00:00","Bobby Cleveland Park At Lakeshore","1112 N. Shore Parkway Brandon, MS 39047",Brandon,Mississippi,USA,32.39105225,-90.03835297
+9453,"CelticFest Mississippi","2024-10-11 09:00:00","2024-10-13 17:00:00","Bobby Cleveland Park","1112 N. Shore Parkway",Brandon,Mississippi,USA,32.39105225,-90.03835297
 10063,"Festival la Viree","2024-10-11 16:00:00","2024-10-13 22:00:00","Various Venues",,Carleton,Quebec,Canada,48.10149002,-66.11403656
 10077,"Pan-Celtic Second Friday Ceili Mor","2024-10-11 19:00:00","2024-10-11 23:00:00","VFW Hall Post #661","630 Hood St. NE",Salem,Oregon,USA,44.95193863,-123.02780914
 10065,"Romantic Ireland, Flow with Music","2024-10-11 19:30:00","2024-10-12 21:30:00",,,,,,,
@@ -7987,7 +7987,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10671,"Forge & Fledge instruments band and Sheffield Flute Choir joint concert + session","2025-07-19 19:00:00","2025-07-19 22:00:00","The Perch Brewhouse","44 Garden Street",Sheffield,Yorkshire,England,53.38373566,-1.47680628
 10725,"Perry Hall Folk Music Night, featuring Eli Lev","2025-07-19 19:00:00","2025-07-19 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40932846,-76.46704102
 10722,"Timmy O'Connor Tribute Concert","2025-07-19 20:00:00","2025-07-19 22:30:00","An Cultúrlann","Church Street",Newmarket,Cork,Ireland,52.21470642,-8.99657631
-8893,"The Trans-Atlantic Session","2025-07-23 20:00:00","2025-07-23 22:00:00",,,,,,,
 9652,"Corvallis Celtic Festival","2025-07-24 17:00:00","2025-07-27 17:00:00","PRAx, Common Fields, Old World Deli, Benton County Library, Dragon's Whistle",,Corvallis,Oregon,USA,44.56126022,-123.26094818
 10534,"Three Hares Folk Camp","2025-07-24 17:00:00","2025-07-27 13:00:00","Three Hares Farm","Dundry Lane",Bristol,Bristol,England,51.40211868,-2.64670444
 10326,"AirVenture 2025 Trad Irish Music Session","2025-07-24 19:00:00","2025-07-24 21:00:00","AirVenture - UltraLight Barn And Forums Tent","3539-3899 Wittman Dr",Oshkosh,Wisconsin,USA,43.99189758,-88.57363129
@@ -8036,12 +8035,10 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10696,"Carlos Sweeney McCartin","2025-08-03 15:00:00","2025-08-03 15:00:00","The Empire","42 Botanic Ave",Belfast,Antrim,"Northern Ireland",54.58819580,-5.93265295
 10734,"Cormac Begley and Liam O Connor","2025-08-03 20:00:00","2025-08-03 21:30:00","Muckross School House",,Killarney,Kerry,Ireland,52.03084564,-9.50180244
 10708,"40th Donegal Fiddle Summer School","2025-08-04 00:00:00","2025-08-08 00:00:00","Various Venues",,Glencolmcille,Donegal,Ireland,54.70808792,-8.72951603
-10749,"Moosehead Mondays Traditional Irish Session on Zoom","2025-08-04 12:00:00","2025-08-04 14:00:00",,,,,,,
 10735,"Martin Hayes","2025-08-05 19:00:00","2025-08-05 19:00:00","Rowe Street Church","Rowe Street Upper",Wexford,Wexford,Ireland,52.33845901,-6.46335840
 10737,"Session With The Pipers","2025-08-05 21:30:00","2025-08-05 21:30:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 10587,"Feakle Festival","2025-08-06 00:00:00","2025-08-11 00:00:00","Various Venues",,Feakle,Clare,Ireland,52.92606735,-8.64865208
-8470,"The Ould Sod Virtual Traditional Irish Session on Zoom (first and third Thursdays of the month)","2025-08-07 18:00:00","2025-08-07 20:00:00",,,,,,,
-10564,"The Ould Sod Virtual Session on Zoom","2025-08-07 18:00:00","2025-08-07 20:00:00",,,,,,,
+8893,"The Trans-Atlantic Session","2025-08-06 20:00:00","2025-08-06 22:00:00",,,,,,,
 10660,Tulua,"2025-08-07 19:30:00","2025-08-07 19:30:00","St. Iberius Church",,Wexford,Wexford,Ireland,52.33917999,-6.46215868
 10661,"3 on the Bund","2025-08-07 19:30:00","2025-08-07 19:30:00","Whites Of Wexford Hotel","Abbey St, Townparks",Wexford,Wexford,Ireland,52.34046173,-6.46455431
 10546,"Goderich Celtic Roots Festival","2025-08-08 00:00:00","2025-08-10 00:00:00","Lions Harbour Park","168 West St.",Goderich,Ontario,Canada,43.74324417,-81.71889496
@@ -8054,11 +8051,15 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10741,"James Cullinan Tribute","2025-08-09 19:30:00","2025-08-09 19:30:00","Wexford Arts Centre",Cornmarket,Wexford,Wexford,Ireland,52.33981705,-6.46343327
 10657,"The Rowsome Quartet","2025-08-10 15:00:00","2025-08-10 15:00:00","Wexford Arts Centre",Cornmarket,Wexford,Wexford,Ireland,52.33981705,-6.46343327
 10569,"Irish Language Summer Immersion","2025-08-11 08:00:00","2025-08-17 18:00:00","Gaeltacht An Oileáin Úir","298 Gilmore Road",Tamworth,Ontario,Canada,44.50185013,-76.98455048
+10749,"Moosehead Mondays Traditional Irish Session on Zoom","2025-08-11 12:00:00","2025-08-11 14:00:00",,,,,,,
 10625,"2025 Milwaukee Irish Fest Summer School","2025-08-11 18:30:00","2025-08-15 12:15:00","CelticMKE Center","1532 N. Wauwatosa Ave",Milwaukee,Wisconsin,USA,43.05170059,-88.00698853
+10752,"Laidback Irish session tunes with Rowan Leslie","2025-08-13 00:00:00","2025-08-13 00:00:00",,,,,,,
 10545,"Milwaukee Irish Fest","2025-08-14 00:00:00","2025-08-17 00:00:00","The Henry W. Maier Festival Park","200 North Harbor Drive",Milwaukee,Wisconsin,USA,43.03150940,-87.89996338
 10711,"The Pipers' Gathering","2025-08-15 14:00:00","2025-08-18 10:00:00","Wisdom House Retreat And Conference Center","229 E Litchfield Rd.",Litchfield,Connecticut,USA,41.75838852,-73.15122986
 10736,"Masters Of Tradition","2025-08-20 00:00:00","2025-08-24 00:00:00","Various Venues",,Bantry,Cork,Ireland,51.67926788,-9.45040894
 10729,"Muireann Ní Shé and Aoife Blake","2025-08-20 20:00:00","2025-08-20 22:00:00",Maureen's,"14 John Redmond Street, Shandon",Cork,Cork,Ireland,51.90193558,-8.47414589
+8470,"The Ould Sod Virtual Traditional Irish Session on Zoom (first and third Thursdays of the month)","2025-08-21 12:00:00","2025-08-21 14:00:00",,,,,,,
+10564,"The Ould Sod Virtual Session on Zoom","2025-08-21 12:00:00","2025-08-21 14:00:00",,,,,,,
 10748,"Cat Nap Music Camp 2025","2025-08-22 16:00:00","2025-08-24 18:00:00","Camp Latona",,"Gambier Island","British Columbia",Canada,49.52872086,-123.39162445
 10727,"Project SMOK","2025-08-23 17:00:00","2025-08-23 23:00:00","The Oxford Arms Courtyard","Duke Street",Kington,Herefordshire,England,52.20417023,-3.02766013
 10615,"Attic Sessions: Aidan Connolly & Bryan O’Leary","2025-08-27 19:30:00","2025-08-27 19:30:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01649857,-9.37530231
@@ -8079,12 +8080,16 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10675,"Fiddle Retreat with Yvonne Casey","2025-09-19 00:00:00","2025-09-21 00:00:00","Lady Gregory Hotel","Ennis Road",Gort,Galway,Ireland,53.05821228,-8.81497097
 10715,"Boyne Tradfest","2025-09-19 00:00:00","2025-09-21 00:00:00","Various Venues",,Drogheda,Louth,Ireland,53.71790314,-6.35642290
 10359,"Ffidil Fawr Welsh Fiddle Weekend","2025-09-25 00:00:00","2025-09-28 00:00:00","The National Trust Stackpole Centre",,Stackpole,Pembrokeshire,Wales,51.62289429,-4.92663383
+10754,"John O'Neill Folk and Traditional Music Festival","2025-09-26 00:00:00","2025-09-28 00:00:00","Various Venues",,Donaghmore,Tyrone,"Northern Ireland",54.53110886,-6.81304979
 9348,"Inishbofin Set Dancing and Trad Weekend","2025-09-26 21:00:00","2025-09-28 22:00:00","Various Venues",,Inishbofin,Galway,Ireland,53.62091446,-10.21590710
 10591,"Cork Folk Festival","2025-10-02 00:00:00","2025-10-05 00:00:00","Various Venues",,Cork,Cork,Ireland,51.89851379,-8.47560310
 10732,"Leonard Barry, Andy Morrow, and Seamie O'Dowd","2025-10-05 19:00:00","2025-10-05 21:00:00","The Seantí",,Kilmacow,Kilkenny,Ireland,52.29536057,-7.12797022
 10451,"Altan 40th Anniversary Concert","2025-10-10 00:00:00","2025-10-10 00:00:00","The Guildhall","Guildhall Square",Derry,Derry,"Northern Ireland",54.99766159,-7.31996775
+10753,"CelticFest Mississippi 2025","2025-10-11 08:30:00","2025-10-12 18:00:00","Bobby Cleveland Park","1112 N. Shore Parkway",Brandon,Mississippi,USA,32.39105225,-90.03835297
 10673,"Glin Trad Week","2025-10-19 00:00:00","2025-10-25 00:00:00","Various Venues",,Glin,Limerick,Ireland,52.56889343,-9.28190708
 10677,"O’Flaherty Irish Music Retreat","2025-10-23 00:00:00","2025-10-26 00:00:00","Hoblitzelle Camp And Conference Center","8060 Singleton Rd",Midlothian,Texas,USA,32.39466095,-97.00665283
+10751,"Neil Martin, Mary Dillon and Dónal O’Connor","2025-10-25 19:30:00","2025-10-25 19:30:00","Seamus Heaney HomePlace","45 Main Street",Bellaghy,Derry,"Northern Ireland",54.80753326,-6.52147913
 10750,"Once in a Blue Moose Traditional Irish Session on Zoom","2025-10-30 12:00:00","2025-10-30 14:00:00",,,,,,,
+10755,"The Lough Shore Sessions","2025-11-07 00:00:00","2025-11-09 00:00:00","Derrytresk GAC","100 Annaghmore Rd",Derrytresk,Tyrone,"Northern Ireland",54.51808167,-6.63851118
 10718,"Button Boxes & Moothies","2025-11-14 00:00:00","2025-11-16 00:00:00","Various Venues",,Aberdeen,Aberdeenshire,Scotland,57.14759445,-2.37132406
 10746,"Breen | Rynne | Murray | with Nell Ní Chróinín","2025-11-15 20:00:00","2025-11-15 20:00:00","Briery Gap","Main Street",Macroom,Cork,Ireland,51.90478134,-8.95772648
