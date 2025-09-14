@@ -848,16 +848,16 @@ tune_id,alias,name
 105,"Swallowtail, The","Swallow's Tail, The"
 105,"Triumphant Puppy, The","Swallow's Tail, The"
 105,"Troops', The","Swallow's Tail, The"
-106,"Custom House, The","Swallowtail, The"
-106,"Dancing Master, The","Swallowtail, The"
-106,"Dancingmaster, The","Swallowtail, The"
-106,"Drioball Na Fáinleoige","Swallowtail, The"
-106,"From The New Country","Swallowtail, The"
-106,"From The New World","Swallowtail, The"
-106,"Gigue De Barnabé","Swallowtail, The"
-106,"Swallow Tail, The","Swallowtail, The"
-106,"Swallow's Nest, The","Swallowtail, The"
-106,"Swallow's Tail, The","Swallowtail, The"
+106,"Custom House, The","Dancing Master, The"
+106,"Dancing Master, The","Dancing Master, The"
+106,"Dancingmaster, The","Dancing Master, The"
+106,"Drioball Na Fáinleoige","Dancing Master, The"
+106,"From The New Country","Dancing Master, The"
+106,"From The New World","Dancing Master, The"
+106,"Gigue De Barnabé","Dancing Master, The"
+106,"Swallow Tail, The","Dancing Master, The"
+106,"Swallow's Nest, The","Dancing Master, The"
+106,"Swallow's Tail, The","Dancing Master, The"
 107,"Athol Highlander","Atholl Highlanders, The"
 107,"Athol Highlanders, The","Atholl Highlanders, The"
 107,"Athol's Highlander's March, The","Atholl Highlanders, The"
@@ -5953,21 +5953,21 @@ tune_id,alias,name
 1022,"Gather Round The Fire","Did You Wash Your Father's Shirt"
 1023,"How About Whiskey Instead?","Humours Of Whiskey, The"
 1023,"Humours Of Whisky, The","Humours Of Whiskey, The"
-1024,"Ciaran O'Reilly's","Rising Sun, The"
-1024,"Lavery's No. 2","Rising Sun, The"
-1024,"Martin Mulhaire's","Rising Sun, The"
-1024,"Martin Mulhaire's #9","Rising Sun, The"
-1024,"Martin Mulhaire's No. 9","Rising Sun, The"
-1024,Mulhair's,"Rising Sun, The"
-1024,Mulhaire's,"Rising Sun, The"
-1024,"Mulhaire's #9","Rising Sun, The"
-1024,"Mulhaire's No 9","Rising Sun, The"
-1024,"Mulhaire's No. 9","Rising Sun, The"
-1024,"Mulhaire's Petticoat","Rising Sun, The"
-1024,Mulhare's,"Rising Sun, The"
-1024,"Mulhare's #9","Rising Sun, The"
-1024,"Mulhare's No. 9","Rising Sun, The"
-1024,Noreen's,"Rising Sun, The"
+1024,"Ciaran O'Reilly's",Mulhaire's
+1024,"Lavery's No. 2",Mulhaire's
+1024,"Martin Mulhaire's",Mulhaire's
+1024,"Martin Mulhaire's #9",Mulhaire's
+1024,"Martin Mulhaire's No. 9",Mulhaire's
+1024,Mulhair's,Mulhaire's
+1024,Mulhaire's,Mulhaire's
+1024,"Mulhaire's #9",Mulhaire's
+1024,"Mulhaire's No 9",Mulhaire's
+1024,"Mulhaire's No. 9",Mulhaire's
+1024,"Mulhaire's Petticoat",Mulhaire's
+1024,Mulhare's,Mulhaire's
+1024,"Mulhare's #9",Mulhaire's
+1024,"Mulhare's No. 9",Mulhaire's
+1024,Noreen's,Mulhaire's
 1025,"Big Squeeze, The","Sweeney's Wheel"
 1025,Sweeney's,"Sweeney's Wheel"
 1025,"Sweeny's Wheel","Sweeney's Wheel"
@@ -14188,7 +14188,6 @@ tune_id,alias,name
 3786,"5 In A Line","Rodney's Glory"
 3786,"Brave Rodney's Glory","Rodney's Glory"
 3786,"Five In A Line","Rodney's Glory"
-3786,"Princess Royal","Rodney's Glory"
 3788,"Brid Harpers","Sam Cormier's"
 3788,"Denis Lanctot's","Sam Cormier's"
 3788,"Denis Langtou's","Sam Cormier's"
@@ -23932,6 +23931,7 @@ tune_id,alias,name
 11869,"Schottis Från Haverö","Schottische From Havero"
 11869,"Sick-Sack Schottis","Schottische From Havero"
 11869,"Zig-Zag Schottishe, The","Schottische From Havero"
+11871,"Dr Nobel Franz",Mominette
 11871,"French Schottische",Mominette
 11871,Glorystrokes,Mominette
 11871,"New French Schottische",Mominette
@@ -25575,6 +25575,7 @@ tune_id,alias,name
 14129,"George W.'s Hayesville","All The Way From Virginia"
 14129,"Monsignor's Blessed Virginia, The","All The Way From Virginia"
 14130,"Banrion Na Bealtaine","Titanic, The"
+14145,"Na Caill A' Chaileag Laghach","Keep The Country Bonnie Lassie"
 14152,"Cock Up & C & C","Cock Up &c &c"
 14152,"Cock Up Your Beaver","Cock Up &c &c"
 14160,"Patsy Campbell's","Patsy Campbell"
@@ -26622,6 +26623,7 @@ tune_id,alias,name
 16673,"Curachaí Na Trá Báine","Amhran Na Tra Baine"
 16673,"Song Of The Drowning","Amhran Na Tra Baine"
 16678,"Aliyah Leahy's","Aliyah Leahy's Baptism"
+16687,"Peddlers Lake","Peddler's Lake"
 16692,"Deerness Two-Step, The","Deerness Two-Step"
 16701,"Eilean Aigeis","Isle Of Aigas, The"
 16712,"Bear Tune, The","Fete De L'Ours"
@@ -29001,3 +29003,4 @@ tune_id,alias,name
 25885,"Céad Moladh Le Muire Beannaithe","Cead Moladh Don Mhaighdean Bheannaithe"
 25909,"Sumer Is Icumen In","Cuckoo Song"
 25909,"Summer Canon","Cuckoo Song"
+25942,McClure's,"Dusk Moon"
