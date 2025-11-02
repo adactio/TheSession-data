@@ -9206,6 +9206,7 @@ tune_id,alias,name
 1771,"Kinvara, The","Birmingham, The"
 1771,"Mayo, The","Birmingham, The"
 1771,"Tommy Whelan's No.8","Birmingham, The"
+1771,"Vincent Broderick's","Birmingham, The"
 1772,"An Buachaill","An Buachaillin Dreoite"
 1772,"An Buachaill Dreoite","An Buachaillin Dreoite"
 1772,"An Buchaill Dreoite","An Buachaillin Dreoite"
@@ -9861,6 +9862,7 @@ tune_id,alias,name
 1980,Dunphies,Dunphy's
 1981,"Brendan McMahon's",Coffey's
 1981,Coffey's,Coffey's
+1981,Cooley's,Coffey's
 1982,"Laughing Wolf Highland Fling, The","Laughing Wolf, The"
 1983,"Danny's Favourite","Big Red"
 1983,Philadelphia,"Big Red"
@@ -11357,6 +11359,7 @@ tune_id,alias,name
 2496,"Bag Of Money, The","A Bag Of Money"
 2496,"Dowry Reel #1","A Bag Of Money"
 2496,"Dowry, The","A Bag Of Money"
+2497,"Francie Walsh's","John Doherty's"
 2497,"Johnny Doherty's","John Doherty's"
 2498,"I'm Over Young To Marry Yet","She Said She Couldn't Dance"
 2498,"In The Town Of Ballybay","She Said She Couldn't Dance"
@@ -11745,6 +11748,7 @@ tune_id,alias,name
 2662,"Les Reel Des Voyageurs","Reel Des Voyageurs"
 2662,"Traveler's, The","Reel Des Voyageurs"
 2662,"Woodchoppers, The","Reel Des Voyageurs"
+2663,"All Ireland, The","Thady Casey's Fancy"
 2663,"Burren No1","Thady Casey's Fancy"
 2663,"Burren, The","Thady Casey's Fancy"
 2663,"Rogha Thaidhg U","Thady Casey's Fancy"
@@ -13093,6 +13097,7 @@ tune_id,alias,name
 3222,"Highland Pibroch","Auld Wattie"
 3222,"Highlander, The","Auld Wattie"
 3223,"Caoilte Mountains, The","Cuilcagh Mountains, The"
+3224,"Blessing's Black Cow","Tom Dowd's Favourite"
 3224,"John Egan's","Tom Dowd's Favourite"
 3224,"Leitrim, The","Tom Dowd's Favourite"
 3224,"Rogha Thomáis Uí Dhubhda","Tom Dowd's Favourite"
@@ -15463,8 +15468,17 @@ tune_id,alias,name
 4639,"Seán Coughlin's No 2","Seán Coughlin's"
 4639,"Seán Coughlin's No. 2","Seán Coughlin's"
 4639,"Sheán Coughlan's No. 2","Seán Coughlin's"
-4640,"Hold On","Miss Victoria Ross"
-4640,"Lady Susan Stewart","Miss Victoria Ross"
+4640,"Ha'd The Lass Till I Run At Her","Haud The Lass Till I Come At Her"
+4640,"Had The Lass Tel I Won At Hir","Haud The Lass Till I Come At Her"
+4640,"Had The Lass Till I Win At Her","Haud The Lass Till I Come At Her"
+4640,"Had The Lass Till I Winn At Her","Haud The Lass Till I Come At Her"
+4640,"Hod The Lass","Haud The Lass Till I Come At Her"
+4640,"Hod The Lass Till I Run At Her","Haud The Lass Till I Come At Her"
+4640,"Hod The Lass While I Run At Her","Haud The Lass Till I Come At Her"
+4640,"Hold On","Haud The Lass Till I Come At Her"
+4640,"Hold The Lass While I Run At Her","Haud The Lass Till I Come At Her"
+4640,"Lady Susan Stewart","Haud The Lass Till I Come At Her"
+4640,"Miss Victoria Ross","Haud The Lass Till I Come At Her"
 4644,"Braes Of Busbie","Braes Of Busby, The"
 4644,"Braes Of Bushbie","Braes Of Busby, The"
 4646,"Paidushka Rhythm Is In 5/16 Time., The","Paidushko Horo"
@@ -15570,10 +15584,10 @@ tune_id,alias,name
 4728,"Flood On The Holm","Auld Wheel, The"
 4728,"Flood On The Holm, The","Auld Wheel, The"
 4729,"Maid Of The House, The","Swing Swang"
-4734,"Alistair O'Carroll's",Greencastle
-4734,"Duke's Retreat, The",Greencastle
-4734,"Five Roads, The",Greencastle
-4734,"Mysterious Number One, The",Greencastle
+4734,"Alistair O'Carroll's","Few Bob, The"
+4734,"Duke's Retreat, The","Few Bob, The"
+4734,"Five Roads, The","Few Bob, The"
+4734,"Mysterious Number One, The","Few Bob, The"
 4735,"Keayrt Dooyrt My Ghraih Veen Rhym","She Moved Through The Fair"
 4735,"Moved Through The Fair","She Moved Through The Fair"
 4735,"Our Wedding Day","She Moved Through The Fair"
@@ -18876,6 +18890,7 @@ tune_id,alias,name
 7003,"Joe Derrane's No. 1","Boys Of Ballinamore, The"
 7004,"Dance De Chez Nous","Danse De Chez Nous"
 7004,"Danse Carré, Deuxième Partie","Danse De Chez Nous"
+7004,"La Danse De Chez Nous","Danse De Chez Nous"
 7004,"Set Carre, Deuxieme Partie","Danse De Chez Nous"
 7007,"Auld Hill Grind","Da Aald Hill Grinnd"
 7007,"Da Aald Hill Grind","Da Aald Hill Grinnd"
@@ -19182,15 +19197,6 @@ tune_id,alias,name
 7211,Pat-Joe's,"Paddy Joe's"
 7213,"James McGettrick's",McGettrick's
 7213,"Jimmy McGettrick's",McGettrick's
-7214,"Ha'd The Lass Till I Run At Her","I Had A Lass Till I Ran At Her"
-7214,"Had The Lass Tel I Won At Hir","I Had A Lass Till I Ran At Her"
-7214,"Had The Lass Till I Win At Her","I Had A Lass Till I Ran At Her"
-7214,"Had The Lass Till I Winn At Her","I Had A Lass Till I Ran At Her"
-7214,"Haud The Lass Till I Come At Her","I Had A Lass Till I Ran At Her"
-7214,"Hod The Lass","I Had A Lass Till I Ran At Her"
-7214,"Hod The Lass Till I Run At Her","I Had A Lass Till I Ran At Her"
-7214,"Hod The Lass While I Run At Her","I Had A Lass Till I Ran At Her"
-7214,"Hold The Lass While I Run At Her","I Had A Lass Till I Ran At Her"
 7216,"Betty Fitchets Polka","Betty Fisher's Wedding"
 7217,"Battle Of Argan More, The","Argan Mor"
 7219,"Rippling Water, The","Rippling Water"
@@ -22231,6 +22237,7 @@ tune_id,alias,name
 9689,"Dr Gordon Stables'","Dr. Gordon Stables'"
 9691,"Level Plain, The","Magh Seóla"
 9691,"Magh Seola","Magh Seóla"
+9692,"John Kelly's","Tom Keane's"
 9695,"An Bhfaca Tú Mo Bhalantine?","An Raibh Tú Ag An gCarraig?"
 9695,"An Carraig An Aifrinn","An Raibh Tú Ag An gCarraig?"
 9695,"An Raibh Tú Ag An gCarraig","An Raibh Tú Ag An gCarraig?"
@@ -28712,7 +28719,8 @@ tune_id,alias,name
 23990,Petranu-Valse,"Petranu Vals"
 23992,"Rose E Spine","Roses & Thorns"
 24011,Crowley's,Crowleys
-24013,"Pain Of Boils, The","Boils Of Pain, The"
+24013,"Boils Of Pain, The","Pain Of Boils, The"
+24013,"Pains Of The Boil","Pain Of Boils, The"
 24021,"Fisherman's Lament","Old Ardboe"
 24021,"Old Arboe","Old Ardboe"
 24028,"Tuirse Mo Chroì","Tuirse Mo Chroí"
@@ -29063,4 +29071,8 @@ tune_id,alias,name
 26022,"Michael Turner's No. 3","Michael Turner's"
 26023,"Siubhal An T-sneachd Tra Oiche","Traveller Benighted In Snow"
 26027,"Humors Of Halden, The","Humours Of Halden, The"
-26029,"A Minor , The","Gan Ainm"
+26043,"Cis Ni Liathain","Gan Ainm"
+26052,"Evoke #2",Evoke
+26052,"Evoke Pt. 2",Evoke
+26065,"Bobbie Cuthbertson","Bobby Cuthbertson"
+26068,"Peter And Midge's","Peter And Midge's Two Step"
