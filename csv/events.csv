@@ -994,7 +994,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 1020,"Winnipeg Irish Festival","2008-09-20 09:30:00","2008-09-21 05:00:00","Canadian Mennonite University",,Winnipeg,Manitoba,Canada,49.89975357,-97.13749695
 1126,"Beginners Set Dancing With Mary Fox","2008-09-20 10:30:00","2008-09-20 16:30:00","Rosemary Hall","Elmwood Avenue",Belfast,Antrim,"Northern Ireland",54.58499146,-5.93993425
 1083,"Trad Connections","2008-09-20 20:00:00","2008-09-20 00:00:00","Birr Theatre","Oxmantown M﻿all",Birr,Offaly,Ireland,53.09811401,-7.91184759
-1084,"Trad Connections","2008-09-21 20:00:00","2008-09-21 00:00:00","Clifden Arts Week",,Clifden,Galway,Ireland,53.48912430,-10.02026844
+1084,"Trad Connections","2008-09-21 20:00:00","2008-09-21 00:00:00","Various Venues",,Clifden,Galway,Ireland,53.48913574,-10.02023888
 1085,"Trad Connections","2008-09-25 20:00:00","2008-09-25 00:00:00","Ionad Cois Locha",,Dunlewey,Donegal,Ireland,55.01937103,-8.11112976
 1147,"Enniskillen Arts Festival","2008-09-26 00:00:00","2008-10-05 00:00:00","Various Venues",,Enniskillen,Fermanagh,"Northern Ireland",54.34363174,-7.63092995
 1054,"Kevin Burke with Cal Scott","2008-09-26 19:00:00","2008-09-26 21:30:00","Royal Durst Theatre","3101 Main Street",Vancouver,Washington,USA,45.64360428,-122.66817474
@@ -7230,7 +7230,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9946,"Festival de Ortigueira","2024-07-11 00:00:00","2024-07-14 00:00:00","Various Venues",,Ortigueira,Galiza,Spain,43.68316269,-7.85216522
 9926,"Sinéad McKenna & friends","2024-07-11 20:00:00","2024-07-11 20:00:00","Regional Cultural Centre","Cove Hill, Port Road",Letterkenny,Donegal,Ireland,54.95492935,-7.73076010
 9735,"VIII. Sziget Zenéje - ír hétvége az Orfűi Malmoknál","2024-07-12 00:00:00","2024-07-14 00:00:00","Orfűi Malmok","Füzes Antal Sétány 3",Orfű,Baranya,Hungary,46.14148331,18.16030884
-9928,"Second Friday Ceili Mor- July 2024","2024-07-12 19:00:00","2024-07-12 23:00:00","Second Friday Ceili Mor July 2024","630 Hood St. NE",Salem,Oregon,USA,44.95193863,-123.02780914
+9928,"Second Friday Ceili Mor- July 2024","2024-07-12 19:00:00","2024-07-12 23:00:00","VFW Hall Post #661","630 Hood St. NE",Salem,Oregon,USA,44.95190430,-123.02782440
 9855,"Ciaran Tourish, Cathal Hayden & Kevin Doherty","2024-07-13 20:00:00","2024-07-13 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 9770,"South Sligo Summer School","2024-07-14 00:00:00","2024-07-20 00:00:00","Various Venues",,Tubbercurry,Sligo,Ireland,54.05109024,-8.73550987
 9848,"Swannanoa Gathering Celtic Week","2024-07-14 00:00:00","2024-07-20 00:00:00","Warren Wilson College","701 Warren Wilson Road",Swannanoa,"North Carolina",USA,35.61386108,-82.43885803
@@ -7548,7 +7548,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10173,"Keane Connolly McGorman","2024-12-15 17:00:00","2024-12-15 17:00:00","St. John's Theatre","The Square",Listowel,Kerry,Ireland,52.44488907,-9.48647785
 10211,"Christmas songs and a session","2024-12-15 17:30:00","2024-12-15 21:30:00","The Joker","2 Preston Road",Brighton,"East Sussex",England,50.83390808,-0.13903500
 10216,"The Pipes of Christmas","2024-12-15 19:00:00","2024-12-15 21:00:00","Central Presbyterian Church","70 Maple St",Summit,"New Jersey",USA,40.71471405,-74.35926819
-10184,"12th Annual Christmas Session - Traditional Irish Music and sing-a-long Christmas Carols","2024-12-16 19:00:00","2024-12-16 22:00:00","Wolf And Hound Pub","3617 West Broadway",Vancouver,"British Columbia",Canada,49.26449203,-123.18428802
+10184,"12th Annual Christmas Session - Traditional Irish Music and sing-a-long Christmas Carols","2024-12-16 19:00:00","2024-12-16 22:00:00","Wolf And Hound Pub","3617 West Broadway",Vancouver,"British Columbia",Canada,49.26448822,-123.18421936
 10187,"An Turas Abhaile/The Journey Home","2024-12-17 19:30:00","2024-12-17 23:00:00","Christchurch Cathedral","Christchurch Place",Dublin,Dublin,Ireland,53.34306335,-6.27085781
 10189,"The MidWinter Revels: A Celtic Celebration of the Winter Solstice","2024-12-20 00:00:00","2024-12-23 00:00:00","Douglas Morrison Theater",,Hayward,California,USA,37.68042374,-122.08023071
 10198,"Perry Hall Folk Music Night, featuring Damion Wolfe","2024-12-21 19:00:00","2024-12-21 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40932846,-76.46704102
@@ -8207,7 +8207,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10929,"Irish Music and Dance Workshops","2025-11-02 12:00:00","2025-11-02 17:00:00","East Rochester High School","200 Woodbine Ave","East Rochester","New York",USA,43.10726929,-77.49320221
 10852,"Reverie Road featuring Winifred Horan, John Williams, Katie Grennan, Utsav Lal","2025-11-02 15:00:00","2025-11-02 15:00:00","Old St. Peter's Landmark","405 Lincoln","The Dalles",Oregon,USA,45.60276413,-121.18766022
 10821,"ITMA Drawing from the Well Tour","2025-11-02 19:30:00","2025-11-02 22:00:00","Community Hall","Church Street","Miltown Malbay",Clare,Ireland,52.85944748,-9.40115833
-10749,"Moosehead Mondays Traditional Irish Session on Zoom {8PM UK Time}","2025-11-03 12:00:00","2025-11-03 14:00:00",,,,,,,
 10851,"Reverie Road • Susan McKeown","2025-11-03 19:00:00","2025-11-03 19:00:00","Alberta Rose Theatre","3000 NE Alberta Street",Portland,Oregon,USA,45.55884171,-122.63471985
 10900,TRÚ,"2025-11-03 20:00:00","2025-11-03 22:30:00","Crawford’s Bar","The Rostrevor Inn, 33-35 Bridge Street",Rostrevor,Down,"Northern Ireland",54.10055542,-6.19729090
 10842,"Tommy Makem Folk Festival","2025-11-04 15:00:00","2025-11-09 23:00:00","Various Venues",,Keady,Armagh,"Northern Ireland",54.24850464,-6.70504332
@@ -8215,7 +8214,6 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10871,"Session With The Pipers","2025-11-04 21:00:00","2025-11-04 21:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 10854,"Reverie Road featuring Winifred Horan, John Williams, Katie Grennan, Utsav Lal","2025-11-05 00:00:00","2025-11-05 00:00:00","The Sapphire Room","2900 W Chinden Blvd","Garden City",Iowa,USA,43.62211227,-116.23817444
 10822,"Drawing from the Well","2025-11-05 19:30:00","2025-11-05 22:00:00","The Sugar Club","8 Lower Leeson Street",Dublin,Dublin,Ireland,53.33549881,-6.25664330
-8893,"The Trans-Atlantic Session","2025-11-05 20:00:00","2025-11-05 22:00:00",,,,,,,
 10840,"Ennis Trad Fest 2025","2025-11-06 00:00:00","2025-11-10 00:00:00","Various Venues",,Ennis,Clare,Ireland,52.84703064,-8.98831272
 10863,"Norse-Gael Folk Fest","2025-11-06 00:00:00","2025-11-08 00:00:00","Riksscenen For Folkemusikk","Trondheimsveien 2",Oslo,Oslo,Norway,59.96857071,11.10187626
 10949,"Mick O’Brien and Martin O’Leary","2025-11-06 13:00:00","2025-11-06 14:00:00","Riverstown Hall","Maynooth University",Maynooth,Kildare,Ireland,53.38467026,-6.60060740
@@ -8235,8 +8233,9 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10844,Gatehouse,"2025-11-09 00:00:00","2025-11-09 00:00:00","The Normandy Centre","Denne Road",Horsham,"West Sussex",England,51.05955124,-0.32899150
 10845,Gatehouse,"2025-11-10 20:00:00","2025-11-10 20:00:00","The Folklore Rooms","12 North Street",Brighton,"East Sussex",England,50.82408142,-0.14342110
 10846,Gatehouse,"2025-11-11 19:30:00","2025-11-11 19:30:00","The Folk Of Gloucester","99-103 Westgate Street",Gloucester,Gloucestershire,England,51.86716843,-2.25017452
-10958,"Fiddle workshop with Bríd Harper","2025-11-12 16:00:00","2025-11-12 17:00:00","Queen's University Belfast","University Road",Belfast,Antrim,"Northern Ireland",54.58584213,-5.93607044
+10958,"Fiddle workshop with Bríd Harper","2025-11-12 16:15:00","2025-11-12 17:15:00","Queen's University Belfast","University Road",Belfast,Antrim,"Northern Ireland",54.58584213,-5.93607044
 10957,"Bríd Harper","2025-11-12 19:15:00","2025-11-12 19:15:00","Queen's University Belfast","University Road",Belfast,Antrim,"Northern Ireland",54.58584213,-5.93607044
+8893,"The Trans-Atlantic Session","2025-11-12 20:00:00","2025-11-12 22:00:00",,,,,,,
 10938,Lúnasa,"2025-11-12 20:00:00","2025-11-12 22:30:00","First Presbyterian Church","40 Rosemary Street",Belfast,Antrim,"Northern Ireland",54.60025024,-5.92976189
 10857,"Reverie Road featuring Winifred Horan, John Williams, Katie Grennan, Utsav Lal","2025-11-13 00:00:00","2025-11-13 00:00:00","Petro Theater","1500 University Dr",Billings,Montana,USA,45.79659653,-108.52182770
 10926,"Galway Tradfest","2025-11-13 00:00:00","2025-11-16 00:00:00","Various Venues",,Galway,Galway,Ireland,53.27400208,-9.05126667
@@ -8254,18 +8253,25 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10825,"Drawing From the Well","2025-11-15 20:00:00","2025-11-15 20:00:00","The Belltable","69 O'Connell Street",Limerick,Limerick,Ireland,52.65954971,-8.63055897
 10893,"Remembering Arty","2025-11-15 20:00:00","2025-11-15 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 10916,"The McGoldrick Sisters & Friends","2025-11-15 20:00:00","2025-11-15 20:00:00","Brian Boru Irish Club","55 Bryn Street","Ashton In Makerfield","Greater Manchester",England,53.48842621,-2.63888884
+10749,"Moosehead Mondays Traditional Irish Session on Zoom {8PM UK Time}","2025-11-17 12:00:00","2025-11-17 14:00:00",,,,,,,
 10890,"Elizabeth Davidson-Blythe & Daniel Quayle","2025-11-17 20:00:00","2025-11-17 20:00:00","Kitchen Garden","17 York Road",Birmingham,"West Midlands",England,52.43438721,-1.89387405
 10956,"Aoife Scott","2025-11-17 20:00:00","2025-11-17 22:30:00","Crawford’s Bar","The Rostrevor Inn, 33-35 Bridge Street",Rostrevor,Down,"Northern Ireland",54.10055542,-6.19729090
 10887,"Elizabeth Davidson-Blythe & Daniel Quayle","2025-11-19 20:00:00","2025-11-19 20:00:00","Voodoo Rooms","19A West Register Street",Edinburgh,Midlothian,Scotland,55.95375061,-3.19062996
 10888,"Elizabeth Davidson-Blythe & Daniel Quayle","2025-11-20 20:00:00","2025-11-20 20:00:00","Blue Lamp","121 Gallowgate",Aberdeen,Aberdeenshire,Scotland,57.15122223,-2.09915519
+10975,"Andrew Caden, Conor McDonagh and Catherine McHugh","2025-11-20 20:00:00","2025-11-20 20:00:00","Matt Molloy's","Bridge Street",Westport,Mayo,Ireland,53.79941177,-9.52231789
+10976,"Notes & Narratives with Kieran Joy","2025-11-20 20:30:00","2025-11-20 22:00:00","Na Píobairí Uilleann","15 Henrietta Street",Dublin,Dublin,Ireland,53.35229111,-6.27001905
+10977,"Drogheda Traditional Music and Singing Weekend","2025-11-21 00:00:00","2025-11-23 00:00:00","Various Venues",,Drogheda,Louth,Ireland,53.71790314,-6.35642290
 10881,Altan,"2025-11-21 20:00:00","2025-11-21 20:00:00","Pavilion Theatre","Marine Road","Dún Laoghaire",Dublin,Ireland,53.29346848,-6.13482428
 10898,"Oxford Fiddle Group","2025-11-22 19:30:00","2025-11-22 22:00:00","St Mary Magdalene Church","Park Street",Woodstock,Oxfordshire,England,51.84761429,-1.35727108
+10978,Beoga,"2025-11-22 20:00:00","2025-11-22 20:00:00","Vicar Street","58-59 Thomas Street",Dublin,Dublin,Ireland,53.34260941,-6.27798319
 10925,"The Bonny Men","2025-11-23 19:30:00","2025-11-23 19:30:00","Church Of The Holy Name",,Ranelagh,Dublin,Ireland,53.31850815,-6.25281286
 10809,"Birmingham Trad Sessions in place of the Trad Festival","2025-11-28 00:00:00","2025-11-30 00:00:00","Various Venues",,Birmingham,"West Midlands",England,52.47879410,-1.89696431
 10917,"Irish Session Nacional","2025-11-29 18:00:00","2025-11-30 00:00:00","Deep Bar 611","Rua Barra Funda, 611, Santa Cecília","São Paulo","São Paulo",Brazil,-23.52940941,-46.65673447
 10875,Flook,"2025-11-29 19:30:00","2025-11-29 22:00:00",Opium,"26 Wexford Street",Dublin,Dublin,Ireland,53.33669281,-6.26573038
 10959,"3 on the Bund","2025-11-29 20:00:00","2025-11-29 20:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
+10967,Danú,"2025-11-30 18:00:00","2025-11-30 18:00:00","High Point Theatre","220 E. Commerce Ave.","High Point","North Carolina",USA,35.95551682,-80.00343323
 10878,"Mick O’Brien & Caoimhín Ó Raghallaigh","2025-11-30 19:30:00","2025-11-30 20:30:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01649857,-9.37530231
+10964,"Group fiddle lessons for adults with Sorcha Costello","2025-12-02 00:00:00","2025-12-16 00:00:00","Ranelagh Arts","No. 6 Ranelagh",Ranelagh,Dublin,Ireland,53.32609940,-6.25593472
 10872,"Session With The Pipers","2025-12-02 21:00:00","2025-12-02 21:00:00","The Cobblestone Bar","77 North King Street",Dublin,Dublin,Ireland,53.34980774,-6.27783632
 10941,Lúnasa,"2025-12-03 19:00:00","2025-12-03 19:00:00","Sheen Center","18 Bleecker Street",Manhattan,"New York",USA,40.72530365,-73.99326324
 10942,Lúnasa,"2025-12-04 00:00:00","2025-12-04 00:00:00","The JPT Film + Event Center","49 Touro Street",Newport,"Rhode Island",USA,41.48960876,-71.31375885
@@ -8273,21 +8279,31 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 10937,"Caoimhín Ó Raghallaigh","2025-12-05 19:00:00","2025-12-05 19:00:00","Connolly's Of Leap","Main Street, Kilmacabea",Leap,Cork,Ireland,51.58119965,-9.14086723
 10936,"Leonard Barry Trio","2025-12-05 19:30:00","2025-12-05 19:30:00","La Maison De Saint-Jean-Cour","Avenue De Cour 138",Lausanne,Vaud,Switzerland,46.51766205,6.61008978
 10944,Lúnasa,"2025-12-05 19:30:00","2025-12-05 19:30:00","Schaeffer Auditorium","15200 Kutztown Rd",Kutztown,Pennsylvania,USA,40.50866318,-75.78320312
+10968,Danú,"2025-12-05 20:00:00","2025-12-05 20:00:00","River Run Centre","35 Woolwich St.",Guelph,Ontario,Canada,43.54774475,-80.24624634
+10974,"Will Woodson & Caitlin Finley","2025-12-06 19:00:00","2025-12-06 21:00:00","The Lilypad","1353 Cambridge Street",Cambridge,Massachusetts,USA,42.37380600,-71.10009003
+10969,Danú,"2025-12-06 19:30:00","2025-12-06 19:30:00","Kingston Grand Theatre","218 Princess St.",Kingston,Ontario,Canada,44.23203659,-76.48641968
 10945,Lúnasa,"2025-12-06 20:00:00","2025-12-06 20:00:00","The Grand","818 N. Market Street",Wilmington,Delaware,USA,39.74378204,-75.54849243
 10946,Lúnasa,"2025-12-07 15:00:00","2025-12-07 15:00:00","The Leila Gordon Theatre","Reston Community Center, 2310 Colts Neck Road",Reston,Virginia,USA,38.93645859,-77.36052704
 10947,Lúnasa,"2025-12-08 19:00:00","2025-12-08 21:00:00","Barns Of Rose Hill","95 Chalmers Court",Berryville,Virginia,USA,39.14911652,-77.98071289
+10966,"David Munnelly & Macdara Ó Faoláin","2025-12-08 20:00:00","2025-12-08 22:00:00",Maureen's,"14 John Redmond Street, Shandon",Cork,Cork,Ireland,51.90193558,-8.47414589
 10948,Lúnasa,"2025-12-10 19:30:00","2025-12-10 19:30:00","Hodgson Concert Hall","Hugh Hodgson School Of Music, 250 River Road",Athens,Georgia,USA,33.94121170,-83.36875153
+10970,Danú,"2025-12-11 19:00:00","2025-12-11 19:00:00","Miller Center For The Arts","4 North Second Street",Reading,Pennsylvania,USA,40.33583069,-75.93425751
 10796,"Kevin Burke","2025-12-11 19:30:00","2025-12-11 21:30:00","Tsunami Books","2585 Willamette St.",Eugene,Oregon,USA,44.03083038,-123.09035492
 10950,Lúnasa,"2025-12-12 19:00:00","2025-12-12 19:00:00","First Congregational Church Of Wolfeboro","115 S Main St",Wolfeboro,"New Hampshire",USA,43.58363342,-71.20950317
+10971,Danú,"2025-12-12 19:00:00","2025-12-12 19:00:00","Saratoga Performing Arts Center","108 Avenue Of The Pines","Saratoga Springs","New York",USA,43.05401611,-73.80455780
 10943,"Eileen Ivers","2025-12-13 19:30:00","2025-12-13 19:30:00","The JPT Film + Event Center","49 Touro Street",Newport,"Rhode Island",USA,41.48960876,-71.31375885
 10951,Lúnasa,"2025-12-13 19:30:00","2025-12-13 19:30:00","Barre Opera House","6 N. Main St.",Barre,Vermont,USA,44.19675827,-72.50180817
 10952,Lúnasa,"2025-12-14 16:00:00","2025-12-14 16:00:00","One Longfellow Square","181 State St",Portland,Maine,USA,43.65301514,-70.26641083
+10972,"13th Annual Christmas Session - Trad tunes and sing-a-long Christmas carols","2025-12-15 19:00:00","2025-12-15 19:00:00","Wolf And Hound Pub","3617 West Broadway",Vancouver,"British Columbia",Canada,49.26448822,-123.18421936
 10955,Lúnasa,"2025-12-18 19:30:00","2025-12-18 19:30:00","Spire Center For Performing Arts","25 1/2 Court St.",Plymouth,Massachusetts,USA,41.95795441,-70.66618347
+10965,"Sharon Shannon and band","2025-12-18 20:00:00","2025-12-18 20:00:00",Monroe's,"14 Dominick Street Upper",Galway,Galway,Ireland,53.26997375,-9.05776882
 10953,Lúnasa,"2025-12-19 20:00:00","2025-12-19 20:00:00","Groton Hill Music Center","122 Old Ayer Rd",Groton,Massachusetts,USA,42.59381866,-71.57179260
 10954,Lúnasa,"2025-12-20 19:30:00","2025-12-20 19:30:00","Camden Opera House","29 Elm St.",Camden,Maine,USA,44.20938873,-69.06587982
 10903,"Scoil Gheimhridh Ghaoth Dobhair 2025","2025-12-27 00:00:00","2026-01-01 00:00:00","Various Venues",,"Gaoth Dobhair",Donegal,Ireland,55.04980087,-8.22870445
 10961,"Boston Celtic Music Festival 2026","2026-01-15 00:00:00","2026-01-18 00:00:00","Various Venues",,Boston,Massachusetts,USA,42.35550690,-71.05653381
 10960,"Altan with a tribute to Brian O’Donovan","2026-01-17 20:00:00","2026-01-17 20:00:00","Somerville Theatre","55 Davis Square",Somerville,Massachusetts,USA,42.39667130,-71.12280273
 10750,"Once in a Blue Moose Traditional Irish Session on Zoom  {8PM UK Time}","2026-01-29 12:00:00","2026-01-29 14:00:00",,,,,,,
+10963,"The South East Tionól","2026-01-30 16:00:00","2026-02-01 18:00:00","Claddagh Cottage Irish Pub","2421 Curry Ford Rd.",Orlando,Florida,USA,28.52435493,-81.35070801
 10931,"South West Association of Uilleann Pipers Tionol","2026-02-27 15:00:00","2026-03-01 12:00:00","Bedford Hotel",Esplanade,Sidmouth,Devon,England,50.67819977,-3.23714209
+10973,"World Fiddle Day Celebrations","2026-05-14 22:00:00","2026-05-17 00:00:00","Sliabh Luachra Heritage Centre","Scartaglin Village",Scartaglin,Kerry,Ireland,52.17977142,-9.40760517
 10962,"Belfast TradFest Summer School of Traditional Music 2026","2026-07-27 10:00:00","2026-07-31 00:00:00","Ulster University","York St",Belfast,Antrim,"Northern Ireland",54.60813904,-5.92539215
