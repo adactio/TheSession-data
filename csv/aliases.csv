@@ -3964,6 +3964,7 @@ tune_id,alias,name
 628,Carzy,McGoldrick's
 628,"McGoldrick's No.2",McGoldrick's
 628,"Michael McGoldrick's",McGoldrick's
+628,"Mike McGoldrick's",McGoldrick's
 628,"Snoring Khazi",McGoldrick's
 629,"An TÉan Ar An gCrann","Bird In The Bush, The"
 629,"Billy Hanafin's","Bird In The Bush, The"
@@ -11019,15 +11020,15 @@ tune_id,alias,name
 2332,Welsh's,Walsh's
 2332,"Willy Walsh's",Walsh's
 2333,"Snow On The Hills, The","Father Dollard's Favourite"
-2337,"Follow Me Down To Limerick","Will You Come Down To Limerick"
-2337,"Jimmy Powers' Favourite","Will You Come Down To Limerick"
-2337,"Kitty Come Down From Limerick","Will You Come Down To Limerick"
-2337,"Kitty Come Down To Limerick","Will You Come Down To Limerick"
-2337,"Kitty, Come Down To Limerick","Will You Come Down To Limerick"
-2337,"Lark, The","Will You Come Down To Limerick"
-2337,"Munster Gimlet","Will You Come Down To Limerick"
-2337,Plumkum,"Will You Come Down To Limerick"
-2337,"Will You Come Down To Limerick?","Will You Come Down To Limerick"
+2337,"Follow Me Down To Limerick","Kitty Come Down From Limerick"
+2337,"Jimmy Powers' Favourite","Kitty Come Down From Limerick"
+2337,"Kitty Come Down From Limerick","Kitty Come Down From Limerick"
+2337,"Kitty Come Down To Limerick","Kitty Come Down From Limerick"
+2337,"Kitty, Come Down To Limerick","Kitty Come Down From Limerick"
+2337,"Lark, The","Kitty Come Down From Limerick"
+2337,"Munster Gimlet","Kitty Come Down From Limerick"
+2337,Plumkum,"Kitty Come Down From Limerick"
+2337,"Will You Come Down To Limerick?","Kitty Come Down From Limerick"
 2340,"Braes Of Melinish, The","Braes Of Mellinish, The"
 2340,"Braes Of Mellinish, The","Braes Of Mellinish, The"
 2340,"Braes Of Melness, The","Braes Of Mellinish, The"
@@ -22673,6 +22674,7 @@ tune_id,alias,name
 10217,"Tommy Whelan's #6","Eddie Moloney's"
 10219,"Centenary Jewel, The","Jewel Of A Hundred Years"
 10219,"Seud Nan Ceud Bliadhna","Jewel Of A Hundred Years"
+10223,"Swan LK243, The","Swan LK243"
 10224,"Le Reel De St-Étienne",St-Etienne
 10224,"St Étienne",St-Etienne
 10225,"Anyway I'd Be Willing","Co-dhuibh Bhithinn Togarrach"
@@ -23323,6 +23325,7 @@ tune_id,alias,name
 11060,"Johnny O'Leary's","An Seanchaí Muimhneach"
 11060,"Munster Storyteller, The","An Seanchaí Muimhneach"
 11063,"Jimmy Duffy's Highland","Miss Ramsey's Highland"
+11063,"Miss Thornton's","Miss Ramsey's Highland"
 11068,Orotaba,Orotava
 11070,"Dandy Brush, The","Dandy Brush"
 11074,"Boughleen Bue, The","Goat's Horns, The"
@@ -29094,8 +29097,11 @@ tune_id,alias,name
 25861,Gorman's,"Gan Ainm"
 25872,"Wild Goat's Limp, The","Y Gafr Gwyllt Cloff Schottishe"
 25873,"Paddy On The Handcar","Paddy On A Handcar"
-25883,"Timmy's Polka #1",Timmy's
-25884,"Timmy's Polka #2",Timmy's
+25883,"Priddy, The",Priddy
+25883,"Timmy's #1",Priddy
+25883,"Timmy's Polka #1",Priddy
+25884,Timmy's,"Reel Of The Isles"
+25884,"Timmy's #2","Reel Of The Isles"
 25885,"A Hundred Praises To The Blessed Virgin","Cead Moladh Don Mhaighdean Bheannaithe"
 25885,"Céad Moladh Le Muire Beannaithe","Cead Moladh Don Mhaighdean Bheannaithe"
 25909,"Sumer Is Icumen In","Cuckoo Song"
@@ -29138,9 +29144,11 @@ tune_id,alias,name
 26144,Eochail,Eochaill
 26169,"Mrs O'Neill Of Carfane","Mrs. O'Neill Of Carfane"
 26207,"Bow More",Bowmore
+26207,"Bowmore, The",Bowmore
 26214,"Dunlewey Waterfall","Eas Dhún Luíche"
 26228,"Esha Ness Two-Step","Eshaness Two-Step"
 26230,"Canadian Barndance #1","Big Eyed Rabbit"
 26230,"Southern Melodies","Big Eyed Rabbit"
 26231,"Canadian Barndance #2",Polo
 26231,"Marche Polo",Polo
+26250,"Failte Don Eilean Sgitheanach","Welcome To Skye"
