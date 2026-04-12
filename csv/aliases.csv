@@ -98,7 +98,6 @@ tune_id,alias,name
 7,"Shermans Maech","Bonaparte Crossing The Rhine"
 7,"Star Of Columbia, The","Bonaparte Crossing The Rhine"
 7,"Sweet Killaloe","Bonaparte Crossing The Rhine"
-8,"Bansee ##, The","Banshee, The"
 8,"Bean An Mullóga Sióg","Banshee, The"
 8,"Bean Si, The","Banshee, The"
 8,"Bean Sidhe","Banshee, The"
@@ -11183,7 +11182,8 @@ tune_id,alias,name
 2402,"Blue Bonnets O'er The Border","Blue Bonnets Over The Border"
 2402,"Blue Bonnets Over The Boarder","Blue Bonnets Over The Border"
 2402,"Blue Bonnets Over The Bonnet","Blue Bonnets Over The Border"
-2403,"Paddy O'Brien's","Coming Of Spring, The"
+2403,"Humours Of Ennistymon","Coming Of Spring"
+2403,"Paddy O'Brien's","Coming Of Spring"
 2404,"Gregory Grene's","Nova Scotia, The"
 2405,"Men Of Argyll, The","Men Of Argyll"
 2406,"Tomás Clancy's","Tom Clancy's"
@@ -13322,6 +13322,8 @@ tune_id,alias,name
 3283,"John Ryan's","Hills Of Connemara, The"
 3283,"Mountain Tae","Hills Of Connemara, The"
 3283,"Mountain Tay","Hills Of Connemara, The"
+3284,"Da Willow Kishie","Willow, The"
+3284,"Willow Kishie, The","Willow, The"
 3285,"Sliabh Aughty","Sliabh Aughty March, The"
 3285,"Slieve Aughty, The","Sliabh Aughty March, The"
 3286,"Kilcar Varsovienne, The","Kilcar, The"
@@ -19030,6 +19032,7 @@ tune_id,alias,name
 7080,"An Scrobarnaċ Cuilinn","Holly Bush, The"
 7080,"Bellharbour, The","Holly Bush, The"
 7080,"Chris Droney's","Holly Bush, The"
+7080,"Shamrock, The","Holly Bush, The"
 7080,"Three Little Drummers","Holly Bush, The"
 7080,"Three Little Drummers, The","Holly Bush, The"
 7087,Fahey's,"Paddy Fahey's"
@@ -21915,6 +21918,7 @@ tune_id,alias,name
 9254,"Midlothian Amateur Pipe Band, The","Midlothian Pipe Band, The"
 9255,"George Petrie's","George Petries"
 9255,"Major Bobby","George Petries"
+9257,"Keane's Farewell To Nova Scotia","Morning Mist"
 9260,"Nancy Dawson","Piss Upon The Grass"
 9261,"Trettondags March",Trettondedagsmarschen
 9261,Trettondagsmarschen,Trettondedagsmarschen
@@ -22509,7 +22513,6 @@ tune_id,alias,name
 9942,"Superfly, The",Superfly
 9945,Clarkson's,"Homeward Bound"
 9945,"Gem Of Ireland","Homeward Bound"
-9947,"Da Willow Kishie","Willow Kishie, The"
 9948,"Aran Waves","Man With The Money, The"
 9954,"What Care I For The Minister","Is Coma Leam Fhìn Am Ministear"
 9954,"What Care I For The Minister?","Is Coma Leam Fhìn Am Ministear"
@@ -25491,6 +25494,7 @@ tune_id,alias,name
 13745,"Shoe The Donkey","Shoot The Donkey"
 13745,"Valse De Vieux Quebec","Shoot The Donkey"
 13745,"Varsovienne, The","Shoot The Donkey"
+13747,Korobushka,Korobeiniki
 13747,"Tetris Theme, The",Korobeiniki
 13749,"Constitution, The","Reel Du Cultivateur"
 13761,"Jackie Daly's","Lighthouse, The"
@@ -27781,8 +27785,8 @@ tune_id,alias,name
 19625,"Soldier Deserted, The","An Saighdiúir Tréighthe"
 19627,"Port Na Maighdinn Chuain","Mermaid Song, The"
 19627,"U-gu-vi-u, U-gu -vi-u","Mermaid Song, The"
-19631,"Buscando La Quinta Pata Al Gato (Looking For The Fifth Foot Of The Cat)","Tax Max, The"
-19631,"Tax Max Mazurkas II, The","Tax Max, The"
+19631,"Looking For The Fifth Foot Of The Cat","Buscando La Quinta Pata Al Gato"
+19631,"Tax Max Mazurkas II, The","Buscando La Quinta Pata Al Gato"
 19632,"Grier, The",Grier's
 19632,"Grier's #16",Grier's
 19635,"Caoine Ui Dhonaill","Lament For O'Donnell"
@@ -28223,6 +28227,7 @@ tune_id,alias,name
 21242,"Lloyd House's","Lloyd House's Tune"
 21244,"An Inch From Gorey","George Ross's"
 21252,"Disillusioned, The","La Disillusa"
+21260,"Copper Sheckle","Kissing Dance, The"
 21260,"First Kissing Dance, The","Kissing Dance, The"
 21260,"Kissing Dance #1, The","Kissing Dance, The"
 21260,"Kissing Dance No. 1, The","Kissing Dance, The"
@@ -29253,3 +29258,6 @@ tune_id,alias,name
 26459,"Eddy Leblanc's #2","Eddy Leblanc's"
 26461,"Hags Of Ulster, The","Cailleacha Chúige Uladh"
 26464,"Bob Hobkirk's","Robbie Hobkirk's"
+26478,"My Kitty And I Will Go Walking","Raghadsa Is Mo Cheaití"
+26485,"Fleadh Ballina #1","Fleadh Ballina"
+26486,"Fleadh Ballina #2","Fleadh Ballina"
