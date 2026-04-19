@@ -334,6 +334,7 @@ tune_id,alias,name
 42,"Gravel Walks To Grannie, The","Gravel Walks, The"
 42,Gravelwalk,"Gravel Walks, The"
 42,"Gravelwalks, The","Gravel Walks, The"
+42,"Last Part's In C","Gravel Walks, The"
 42,"Na Cosáin Ghriothail","Gravel Walks, The"
 42,"Walk To Grania's","Gravel Walks, The"
 43,"Geese In The Bogs, The","Geese In The Bog, The"
@@ -424,6 +425,7 @@ tune_id,alias,name
 56,"Clare, The","Old Favourite, The"
 56,"Club Céili","Old Favourite, The"
 56,"Keane's Delight","Old Favourite, The"
+56,"Kilfenora Jog","Old Favourite, The"
 56,"Kilfenora Sexy, The","Old Favourite, The"
 56,"Kilfenora, The","Old Favourite, The"
 56,"Miko Doyle's","Old Favourite, The"
@@ -2006,6 +2008,7 @@ tune_id,alias,name
 317,"Tommy Reck's","Paddy Whack"
 317,"When History's Muse","Paddy Whack"
 319,"Back Of My Hand, The","Jerry's Beaver Hat"
+319,"Beaver Hat, The","Jerry's Beaver Hat"
 319,"Gerry Beaver's Hat","Jerry's Beaver Hat"
 319,"Gerry's Beaver Hat","Jerry's Beaver Hat"
 319,"Jenny's Beaver Hat","Jerry's Beaver Hat"
@@ -3622,6 +3625,7 @@ tune_id,alias,name
 566,"Auld Rigadoo, The","Little Beggarman, The"
 566,"Beggar Man, The","Little Beggarman, The"
 566,"Beggarman, The","Little Beggarman, The"
+566,"Chiko Par Là","Little Beggarman, The"
 566,"Danny Pearl's Favourite","Little Beggarman, The"
 566,"First Of May, The","Little Beggarman, The"
 566,Gilderoy,"Little Beggarman, The"
@@ -9510,12 +9514,12 @@ tune_id,alias,name
 1853,"Bonnie Woodside, The","Bonnie Woodside"
 1853,"Bonny Woodside","Bonnie Woodside"
 1853,"Bonny Woodside, The","Bonnie Woodside"
-1854,"Apples In Winter","Gillan's Apples In Winter"
-1854,"Gillan's Apples","Gillan's Apples In Winter"
-1854,"Gillen's Apples","Gillan's Apples In Winter"
-1854,"Gillian's Apples","Gillan's Apples In Winter"
-1854,"Gilligan's Apples","Gillan's Apples In Winter"
-1854,"Jackson's Growling Cat","Gillan's Apples In Winter"
+1854,"Apples In Winter","Jackson's Growling Cat"
+1854,"Gillan's Apples","Jackson's Growling Cat"
+1854,"Gillan's Apples In Winter","Jackson's Growling Cat"
+1854,"Gillen's Apples","Jackson's Growling Cat"
+1854,"Gillian's Apples","Jackson's Growling Cat"
+1854,"Gilligan's Apples","Jackson's Growling Cat"
 1855,"Gillian's Apples","Gillan's Apples"
 1855,"Moycarkey, The","Gillan's Apples"
 1855,"Úllaí Uí Ghiolláin","Gillan's Apples"
@@ -11182,8 +11186,7 @@ tune_id,alias,name
 2402,"Blue Bonnets O'er The Border","Blue Bonnets Over The Border"
 2402,"Blue Bonnets Over The Boarder","Blue Bonnets Over The Border"
 2402,"Blue Bonnets Over The Bonnet","Blue Bonnets Over The Border"
-2403,"Humours Of Ennistymon","Coming Of Spring"
-2403,"Paddy O'Brien's","Coming Of Spring"
+2403,"Paddy O'Brien's","Coming Of Spring, The"
 2404,"Gregory Grene's","Nova Scotia, The"
 2405,"Men Of Argyll, The","Men Of Argyll"
 2406,"Tomás Clancy's","Tom Clancy's"
@@ -12064,6 +12067,7 @@ tune_id,alias,name
 2753,"Celebrated Opera, The","Tommy Gunn's"
 2753,"Duke Of Cornwall's, The","Tommy Gunn's"
 2753,"Opera, The","Tommy Gunn's"
+2753,"Opry, The","Tommy Gunn's"
 2754,Kuesnacht,Kusnacht
 2755,"Alston Flower Show, The","Alston Flower Show"
 2756,"Eddie Duffy's New Ships A Sailing","New Ships A Sailing"
@@ -19737,6 +19741,7 @@ tune_id,alias,name
 7458,"Come Under My Plaidie","Life Is All Chequered"
 7458,"Johnny McGill","Life Is All Chequered"
 7458,"Life Is All Checkered","Life Is All Chequered"
+7458,"Miss Thornton's","Life Is All Chequered"
 7458,"Tibbie Dunbar","Life Is All Chequered"
 7459,"Couleen, The","Gale Bridge"
 7459,"Cuil Aodha","Gale Bridge"
@@ -20654,6 +20659,7 @@ tune_id,alias,name
 8157,"A Tiocfad Tu Asteac?","Will You Come In?"
 8157,"An dTiocfaidh Tú Isteach?","Will You Come In?"
 8159,"Castle Dangerous Retreat March","Castle Dangerous"
+8159,"Tam's Auld Love Song","Castle Dangerous"
 8160,"Hunting Of The Snake",L'Ville
 8160,"Hunting Of The Snake, The",L'Ville
 8160,"Snake Hunt",L'Ville
@@ -24910,6 +24916,7 @@ tune_id,alias,name
 12912,"Cullen, The","Michael Murphy's"
 12913,"Óró Bog Liom Í","Oro Bog Liom I"
 12916,"Tom McElvogue's Slip Jig 01","Tom McElvogue's"
+12917,Gellan's,Gillan's
 12917,Gillian's,Gillan's
 12917,"Muir O' Gellan's, The",Gillan's
 12923,"Tom McElvogue's Jig In Emin 02","Tom McElvogue's"
@@ -25188,8 +25195,8 @@ tune_id,alias,name
 13345,"Winter It Is Passed, The","My Love Is Like The Sun"
 13345,"Winter It Is Past, The","My Love Is Like The Sun"
 13346,Leapfrog,Glorishears
-13352,"Harvey Beaton",Harvey's
-13352,"Harvey Beaton's",Harvey's
+13352,"Harvey Beaton","Harvey Beaton"
+13352,"Harvey Beaton's","Harvey Beaton"
 13355,Rabbit,"Reel De Lapin"
 13355,"Rabbit Jump","Reel De Lapin"
 13355,"Rabbit Jump, The","Reel De Lapin"
@@ -29261,3 +29268,4 @@ tune_id,alias,name
 26478,"My Kitty And I Will Go Walking","Raghadsa Is Mo Cheaití"
 26485,"Fleadh Ballina #1","Fleadh Ballina"
 26486,"Fleadh Ballina #2","Fleadh Ballina"
+26496,"Foal In The Field, The","Mare And Foal, The"
