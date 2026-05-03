@@ -1469,6 +1469,7 @@
 {"tune_id":"203","alias":"Lady Ann Hope","name":"Frank Roche's"},
 {"tune_id":"203","alias":"Lucy Ann Hope","name":"Frank Roche's"},
 {"tune_id":"203","alias":"Roche's Favourite","name":"Frank Roche's"},
+{"tune_id":"203","alias":"Tiger, The","name":"Frank Roche's"},
 {"tune_id":"203","alias":"Woodford Fling No. 1, The","name":"Frank Roche's"},
 {"tune_id":"204","alias":"High Road To Dublin, The","name":"Humours Of Whiskey, The"},
 {"tune_id":"204","alias":"Humors Of Whiskey, The","name":"Humours Of Whiskey, The"},
@@ -9574,6 +9575,7 @@
 {"tune_id":"1875","alias":"Kenny Gilles Of Portnalong","name":"Kenny Gilles Of Portnalong"},
 {"tune_id":"1875","alias":"Kenny Gillies","name":"Kenny Gilles Of Portnalong"},
 {"tune_id":"1875","alias":"Kenny Gillies Of Portnalong, Skye","name":"Kenny Gilles Of Portnalong"},
+{"tune_id":"1876","alias":"How Much For The Cutlass","name":"Maggie Cameron"},
 {"tune_id":"1876","alias":"Maggie Cameron's","name":"Maggie Cameron"},
 {"tune_id":"1877","alias":"A La Mode De France","name":"Nonesuch"},
 {"tune_id":"1877","alias":"Angelsachsentanz","name":"Nonesuch"},
@@ -28939,6 +28941,7 @@
 {"tune_id":"24416","alias":"Dancing Kid 2, The","name":"Dancing Kid, The"},
 {"tune_id":"24424","alias":"And Did You Go To See The Show","name":"Orange Lily-O, The"},
 {"tune_id":"24431","alias":"Reel Of The Mechanic","name":"Reel Du Mécanicien"},
+{"tune_id":"24432","alias":"Farandole","name":"An Slide L'Arlesienne"},
 {"tune_id":"24432","alias":"L'Arlesienne","name":"An Slide L'Arlesienne"},
 {"tune_id":"24432","alias":"March Of The Three Kings","name":"An Slide L'Arlesienne"},
 {"tune_id":"24432","alias":"Marche De Turenne","name":"An Slide L'Arlesienne"},
@@ -29270,5 +29273,10 @@
 {"tune_id":"26478","alias":"My Kitty And I Will Go Walking","name":"Raghadsa Is Mo Cheaití"},
 {"tune_id":"26485","alias":"Fleadh Ballina #1","name":"Fleadh Ballina"},
 {"tune_id":"26486","alias":"Fleadh Ballina #2","name":"Fleadh Ballina"},
-{"tune_id":"26496","alias":"Foal In The Field, The","name":"Mare And Foal, The"}
+{"tune_id":"26496","alias":"Foal In The Field, The","name":"Mare And Foal, The"},
+{"tune_id":"26518","alias":"May Fairy, The","name":"Sióg Na Bealtaine"},
+{"tune_id":"26522","alias":"MacAlister Wears A Dirk","name":"Biodag Air Mac Alasdair"},
+{"tune_id":"26522","alias":"MacAllister's Dirk","name":"Biodag Air Mac Alasdair"},
+{"tune_id":"26522","alias":"McAlister's Dirk","name":"Biodag Air Mac Alasdair"},
+{"tune_id":"26522","alias":"McAllister's Dirk","name":"Biodag Air Mac Alasdair"}
 ]
