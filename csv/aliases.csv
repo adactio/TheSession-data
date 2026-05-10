@@ -3436,7 +3436,6 @@ tune_id,alias,name
 537,"Sligeach Abú","Creel Of Turf, The"
 537,"Unfortunate Rake, The","Creel Of Turf, The"
 537,"Up Sligo","Creel Of Turf, The"
-537,"Up Sligo!","Creel Of Turf, The"
 538,"Connacht, The","Devils Of Dublin"
 538,"Devil's In Dublin, The","Devils Of Dublin"
 538,"Devils In Dublin","Devils Of Dublin"
@@ -6346,6 +6345,7 @@ tune_id,alias,name
 1097,"Sailors, The","Sailor's, The"
 1097,"Wapping Landlady, The","Sailor's, The"
 1097,"Y Llew Coch","Sailor's, The"
+1098,"Droim Seanbhó","Haunted House, The"
 1098,Drumshanbo,"Haunted House, The"
 1098,"Haunted Wood, The","Haunted House, The"
 1098,"Leitrim, The","Haunted House, The"
@@ -9846,6 +9846,7 @@ tune_id,alias,name
 1962,"Ormonde Waters'","Farewell To Philip Lane"
 1963,"Charlie Lennon's",McDonagh's
 1963,McDonaghs,McDonagh's
+1963,McDonough's,McDonagh's
 1964,"Highlander's Kneebuckle","Pat Ward's"
 1964,"Highlander's Kneebuckle, The","Pat Ward's"
 1964,"Leather Buttons","Pat Ward's"
@@ -14944,7 +14945,7 @@ tune_id,alias,name
 4195,"Planting The Maypole","Bear Dance, The"
 4195,"Polka D'Ours","Bear Dance, The"
 4198,"Happy To Meet, Sorry To Part","Mick O'Connor's"
-4198,"Mick O' Connor's","Mick O'Connor's"
+4198,"Mick O'Connor's #9","Mick O'Connor's"
 4203,"An Droighead Beag","An Droichead Bheag"
 4204,"Niamh's Frolic","Niamh's Capers"
 4205,"Bowral Jig","Day The Ass Ran Away, The"
@@ -20933,6 +20934,7 @@ tune_id,alias,name
 8365,"Prins Robbert Masco","Prince Rupert's"
 8367,Ballinafad,Ballinafad
 8367,"Ballinafad, The",Ballinafad
+8367,"Béal An Átha Fada",Ballinafad
 8367,McDonagh's,Ballinafad
 8370,"Colour Of The Lily Amongst The Thorns, The","Lliw Lili Ymysg Y Drain"
 8371,"Burn's Farewell","Burns' Farewell"
@@ -21717,6 +21719,7 @@ tune_id,alias,name
 9006,Hobin's,"Tim Hobin's"
 9006,"Tim Hogan's","Tim Hobin's"
 9007,"Big John's","Big John's Hard"
+9007,"Big John's Hands","Big John's Hard"
 9007,"Old Woman's Money","Big John's Hard"
 9008,"Dan Jeremiah's",Larkin's
 9009,"Hey Jolly Broom Man",Jamaica
@@ -22510,6 +22513,7 @@ tune_id,alias,name
 9919,"Seagull's Embrace","Seagulls Embrace"
 9925,"Lady Anne Bothwell's Lament","Lady Ann Bothwel's Lament"
 9927,"Little Spotted Pony","Spotted Pony, The"
+9927,Snowshoes,"Spotted Pony, The"
 9932,"Mrs Casey's",Mulvihill's
 9933,"Muiñeira De Freixido","Setting Sail"
 9936,"Sean Ryan's","Hogan's Pass"
@@ -24164,6 +24168,7 @@ tune_id,alias,name
 11982,"Punkin Head","Mickey Mor Doherty's March"
 11985,"Sillocks An Tatties","Sillocks And Tatties"
 11987,"Johnny Murphy's","Hollyford, The"
+11987,"Peig Sa Susa","Hollyford, The"
 11987,"Rambling Pitchfork, The","Hollyford, The"
 11987,"Sliabh Russell","Hollyford, The"
 11988,"Da Peerie House Under Da Hill","Da Peerie Hoose Under Da Hill"
@@ -29199,6 +29204,8 @@ tune_id,alias,name
 25884,"Timmy's #2","Reel Of The Isles"
 25885,"A Hundred Praises To The Blessed Virgin","Cead Moladh Don Mhaighdean Bheannaithe"
 25885,"Céad Moladh Le Muire Beannaithe","Cead Moladh Don Mhaighdean Bheannaithe"
+25896,"Aoife McLaughlin's","Derek McGinley's"
+25896,"Con Cassidy's","Derek McGinley's"
 25909,"Sumer Is Icumen In","Cuckoo Song"
 25909,"Summer Canon","Cuckoo Song"
 25942,McClure's,"Dusk Moon"
@@ -29261,6 +29268,7 @@ tune_id,alias,name
 26362,MacBeth's,"Miss Montgomery"
 26369,"Whitehouse Lasses Quadrille, The","Whitehouse Lasses, The"
 26370,"Muses Quadrille, The","Muses, The"
+26396,Derry,"Lambeg's Delight"
 26398,"Gráinne Murphy's","Misbegotten Grandchild, The"
 26403,"Matilda The Cat",Hop!
 26408,Bismuth,Shiryu's
@@ -29279,3 +29287,7 @@ tune_id,alias,name
 26522,"MacAllister's Dirk","Biodag Air Mac Alasdair"
 26522,"McAlister's Dirk","Biodag Air Mac Alasdair"
 26522,"McAllister's Dirk","Biodag Air Mac Alasdair"
+26530,Trauma,Haytarma
+26532,"Nancy Bessent's #1","English, The"
+26533,"An Cuimhneachán","Keepsake, The"
+26533,"Nancy Bessent's #2","Keepsake, The"
