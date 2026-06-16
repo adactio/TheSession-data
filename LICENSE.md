@@ -9,11 +9,11 @@ Under the following terms:
 
 ## Prohibition on AI Use:
 
-You may not use, adapt, modify, or process the material in any way with AI technologies. This includes but is not limited to training AI models, utilizing AI tools, or incorporating the material into any AI-related applications or systems, except as expressly allowed in the following section.
+You may not use, adapt, modify, or process the material in any way with Large Language Models. This includes but is not limited to training Large Language Models, utilizing LLM tools, or incorporating the material into any LLM-related applications or systems, except as expressly allowed in the following section.
 
 ## Exception for Accessibility:
 
-Notwithstanding the restrictions from above, you may use the licensed material with AI tools to the extent necessary to provide accessibility solutions for disabled individuals, such as visually impaired people. This exception is limited to improving accessibility and does not permit the use of AI for any other purpose.
+Notwithstanding the restrictions from above, you may use the licensed material with Large Language Model tools to the extent necessary to provide accessibility solutions for disabled individuals, such as visually impaired people. This exception is limited to improving accessibility and does not permit the use of Large Language Models for any other purpose.
 
 ## No additional restrictions:
 
