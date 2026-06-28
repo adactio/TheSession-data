@@ -7,7 +7,7 @@ You are free to:
 
 Under the following terms:
 
-## Prohibition on AI Use:
+## Prohibition on LLM Use:
 
 You may not use, adapt, modify, or process the material in any way with Large Language Models. This includes but is not limited to training Large Language Models, utilizing LLM tools, or incorporating the material into any LLM-related applications or systems, except as expressly allowed in the following section.
 
