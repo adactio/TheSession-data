@@ -422,6 +422,7 @@ tune_id,alias,name
 55,"Kesh Mountain, The","Kesh, The"
 55,"Kincora, The","Kesh, The"
 55,"Mountaineers' March, The","Kesh, The"
+55,"Na Ceis","Kesh, The"
 56,"Clare, The","Old Favourite, The"
 56,"Club Céili","Old Favourite, The"
 56,"Keane's Delight","Old Favourite, The"
@@ -4524,6 +4525,7 @@ tune_id,alias,name
 725,"Drumshanbo, The","Eddie Kelly's"
 725,"Eddie Kelly's No. 2","Eddie Kelly's"
 726,"An Maide Fuinnseoige","Ashplant, The"
+726,"An Planda Fuinseoige","Ashplant, The"
 726,"Ash Plant, The","Ashplant, The"
 727,"Brenda Stubbard's","Brenda Stubbert's"
 727,"Brenda Stubbert","Brenda Stubbert's"
@@ -4957,10 +4959,9 @@ tune_id,alias,name
 819,"John Brady's","McIntyre's Fancy"
 819,"Lump Of Pudding, The","McIntyre's Fancy"
 819,"Siobhan O'Donnell's","McIntyre's Fancy"
-820,"Butlers Of Glenn Avenue, The","Christy Barry's #2"
-820,"Christy Barry's #2","Christy Barry's #2"
-820,"Christy Barry's No 2","Christy Barry's #2"
-820,"Christy Barry's No. 2","Christy Barry's #2"
+820,"Christy Barry's #2","Butlers Of Glenn Avenue, The"
+820,"Christy Barry's No 2","Butlers Of Glenn Avenue, The"
+820,"Christy Barry's No. 2","Butlers Of Glenn Avenue, The"
 821,"Con Curtin's Big Balloon","Cornelius Curtin's Big Balloon"
 821,"Con Curtin's Big Baloon","Cornelius Curtin's Big Balloon"
 821,"Hide And Go Seek","Cornelius Curtin's Big Balloon"
@@ -5283,9 +5284,7 @@ tune_id,alias,name
 876,"Gneevgullia, The",Gneevgullia
 876,"Molly The Pride Of Rathmore",Gneevgullia
 876,"Paddy Cronin's",Gneevgullia
-876,"Pride Of Rathmore",Gneevgullia
 876,"Pride Of Rathmore, The",Gneevgullia
-876,"Rabbit's Burrow",Gneevgullia
 876,"Rabbit's Burrow, The",Gneevgullia
 877,"Bounce On Bess","Priest In His Boots, The"
 877,"Irish Lilt, The","Priest In His Boots, The"
@@ -15256,7 +15255,7 @@ tune_id,alias,name
 4393,"Miss Jenna Reid Of Quarff","Jenna Reid Of Quarff"
 4394,"A Kiss Behind The Door","Kiss Behind The Door, The"
 4394,"Merry Girl, The","Kiss Behind The Door, The"
-4398,"Gorey , The","Tom Kinsella's"
+4398,"Tom Kinsellas","Gorey , The"
 4403,"Ennistymon Farewell","Farewell To Erin"
 4403,"Farewell To Ireland","Farewell To Erin"
 4403,Naughton's,"Farewell To Erin"
@@ -24055,6 +24054,7 @@ tune_id,alias,name
 11864,"Xosé Vincente Ferreirós's","Jiga De Xosé Ferreirós"
 11866,Poke-A-Billy,"Bill Of Rights"
 11866,Polka-Billy,"Bill Of Rights"
+11867,"Réalta Na Mumhan","Star Of Munster, The"
 11868,"A Curious Denis Murphy","Trip To The Quarry"
 11868,"A Trip To The Quarry","Trip To The Quarry"
 11868,"Trip To The Quarry, The","Trip To The Quarry"
@@ -29318,3 +29318,4 @@ tune_id,alias,name
 26593,"Francis St. Jig #3","Francis St."
 26602,"Girls On The Line #1","Girls On The Line"
 26603,"Girls On The Line #2","Girls On The Line"
+26619,"Jane O'Riordan's #1","Jane O'Riordan's"
