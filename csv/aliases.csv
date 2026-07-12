@@ -5364,6 +5364,7 @@ tune_id,alias,name
 888,"Winter Apples","Mug Of Brown Ale, The"
 891,"A Trip To Durrow","Trip To Durrow, The"
 891,"An Turas Go Darmhagh","Trip To Durrow, The"
+891,"Trip To Derrow, The","Trip To Durrow, The"
 892,"Bonnie Charlie","Bonnie Prince Charlie"
 892,"Bonnie Charlie, The","Bonnie Prince Charlie"
 892,"Bonnie Prince Charlie's","Bonnie Prince Charlie"
@@ -7979,6 +7980,7 @@ tune_id,alias,name
 1447,"Port Uí Fhaoláin",Whelan's
 1447,"Tommy Whelan's",Whelan's
 1447,"Uí Fhaoláin",Whelan's
+1447,Whalen's,Whelan's
 1447,"Whelan's Fancy",Whelan's
 1447,"Whelan's Frolics",Whelan's
 1449,"Big Leap, The",Rattigan's
@@ -10231,10 +10233,10 @@ tune_id,alias,name
 2098,"March For The Boys Of Belfast","Boys Of Belfast, The"
 2099,"An Tuistiun","Lomanach Cross"
 2099,Crawford's,"Lomanach Cross"
+2099,"Cros An Lomanaigh","Lomanach Cross"
 2099,"Fourpenny Bit, The","Lomanach Cross"
 2099,"Loman's Cross, The","Lomanach Cross"
 2099,Lomanach,"Lomanach Cross"
-2099,"Lomanach Cross","Lomanach Cross"
 2099,"Lomanach Cross, The","Lomanach Cross"
 2099,"Miss Mary O'Neill's Fancy","Lomanach Cross"
 2099,"Sean Maguire's","Lomanach Cross"
@@ -17711,6 +17713,8 @@ tune_id,alias,name
 6249,"Christ Church Cathedral","Christchurch Cathedral"
 6249,"Christchurch Cathedral March","Christchurch Cathedral"
 6249,"St. Patrick's Cathedral","Christchurch Cathedral"
+6253,"Bridge Of Athlone, The","Maidhc Dainín Ó Sé"
+6253,"Droichead Átha Luain","Maidhc Dainín Ó Sé"
 6253,"Maidhe Dainin O'Se","Maidhc Dainín Ó Sé"
 6253,"Sleepy Maggie","Maidhc Dainín Ó Sé"
 6254,"Hanter Dro","Dessous Les Lauriers Blancs"
@@ -24131,7 +24135,6 @@ tune_id,alias,name
 11942,"College Groves, The","John Kelly's College Groves"
 11944,"Gandy Dancers","Gandy Dancer, The"
 11944,"Gandy Dancers, The","Gandy Dancer, The"
-11945,"Droichead Átha Luain","Bridge Of Athlone, The"
 11946,"Flower Of The Flock",O'Keeffe's
 11946,O'Keefe's,O'Keeffe's
 11946,"O'Keeffe's Flower Of The Flock",O'Keeffe's
@@ -24337,6 +24340,7 @@ tune_id,alias,name
 12169,"A Lament For Billy","A Lament For A Friend"
 12169,"A Lament For The Loss Of A Friend","A Lament For A Friend"
 12170,"Maurice Duncan's March To Ballycastle","Maurice Duncan's Trip To Ballycastle"
+12173,"Baitheadh Bhrioclais","Bruckless Drowning, The"
 12173,"Báitheadh Bhruclais","Bruckless Drowning, The"
 12173,"Bruckless Drowning, The","Bruckless Drowning, The"
 12173,"Drowning At Bruckless, The","Bruckless Drowning, The"
@@ -28221,6 +28225,7 @@ tune_id,alias,name
 21102,"Nehyl's Fiddle","Tom Dayhill's Fiddle"
 21102,"Tom Dahill's Fiddle","Tom Dayhill's Fiddle"
 21111,"Pither In Enough","Put In Enough"
+21117,"Planxty Anna Fox","Anna Foxe"
 21119,"Payne's French Set Of Quadrilles No.5","Payne's French Quadrill"
 21133,"Lady's Favorite, The","Lady's Favourite, The"
 21133,RY2.050,"Lady's Favourite, The"
@@ -29122,6 +29127,7 @@ tune_id,alias,name
 25356,"FCK PTN","Ukraine, The"
 25357,"Waiting For Aoife","Ag Fanacht Ar Aoife"
 25367,"Song Of The Stone","Òran Na Cloiche"
+25367,"Stone Of Destiny","Òran Na Cloiche"
 25386,"Chervona Kalyna","Oi U Luzi Chervona Kalyna"
 25386,"Oh, The Red Viburnum In The Meadow","Oi U Luzi Chervona Kalyna"
 25399,"Katie Morag Jig, Katie Morag Theme, Theme From Katie Morag","Katie Morag"
@@ -29320,3 +29326,4 @@ tune_id,alias,name
 26646,"Jane O'Riordan's #5","Jane O'Riordan's"
 26648,"A Scarba Air","Seagulls Of Scarba"
 26648,"Faoileagan Sgarba","Seagulls Of Scarba"
+26656,"Flat Tire Jo","Flat Tire, The"
