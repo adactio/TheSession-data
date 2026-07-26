@@ -9429,7 +9429,7 @@ id,artist,recording,track,number,tune,tune_id
 8556,"Aoife & Deirdre Granville","Ceo Draíochta",2,1,"Ceo Draíochta",
 8556,"Aoife & Deirdre Granville","Ceo Draíochta",3,1,"Bunting Jigs",
 8556,"Aoife & Deirdre Granville","Ceo Draíochta",4,1,"Caoineadh Phiaras Feiritéar",
-8556,"Aoife & Deirdre Granville","Ceo Draíochta",5,1,Galway,38
+8556,"Aoife & Deirdre Granville","Ceo Draíochta",5,1,"Galway (Song)",
 8556,"Aoife & Deirdre Granville","Ceo Draíochta",6,1,"Dublin Bay",23154
 8556,"Aoife & Deirdre Granville","Ceo Draíochta",6,2,"God Save Ireland",24326
 8556,"Aoife & Deirdre Granville","Ceo Draíochta",7,1,"Yeoman's, The",14468
@@ -13604,7 +13604,7 @@ id,artist,recording,track,number,tune,tune_id
 5351,"Becky Taylor","Ireland Bridge",5,2,"When It's All Over",
 5351,"Becky Taylor","Ireland Bridge",6,1,"Captain O'Kane",858
 5351,"Becky Taylor","Ireland Bridge",7,1,"Red-haired Polly",
-5351,"Becky Taylor","Ireland Bridge",7,2,"Rattle The Cash",
+5351,"Becky Taylor","Ireland Bridge",7,2,"Rattle The Cash",26673
 5351,"Becky Taylor","Ireland Bridge",8,1,"To Limerick We Will Go",2190
 5351,"Becky Taylor","Ireland Bridge",8,2,"Lady's Cup Of Tea, The",8096
 5351,"Becky Taylor","Ireland Bridge",8,3,"Road To Lisdoonvarna, The",249
@@ -13891,7 +13891,7 @@ id,artist,recording,track,number,tune,tune_id
 578,"Ben Lennon And Friends","The Natural Bridge",5,1,"Song: Flora",
 578,"Ben Lennon And Friends","The Natural Bridge",6,1,"Maguire's Fiddle",7139
 578,"Ben Lennon And Friends","The Natural Bridge",6,2,O'Donnell's,7139
-578,"Ben Lennon And Friends","The Natural Bridge",7,1,"Galway, The",38
+578,"Ben Lennon And Friends","The Natural Bridge",7,1,"Galway Reel, The",613
 578,"Ben Lennon And Friends","The Natural Bridge",7,2,"Collier's, The",2154
 578,"Ben Lennon And Friends","The Natural Bridge",8,1,"Mick McNamara's",1432
 578,"Ben Lennon And Friends","The Natural Bridge",8,2,"Touch Me If You Dare",596
@@ -15637,7 +15637,7 @@ id,artist,recording,track,number,tune,tune_id
 2724,"Birkin Tree","Continental Reel",12,1,"Doubtful Advocate, The",
 2724,"Birkin Tree","Continental Reel",12,2,"Chinese Flu, The",
 3682,"Birkin Tree",Virginia,1,1,"Swimming Cow, The",
-3682,"Birkin Tree",Virginia,1,2,"Elysian Fields, The",
+3682,"Birkin Tree",Virginia,1,2,"Elysian Fields, The",26695
 3682,"Birkin Tree",Virginia,2,1,"Rolling Waves, The",88
 3682,"Birkin Tree",Virginia,2,2,"Peacock's Feather, The",665
 3682,"Birkin Tree",Virginia,2,3,"Holly Bush, The",1566
@@ -19853,7 +19853,7 @@ id,artist,recording,track,number,tune,tune_id
 839,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music At The House",13,2,"Musical Manicure, The",
 839,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music At The House",14,1,McGreevy's,10936
 839,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music At The House",14,2,"Humours Of Castlefinn, The",2271
-839,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music At The House",15,1,"Galway, The",613
+839,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music At The House",15,1,"Galway Jig, The",
 839,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music At The House",15,2,"Willie's Fiddle",13377
 839,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music At The House",16,1,"Yellow Tinker, The",1554
 8377,"Brendan Bulger, Marty Fahey And Kathleen Gavin","Music at the House - One more time...",1,1,"Dark Horse, The",
@@ -24391,7 +24391,7 @@ id,artist,recording,track,number,tune,tune_id
 1866,Calico,Songdogs,1,3,"Paperbird, The",2510
 1866,Calico,Songdogs,2,1,"Metal Drums",
 1866,Calico,Songdogs,3,1,"Breton March",2176
-1866,Calico,Songdogs,3,2,"Elysian Fields, The",
+1866,Calico,Songdogs,3,2,"Elysian Fields, The",26695
 1866,Calico,Songdogs,4,1,"Midnight At The Mausoleum",
 1866,Calico,Songdogs,4,2,"Up Downey",918
 1866,Calico,Songdogs,4,3,"Across The Rooftops",3008
@@ -25318,7 +25318,7 @@ id,artist,recording,track,number,tune,tune_id
 3038,"Caoimhin Vallely",Strayaway,6,1,"Unapproved Road",
 3038,"Caoimhin Vallely",Strayaway,6,2,"Slieve Russell",335
 3038,"Caoimhin Vallely",Strayaway,7,1,"Paddy Kelly's",2125
-3038,"Caoimhin Vallely",Strayaway,8,1,"Take A Message To Julia",
+3038,"Caoimhin Vallely",Strayaway,8,1,"Take A Message To Julia",8196
 3038,"Caoimhin Vallely",Strayaway,8,2,"Long Distance Runner, The",
 3038,"Caoimhin Vallely",Strayaway,9,1,"Whistler Of Rosleigh, The",304
 3038,"Caoimhin Vallely",Strayaway,10,1,"Kitchen Piper, The",2012
@@ -33446,22 +33446,22 @@ id,artist,recording,track,number,tune,tune_id
 7272,"Ciarán Ryan",Banjaxed,8,2,"US No More",
 7272,"Ciarán Ryan",Banjaxed,8,3,Skew-Whiff,
 7272,"Ciarán Ryan",Banjaxed,9,1,Banjaxed,
-8450,"Ciarán Ryan","Kick Up the Dust",1,1,"Cheap And Nasty",
+8450,"Ciarán Ryan","Kick Up the Dust",1,1,"Cheap And Nasty",26679
 8450,"Ciarán Ryan","Kick Up the Dust",1,2,"Trip To Dalian",
 8450,"Ciarán Ryan","Kick Up the Dust",1,3,"Hornpipe Reel, The",
 8450,"Ciarán Ryan","Kick Up the Dust",2,1,"Emma's Trip To Bass Rock",
 8450,"Ciarán Ryan","Kick Up the Dust",2,2,"Two Nights In Helsinki",
-8450,"Ciarán Ryan","Kick Up the Dust",2,3,"Ba Dum Dum",
+8450,"Ciarán Ryan","Kick Up the Dust",2,3,"Ba Dum Dum",26682
 8450,"Ciarán Ryan","Kick Up the Dust",3,1,"Irish Stuff, The",
 8450,"Ciarán Ryan","Kick Up the Dust",3,2,"Cheery Cheery Fun Times",
 8450,"Ciarán Ryan","Kick Up the Dust",3,3,"Mental Morag",
-8450,"Ciarán Ryan","Kick Up the Dust",4,1,"Secret Triplet, The",
+8450,"Ciarán Ryan","Kick Up the Dust",4,1,"Secret Triplet, The",26683
 8450,"Ciarán Ryan","Kick Up the Dust",4,2,Alfredone's,
 8450,"Ciarán Ryan","Kick Up the Dust",4,3,"Greg Barry's Carpet Factory",
 8450,"Ciarán Ryan","Kick Up the Dust",5,1,"Tune For Rose",
 8450,"Ciarán Ryan","Kick Up the Dust",6,1,"Rocks Of Solitude, The",26655
 8450,"Ciarán Ryan","Kick Up the Dust",6,2,Robbie's,26654
-8450,"Ciarán Ryan","Kick Up the Dust",6,3,"Kick Up The Dust",
+8450,"Ciarán Ryan","Kick Up the Dust",6,3,"Kick Up The Dust",26671
 8450,"Ciarán Ryan","Kick Up the Dust",7,1,"Wanderer, The",2312
 8450,"Ciarán Ryan","Kick Up the Dust",7,2,"Comically Bumpy",
 8450,"Ciarán Ryan","Kick Up the Dust",8,1,Aoife's,3274
@@ -33988,7 +33988,7 @@ id,artist,recording,track,number,tune,tune_id
 1638,"Claire Watts","Elusive Butterfly",8,1,"I Will Lead You On",
 1638,"Claire Watts","Elusive Butterfly",9,1,"May Louise",
 1638,"Claire Watts","Elusive Butterfly",10,1,"No Season For Roses",
-1638,"Claire Watts","Elusive Butterfly",11,1,"Galway Town",
+1638,"Claire Watts","Elusive Butterfly",11,1,"Galway Town",26689
 1638,"Claire Watts","Elusive Butterfly",12,1,"Will You Be The One",
 1638,"Claire Watts","Elusive Butterfly",13,1,"Elusive Butterfly",
 3557,"Clan Tampa","Tampa Session Sets, Vol. 1",1,1,"Rambling Pitchfork, The",89
@@ -41517,7 +41517,7 @@ id,artist,recording,track,number,tune,tune_id
 8290,Danú,"The Pearl Album-Live in Celebration",23,1,"Cutting A",5703
 8290,Danú,"The Pearl Album-Live in Celebration",23,2,"Fiddle Cushion, The",11225
 8290,Danú,"The Pearl Album-Live in Celebration",24,1,"Master McGrath",
-8290,Danú,"The Pearl Album-Live in Celebration",25,1,"Coming Home From The Races",
+8290,Danú,"The Pearl Album-Live in Celebration",25,1,"Coming Home From The Races",12460
 8290,Danú,"The Pearl Album-Live in Celebration",25,2,"Dirty Big Nor Easter",
 8290,Danú,"The Pearl Album-Live in Celebration",25,3,"Michael Bartellas'",
 8290,Danú,"The Pearl Album-Live in Celebration",26,1,"Fiach A Mhadra Rua",
@@ -51433,8 +51433,8 @@ id,artist,recording,track,number,tune,tune_id
 4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",1,2,"Wounded Hussar, The",858
 4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",2,1,"Rocks Of Bán, The",
 4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",3,1,"Lady's Cup Of Tea, The",8096
-4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",3,2,"Galway, The",38
-4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",3,3,"New Mown Meadow, The",2706
+4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",3,2,"Galway Reel, The",
+4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",3,3,"Top Of The Cliff",2706
 4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",4,1,"Nóra Chríona",2009
 4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",5,1,"Ó Domhnaill Abú",7309
 4731,"Éanna Ó Cróinín","Ceol Ársa na bPíob",5,2,"Buachaillí Loch Garman",
@@ -53619,7 +53619,7 @@ id,artist,recording,track,number,tune,tune_id
 1619,"Emer Mayock",Playground,1,1,"Lucky Thirteen",3773
 1619,"Emer Mayock",Playground,2,1,"Fickle Lad, The",14963
 1619,"Emer Mayock",Playground,2,2,"On The Strand",3894
-1619,"Emer Mayock",Playground,2,3,Ollistrum,
+1619,"Emer Mayock",Playground,2,3,Ollistrum,2136
 1619,"Emer Mayock",Playground,3,1,"Waltz One",15296
 1619,"Emer Mayock",Playground,3,2,Orlagh's,15297
 1619,"Emer Mayock",Playground,4,1,"The Stormy Night",16533
@@ -60412,7 +60412,7 @@ id,artist,recording,track,number,tune,tune_id
 635,"Frankie Gavin","Fierce Traditional",3,1,"Miss Langford's",2088
 635,"Frankie Gavin","Fierce Traditional",3,2,"Tailor's Thimble, The",704
 635,"Frankie Gavin","Fierce Traditional",4,1,"Sliabh Na mBan",7595
-635,"Frankie Gavin","Fierce Traditional",5,1,"Jenny Picking Cockles",202
+635,"Frankie Gavin","Fierce Traditional",5,1,"Jenny Picking Cockles",370
 635,"Frankie Gavin","Fierce Traditional",5,2,"Farewell To Connaught",981
 635,"Frankie Gavin","Fierce Traditional",6,1,"Primrose Vale, The",3254
 635,"Frankie Gavin","Fierce Traditional",6,2,"Leitrim Fancy, The",467
@@ -60807,7 +60807,7 @@ id,artist,recording,track,number,tune,tune_id
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,1,3,"Old Cuffe Street",961
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,2,1,"An tSeanchailleach Gallda",4166
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,2,2,"Dermot Byrne's",12237
-825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,3,1,"Tá Mo Chleamhnas a Dhéanamh",15476
+825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,3,1,"Tá Mo Chleamhnas A Dhéanamh",15476
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,4,1,"Cat That Ate The Candle, The",355
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,4,2,"Over The Water To Bessie",2165
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,4,3,"Dandy Dinny Cronin",2832
@@ -60824,7 +60824,7 @@ id,artist,recording,track,number,tune,tune_id
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,10,3,"Humours Of Whiskey, The",46
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,11,1,"Jimmy Lyons'",171
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,11,2,Leslie's,2897
-825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,12,1,"Cití na gCumann",9566
+825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,12,1,"Cití Na gCumann",9566
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,13,1,"Con Cassidy's Highland",2093
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,13,2,"Neilly O'Boyle's Highland",2461
 825,"Frankie Kennedy and Mairead Ni Mhaonaigh",Altan,13,3,"Neilly O'Boyle's",2428
@@ -66110,45 +66110,45 @@ id,artist,recording,track,number,tune,tune_id
 6674,"Graham Wells & David Clark","Graham Wells & David Clark",9,2,"Maid At The Spinning Wheel, The",2254
 6674,"Graham Wells & David Clark","Graham Wells & David Clark",10,1,"Dispute At The Crossroads",129
 6674,"Graham Wells & David Clark","Graham Wells & David Clark",10,2,"Master Crowley's #2",637
-8432,"Grainne Brady","Back and Forth",1,1,"Monsignor's Blessing",216
-8432,"Grainne Brady","Back and Forth",1,2,"Boil The Breakfast Early",3
-8432,"Grainne Brady","Back and Forth",2,1,"Johnny Doherty's",1276
-8432,"Grainne Brady","Back and Forth",2,2,"Strop The Razor",693
-8432,"Grainne Brady","Back and Forth",3,1,"Galway, The",613
-8432,"Grainne Brady","Back and Forth",3,2,"Jack's Gunning It",
-8432,"Grainne Brady","Back and Forth",4,1,"Wateraughy Bridge",26268
-8432,"Grainne Brady","Back and Forth",4,2,"Gusty's Frolics",169
-8432,"Grainne Brady","Back and Forth",5,1,"Poll Ha'Penny",841
-8432,"Grainne Brady","Back and Forth",5,2,"Wicklow, The",309
-8432,"Grainne Brady","Back and Forth",6,1,"Dave Collins'",354
-8432,"Grainne Brady","Back and Forth",6,2,"Return To Stewarty",19295
-8432,"Grainne Brady","Back and Forth",7,1,"Big Dog, Little Dog",2369
-8432,"Grainne Brady","Back and Forth",7,2,McGettrick's,6218
-8432,"Grainne Brady","Back and Forth",7,3,"Ravelled Hank Of Yarn",2386
-8432,"Grainne Brady","Back and Forth",8,1,"Fisher's Rant",2514
-8432,"Grainne Brady","Back and Forth",8,2,"Cawdor Fair",15779
-8432,"Grainne Brady","Back and Forth",8,3,"Harris Dance",7653
-8432,"Grainne Brady","Back and Forth",8,4,"Fairy Dance",424
-8432,"Grainne Brady","Back and Forth",9,1,"Miss Kay Rose",
-8432,"Grainne Brady","Back and Forth",9,2,"Memories Of Sligo",3722
-8432,"Grainne Brady","Back and Forth",10,1,Kimmel's,8917
-8432,"Grainne Brady","Back and Forth",10,2,"New House, The",2484
-8432,"Grainne Brady","Back and Forth",10,3,"Humours Of Castlelyons",11171
-8432,"Grainne Brady","Back and Forth",11,1,Borthwick,12603
-8432,"Grainne Brady","Back and Forth",11,2,"Lane To The Glen",2805
-8432,"Grainne Brady","Back and Forth",11,3,"Fox On The Town",341
-8432,"Grainne Brady","Back and Forth",12,1,"Swans Among The Rushes",5451
-8432,"Grainne Brady","Back and Forth",12,2,"Wexford Mayfly, The",23133
-8432,"Grainne Brady","Back and Forth",12,3,"Paddy Fahey's",124
-8432,"Grainne Brady","Back and Forth",13,1,"Queen Of May",2518
-8432,"Grainne Brady","Back and Forth",13,2,"Paddy Fahey's",
-8432,"Grainne Brady","Back and Forth",13,3,"Ireland We Knew, The",9083
-8432,"Grainne Brady","Back and Forth",14,1,"Rakes Of Sollohod",13795
-8432,"Grainne Brady","Back and Forth",14,2,"Where's The Roof Going",
-8432,"Grainne Brady","Back and Forth",14,3,"89 Days Late",
-8432,"Grainne Brady","Back and Forth",15,1,"Caha Mountains",3338
-8432,"Grainne Brady","Back and Forth",15,2,"Old Road To Garry",3671
-8432,"Grainne Brady","Back and Forth",15,3,"Ornette's Trip To Belfast",2712
+8432,"Gráinne Brady","Back and Forth",1,1,"Monsignor's Blessing",216
+8432,"Gráinne Brady","Back and Forth",1,2,"Boil The Breakfast Early",3
+8432,"Gráinne Brady","Back and Forth",2,1,"Johnny Doherty's",1276
+8432,"Gráinne Brady","Back and Forth",2,2,"Strop The Razor",693
+8432,"Gráinne Brady","Back and Forth",3,1,"Galway, The",613
+8432,"Gráinne Brady","Back and Forth",3,2,"Jack's Gunning It",
+8432,"Gráinne Brady","Back and Forth",4,1,"Wateraughy Bridge",26268
+8432,"Gráinne Brady","Back and Forth",4,2,"Gusty's Frolics",169
+8432,"Gráinne Brady","Back and Forth",5,1,"Poll Ha'Penny",841
+8432,"Gráinne Brady","Back and Forth",5,2,"Wicklow, The",309
+8432,"Gráinne Brady","Back and Forth",6,1,"Dave Collins'",354
+8432,"Gráinne Brady","Back and Forth",6,2,"Return To Stewarty",19295
+8432,"Gráinne Brady","Back and Forth",7,1,"Big Dog, Little Dog",2369
+8432,"Gráinne Brady","Back and Forth",7,2,McGettrick's,6218
+8432,"Gráinne Brady","Back and Forth",7,3,"Ravelled Hank Of Yarn",2386
+8432,"Gráinne Brady","Back and Forth",8,1,"Fisher's Rant",2514
+8432,"Gráinne Brady","Back and Forth",8,2,"Cawdor Fair",15779
+8432,"Gráinne Brady","Back and Forth",8,3,"Harris Dance",7653
+8432,"Gráinne Brady","Back and Forth",8,4,"Fairy Dance",424
+8432,"Gráinne Brady","Back and Forth",9,1,"Miss Kay Rose",
+8432,"Gráinne Brady","Back and Forth",9,2,"Memories Of Sligo",3722
+8432,"Gráinne Brady","Back and Forth",10,1,Kimmel's,8917
+8432,"Gráinne Brady","Back and Forth",10,2,"New House, The",2484
+8432,"Gráinne Brady","Back and Forth",10,3,"Humours Of Castlelyons",11171
+8432,"Gráinne Brady","Back and Forth",11,1,Borthwick,12603
+8432,"Gráinne Brady","Back and Forth",11,2,"Lane To The Glen",2805
+8432,"Gráinne Brady","Back and Forth",11,3,"Fox On The Town",341
+8432,"Gráinne Brady","Back and Forth",12,1,"Swans Among The Rushes",5451
+8432,"Gráinne Brady","Back and Forth",12,2,"Wexford Mayfly, The",23133
+8432,"Gráinne Brady","Back and Forth",12,3,"Paddy Fahey's",124
+8432,"Gráinne Brady","Back and Forth",13,1,"Queen Of May",2518
+8432,"Gráinne Brady","Back and Forth",13,2,"Paddy Fahey's",
+8432,"Gráinne Brady","Back and Forth",13,3,"Ireland We Knew, The",9083
+8432,"Gráinne Brady","Back and Forth",14,1,"Rakes Of Sollohod",13795
+8432,"Gráinne Brady","Back and Forth",14,2,"Where's The Roof Going",
+8432,"Gráinne Brady","Back and Forth",14,3,"89 Days Late",
+8432,"Gráinne Brady","Back and Forth",15,1,"Caha Mountains",3338
+8432,"Gráinne Brady","Back and Forth",15,2,"Old Road To Garry",3671
+8432,"Gráinne Brady","Back and Forth",15,3,"Ornette's Trip To Belfast",2712
 5105,"Gráinne Brady & Tina Jordan Rees","High Spirits",1,1,"Bank Of The Erne",
 5105,"Gráinne Brady & Tina Jordan Rees","High Spirits",1,2,"Tripod's Frolics",
 5105,"Gráinne Brady & Tina Jordan Rees","High Spirits",2,1,"Highland Coos",
@@ -66221,7 +66221,7 @@ id,artist,recording,track,number,tune,tune_id
 569,"Grainne Hambly","Golden Lights And Green Shadows",10,2,"Up Boyle's Hill",
 569,"Grainne Hambly","Golden Lights And Green Shadows",11,1,"A Munster",19777
 569,"Grainne Hambly","Golden Lights And Green Shadows",11,2,"Ladie's March To The Ballroom, The",19778
-569,"Grainne Hambly","Golden Lights And Green Shadows",11,3,"Mairseail Alasdruim",16083
+569,"Grainne Hambly","Golden Lights And Green Shadows",11,3,"Mairseail Alasdruim",6188
 569,"Grainne Hambly","Golden Lights And Green Shadows",12,1,"Caoineadh Ui Neill",23605
 569,"Grainne Hambly","Golden Lights And Green Shadows",13,1,"Arra Mountains, The",1901
 569,"Grainne Hambly","Golden Lights And Green Shadows",13,2,"La Na Feise",5810
@@ -66937,7 +66937,7 @@ id,artist,recording,track,number,tune,tune_id
 4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",38,1,"Baile An tSamhraidh",2613
 4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",39,1,"Jack Regan's",110
 4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",40,1,"Return From Fingal, The",851
-4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",41,1,"Máirseáil Alasdruim",16083
+4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",41,1,"Máirseáil Alasdruim",6188
 4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",42,1,"Seán Ó Duibhir A' Ghleanna",2748
 4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",43,1,"Charles O'Connor",3068
 4510,"Grey Larsen","150 Gems of Irish Music for Tin Whistle - CD 1, part 2",44,1,Hewlett,1468
@@ -75573,7 +75573,7 @@ id,artist,recording,track,number,tune,tune_id
 7008,"Jamie McMenemy",4,3,1,"Wild Mountain Thyme",10655
 7008,"Jamie McMenemy",4,4,1,"Deil's Awa' Wi' The Exciseman, The",
 7008,"Jamie McMenemy",4,4,2,"Drummond Castle",2540
-7008,"Jamie McMenemy",4,5,1,"Miss Faw's Minuet",
+7008,"Jamie McMenemy",4,5,1,"Miss Faw's Minuet",17517
 7008,"Jamie McMenemy",4,6,1,"Forlorn My Love",
 7008,"Jamie McMenemy",4,7,1,"Da Day Dawn",7245
 7008,"Jamie McMenemy",4,7,2,"Greenland Man's Tune, The",4680
@@ -76527,7 +76527,8 @@ id,artist,recording,track,number,tune,tune_id
 6797,"Jean-Luc Thomas & David Hopkins",Translations,9,1,Ozone,
 6797,"Jean-Luc Thomas & David Hopkins",Translations,10,1,"Drag Her Round The Road",1148
 6797,"Jean-Luc Thomas & David Hopkins",Translations,10,2,"Killarney Boys Of Pleasure",733
-6797,"Jean-Luc Thomas & David Hopkins",Translations,11,1,Rattigan's,613
+6797,"Jean-Luc Thomas & David Hopkins",Translations,11,1,Rattigan's,
+6797,"Jean-Luc Thomas & David Hopkins",Translations,11,2,"Guns Of The Magnificent Seven, The",40
 2360,"Jean-Michel Veillon","E Koad Nizan",1,1,"Ahont Kostez Ar C'Hoed",
 2360,"Jean-Michel Veillon","E Koad Nizan",2,1,"Gavotenn Bro Pourlet",
 2360,"Jean-Michel Veillon","E Koad Nizan",3,1,"Ivonig Berjen Ha Markiz Vilaodren",
@@ -87216,7 +87217,7 @@ id,artist,recording,track,number,tune,tune_id
 3791,"Johnny Mooring","Magic Fiddle",20,1,"Poor Girl's",15825
 3791,"Johnny Mooring","Magic Fiddle",21,1,Concert,1474
 3791,"Johnny Mooring","Magic Fiddle",21,2,"Mason's Apron, The",74
-1434,"Johnny Murphy","Tuned In",1,1,"Galway, The",38
+1434,"Johnny Murphy","Tuned In",1,1,"Galway Reel, The",613
 1434,"Johnny Murphy","Tuned In",1,2,"Beare Island",696
 1434,"Johnny Murphy","Tuned In",1,3,"Siobhan O'Donnell's",729
 1434,"Johnny Murphy","Tuned In",2,1,"Siobhan O'Donnell's No. 1",
@@ -91376,14 +91377,14 @@ id,artist,recording,track,number,tune,tune_id
 2968,Keltish,Keltish,6,1,"Beer, Beer, Beer",
 2968,Keltish,Keltish,7,1,"Minstrel Boy",6782
 2968,Keltish,Keltish,8,1,"Norwegian Wood",
-2968,Keltish,Keltish,10,1,"Banish Misfortune",9
-2968,Keltish,Keltish,11,1,"Mist Covered Mountains",470
-2968,Keltish,Keltish,11,2,"Kerry Dance",
-2968,Keltish,Keltish,11,3,Galway,613
-2968,Keltish,Keltish,12,1,"Dublin Lullaby",
-2968,Keltish,Keltish,13,1,"Rattlin' Bog",583
-2968,Keltish,Keltish,13,2,"John Ryan's",441
-2968,Keltish,Keltish,14,1,"Parting Glass",6275
+2968,Keltish,Keltish,9,1,"Banish Misfortune",9
+2968,Keltish,Keltish,10,1,"Mist Covered Mountains",256
+2968,Keltish,Keltish,10,2,"Kerry Dance",
+2968,Keltish,Keltish,10,3,"Galway Hornpipe",38
+2968,Keltish,Keltish,11,1,"Dublin Lullaby",
+2968,Keltish,Keltish,12,1,"Rattlin' Bog",583
+2968,Keltish,Keltish,12,2,"John Ryan's",441
+2968,Keltish,Keltish,13,1,"Parting Glass",6275
 1549,"Ken Kolodner","Journey To The Heartland",1,1,"Caspian's Return",
 1549,"Ken Kolodner","Journey To The Heartland",1,2,"Cuckoo's Nest",2395
 1549,"Ken Kolodner","Journey To The Heartland",2,1,"Lady Of The Lake",10874
@@ -98989,7 +98990,7 @@ id,artist,recording,track,number,tune,tune_id
 4686,Lilt,"Little Falls",9,2,"John Brosnan's",3081
 4686,Lilt,"Little Falls",10,1,"Old Hag From A Foreign Land",
 4686,Lilt,"Little Falls",10,2,"Dermot Byrne's",1955
-4686,Lilt,"Little Falls",11,1,"Galway, The",38
+4686,Lilt,"Little Falls",11,1,"Galway Reel, The",613
 4686,Lilt,"Little Falls",11,2,"Seamus Thompson's",8500
 4686,Lilt,"Little Falls",11,3,"View Across The Valley",3851
 4686,Lilt,"Little Falls",12,1,P&O,7359
@@ -99658,7 +99659,7 @@ id,artist,recording,track,number,tune,tune_id
 4551,"Liz Carroll","On the Offbeat",11,3,"Kelly's Roadhouse",
 4551,"Liz Carroll","On the Offbeat",12,1,"Giant's Cave, The",25537
 4551,"Liz Carroll","On the Offbeat",12,2,"Go Ahead, Back Up",
-1151,"Liz Carroll & Tommy Maguire","Kiss Me Kate",1,1,"Galway, The",38
+1151,"Liz Carroll & Tommy Maguire","Kiss Me Kate",1,1,"Galway Reel, The",613
 1151,"Liz Carroll & Tommy Maguire","Kiss Me Kate",1,2,"Finbarr Dwyer's",8668
 1151,"Liz Carroll & Tommy Maguire","Kiss Me Kate",2,1,"Paddy Kelly's",9739
 1151,"Liz Carroll & Tommy Maguire","Kiss Me Kate",2,2,"Tommy Maguire's #3",10756
@@ -109037,7 +109038,7 @@ id,artist,recording,track,number,tune,tune_id
 8534,"Maura Shawn Scanlin","Rule Of Three",3,1,"Good Ship, The",
 8534,"Maura Shawn Scanlin","Rule Of Three",4,1,Terralsole,23562
 8534,"Maura Shawn Scanlin","Rule Of Three",5,1,Nahatlatch,
-8534,"Maura Shawn Scanlin","Rule Of Three",6,1,Geremy's,
+8534,"Maura Shawn Scanlin","Rule Of Three",6,1,"Rock On The Clyde, The",2376
 8534,"Maura Shawn Scanlin","Rule Of Three",7,1,"Minor Complications",26012
 8534,"Maura Shawn Scanlin","Rule Of Three",8,1,"Mill, Mill O, The",14436
 8534,"Maura Shawn Scanlin","Rule Of Three",9,1,"Factor's Row",
@@ -112279,7 +112280,7 @@ id,artist,recording,track,number,tune,tune_id
 7856,"Michelle Mulcahy","Lady On The Island",3,1,"Drunken Sailor, The",6348
 7856,"Michelle Mulcahy","Lady On The Island",4,1,Eochaill,26144
 7856,"Michelle Mulcahy","Lady On The Island",5,1,Matthew's,2390
-7856,"Michelle Mulcahy","Lady On The Island",6,1,"Máirseáil Alasdruim",16083
+7856,"Michelle Mulcahy","Lady On The Island",6,1,"Máirseáil Alasdruim",6188
 7856,"Michelle Mulcahy","Lady On The Island",6,2,"Maguire's Kick",515
 7856,"Michelle Mulcahy","Lady On The Island",7,1,"Miss McGuinness",1397
 7856,"Michelle Mulcahy","Lady On The Island",7,2,Rooney's,2064
@@ -118875,7 +118876,7 @@ id,artist,recording,track,number,tune,tune_id
 8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",5,3,"Kitty In The Lane",569
 8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",6,1,"Gleanntán Frolics",16779
 8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",6,2,"Ceanngulla, The",5215
-8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",6,3,"Hare In The Corn, The",1736
+8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",6,3,"Hare In The Corn, The",4579
 8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",7,1,"Loftus Jones",640
 8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",8,1,Gallagher's,34
 8231,"Nathan Gourley, Joey Abarta and Owen Marshall","Copley Street 2",9,1,"Primrose Road, The",2804
@@ -124561,7 +124562,7 @@ id,artist,recording,track,number,tune,tune_id
 7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",23,1,"Paddy Fahey's Reel #16",
 7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",24,1,"Paddy Fahey's Reel #20",1402
 7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",25,1,"Paddy Fahey's Reel #21",
-7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",26,1,"Paddy Fahey's Reel #22",
+7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",26,1,"Paddy Fahey's Reel #22",22003
 7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",27,1,"Paddy Fahey's Reel #23",
 7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",28,1,"Paddy Fahey's Reel #24",
 7374,"Paddy Fahey","Paddy playing his own compositions (recorded by Maria Holohan)",29,1,"Paddy Fahey's Reel #25",7087
@@ -126496,7 +126497,7 @@ id,artist,recording,track,number,tune,tune_id
 1732,"Pat Mitchell","Uilleann Pipes",6,2,"Sean Tiobraid Arann",2599
 1732,"Pat Mitchell","Uilleann Pipes",7,1,"Star Of Munster, The",197
 1732,"Pat Mitchell","Uilleann Pipes",8,1,"Frieze Britches, The",34
-1732,"Pat Mitchell","Uilleann Pipes",9,1,"Mairseail Alasdruim",16083
+1732,"Pat Mitchell","Uilleann Pipes",9,1,"Mairseail Alasdruim",6188
 1732,"Pat Mitchell","Uilleann Pipes",10,1,"Willie's Single",2774
 1732,"Pat Mitchell","Uilleann Pipes",11,1,Kildare,2435
 1732,"Pat Mitchell","Uilleann Pipes",11,2,"Castle Kelly",21
@@ -129843,7 +129844,7 @@ id,artist,recording,track,number,tune,tune_id
 665,"Pete Clark","Even Now",7,3,"Highland Whisky",8537
 665,"Pete Clark","Even Now",7,4,"Athole Brose",1919
 665,"Pete Clark","Even Now",8,1,"Lament Of Flora MacDonald, The",
-665,"Pete Clark","Even Now",9,1,"Marquis Of Tullibardine, The",5183
+665,"Pete Clark","Even Now",9,1,"Marquis Of Tullibardine, The",9714
 665,"Pete Clark","Even Now",9,2,"Miss Hamilton Of Wishaw",
 665,"Pete Clark","Even Now",9,3,"Wemyss Castle",
 665,"Pete Clark","Even Now",10,1,"Mrs Garden Of Troup",14919
@@ -134764,7 +134765,7 @@ id,artist,recording,track,number,tune,tune_id
 3055,"Rattle The Boards","The Parish Platform",1,2,"Gan Ainm",
 3055,"Rattle The Boards","The Parish Platform",1,3,"Johnny Leary's",11314
 3055,"Rattle The Boards","The Parish Platform",2,1,"St. Patrick Was A Gentleman",2116
-3055,"Rattle The Boards","The Parish Platform",3,1,"Galway, The",613
+3055,"Rattle The Boards","The Parish Platform",3,1,"Galway Hornpipe, The",38
 3055,"Rattle The Boards","The Parish Platform",3,2,"Peacock's Feather, The",665
 3055,"Rattle The Boards","The Parish Platform",4,1,McKillop's,2501
 3055,"Rattle The Boards","The Parish Platform",4,2,"Love At The Endings",990
@@ -134787,7 +134788,7 @@ id,artist,recording,track,number,tune,tune_id
 5732,"Rattle the Knee","Paving and Crigging",1,3,"Silver Slipper, The",8479
 5732,"Rattle the Knee","Paving and Crigging",1,4,"Pure Drop, The",800
 5732,"Rattle the Knee","Paving and Crigging",2,1,"Cauliflower, The",7584
-5732,"Rattle the Knee","Paving and Crigging",2,2,"Mairseail Alasdruim",16083
+5732,"Rattle the Knee","Paving and Crigging",2,2,"Mairseail Alasdruim",6188
 5732,"Rattle the Knee","Paving and Crigging",3,1,"Job Of Journeywork, The",1605
 5732,"Rattle the Knee","Paving and Crigging",3,2,"Ace And Deuce Of Pipering, The",1107
 5732,"Rattle the Knee","Paving and Crigging",4,1,"Paddy's Rambles Through The Park",512
@@ -137849,17 +137850,17 @@ id,artist,recording,track,number,tune,tune_id
 8575,"Ronan Browne and William Jackson","Celtic Moods",6,1,"Blackbird, The",1104
 8575,"Ronan Browne and William Jackson","Celtic Moods",7,1,"Butterfly, The",10
 8575,"Ronan Browne and William Jackson","Celtic Moods",8,1,"Roisin Dubh",4184
-8575,"Ronan Browne and William Jackson","Celtic Moods",9,1,"Sally Gardens [air], The",
+8575,"Ronan Browne and William Jackson","Celtic Moods",9,1,"Sally Gardens [air], The",1314
 8575,"Ronan Browne and William Jackson","Celtic Moods",10,1,"Raggle Taggle Gypsies, The",2681
-8575,"Ronan Browne and William Jackson","Celtic Moods",11,1,"Snowy Breasted Pearl, The",
+8575,"Ronan Browne and William Jackson","Celtic Moods",11,1,"Snowy Breasted Pearl, The",21578
 8575,"Ronan Browne and William Jackson","Celtic Moods",12,1,"Give Me Your Hand",454
 8575,"Ronan Browne and William Jackson","Celtic Moods",13,1,"Come By The Hills",13602
-8575,"Ronan Browne and William Jackson","Celtic Moods",14,1,"Green Fields Of America [air], The",
+8575,"Ronan Browne and William Jackson","Celtic Moods",14,1,"Green Fields Of America [air], The",13859
 8575,"Ronan Browne and William Jackson","Celtic Moods",15,1,"Father O'Flynn",1080
 8575,"Ronan Browne and William Jackson","Celtic Moods",15,2,"Haste To The Wedding",582
 8575,"Ronan Browne and William Jackson","Celtic Moods",15,3,"Irish Washerwoman, The",92
 8575,"Ronan Browne and William Jackson","Celtic Moods",16,1,"Paddy's Green Shamrock Shore",5936
-8575,"Ronan Browne and William Jackson","Celtic Moods",17,1,"Curragh Of Kildare, The",
+8575,"Ronan Browne and William Jackson","Celtic Moods",17,1,"Curragh Of Kildare, The",13345
 8575,"Ronan Browne and William Jackson","Celtic Moods",18,1,"Pipes Are Calling, The",
 8575,"Ronan Browne and William Jackson","Celtic Moods",19,1,"Parting Glass, The",6275
 5294,"Ronan Guilfoyle",Exit,1,1,Exit,
@@ -146895,7 +146896,7 @@ id,artist,recording,track,number,tune,tune_id
 8541,Shantalla,Turas,2,2,Waterman's,3367
 8541,Shantalla,Turas,2,3,"Guns Of The Magnificent Seven, The",40
 8541,Shantalla,Turas,3,1,"Whaur Dae Ye Lie?",
-8541,Shantalla,Turas,4,1,"Máirseáil Alasdruim",16083
+8541,Shantalla,Turas,4,1,"Máirseáil Alasdruim",6188
 8541,Shantalla,Turas,4,2,"Máirseáil Uí Shuilleabháin",2204
 8541,Shantalla,Turas,4,3,"Scully Casey's",1790
 8541,Shantalla,Turas,4,4,"Girl From The Big House, The",1214
@@ -148725,7 +148726,7 @@ id,artist,recording,track,number,tune,tune_id
 2597,Shooglenifty,"Solar Shears",1,1,"Hijab, The",
 2597,Shooglenifty,"Solar Shears",2,1,"Schuman's Leap",
 2597,Shooglenifty,"Solar Shears",3,1,Igor's,
-2597,Shooglenifty,"Solar Shears",4,1,August,24240
+2597,Shooglenifty,"Solar Shears",4,1,August,
 2597,Shooglenifty,"Solar Shears",5,1,Delighted,7677
 2597,Shooglenifty,"Solar Shears",6,1,"Maggie Ann Of Clachnabrochan",
 2597,Shooglenifty,"Solar Shears",7,1,"Rod's Doorway",7562
@@ -151181,7 +151182,7 @@ id,artist,recording,track,number,tune,tune_id
 438,"Sliabh Notes","Sliabh Notes",2,1,Siney's,2258
 438,"Sliabh Notes","Sliabh Notes",2,2,Rathawaun,1736
 438,"Sliabh Notes","Sliabh Notes",2,3,"Hare In The Corn, The",1736
-438,"Sliabh Notes","Sliabh Notes",3,1,"Galway, The",38
+438,"Sliabh Notes","Sliabh Notes",3,1,"Galway (Song), The",
 438,"Sliabh Notes","Sliabh Notes",4,1,"Hairy Dogleaf, The",2185
 438,"Sliabh Notes","Sliabh Notes",4,2,"Be It Known To You",11625
 438,"Sliabh Notes","Sliabh Notes",4,3,"Ganger's Ass, The",11640
@@ -153543,6 +153544,25 @@ id,artist,recording,track,number,tune,tune_id
 5364,"Stevie Dunne",Banjo,13,1,"Haley's Favourite",925
 5364,"Stevie Dunne",Banjo,13,2,"Kitty Come Over",1430
 5364,"Stevie Dunne",Banjo,13,3,"Chicken, The",2641
+8577,"Stevie Dunne",Dúisigh,1,1,"Morning Mist",9257
+8577,"Stevie Dunne",Dúisigh,1,2,"Dancing At The Pier",
+8577,"Stevie Dunne",Dúisigh,2,1,"Midnight In Maddens",26680
+8577,"Stevie Dunne",Dúisigh,2,2,"Piaras's Trip To Limerick",
+8577,"Stevie Dunne",Dúisigh,3,1,"Memories At The Crossroads",
+8577,"Stevie Dunne",Dúisigh,3,2,"Hidden Flagstone",
+8577,"Stevie Dunne",Dúisigh,4,1,Cahir's,
+8577,"Stevie Dunne",Dúisigh,4,2,Finian's,
+8577,"Stevie Dunne",Dúisigh,5,1,"Wandering Slipper",
+8577,"Stevie Dunne",Dúisigh,5,2,"Trip To Dungarvan",
+8577,"Stevie Dunne",Dúisigh,6,1,Duisigh,
+8577,"Stevie Dunne",Dúisigh,7,1,"Wrong Turn",
+8577,"Stevie Dunne",Dúisigh,7,2,"No Time Like The Present",
+8577,"Stevie Dunne",Dúisigh,8,1,Harbour,
+8577,"Stevie Dunne",Dúisigh,8,2,"Dancing By Candlelight",
+8577,"Stevie Dunne",Dúisigh,9,1,"Big Strand",
+8577,"Stevie Dunne",Dúisigh,9,2,"Little Strand",
+8577,"Stevie Dunne",Dúisigh,10,1,"Hold Tight",
+8577,"Stevie Dunne",Dúisigh,10,2,"Where The Shadows Falls",
 6076,"Stevie Dunne","Live at The Crosskeys Inn",1,1,"Jim Donoghue's",2536
 6076,"Stevie Dunne","Live at The Crosskeys Inn",1,2,"Humours Of Lissadell",649
 6076,"Stevie Dunne","Live at The Crosskeys Inn",1,3,"Tom McElvogue's No.3",5757
@@ -153558,7 +153578,7 @@ id,artist,recording,track,number,tune,tune_id
 6076,"Stevie Dunne","Live at The Crosskeys Inn",5,1,Crosskeys,23426
 6076,"Stevie Dunne","Live at The Crosskeys Inn",5,2,"Cahir's Slippery",23966
 6076,"Stevie Dunne","Live at The Crosskeys Inn",6,1,Aughacashel,1498
-6076,"Stevie Dunne","Live at The Crosskeys Inn",6,2,"Johnny McEljohn's",
+6076,"Stevie Dunne","Live at The Crosskeys Inn",6,2,"Johnny McEljohn's",1491
 6076,"Stevie Dunne","Live at The Crosskeys Inn",6,3,"Mullingar Races",225
 6076,"Stevie Dunne","Live at The Crosskeys Inn",7,1,"Doctor O'Neill's",1304
 6076,"Stevie Dunne","Live at The Crosskeys Inn",7,2,McGinley's,1865
@@ -154737,20 +154757,20 @@ id,artist,recording,track,number,tune,tune_id
 796,"Swallow's Tail Céilí Band","Hell For Leather",19,1,"Last Night's Fun",63
 796,"Swallow's Tail Céilí Band","Hell For Leather",19,2,"Tom Flemming's",4035
 796,"Swallow's Tail Céilí Band","Hell For Leather",19,3,"Foxhunter, The",511
-4747,"Swallow's Tail Céilí Band","Suas Leat",1,1,"Swallows Tail",106
+4747,"Swallow's Tail Céilí Band","Suas Leat",1,1,"Swallows Tail",105
 4747,"Swallow's Tail Céilí Band","Suas Leat",1,2,Flogging,195
 4747,"Swallow's Tail Céilí Band","Suas Leat",2,1,"Bádh Bhroclais",12173
 4747,"Swallow's Tail Céilí Band","Suas Leat",2,2,Shetland,11266
 4747,"Swallow's Tail Céilí Band","Suas Leat",3,1,"Jackie Daly's",15395
 4747,"Swallow's Tail Céilí Band","Suas Leat",3,2,"Micko Russell's",3152
-4747,"Swallow's Tail Céilí Band","Suas Leat",4,1,"Mike Flanagan's",15371
+4747,"Swallow's Tail Céilí Band","Suas Leat",4,1,"Mike Flanagan's",2348
 4747,"Swallow's Tail Céilí Band","Suas Leat",4,2,"Lilies In The Field",1750
 4747,"Swallow's Tail Céilí Band","Suas Leat",4,3,Coalminer's,1617
 4747,"Swallow's Tail Céilí Band","Suas Leat",5,1,Killavil,1723
 4747,"Swallow's Tail Céilí Band","Suas Leat",5,2,"Bird In The Bush",629
 4747,"Swallow's Tail Céilí Band","Suas Leat",5,3,Concertina,354
 4747,"Swallow's Tail Céilí Band","Suas Leat",6,1,Scholar,94
-4747,"Swallow's Tail Céilí Band","Suas Leat",6,2,Templehouse,5216
+4747,"Swallow's Tail Céilí Band","Suas Leat",6,2,Templehouse,827
 4747,"Swallow's Tail Céilí Band","Suas Leat",6,3,"Tommy Peoples",1100
 4747,"Swallow's Tail Céilí Band","Suas Leat",7,1,"Father O'Flynn",1080
 4747,"Swallow's Tail Céilí Band","Suas Leat",7,2,"Happy To Meet Sorry To Part",1154
@@ -156581,6 +156601,28 @@ id,artist,recording,track,number,tune,tune_id
 2086,"Terry Coyne","The Other Side",12,1,"Into The West",
 2086,"Terry Coyne","The Other Side",13,1,Algarvia,
 2086,"Terry Coyne","The Other Side",13,2,"Marquee Of Ballyshannon, The",
+8576,"Terry O'Neill and Friends","Come Here To Me",1,1,"Come Here To Me",
+8576,"Terry O'Neill and Friends","Come Here To Me",1,2,"Cup Of Tea, The",20
+8576,"Terry O'Neill and Friends","Come Here To Me",1,3,"Glass Of Beer, The",188
+8576,"Terry O'Neill and Friends","Come Here To Me",2,1,"Monaghan, The",67
+8576,"Terry O'Neill and Friends","Come Here To Me",2,2,"Gallagher's Frolics",160
+8576,"Terry O'Neill and Friends","Come Here To Me",3,1,"Wicklow Hornpipe, The",309
+8576,"Terry O'Neill and Friends","Come Here To Me",3,2,"If There Wasn't Any Women In The World",1376
+8576,"Terry O'Neill and Friends","Come Here To Me",4,1,"County Tyrone",9246
+8576,"Terry O'Neill and Friends","Come Here To Me",4,2,"Foxhunter's, The",511
+8576,"Terry O'Neill and Friends","Come Here To Me",4,3,"Pinch Of Snuff, The",591
+8576,"Terry O'Neill and Friends","Come Here To Me",5,1,"Rambling Irishman, The",
+8576,"Terry O'Neill and Friends","Come Here To Me",6,1,"Dark Girl Across The Road, The",
+8576,"Terry O'Neill and Friends","Come Here To Me",7,1,"Madame Maxwell",5083
+8576,"Terry O'Neill and Friends","Come Here To Me",7,2,"Planxty Johnston",4242
+8576,"Terry O'Neill and Friends","Come Here To Me",8,1,Grainne's,488
+8576,"Terry O'Neill and Friends","Come Here To Me",8,2,"Bush On The Hill, The",1305
+8576,"Terry O'Neill and Friends","Come Here To Me",8,3,"Meelick Team, The",1511
+8576,"Terry O'Neill and Friends","Come Here To Me",9,1,"Northern Road, The",20726
+8576,"Terry O'Neill and Friends","Come Here To Me",10,1,"Hunt, The",2653
+8576,"Terry O'Neill and Friends","Come Here To Me",10,2,"Ace And Deuce Of Pipering, The",1107
+8576,"Terry O'Neill and Friends","Come Here To Me",11,1,"Master Crowley's Reels",
+8576,"Terry O'Neill and Friends","Come Here To Me",12,1,"Doctor O'Neill",1304
 3058,"Terry Teahan And Gene Kelly","Old Time Irish Music In America",1,1,"Corner House, The",479
 3058,"Terry Teahan And Gene Kelly","Old Time Irish Music In America",1,2,"Broomstick, The",514
 3058,"Terry Teahan And Gene Kelly","Old Time Irish Music In America",2,1,"Tom Looney's",5169
@@ -159477,7 +159519,7 @@ id,artist,recording,track,number,tune,tune_id
 1302,"The Chieftains","The Bells Of Dublin",21,1,"Once In Royal David's City",
 1302,"The Chieftains","The Bells Of Dublin",22,1,"Ding Dong Merrily On High",15031
 1302,"The Chieftains","The Bells Of Dublin",23,1,"Oh Come All Ye Faithful",
-111,"The Chieftains","The Best Of The Chieftains",1,1,"Galway, The",38
+111,"The Chieftains","The Best Of The Chieftains",1,1,"Larry Redican's Galway Reel",613
 111,"The Chieftains","The Best Of The Chieftains",1,2,"Up Against The Buachalawns",964
 111,"The Chieftains","The Best Of The Chieftains",1,3,"Glass Of Beer, The",188
 111,"The Chieftains","The Best Of The Chieftains",1,4,"Sweeney's Dream",1459
@@ -161783,8 +161825,9 @@ id,artist,recording,track,number,tune,tune_id
 8137,"The East Pointers","The East Pointers",1,2,"Highland Storm",
 8137,"The East Pointers","The East Pointers",1,3,"Ginger And Judah",
 8137,"The East Pointers","The East Pointers",1,4,"Hey How's It Goin'?",
+8137,"The East Pointers","The East Pointers",1,5,"Carter Mackenzie",13388
 8137,"The East Pointers","The East Pointers",2,1,"Mary Hughes'",24754
-8137,"The East Pointers","The East Pointers",2,2,"Idle Jig",
+8137,"The East Pointers","The East Pointers",2,2,Idle,
 8137,"The East Pointers","The East Pointers",2,3,"Shores Of Lough Gowna",775
 8137,"The East Pointers","The East Pointers",3,1,"Dot MacKinnon's",20293
 8137,"The East Pointers","The East Pointers",3,2,"Fall, The",26392
@@ -165191,7 +165234,7 @@ id,artist,recording,track,number,tune,tune_id
 2198,"The Kells","The Kells",9,1,"Minstrel Boy, The",6782
 2198,"The Kells","The Kells",10,1,"Munster Cloak, The",1126
 2198,"The Kells","The Kells",10,2,"Silver Spear, The",182
-2198,"The Kells","The Kells",10,3,"Maids Of Tulla, The",5183
+2198,"The Kells","The Kells",10,3,"Maids Of Tulla, The",141
 2198,"The Kells","The Kells",11,1,"Sally Gardens, The",98
 2198,"The Kells","The Kells",12,1,"Gander In The Pratie Hole, The",401
 2198,"The Kells","The Kells",13,1,Jackson's,1610
@@ -169248,8 +169291,8 @@ id,artist,recording,track,number,tune,tune_id
 2946,"The Sevens","Celtic Groove Brand",8,1,"Carpenter's Helper",
 2946,"The Sevens","Celtic Groove Brand",8,2,"Palisades, The",6196
 2946,"The Sevens","Celtic Groove Brand",8,3,Morrison's,71
-2946,"The Sevens","Celtic Groove Brand",9,1,Redigan's,613
-2946,"The Sevens","Celtic Groove Brand",9,2,"Dark Hollow",
+2946,"The Sevens","Celtic Groove Brand",9,1,Redigan's,
+2946,"The Sevens","Celtic Groove Brand",9,2,"Dark Hollow (Song)",
 2946,"The Sevens","Celtic Groove Brand",10,1,"Valley Girl",
 2946,"The Sevens","Celtic Groove Brand",11,1,"Trip To Herve's",1026
 2946,"The Sevens","Celtic Groove Brand",11,2,"Galway Rambler",634
@@ -172726,7 +172769,7 @@ id,artist,recording,track,number,tune,tune_id
 6750,"Tim Hill","Ceol ag an nGeata: Music at the Gate",13,1,"Bonnie Anne",4316
 6750,"Tim Hill","Ceol ag an nGeata: Music at the Gate",13,2,"West Wind, The",2837
 6750,"Tim Hill","Ceol ag an nGeata: Music at the Gate",13,3,"Longford Tinker, The",369
-6750,"Tim Hill","Ceol ag an nGeata: Music at the Gate",14,1,"Mairseail Alasdruim",16083
+6750,"Tim Hill","Ceol ag an nGeata: Music at the Gate",14,1,"Mairseail Alasdruim",6188
 2570,"Tim O'Shea And Friends","15 Times Around",1,1,"Wexford Town",
 2570,"Tim O'Shea And Friends","15 Times Around",2,1,"Whole World 'Round",
 2570,"Tim O'Shea And Friends","15 Times Around",3,1,"Man Of The House, The",222
@@ -173721,7 +173764,7 @@ id,artist,recording,track,number,tune,tune_id
 1210,"Tom Doherty","Take The Bull By The Horns",19,3,"Maid Behind The Bar, The",64
 1210,"Tom Doherty","Take The Bull By The Horns",20,1,"Queen Of The Fair, The",772
 1210,"Tom Doherty","Take The Bull By The Horns",20,2,"Off She Goes",1133
-1903,"Tom Dunne","A Tribute To Paddy Cronin... Master Irish Fiddler",1,1,Ollistrum,
+1903,"Tom Dunne","A Tribute To Paddy Cronin... Master Irish Fiddler",1,1,Ollistrum,2136
 1903,"Tom Dunne","A Tribute To Paddy Cronin... Master Irish Fiddler",1,2,"Young Tom Ennis",131
 1903,"Tom Dunne","A Tribute To Paddy Cronin... Master Irish Fiddler",2,1,"Paddy Cronin's Reel No. 1",
 1903,"Tom Dunne","A Tribute To Paddy Cronin... Master Irish Fiddler",2,2,"Paddy Cronin's Reel No. 2",
@@ -185717,7 +185760,7 @@ id,artist,recording,track,number,tune,tune_id
 4290,"Various Artists","Irish Rochester (CD 1)",17,1,"Broken Hearted I'll Wander",
 4290,"Various Artists","Irish Rochester (CD 1)",18,1,"Mrs. MacLeod's",75
 4290,"Various Artists","Irish Rochester (CD 1)",19,1,"Green Hills Of Kerry",
-4290,"Various Artists","Irish Rochester (CD 1)",20,1,"Come Back Paddy Reilly To Ballyjamesduff",
+4290,"Various Artists","Irish Rochester (CD 1)",20,1,"Come Back Paddy Reilly To Ballyjamesduff",17495
 4290,"Various Artists","Irish Rochester (CD 1)",21,1,"Muirshin Durkin",8516
 4290,"Various Artists","Irish Rochester (CD 1)",21,2,"Maggie In The Woods",291
 4290,"Various Artists","Irish Rochester (CD 1)",22,1,"Irish Jaunting Car",
@@ -192306,7 +192349,7 @@ id,artist,recording,track,number,tune,tune_id
 3223,"Various Artists","The Flute Players Of Roscommon Volume 2",19,2,"Dublin, The",384
 3223,"Various Artists","The Flute Players Of Roscommon Volume 2",20,1,Alexander's,666
 3223,"Various Artists","The Flute Players Of Roscommon Volume 2",20,2,"Morning Star, The",828
-3223,"Various Artists","The Flute Players Of Roscommon Volume 2",21,1,"Drowsy Maggie",
+3223,"Various Artists","The Flute Players Of Roscommon Volume 2",21,1,"Drowsy Maggie",27
 3223,"Various Artists","The Flute Players Of Roscommon Volume 2",22,1,"Baltimore Salute, The",1849
 3223,"Various Artists","The Flute Players Of Roscommon Volume 2",22,2,"Lansdowne Lasses, The",2192
 3223,"Various Artists","The Flute Players Of Roscommon Volume 2",22,3,"Trip To Birmingham, The",1787
@@ -192457,7 +192500,7 @@ id,artist,recording,track,number,tune,tune_id
 3383,"Various Artists","The Gentlemen Pipers",19,2,"Green Gates, The",1722
 3383,"Various Artists","The Gentlemen Pipers",20,1,"Boys Of The Lough, The",343
 3383,"Various Artists","The Gentlemen Pipers",21,1,"Frieze Britches",34
-3383,"Various Artists","The Gentlemen Pipers",22,1,"Mairseail Alasdruim",16083
+3383,"Various Artists","The Gentlemen Pipers",22,1,"Mairseail Alasdruim",6188
 3383,"Various Artists","The Gentlemen Pipers",23,1,"Garrett Barry's",3434
 3383,"Various Artists","The Gentlemen Pipers",23,2,"Virginia, The",812
 3383,"Various Artists","The Gentlemen Pipers",24,1,Ballyoran,2593
@@ -193955,7 +193998,7 @@ id,artist,recording,track,number,tune,tune_id
 4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",3,2,"Ask My Father",2288
 4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",4,1,"Amhrán Na Leabhar",814
 4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",5,1,"Lady's Cup Of Tea, The",8096
-4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",5,2,"Galway, The",38
+4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",5,2,"Galway Reel, The",
 4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",5,3,"Top Of The Cliff, The",2706
 4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",6,1,O'Dwyer's,11986
 4621,"Various Artists","The Rolling Wave - A new Generation Of Uilleann Pipers",7,1,"Father O'Flynn",1080
@@ -201283,6 +201326,19 @@ id,artist,recording,track,number,tune,tune_id
 5985,"Yann Falquet and Pascal Gemme","Princes et Habitants",9,4,"Reel à Ira LeBlanc",
 5985,"Yann Falquet and Pascal Gemme","Princes et Habitants",10,1,"Le Prince Eugène",
 5985,"Yann Falquet and Pascal Gemme","Princes et Habitants",11,1,"La Promeneuse",17592
+8578,"Ye Vagabonds","Nine Waves",1,1,Tuaim,
+8578,"Ye Vagabonds","Nine Waves",2,1,"An Island",
+8578,"Ye Vagabonds","Nine Waves",3,1,"Lord Gregory",
+8578,"Ye Vagabonds","Nine Waves",4,1,"Blue Is The Eye",
+8578,"Ye Vagabonds","Nine Waves",5,1,"Humours Of Glin, The",469
+8578,"Ye Vagabonds","Nine Waves",5,2,"Humours Of Glin, The",469
+8578,"Ye Vagabonds","Nine Waves",6,1,"Go Away And Come Back Hither",
+8578,"Ye Vagabonds","Nine Waves",7,1,Joyail,
+8578,"Ye Vagabonds","Nine Waves",8,1,"Her Mantle So Green",2888
+8578,"Ye Vagabonds","Nine Waves",9,1,Fuaim,
+8578,"Ye Vagabonds","Nine Waves",10,1,"Munster, The",372
+8578,"Ye Vagabonds","Nine Waves",10,2,"Tell Her I Am",161
+8578,"Ye Vagabonds","Nine Waves",11,1,"Máire Bhán",
 4546,"Yo-Yo Ma","Songs of Joy and Peace",1,1,"Dona Nobis Pacem",14411
 4546,"Yo-Yo Ma","Songs of Joy and Peace",2,1,"You Couldn't Be Cuter",
 4546,"Yo-Yo Ma","Songs of Joy and Peace",3,1,"Joy To The World",
