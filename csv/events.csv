@@ -316,7 +316,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 366,"Concert By Nollaig Casey, Arty McGlynn, Máire Ní Chathasaigh And Chris Newman","2007-06-08 20:00:00","2007-06-08 22:15:00","The Courtyard Theatre","Edgar Street",Hereford,Herefordshire,England,52.06108475,-2.71835780
 375,"Tommy Peoples - Return To Camden Town Preview","2007-06-08 20:00:00","2007-06-08 00:00:00","London Irish Centre","50-52 Camden Square",Camden,London,England,51.54386902,-0.13235010
 372,"2006 Seisiún Na H-Éireann Festival CD Launch","2007-06-09 08:00:00","2007-06-09 22:00:00",Glór,"Causeway Link",Ennis,Clare,Ireland,52.84472275,-8.97786713
-387,"Traditional Music With James Byrne","2007-06-12 21:45:00","2007-06-12 00:00:00","John Joe's Pub","Main Street",Kilcar,Donegal,Ireland,54.63249207,-8.59226227
+387,"Traditional Music With James Byrne","2007-06-12 21:45:00","2007-06-12 00:00:00","John Joe's","Main Street",Kilcar,Donegal,Ireland,54.63249207,-8.59226227
 376,"Aly Bain And Ale Möller","2007-06-14 20:00:00","2007-06-14 23:00:00","St Michael's Parish Church","Inveresk Village",Musselburgh,Lothian,Scotland,55.93320847,-3.04176497
 367,"Cd Launch - John Wynne/John McEvoy","2007-06-15 20:30:00","2007-06-15 00:00:00","Spells Bar","3 Pound Street",Ballaghaderreen,Roscommon,Ireland,53.90380859,-8.57504463
 392,"Oklahoma Celtic Music And Heritage Festival","2007-06-16 09:30:00","2007-06-17 18:00:00","Payne County Expo Center","Hwy 51 And N3370 Rd",Stillwater,Oklahoma,USA,36.11614609,-96.99794769
@@ -7279,7 +7279,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 9892,"Siobhan Peoples & Murty Ryan","2024-07-31 19:30:00","2024-07-31 19:30:00","Hotel Doolin",Rivervale,Doolin,Clare,Ireland,53.01646805,-9.37526417
 9857,"Mike McGoldrick, John McCusker and John Doyle","2024-08-01 19:30:00","2024-08-01 19:30:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 9960,"Will Woodson and Caitlin Finley","2024-08-02 19:00:00","2024-08-02 19:00:00","Denmark Arts Center","50 W Main St.",Denmark,Maine,USA,43.97084427,-70.80809021
-9961,"Zoë Conway and John McIntyre","2024-08-02 21:00:00","2024-08-02 23:00:00","John Joe's Pub","Main Street",Kilcar,Donegal,Ireland,54.63249207,-8.59226227
+9961,"Zoë Conway and John McIntyre","2024-08-02 21:00:00","2024-08-02 23:00:00","John Joe's","Main Street",Kilcar,Donegal,Ireland,54.63249207,-8.59226227
 9951,"Perry Hall Folk Music Night, featuring Doug Alan Wilcox","2024-08-03 19:00:00","2024-08-03 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40932846,-76.46704102
 9780,"Fleadh Cheoil na hÉireann","2024-08-04 00:00:00","2024-08-11 00:00:00","Various Venues",,Wexford,Wexford,Ireland,52.33691788,-6.46333790
 9933,Dervish,"2024-08-04 19:30:00","2024-08-04 19:30:00","Ropetackle Arts Centre","Little High Street","Shoreham By Sea","West Sussex",England,50.83277893,-0.27903101
@@ -9053,18 +9053,21 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 11808,"Noel Hill concert","2026-08-08 19:00:00","2026-08-08 21:00:00","Traditions Cafe","300 5th Avenue SW",Olympia,Washington,USA,47.04233932,-122.90541840
 11716,"Titans of Trad: Altan and Frankie Gavin & De Dannan","2026-08-08 19:30:00","2026-08-08 19:30:00","Mandela Hall","77 University Road",Belfast,Antrim,"Northern Ireland",54.58464050,-5.93704557
 11704,"Breanndán Ó Beaglaoich","2026-08-08 20:30:00","2026-08-08 20:30:00","The Airt",Feothanach,Dingle,Kerry,Ireland,52.21651459,-10.35154724
-10749,"Moosehead Mondays Traditional Irish Session on Zoom (8PM UK Time)","2026-08-10 12:00:00","2026-08-10 12:00:00",,,,,,,
 11424,"2026 Milwaukee Irish Fest Summer School","2026-08-10 18:30:00","2026-08-14 12:15:00","CelticMKE Center","1532 N. Wauwatosa Ave",Milwaukee,Wisconsin,USA,43.06114197,-87.96318817
 8893,"The Trans-Atlantic Session","2026-08-12 20:00:00","2026-08-12 22:00:00",,,,,,,
 11499,"Milwaukee Irish Fest","2026-08-13 00:00:00","2026-08-16 00:00:00","The Henry W. Maier Festival Park","200 North Harbor Drive",Milwaukee,Wisconsin,USA,43.03150940,-87.89996338
 11812,"Caroline Keane & Band","2026-08-13 20:00:00","2026-08-13 22:45:00",Whelan's,"25 Wexford St",Dublin,Dublin,Ireland,53.33657837,-6.26571512
 11724,"The John Dwyer Trad Weekend","2026-08-14 18:30:00","2026-08-16 23:00:00","Various Venues",,"New Ross",Wexford,Ireland,52.39583206,-6.94545650
 11819,"Perry Hall Folk Music Night, featuring Gina DeLuca","2026-08-15 19:00:00","2026-08-15 22:00:00","Perry Hall United Methodist Church","9515 Belair Rd.",Baltimore,Maryland,USA,39.40932846,-76.46704102
+11821,"At The Racket","2026-08-15 20:00:00","2026-08-15 22:15:00","Coleman Traditional Irish Music Centre","Main Street",Gurteen,Sligo,Ireland,53.99589920,-8.52268887
+10749,"Moosehead Mondays Traditional Irish Session on Zoom (8PM UK Time)","2026-08-17 12:00:00","2026-08-17 12:00:00",,,,,,,
 11498,"Masters Of Tradition","2026-08-19 00:00:00","2026-08-23 00:00:00","Various Venues",,Bantry,Cork,Ireland,51.67926788,-9.45040894
 11565,FiddleSavvy,"2026-08-20 10:00:00","2026-08-20 16:00:00","Westhope College",,"Craven Arms",Shropshire,England,52.47182083,-2.77386999
 11725,"The Cuisle Cheoil Weekend","2026-08-20 20:00:00","2026-08-23 22:00:00","Various Venues",,Gorey,Wexford,Ireland,52.67530823,-6.29594088
+11823,"Keane Connolly McGorman","2026-08-20 20:30:00","2026-08-20 20:30:00","The Crane Bar","2 Sea Road",Galway,Galway,Ireland,53.26914215,-9.06187153
 11696,"Cat Nap Music Camp 2026! 🐈 😴 🎵⛺️","2026-08-21 00:00:00","2026-08-23 00:00:00","Camp Latona","Gambier Island",Vancouver,"British Columbia",Canada,49.50201035,-123.39627838
 11566,FiddleFriendly,"2026-08-21 10:00:00","2026-08-21 16:00:00","Westhope College",,"Craven Arms",Shropshire,England,52.47182083,-2.77386999
+11829,"Dublin City Fleadh","2026-08-22 00:00:00","2026-08-22 00:00:00","Smithfield Square",,Smithfield,Dublin,Ireland,53.34811020,-6.27834177
 11703,"Cormac Begley","2026-08-22 20:30:00","2026-08-22 20:30:00","The Airt",Feothanach,Dingle,Kerry,Ireland,52.21651459,-10.35154724
 11815,"The Mulligan Family","2026-08-24 20:00:00","2026-08-24 22:30:00","Crawford's Bar","The Rostrevor Inn, 33-35 Bridge Street",Rostrevor,Down,"Northern Ireland",54.09983063,-6.19738579
 11800,"The Ox Mountain Quartet","2026-08-24 20:30:00","2026-08-24 20:30:00","Matt Molloy's","Bridge Street",Westport,Mayo,Ireland,53.79941177,-9.52231789
@@ -9072,6 +9075,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 11595,Inni-K,"2026-08-27 20:00:00","2026-08-27 22:00:00","The Cobblestone Pub","77 North King Street",Smithfield,Dublin,Ireland,53.34980774,-6.27783632
 11818,"Bie Daip Irish Trad Session","2026-08-29 14:00:00","2026-08-29 17:00:00","Leescafé Doemkes","Solwerderstraat 46a",Appingedam,Groningen,Netherlands,53.32146072,6.85977983
 11813,"Louise Mulcahy concert","2026-08-30 00:00:00","2026-08-30 00:00:00","Private Residence","1401 Pacific Coast Highway","Harbor City",California,USA,33.78974533,-118.30147552
+11826,"Bríd Harper and Ryan Molloy","2026-08-30 18:00:00","2026-08-30 20:30:00","Madden's Bar","74 Berry Street",Belfast,Antrim,"Northern Ireland",54.60009003,-5.93370056
 11817,"Quentin Cooper and Floriane Blancke/Tressoli","2026-09-01 20:00:00","2026-09-01 22:30:00","Crawford's Bar","The Rostrevor Inn, 33-35 Bridge Street",Rostrevor,Down,"Northern Ireland",54.09983063,-6.19738579
 8470,"The Ould Sod Virtual Traditional Irish Session on Zoom","2026-09-03 18:00:00","2026-09-03 20:00:00",,,,,,,
 11722,"Zoë Conway & John Mc Intyre","2026-09-03 20:00:00","2026-09-03 20:00:00","Rathfarnham Castle",,Rathfarnham,Dublin,Ireland,53.29814148,-6.28358173
@@ -9079,6 +9083,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 11185,"Kraków Celtic Festival 2026!","2026-09-04 15:00:00","2026-09-06 22:00:00","Centrum Kultury Dworek Białoprądnicki","Papiernicza 2",Kraków,Małopolskie,Poland,50.09247971,19.94112206
 11447,"Fiddle course with Liam O'Connor","2026-09-06 00:00:00","2026-09-11 00:00:00","The Airt",Feothanach,Dingle,Kerry,Ireland,52.21651459,-10.35154724
 11816,"Lily Neill","2026-09-07 20:00:00","2026-09-07 22:30:00","Crawford's Bar","The Rostrevor Inn, 33-35 Bridge Street",Rostrevor,Down,"Northern Ireland",54.09983063,-6.19738579
+11824,Cuas,"2026-09-08 20:00:00","2026-09-08 20:00:00","Ionad Dara",,Goresbridge,Kilkenny,Ireland,52.62970734,-6.99408770
 11589,"Cormac Begley & Liam O'Connor","2026-09-09 20:00:00","2026-09-09 20:00:00","The Airt",Feothanach,Dingle,Kerry,Ireland,52.21651459,-10.35154724
 11806,"The Rowan Leslie Trio presents The Rad Trad Tour 2026","2026-09-10 19:30:00","2026-09-10 19:30:00","Cobblestone Backroom","77 King Street N",Dublin,Dublin,Ireland,53.34984589,-6.28217316
 11692,Réalta,"2026-09-10 20:00:00","2026-09-10 20:00:00","The Market Place Theatre & Arts Centre","9 Market Street","Armagh City",Armagh,"Northern Ireland",54.34782410,-6.65297890
@@ -9087,6 +9092,7 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 11809,"20th Gerry Whelan Memorial Weekend","2026-09-11 00:00:00","2026-09-13 00:00:00","Various Venues",,Cootehill,Cavan,Ireland,54.07250214,-7.08235407
 11807,"The Rowan Leslie Trio presents The Rad Trad Tour 2026","2026-09-11 19:30:00","2026-09-11 19:30:00","Flowerfield Arts Centre","185 Coleraine Road",Portstewart,Antrim,"Northern Ireland",55.17112732,-6.70814514
 11671,Réalta,"2026-09-11 20:00:00","2026-09-11 20:00:00","Strule Arts Centre","Townhall Square",Omagh,Tyrone,"Northern Ireland",54.59988022,-7.30264473
+11828,Tulua,"2026-09-11 20:30:00","2026-09-11 23:30:00","Crown Live","Monck Street",Wexford,Wexford,Ireland,52.34198761,-6.46247578
 11797,"Na Leanaí","2026-09-12 19:00:00","2026-09-12 19:00:00","An Coire","132B Tirkane Road",Maghera,Derry,"Northern Ireland",54.86999512,-6.70988083
 11672,Réalta,"2026-09-12 19:30:00","2026-09-12 21:30:00","The Portico Of Ards","Meetinghouse Street",Portaferry,Down,"Northern Ireland",54.38134766,-5.54545307
 11527,Altan,"2026-09-15 19:00:00","2026-09-15 22:00:00","Hobart Art Theater","230 Main Street",Hobart,Indiana,USA,41.53224564,-87.25539398
@@ -9097,11 +9103,13 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 11451,"Ladysmith Oldtime Gathering","2026-09-18 13:00:00","2026-09-20 14:00:00","Private Home",,Gatineau,Quebec,Canada,45.47654343,-75.70127106
 11728,Lúnasa,"2026-09-19 20:00:00","2026-09-19 20:00:00","West Connemara Sports And Leisure Centre",Ardbear,Clifden,Galway,Ireland,53.48083496,-10.02112865
 11796,"Muireann Nic Amhlaoibh, Pauline Scanlon, Tom Morrow, and John Doyle","2026-09-19 20:00:00","2026-09-19 20:00:00","The Dock Arts Centre","St. George's Terrace",Carrick-on-Shannon,Leitrim,Ireland,53.94496536,-8.09672832
+11820,"The Ace and Deuce of Piping Concert 2026","2026-09-19 20:00:00","2026-09-19 20:00:00","Royal Academy Of Irish Music","36-38 Westland Row",Dublin,Dublin,Ireland,53.34235382,-6.25009060
 11678,"The Irish Festival of Oulu","2026-09-23 00:00:00","2026-09-27 00:00:00","Various Venues",,Oulu,Oulu,Finland,65.01209259,25.46507645
 11727,"Mairtin O Connor, Seamie O Dowd, Cathal Hayden, Jimmy Higgins","2026-09-23 20:00:00","2026-09-23 20:00:00","Clifden Town Hall",,Clifden,Galway,Ireland,53.48823166,-10.02600384
 11570,"Button Boxes and Moothies - Autumn Fling","2026-09-26 09:30:00","2026-09-26 23:00:00","University Of Aberdeen, MacRobert Building","King St",Aberdeen,Aberdeenshire,Scotland,57.21777725,-2.18231249
 11723,"Rock'N'Roll Circus","2026-09-26 19:00:00","2026-09-27 02:00:00","Various Venues",,"Pargny Filain",Aisne,France,49.46462631,3.54557920
 11721,"Tradition Now: The Weaving","2026-09-26 20:00:00","2026-09-26 20:00:00","National Concert Hall","Earlsfort Terrace",Dublin,Dublin,Ireland,53.33448029,-6.25826740
+11825,"Irish Folk Workshop Weekend","2026-10-03 10:00:00","2026-10-04 18:00:00","Familienzentrum Pauline","Papstdorfer Str. 42",Dresden,Sachsen,Germany,51.03330994,13.78500366
 11736,"47th Cork Folk Festival","2026-10-08 00:00:00","2026-10-11 00:00:00","Various Venues",,Cork,Cork,Ireland,51.89851379,-8.47560310
 11720,"Four Men And A Dog","2026-10-10 19:00:00","2026-10-10 19:00:00","Irish Cultural Centre","5 Black's Road",Hammersmith,London,England,51.49235153,-0.22532760
 11729,Altan,"2026-10-13 19:30:00","2026-10-13 19:30:00","Fox Theatre","17 W. Congress St.",Tucson,Arizona,USA,32.22205353,-110.97161865
@@ -9119,4 +9127,5 @@ id,event,dtstart,dtend,venue,address,town,area,country,latitude,longitude
 11799,"Norse-Gaels Folk Fest","2026-11-12 00:00:00","2026-11-14 00:00:00","Riksscenen For Folkemusikk","Trondheimsveien 2",Oslo,Oslo,Norway,59.91896439,10.76067352
 11552,"Ffidil Fawr Welsh Fiddle Weekend","2026-11-26 00:00:00","2026-11-29 00:00:00","The National  Trust Stackpole Centre",,Stackpole,Pembrokeshire,Wales,51.62289429,-4.92663383
 11556,"Martin Hayes & Friends","2026-12-04 19:30:00","2026-12-04 22:00:00","National Opera House","High Street",Wexford,Wexford,Ireland,52.33776474,-6.46236181
+11822,"Martin Hayes & Friends","2026-12-04 19:30:00","2026-12-04 19:30:00","National Opera House","High Street",Wexford,Wexford,Ireland,52.33776474,-6.46236181
 11698,"Elizabeth and Ben Anderson Scottish Fiddling Concert","2027-04-03 18:30:00","2027-04-03 19:30:00","Galuzzo Auditorium, Independent Day School","115 Laurel Brook Road",Middlefield,Connecticut,USA,41.50839615,-72.68757629

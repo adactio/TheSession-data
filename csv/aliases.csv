@@ -2136,6 +2136,8 @@ tune_id,alias,name
 334,"Green Cottage No.3, The","Newmarket, The"
 334,Kiskeam,"Newmarket, The"
 334,"Willie Reidy's","Newmarket, The"
+334,"Willy Reidy's #2","Newmarket, The"
+334,"Willy Reidy's No. 2","Newmarket, The"
 335,Russell's,"Sliabh Russell"
 335,"Sleive Russell","Sliabh Russell"
 335,"Sliabh Rosín","Sliabh Russell"
@@ -6102,6 +6104,8 @@ tune_id,alias,name
 1042,"Well-Humoured, The","Macroom Lasses, The"
 1043,"Éilís Ni Cheallaigh","Humours Of Kiltyclogher, The"
 1043,"Elizabeth Kelly's","Humours Of Kiltyclogher, The"
+1043,"Humors Of Kiltyclogher, The","Humours Of Kiltyclogher, The"
+1043,"Humours Of Kent","Humours Of Kiltyclogher, The"
 1043,"Humours Of Kilclogher, The","Humours Of Kiltyclogher, The"
 1043,"Humours Of Kilclougher, The","Humours Of Kiltyclogher, The"
 1043,"Humours Of Kill Clougher, The","Humours Of Kiltyclogher, The"
@@ -11621,19 +11625,19 @@ tune_id,alias,name
 2590,"Les Filles De Peveril","Peveril Lasses"
 2591,"Peata Geal Do Mhathair","Shepherd's Lamb, The"
 2591,"Skibbereen Polka #3","Shepherd's Lamb, The"
-2593,"An Gallope",Ballyoran
-2593,"Ballyoran Polkas #1, The",Ballyoran
-2593,"Ballyoran Polkas No. 1, The",Ballyoran
-2593,"Ballyoran, The",Ballyoran
-2593,Boherbue,Ballyoran
-2593,Gallope,Ballyoran
-2593,"Gallope, An",Ballyoran
-2593,"Gallope, The",Ballyoran
-2593,"Muiris Ó Dálaigh's",Ballyoran
-2593,"Paddy Spillane's",Ballyoran
-2593,"Paddy Spillane's No.2",Ballyoran
-2593,"Polca Deálaí",Ballyoran
-2593,"Russian Cavalry",Ballyoran
+2593,Ballyoran,"An Gallope"
+2593,"Ballyoran Polkas #1, The","An Gallope"
+2593,"Ballyoran Polkas No. 1, The","An Gallope"
+2593,"Ballyoran, The","An Gallope"
+2593,Boherbue,"An Gallope"
+2593,Gallope,"An Gallope"
+2593,"Gallope, An","An Gallope"
+2593,"Gallope, The","An Gallope"
+2593,"Muiris Ó Dálaigh's","An Gallope"
+2593,"Paddy Spillane's","An Gallope"
+2593,"Paddy Spillane's No.2","An Gallope"
+2593,"Polca Deálaí","An Gallope"
+2593,"Russian Cavalry","An Gallope"
 2594,"Ballinamore, The","Ballinamore, The"
 2594,"Balmoral, The","Ballinamore, The"
 2594,"Gatehouse Maid, The","Ballinamore, The"
@@ -13402,6 +13406,7 @@ tune_id,alias,name
 3307,"Cuffstreet Lasses, The","Reel Of Bogie, The"
 3307,Mulcahy's,"Reel Of Bogie, The"
 3307,Mulvihill's,"Reel Of Bogie, The"
+3307,"O'er Bogie","Reel Of Bogie, The"
 3307,"Reel Of Bogey","Reel Of Bogie, The"
 3307,"Reel Of Bogey, The","Reel Of Bogie, The"
 3307,"Reel Of Boggey, The","Reel Of Bogie, The"
@@ -22418,6 +22423,7 @@ tune_id,alias,name
 9755,"Weel May The Keel Row","Keel Row, The"
 9757,"Pans Labyrinth","Swedish Lullaby"
 9760,"Boston Boys, The","Boston Boys"
+9762,Sheeran's,"Silver Tree, The"
 9763,"Goatherd, The","Goatherd And The Shepherd, The"
 9764,"Carolan's Nightcap","Carolan's Cap"
 9764,"Carolin's Nightcap","Carolan's Cap"
@@ -24190,9 +24196,9 @@ tune_id,alias,name
 11966,"Loughisle Castle","Lough Isle Castle"
 11966,"Seán Sa Cheo","Lough Isle Castle"
 11967,"Da Auld Peat Röd","Old Peat Road, The"
-11969,"Bodach Na Tri Ordagan","Old Man With Three Thumbs, The"
-11969,"Bodach Nan Tri Ordagan","Old Man With Three Thumbs, The"
-11969,"Loch Glassie","Old Man With Three Thumbs, The"
+11969,"Bodach Na Trì Òrdagan","Bodach Nan Trì Òrdagan"
+11969,"Loch Glassie","Bodach Nan Trì Òrdagan"
+11969,"Old Man With Three Thumbs, The","Bodach Nan Trì Òrdagan"
 11970,O'Flinn,Flinn
 11970,O'Flynn,Flinn
 11970,"Planxty O'Flinn",Flinn
@@ -28303,6 +28309,7 @@ tune_id,alias,name
 21260,"Kissing Dance #1, The","Kissing Dance, The"
 21260,"Kissing Dance No. 1, The","Kissing Dance, The"
 21262,"Siffering Ducks","Suffering Ducks, The"
+21262,"Sufferin' Ducks, The","Suffering Ducks, The"
 21270,"Tabletop Mountain","William Taylors Tabletop"
 21279,"I Lost My Hat In Cashel","I Lost My Hat In Cathal"
 21297,"John B.Murphy's","John B. Murphy's"
@@ -28623,6 +28630,7 @@ tune_id,alias,name
 22619,"Mrs. McGraw","Mrs. McGrath"
 22619,"My Son Ted","Mrs. McGrath"
 22619,"Sergeant And Mrs. McGrath, The","Mrs. McGrath"
+22623,"Waltz Of The Kites","La Valse Des Cerfs-volants"
 22624,"Sara's Fancy",Sara's
 22633,"One Track Jack","One Track Zach"
 22640,"Buachaill Sa Chrann","Boy In The Tree, The"
@@ -28684,8 +28692,6 @@ tune_id,alias,name
 22990,"Portuguese Waltz No. 2, The","Portuguese, The"
 22992,"Willy Reidy's #1","Willy Reidy's"
 22992,"Willy Reidy's No. 1","Willy Reidy's"
-22993,"Willy Reidy's #2","Willy Reidy's"
-22993,"Willy Reidy's No. 2","Willy Reidy's"
 22999,"Figgy Duff","Shimmy, The"
 23003,"Bill Young's Double","Bill Young's"
 23006,"Spilled Pint, The","Spilled Pint"
@@ -29303,6 +29309,7 @@ tune_id,alias,name
 26083,"Off To California","Dan O'Leary's"
 26083,"Tom Billy's","Dan O'Leary's"
 26090,"Island Polka 3",Island
+26102,"'Ma' McNulty's Favorite","'Ma' McNulty's Favourite"
 26103,"Who's In The What Now?","Who's In The What Now"
 26107,"O'Brien's Hop","Pig That Couldn't Sneeze, The"
 26107,"Pig That Wouldn't Sneeze, The","Pig That Couldn't Sneeze, The"
@@ -29360,6 +29367,8 @@ tune_id,alias,name
 26533,"Nancy Bessent's #2","Keepsake, The"
 26552,"Ladies Of Leitrim","Mná Líatroma"
 26552,"Women Of Leitrim","Mná Líatroma"
+26555,"Gloria An Gabhar","Gloria The Goat"
+26555,"Gloria De Geit","Gloria The Goat"
 26555,"Gloria La Chèvre","Gloria The Goat"
 26573,"Irish Sea, The","Only The Irish Sea"
 26575,"Poisonous Polonaise, The","Wittenberger Apothekerpolonesse"
@@ -29384,3 +29393,5 @@ tune_id,alias,name
 26723,"Miller's Fair Daughter, The","Miller's Daughter, The"
 26723,"Nighan Bhan A Mhuiller","Miller's Daughter, The"
 26725,"Second Sight","An Da-Shealladh"
+26747,"Römuddens Vals","Vals Från Nössemark"
+26747,"Vals Efter Denis Emanuelsson, Nössemark'","Vals Från Nössemark"
