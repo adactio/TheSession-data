@@ -207,6 +207,7 @@ tune_id,alias,name
 26,"Aonach Domhnach Brocach","Donnybrook Fair"
 26,"Caravat, The","Donnybrook Fair"
 26,"Humours Of Donnybrook, The","Donnybrook Fair"
+26,"Joy Of My Heart","Donnybrook Fair"
 26,"Joy Of My Life","Donnybrook Fair"
 26,"Joy Of My Life, The","Donnybrook Fair"
 26,"Joys Of Life, The","Donnybrook Fair"
@@ -4970,9 +4971,9 @@ tune_id,alias,name
 819,"Karen Tweed's","McIntyre's Fancy"
 819,"Lump Of Pudding, The","McIntyre's Fancy"
 819,"Siobhan O'Donnell's","McIntyre's Fancy"
-820,"Christy Barry's #2","Christy Barry's  No.2"
-820,"Christy Barry's No 2","Christy Barry's  No.2"
-820,"Christy Barry's No. 2","Christy Barry's  No.2"
+820,"Christy Barry's #2","Butlers Of Glen Avenue, The"
+820,"Christy Barry's No 2","Butlers Of Glen Avenue, The"
+820,"Christy Barry's No. 2","Butlers Of Glen Avenue, The"
 821,"Con Curtin's Big Balloon","Cornelius Curtin's Big Balloon"
 821,"Con Curtin's Big Baloon","Cornelius Curtin's Big Balloon"
 821,"Hide And Go Seek","Cornelius Curtin's Big Balloon"
@@ -5131,15 +5132,15 @@ tune_id,alias,name
 842,"Wild Hills O' Wannie, The","Hills Of Glenorchy, The"
 842,"Wild Hills O'Wannie, The","Hills Of Glenorchy, The"
 842,"Wild Hills O'Wannies, The","Hills Of Glenorchy, The"
-843,"Christy Barry's #1","Christy Barry's No.1"
-843,"Christy Barry's No 1","Christy Barry's No.1"
-843,"Christy Barry's No. 1","Christy Barry's No.1"
-843,"Christy Barry's Set","Christy Barry's No.1"
-843,"Sean Coughlan's","Christy Barry's No.1"
-843,"Seán Coughlin's","Christy Barry's No.1"
-843,"Seán Coughlin's No 1","Christy Barry's No.1"
-843,"Seán Coughlin's No. 1","Christy Barry's No.1"
-843,"Sheán Coughlan's No. 1","Christy Barry's No.1"
+843,"Christy Barry's #1","Christy Barry's"
+843,"Christy Barry's No 1","Christy Barry's"
+843,"Christy Barry's No. 1","Christy Barry's"
+843,"Christy Barry's Set","Christy Barry's"
+843,"Sean Coughlan's","Christy Barry's"
+843,"Seán Coughlin's","Christy Barry's"
+843,"Seán Coughlin's No 1","Christy Barry's"
+843,"Seán Coughlin's No. 1","Christy Barry's"
+843,"Sheán Coughlan's No. 1","Christy Barry's"
 844,"Cat On The Roof, The","Daisy Field, The"
 844,"Daisy Fields, The","Daisy Field, The"
 844,"David's Delight","Daisy Field, The"
@@ -7715,6 +7716,8 @@ tune_id,alias,name
 1384,"Wedding At Blyth, The","Wedding O' Blyth, The"
 1384,"Wedding Of Blyth, The","Wedding O' Blyth, The"
 1385,Dandy,"Duke Of Leinster, The"
+1385,"Dandy, The","Duke Of Leinster, The"
+1385,Dandy's,"Duke Of Leinster, The"
 1385,"Margaret Collins","Duke Of Leinster, The"
 1385,"Paddy's Surprise","Duke Of Leinster, The"
 1386,"Felix Kearney's","Red Box, The"
@@ -14204,6 +14207,7 @@ tune_id,alias,name
 3701,"Chris Droney's","Katie's Fancy"
 3701,"Humours Of Cork","Katie's Fancy"
 3701,"Rogha Chaitilín","Katie's Fancy"
+3704,"Briege's Lullaby","Planxty Monaghan"
 3707,"A Moonlight Ramble","Fife Hunt, The"
 3707,"Fife Hund","Fife Hunt, The"
 3707,"Tulloch Castle","Fife Hunt, The"
@@ -16755,6 +16759,7 @@ tune_id,alias,name
 5476,"Hag With The Fiddle, The",Sonny's
 5476,"Hugh Gillespie's",Sonny's
 5476,"Irish, The",Sonny's
+5476,"Jack Of Diamonds Three #3",Sonny's
 5476,"Johnny Doherty's",Sonny's
 5476,"Ó Brógáin's",Sonny's
 5476,"Old Donegal, The",Sonny's
@@ -16948,6 +16953,7 @@ tune_id,alias,name
 5657,"Bold Thady Quill, The","Bould Thady Quill, The"
 5657,"Neil Flaherty's Drake","Bould Thady Quill, The"
 5657,"Nell Flaherty's Drake","Bould Thady Quill, The"
+5661,"Joe Cormier",MacDonald's
 5661,"Joe Cormier's",MacDonald's
 5661,MacDonalds',MacDonald's
 5661,McDonald's,MacDonald's
@@ -22749,6 +22755,7 @@ tune_id,alias,name
 10128,"Chepstow Races","Rasus Cas-went"
 10128,"Rasus Cas-Gwent","Rasus Cas-went"
 10129,"Crooked Still, The","Crooked Still"
+10131,Aine's,"Tim Fitzpatrick's"
 10133,"Boys Of The Town",Tarmon's
 10144,"Buachaill An Bhardail","Drake's Lad, The"
 10148,"La Valse Des Jouets","Valse Des Jouets"
@@ -24068,6 +24075,7 @@ tune_id,alias,name
 11801,"O Dh'ith Na Coin Na Maragan","Munlochy Bridge"
 11801,"O Dhiùlt Am Bodach Fodar Dhomh","Munlochy Bridge"
 11801,"Sir Harry's Welcome Home","Munlochy Bridge"
+11801,"Tha Brògan Ùr Agam A-Nochd","Munlochy Bridge"
 11801,"Tha M'inntinn Raoir A-nochd 's A-raoir","Munlochy Bridge"
 11815,"Banquet Polska After Grins Hans","Grind Hans Jässpôdspolska"
 11815,"C E G","Grind Hans Jässpôdspolska"
@@ -27604,7 +27612,6 @@ tune_id,alias,name
 18784,"Mountain Bird",Fjellvåk
 18792,"Chantons, Je Vous En Prie","Gallic Christmas Song"
 18813,"Dr Keith, Aberdeen","Dr. Keith, Aberdeen"
-18825,"You're Welcome Says Maureen And Hugh","You're Welcome Maureen And Hugh"
 18826,"Bonnie Lass","Bonny Lass"
 18830,"Putin On The Ritz","Master And Margarita, The"
 18831,"Hommage à Arthur, Marcel Et Philias Pigeon","Hommage A Pigeon"
@@ -29419,3 +29426,6 @@ tune_id,alias,name
 26782,"Moulin Dhu","Larach Do Thacaidean"
 26803,"Snow On The Mountain","Snow At The Hand"
 26806,"Aghrane Canal, The","Aughrane Canal, The"
+26807,"Lol's Tune",Black
+26812,Janes,Jane's
+26817,"Quebec Reel #3","Gan Ainm"
