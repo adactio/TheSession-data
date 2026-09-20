@@ -2207,7 +2207,7 @@ id,artist,recording,track,number,tune,tune_id
 3478,"Al O'Donnell","Al O'Donnell",3,1,"Lord Inchiquin",991
 3478,"Al O'Donnell","Al O'Donnell",4,1,"Night Before Larry Was Stretched, The",4712
 3478,"Al O'Donnell","Al O'Donnell",5,1,"Maid On The Mountain, The",
-3478,"Al O'Donnell","Al O'Donnell",6,1,"Green Linnet, The",2299
+3478,"Al O'Donnell","Al O'Donnell",6,1,"Green Linnet, The",
 3478,"Al O'Donnell","Al O'Donnell",7,1,Rambleaway,
 3478,"Al O'Donnell","Al O'Donnell",8,1,"Matt Hyland",
 3478,"Al O'Donnell","Al O'Donnell",9,1,"Crooked Jack",
@@ -8057,7 +8057,7 @@ id,artist,recording,track,number,tune,tune_id
 5966,"Angela Usher","The Gort Mile",5,1,Lollie's,
 5966,"Angela Usher","The Gort Mile",6,1,"Sanderling Sessions, The",
 5966,"Angela Usher","The Gort Mile",6,2,"Old Creamery, The",
-5966,"Angela Usher","The Gort Mile",7,1,Landslide,856
+5966,"Angela Usher","The Gort Mile",7,1,Land,23358
 5966,"Angela Usher","The Gort Mile",8,1,"Ookpik, The",5422
 5966,"Angela Usher","The Gort Mile",9,1,"Lick Of The Slipper, The",
 5966,"Angela Usher","The Gort Mile",9,2,"Jessica's Joy",
@@ -8067,6 +8067,8 @@ id,artist,recording,track,number,tune,tune_id
 5966,"Angela Usher","The Gort Mile",11,2,"Sally Gally",17222
 5966,"Angela Usher","The Gort Mile",12,1,"My Maryann",2912
 5966,"Angela Usher","The Gort Mile",12,2,"Johnny Harling's",6641
+5966,"Angela Usher","The Gort Mile",12,3,"Home Ruler",310
+5966,"Angela Usher","The Gort Mile",12,4,"Kitty's Wedding",869
 1873,"Angelina Carberry","An Traidisiun Beo",1,1,"Luachrachán's, The",1851
 1873,"Angelina Carberry","An Traidisiun Beo",1,2,"Hardiman's Fancy",3321
 1873,"Angelina Carberry","An Traidisiun Beo",2,1,"Brown Coffin, The",1985
@@ -12832,7 +12834,7 @@ id,artist,recording,track,number,tune,tune_id
 2226,"Battlefield Band","Across The Borders",8,1,"Trimdon Grange Explosion, The",
 2226,"Battlefield Band","Across The Borders",9,1,"Simon Thoumire's",6531
 2226,"Battlefield Band","Across The Borders",9,2,"Shake A Leg",2207
-2226,"Battlefield Band","Across The Borders",9,3,"Ríl Gan Ainm",3205
+2226,"Battlefield Band","Across The Borders",9,3,"Ríl Gan Ainm",2622
 2226,"Battlefield Band","Across The Borders",10,1,"Miss Kate Rusby",
 2226,"Battlefield Band","Across The Borders",11,1,"Green And The Blue, The",
 2226,"Battlefield Band","Across The Borders",12,1,"Donnie MacGregor",
@@ -13486,7 +13488,7 @@ id,artist,recording,track,number,tune,tune_id
 2220,"Battlefield Band",Threads,8,1,"Same Old Story, The",20325
 2220,"Battlefield Band",Threads,9,1,"Simon Thoumire's",6531
 2220,"Battlefield Band",Threads,9,2,"Shake A Leg",2207
-2220,"Battlefield Band",Threads,9,3,"Ríl Gan Ainm",3205
+2220,"Battlefield Band",Threads,9,3,"Ríl Gan Ainm",2622
 2220,"Battlefield Band",Threads,10,1,"MacPherson's Lament",
 2220,"Battlefield Band",Threads,11,1,"Tam Bain's Lum",11633
 2220,"Battlefield Band",Threads,11,2,"Price Of The Pig, The",4114
@@ -13691,7 +13693,7 @@ id,artist,recording,track,number,tune,tune_id
 5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",8,2,"Reel St. Blondine",
 5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",8,3,"Pacific Slope",13871
 5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",9,1,"Hôtel Verret",
-5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",9,2,"Hommage à Jos Bouchard",
+5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",9,2,"Hommage à Jos Bouchard",25035
 5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",9,3,"Quadrille Bouchard",8631
 5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",10,1,"Mouth Of The Tobique",423
 5681,"Becky Tracy, Keith Murphy, Andy Davis","Any Jig or Reel",10,2,"John Howett's",
@@ -17519,7 +17521,7 @@ id,artist,recording,track,number,tune,tune_id
 6499,"Bobby Gardiner","The Best Of Bobby Gardiner",11,1,"Limerick Lassies, The",516
 6499,"Bobby Gardiner","The Best Of Bobby Gardiner",11,2,"Flogging, The",195
 6499,"Bobby Gardiner","The Best Of Bobby Gardiner",12,1,"Mullingar Races, The",225
-6499,"Bobby Gardiner","The Best Of Bobby Gardiner",13,1,"Johnny, When You Die",
+6499,"Bobby Gardiner","The Best Of Bobby Gardiner",13,1,"Johnny, When You Die",15252
 6499,"Bobby Gardiner","The Best Of Bobby Gardiner",13,2,"Johnny's Gone To France",14402
 6499,"Bobby Gardiner","The Best Of Bobby Gardiner",14,1,"Rakes Of Clonmel, The",1130
 6499,"Bobby Gardiner","The Best Of Bobby Gardiner",14,2,"Gold Ring, The",37
@@ -18230,7 +18232,7 @@ id,artist,recording,track,number,tune,tune_id
 7645,"Bosun Higgs","A Most Particular Vintage",11,1,Deed,
 7645,"Bosun Higgs","A Most Particular Vintage",11,2,"Double Figure 8",14443
 3360,"Bóthar Na Sop","Giorraíonn Beirt Bóthar",1,1,"Port An Ri",
-3360,"Bóthar Na Sop","Giorraíonn Beirt Bóthar",1,2,"Flying Pig, The",
+3360,"Bóthar Na Sop","Giorraíonn Beirt Bóthar",1,2,"Flying Pig, The",26847
 3360,"Bóthar Na Sop","Giorraíonn Beirt Bóthar",1,3,"Her Long Dark Hair Flowing Down Her Back",1263
 3360,"Bóthar Na Sop","Giorraíonn Beirt Bóthar",1,4,"Na Connerys",16661
 3360,"Bóthar Na Sop","Giorraíonn Beirt Bóthar",1,5,"Port Na mBraithre",1185
@@ -24886,7 +24888,7 @@ id,artist,recording,track,number,tune,tune_id
 4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",5,2,"Mrs McGhee",2625
 4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",5,3,"A Bunch Of Keys",344
 4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",6,1,"Crow Road Croft, The",18750
-4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",7,1,"Aileen's Slow",19897
+4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",7,1,"Aileen's Slow",18937
 4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",7,2,"Old Road North, The",21690
 4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",8,1,Tomnahurich,21896
 4262,"Calum Stewart And Lauren MacColl","Wooden Flute & Fiddle",8,2,Traditional,21900
@@ -35617,7 +35619,7 @@ id,artist,recording,track,number,tune,tune_id
 2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,1,1,"Old Hag You Have Killed Me",1359
 2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,1,2,Buddleja,
 2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,2,1,"De La Montagne",9428
-2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,2,2,"Kerry Lasses",66
+2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,2,2,"Kerry Lasses",8488
 2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,3,1,Lena's,2097
 2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,3,2,"Barnsley Abacus",13142
 2880,"Colman Connolly, Tobias Kurig, Franziska Urton",Blue,4,1,"Tom King's",
@@ -36578,7 +36580,7 @@ id,artist,recording,track,number,tune,tune_id
 6842,"Connemara (USA)","Beyond the Horizon",7,1,"Scholar, The",94
 6842,"Connemara (USA)","Beyond the Horizon",8,1,"Poison Glen",
 6842,"Connemara (USA)","Beyond the Horizon",9,1,"Fiddler Play The Light",18957
-6842,"Connemara (USA)","Beyond the Horizon",10,1,"Free And Easy",66
+6842,"Connemara (USA)","Beyond the Horizon",10,1,"Free and Easy (Song)",
 6842,"Connemara (USA)","Beyond the Horizon",10,2,"Lark In The Morning",62
 3947,"Connemara (USA)","Siren Song",1,1,"Song Of The Seals, The",
 3947,"Connemara (USA)","Siren Song",1,2,"Song Of The Water Kelpie, The",1589
@@ -38343,7 +38345,7 @@ id,artist,recording,track,number,tune,tune_id
 8587,Cuas,"Mo Naomhóigín Ó",12,2,Windsong,21060
 8587,Cuas,"Mo Naomhóigín Ó",13,1,"Óró Mo Bháidín",
 8587,Cuas,"Mo Naomhóigín Ó",14,1,"Tom Barrett's",21879
-8587,Cuas,"Mo Naomhóigín Ó",14,2,"An bhFaca Tú Mo Shéamuisín?",
+8587,Cuas,"Mo Naomhóigín Ó",14,2,"An bhFaca Tú Mo Shéamuisín?",26855
 8587,Cuas,"Mo Naomhóigín Ó",14,3,"Julia Clifford's",5162
 6960,Cucanandy,"Contented Minds",1,1,"Maid On The Shore",6136
 6960,Cucanandy,"Contented Minds",2,1,"Spey In Spate, The",2602
@@ -43740,7 +43742,7 @@ id,artist,recording,track,number,tune,tune_id
 3322,"David Wilcox","Still Juggling",20,1,"Aboot Hands",
 3322,"David Wilcox","Still Juggling",21,1,Doherty's,15317
 3322,"David Wilcox","Still Juggling",22,1,Tamlin,248
-3322,"David Wilcox","Still Juggling",23,1,"Flying Pig, The",
+3322,"David Wilcox","Still Juggling",23,1,"Flying Pig, The",26847
 4284,"Davoc Rynne","The Humours of Ennistymon",1,1,"Piper's Despair, The",336
 4284,"Davoc Rynne","The Humours of Ennistymon",2,1,"Down The Broom",514
 4284,"Davoc Rynne","The Humours of Ennistymon",3,1,"Lark In The Morning, The",62
@@ -47620,7 +47622,7 @@ id,artist,recording,track,number,tune,tune_id
 8334,"Dolly MacMahon",Dolly,4,1,"Bridin Vesey",
 8334,"Dolly MacMahon",Dolly,5,1,"Love Is Teasing",
 8334,"Dolly MacMahon",Dolly,6,1,"Dan O'Hara",
-8334,"Dolly MacMahon",Dolly,7,1,"Green Linnet, The",2299
+8334,"Dolly MacMahon",Dolly,7,1,"Green Linnet, The",
 8334,"Dolly MacMahon",Dolly,8,1,"Skillet Pot, The",1627
 8334,"Dolly MacMahon",Dolly,9,1,"An Draighneán Donn",11253
 8334,"Dolly MacMahon",Dolly,10,1,"A Dandling Song",14051
@@ -50168,7 +50170,7 @@ id,artist,recording,track,number,tune,tune_id
 5964,"Drop the floor","Raise the Roof",4,3,"Dusty Windowsills",29
 5964,"Drop the floor","Raise the Roof",5,1,"Nancy Whisky",
 5964,"Drop the floor","Raise the Roof",5,2,"Miss McLeod's",75
-5964,"Drop the floor","Raise the Roof",6,1,"Neil Gow's Lament For His Second Wife",
+5964,"Drop the floor","Raise the Roof",6,1,"Niel Gow's Lament For His Second Wife",1892
 5964,"Drop the floor","Raise the Roof",6,2,Glenlivet,2299
 5964,"Drop the floor","Raise the Roof",6,3,"Roxburgh Castle",4628
 5964,"Drop the floor","Raise the Roof",7,1,"Galway Shawl, The",26819
@@ -67412,7 +67414,7 @@ id,artist,recording,track,number,tune,tune_id
 1006,Grianan,"The Maid Of Eirin",3,1,Grianán,
 1006,Grianan,"The Maid Of Eirin",3,2,"Michelle O'Sullivan's",26778
 1006,Grianan,"The Maid Of Eirin",4,1,"Jug Of Punch, The",594
-1006,Grianan,"The Maid Of Eirin",4,2,"John Stewart's",2602
+1006,Grianan,"The Maid Of Eirin",4,2,"John Stewart's",8231
 1006,Grianan,"The Maid Of Eirin",4,3,"Humours Of Westport, The",47
 1006,Grianan,"The Maid Of Eirin",5,1,"Thios Cois Na Trá",
 1006,Grianan,"The Maid Of Eirin",6,1,Marco's,3017
@@ -69811,7 +69813,7 @@ id,artist,recording,track,number,tune,tune_id
 6090,"Henri's Notions","Trip to the Cottage",8,1,"By Clyde's Bonnie Banks",
 6090,"Henri's Notions","Trip to the Cottage",9,1,"Lily Of The West",
 6090,"Henri's Notions","Trip to the Cottage",9,2,"Pleasure's Of Home",
-6090,"Henri's Notions","Trip to the Cottage",10,1,"Charlie Harris'",66
+6090,"Henri's Notions","Trip to the Cottage",10,1,"Charlie Harris' Polka",2039
 6090,"Henri's Notions","Trip to the Cottage",10,2,"Sack Of Beer",
 6090,"Henri's Notions","Trip to the Cottage",10,3,Tolka's,1251
 6090,"Henri's Notions","Trip to the Cottage",11,1,"Trains And My Grandfather",
@@ -74970,7 +74972,7 @@ id,artist,recording,track,number,tune,tune_id
 4205,"James Keane","Heir Of The Dog",3,3,"Hungry Rocks, The",16063
 4205,"James Keane","Heir Of The Dog",4,1,"Humours Of Tullycrine, The",980
 4205,"James Keane","Heir Of The Dog",4,2,"New Phone, The",10261
-4205,"James Keane","Heir Of The Dog",5,1,"Spindle Shanks",66
+4205,"James Keane","Heir Of The Dog",5,1,unknown,
 4205,"James Keane","Heir Of The Dog",5,2,"John Brennan's",404
 4205,"James Keane","Heir Of The Dog",5,3,"Humours Of Loughrea, The",1767
 4205,"James Keane","Heir Of The Dog",6,1,"Woods Of Old Limerick",3893
@@ -75275,7 +75277,7 @@ id,artist,recording,track,number,tune,tune_id
 256,"James Kelly","Traditional Irish Music",6,2,"Wild Irishman, The",90
 256,"James Kelly","Traditional Irish Music",6,3,"Dowd's #9",761
 256,"James Kelly","Traditional Irish Music",7,1,"Gift From The Fairies, The",2743
-256,"James Kelly","Traditional Irish Music",7,2,"Drops Of Brandy, The",388
+256,"James Kelly","Traditional Irish Music",7,2,"Drops Of Brandy, The",46
 256,"James Kelly","Traditional Irish Music",7,3,"Is The Big Man Within?",3261
 256,"James Kelly","Traditional Irish Music",8,1,"Athol Brose, The",1919
 256,"James Kelly","Traditional Irish Music",8,2,"Spinning Wheel, The",8570
@@ -80351,7 +80353,7 @@ id,artist,recording,track,number,tune,tune_id
 8611,"Joan Gatti","Dusk to Dawn",4,2,"Morning Dew, The",69
 8611,"Joan Gatti","Dusk to Dawn",5,1,"Lady Eligen's Courtship",8471
 8611,"Joan Gatti","Dusk to Dawn",5,2,"Empty Room, The",
-8611,"Joan Gatti","Dusk to Dawn",6,1,"Gan Ainm",
+8611,"Joan Gatti","Dusk to Dawn",6,1,March,
 8611,"Joan Gatti","Dusk to Dawn",6,2,"Train North, The",
 8611,"Joan Gatti","Dusk to Dawn",7,1,"Paddy Cronin's",1009
 8611,"Joan Gatti","Dusk to Dawn",7,2,"Denis Murphy's",7617
@@ -82670,7 +82672,7 @@ id,artist,recording,track,number,tune,tune_id
 6550,"John and Tim Lyons","Easy & Bold",11,1,"Crossroads Céilí",5782
 6550,"John and Tim Lyons","Easy & Bold",11,2,McGonigal's,9091
 6550,"John and Tim Lyons","Easy & Bold",12,1,"Lie Like A Frog",
-6550,"John and Tim Lyons","Easy & Bold",13,1,"Green Linnet, The",2299
+6550,"John and Tim Lyons","Easy & Bold",13,1,"Green Linnet, The",
 6550,"John and Tim Lyons","Easy & Bold",14,1,"John Clifford's",916
 6550,"John and Tim Lyons","Easy & Bold",14,2,"Gullane, The",1658
 6550,"John and Tim Lyons","Easy & Bold",15,1,"Bold Thady Quill",5657
@@ -87891,7 +87893,7 @@ id,artist,recording,track,number,tune,tune_id
 4797,"Johnny Reidy & The Sliabh Luachra Céilí Band","Music for Set Dancing Volume II",22,1,"Maggie In The Wood",291
 4797,"Johnny Reidy & The Sliabh Luachra Céilí Band","Music for Set Dancing Volume II",22,2,"Maggie In The Wood",291
 1608,"Johnny Wilmot","Another Side Of Cape Breton",1,1,"Tom Ward's Downfall",565
-1608,"Johnny Wilmot","Another Side Of Cape Breton",1,2,Jackson's,13528
+1608,"Johnny Wilmot","Another Side Of Cape Breton",1,2,Jackson's,384
 1608,"Johnny Wilmot","Another Side Of Cape Breton",2,1,"Baddeck Gathering, The",10243
 1608,"Johnny Wilmot","Another Side Of Cape Breton",2,2,"Girls Of Bainbridge, The",2456
 1608,"Johnny Wilmot","Another Side Of Cape Breton",3,1,"Dr. Gilbert",129
@@ -89113,7 +89115,7 @@ id,artist,recording,track,number,tune,tune_id
 5822,"Jules Bitter","Druid Dance",9,2,Sweeney's,1025
 5822,"Jules Bitter","Druid Dance",10,1,"Chalice Well",
 5822,"Jules Bitter","Druid Dance",11,1,"Roisin Dubh",4184
-5822,"Jules Bitter","Druid Dance",12,1,Mulqueeny's,66
+5822,"Jules Bitter","Druid Dance",12,1,"Mulqueeny's Hornpipe",
 5822,"Jules Bitter","Druid Dance",12,2,Maxima's,
 5822,"Jules Bitter","Druid Dance",12,3,Alexander's,666
 5822,"Jules Bitter","Druid Dance",13,1,Eisteddfod,
@@ -90717,7 +90719,7 @@ id,artist,recording,track,number,tune,tune_id
 6956,"Kathleen Gorey-McSorley","Cheoil Binn",3,2,"Killavil Postman, The",7317
 6956,"Kathleen Gorey-McSorley","Cheoil Binn",4,1,"Torna A Surriento",
 6956,"Kathleen Gorey-McSorley","Cheoil Binn",4,2,Tullochgorum,1951
-6956,"Kathleen Gorey-McSorley","Cheoil Binn",5,1,"Flying Pig, The",
+6956,"Kathleen Gorey-McSorley","Cheoil Binn",5,1,"Flying Pig, The",26847
 6956,"Kathleen Gorey-McSorley","Cheoil Binn",6,1,"Le Tourment",6148
 6956,"Kathleen Gorey-McSorley","Cheoil Binn",6,2,"Jig Du Joliette",3491
 6956,"Kathleen Gorey-McSorley","Cheoil Binn",6,3,"Johnnie Sunshine",
@@ -91472,7 +91474,7 @@ id,artist,recording,track,number,tune,tune_id
 5629,"Kavan Donohoe","vPipes - EP",5,2,"Pigeon On The Gate, The",517
 5629,"Kavan Donohoe","vPipes - EP",5,3,"Michael Coleman's Graf Spee",
 5629,"Kavan Donohoe","vPipes - EP",6,1,"Lake Isle Of Innisfree, The",
-8607,Kavaz,Confluence,1,1,"Flying Pig, The",
+8607,Kavaz,Confluence,1,1,"Flying Pig, The",26847
 8607,Kavaz,Confluence,1,2,"Toormore Slide, The",
 8607,Kavaz,Confluence,1,3,"This Is My Love, Do You Like Her?",6
 8607,Kavaz,Confluence,2,1,"Reel De La Libération",
@@ -117419,7 +117421,7 @@ id,artist,recording,track,number,tune,tune_id
 4302,"Muireann Nic Amhlaoibh","Ar Uair Bhig an Lae - The Small Hours",10,1,"Bold Fenian Men, The",
 4302,"Muireann Nic Amhlaoibh","Ar Uair Bhig an Lae - The Small Hours",11,1,"An Clár Bog Déil",
 3226,"Muireann Nic Amhlaoibh","Fainne An Lae : Daybreak",1,1,"Western Highway",
-3226,"Muireann Nic Amhlaoibh","Fainne An Lae : Daybreak",2,1,"Free And Easy",66
+3226,"Muireann Nic Amhlaoibh","Fainne An Lae : Daybreak",2,1,"Free and Easy (Song)",
 3226,"Muireann Nic Amhlaoibh","Fainne An Lae : Daybreak",3,1,"Seoithin Seotho",
 3226,"Muireann Nic Amhlaoibh","Fainne An Lae : Daybreak",4,1,"Hardiman The Fiddler",48
 3226,"Muireann Nic Amhlaoibh","Fainne An Lae : Daybreak",4,2,"Cnocan An Teampaill",6567
@@ -117841,7 +117843,7 @@ id,artist,recording,track,number,tune,tune_id
 7335,"Na Casaidigh","Singing from Memory",3,1,"Bheir Mi Ó",
 7335,"Na Casaidigh","Singing from Memory",4,1,"Beidh Aonach Amárach",19508
 7335,"Na Casaidigh","Singing from Memory",5,1,"Do Bhios-sa Lá I bPort Láirge",
-7335,"Na Casaidigh","Singing from Memory",6,1,"An Bhfaca Tú Mo Shéamuisin?",
+7335,"Na Casaidigh","Singing from Memory",6,1,"An Bhfaca Tú Mo Shéamuisin?",26855
 7335,"Na Casaidigh","Singing from Memory",7,1,"Cill Chais",7924
 7335,"Na Casaidigh","Singing from Memory",8,1,"Trasna na dTonnta",1110
 7335,"Na Casaidigh","Singing from Memory",9,1,"Tiocfaidh An Samhradh",
@@ -120676,8 +120678,8 @@ id,artist,recording,track,number,tune,tune_id
 497,Nightingale,"The Coming Dawn",12,3,Culfadda,1523
 497,Nightingale,"The Coming Dawn",13,1,"Farral O'Gara",234
 497,Nightingale,"The Coming Dawn",13,2,"Trim The Velvet",1142
-1870,Nightingale,Three,1,1,Hills,
-1870,Nightingale,Three,1,2,Mulqueen's,66
+1870,Nightingale,Three,1,1,"Hills (Song)",
+1870,Nightingale,Three,1,2,unknown,
 1870,Nightingale,Three,2,1,Peregrination,
 1870,Nightingale,Three,3,1,"Eric And The Angels",23242
 1870,Nightingale,Three,3,2,"Jenny's Welcome To Charlie",370
@@ -132399,7 +132401,7 @@ id,artist,recording,track,number,tune,tune_id
 1491,Pipedown,"The First Measure",12,1,"Ian McGee's Romainian Boots",
 6414,"Piper's Gathering","The Pipers' Gathering 2015 Concert Series, Vol. 2",1,1,"Short Journey, The",
 6414,"Piper's Gathering","The Pipers' Gathering 2015 Concert Series, Vol. 2",1,2,"Big Pat's",3957
-6414,"Piper's Gathering","The Pipers' Gathering 2015 Concert Series, Vol. 2",1,3,"Charlie Harris'",66
+6414,"Piper's Gathering","The Pipers' Gathering 2015 Concert Series, Vol. 2",1,3,"Charlie Harris'",2039
 6414,"Piper's Gathering","The Pipers' Gathering 2015 Concert Series, Vol. 2",1,4,"Catherine McEvoy's",4133
 6414,"Piper's Gathering","The Pipers' Gathering 2015 Concert Series, Vol. 2",1,5,"Piper On Horseback, The",1247
 6414,"Piper's Gathering","The Pipers' Gathering 2015 Concert Series, Vol. 2",2,1,"Ho Rò Mo Nighean Donn Bhòideach",
@@ -133884,7 +133886,7 @@ id,artist,recording,track,number,tune,tune_id
 7989,"Project Smok","The Outset",9,1,Eilidh's,
 7989,"Project Smok","The Outset",10,1,"Young Alfie's",
 7989,"Project Smok","The Outset",10,2,"Hoover Fixer's Wife",
-312,Providence,"A Fig For A Kiss",1,1,"Road To Lisdoonvarna, The",249
+312,Providence,"A Fig For A Kiss",1,1,"Road To Lisdoonvarna, The",250
 312,Providence,"A Fig For A Kiss",1,2,Carty's,1573
 312,Providence,"A Fig For A Kiss",1,3,"Maid Of Mullaghmore, The",2854
 312,Providence,"A Fig For A Kiss",2,1,"Smuggling The Tin",
@@ -152048,7 +152050,7 @@ id,artist,recording,track,number,tune,tune_id
 413,Slide,"The Flying Pig",1,2,"Ownie Davis'",4364
 413,Slide,"The Flying Pig",1,3,"Within A Mile Of Dublin",125
 413,Slide,"The Flying Pig",1,4,"Rat In The Oven, The",675
-413,Slide,"The Flying Pig",2,1,"Flying Pig, The",
+413,Slide,"The Flying Pig",2,1,"Flying Pig, The",26847
 413,Slide,"The Flying Pig",2,2,"Port An Deorai",1327
 413,Slide,"The Flying Pig",2,3,"Cnocan An Teampaill",6567
 413,Slide,"The Flying Pig",3,1,"North Sea Crossing",19192
@@ -152543,7 +152545,7 @@ id,artist,recording,track,number,tune,tune_id
 13,Solas,"The Words That Remain",11,3,"Jessie Over The Bridge",3968
 13,Solas,"The Words That Remain",11,4,"Hughie's Cap",2850
 13,Solas,"The Words That Remain",12,1,"Sráid An Chloig (Clock Street)",
-1448,Solas,"Waiting For An Echo",1,1,"Hanover, The",
+1448,Solas,"Waiting For An Echo",1,1,"Hanover, The",26853
 1448,Solas,"Waiting For An Echo",1,2,"John James'",19117
 1448,Solas,"Waiting For An Echo",1,3,"Copperplate, The",19120
 1448,Solas,"Waiting For An Echo",2,1,"Silver Dagger, The",
@@ -154223,7 +154225,7 @@ id,artist,recording,track,number,tune,tune_id
 3862,"Stevie Dunne","About Time",2,2,"Siobhan McCaughey's",17235
 3862,"Stevie Dunne","About Time",3,1,"Harp And Shamrock",1802
 3862,"Stevie Dunne","About Time",3,2,"The Culfarra",
-3862,"Stevie Dunne","About Time",4,1,"George Peoples'",1942
+3862,"Stevie Dunne","About Time",4,1,"George Peoples'",12063
 3862,"Stevie Dunne","About Time",4,2,"About Time",
 3862,"Stevie Dunne","About Time",4,3,"Damian's Reel",
 3862,"Stevie Dunne","About Time",5,1,Providence,4818
@@ -159394,7 +159396,7 @@ id,artist,recording,track,number,tune,tune_id
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",6,1,"Rock And Wee Pickle Tow, The",12981
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",6,2,"Blackthorn Stick, The",702
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",6,3,"Teviot Brig",5467
-5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",6,4,"Humours Of Donnybrook, The",26
+5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",6,4,"Humours Of Donnybrook, The",3644
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",7,1,"Our Highland Queen",4083
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",7,2,"Forth Brig",21204
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",7,3,"Forth Brig",5628
@@ -159413,7 +159415,7 @@ id,artist,recording,track,number,tune,tune_id
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",11,3,"Soldier's Joy, The",1356
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",12,1,"Banks Of Allan, The",2118
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",12,2,"Craigellachie Brig",8387
-5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",12,3,"Lasses O' Stewarton, The",
+5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",12,3,"Lasses O' Stewarton, The",9938
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",13,1,"Dashing White Sergeant, The",6319
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",13,2,"My Love She's But A Lassie Yet",564
 5811,"The Cameron Men","Classic Scots Fiddle Recordings from the Thirties",13,3,"Rose Tree, The",1123
@@ -163670,7 +163672,7 @@ id,artist,recording,track,number,tune,tune_id
 5843,"The Friel Sisters","Before the Sun",5,2,"Statia Donnelly",1471
 5843,"The Friel Sisters","Before the Sun",5,3,"My Former Wife",3418
 5843,"The Friel Sisters","Before the Sun",6,1,"Stór A Stór A Ghrá",
-5843,"The Friel Sisters","Before the Sun",7,1,"Free And Easy",66
+5843,"The Friel Sisters","Before the Sun",7,1,"Free and Easy (Song)",
 5843,"The Friel Sisters","Before the Sun",8,1,"An Coolin March",5203
 5843,"The Friel Sisters","Before the Sun",8,2,"Farewell To Lissycasey",2829
 5843,"The Friel Sisters","Before the Sun",8,3,"Trim The Velvet",1142
@@ -167808,7 +167810,7 @@ id,artist,recording,track,number,tune,tune_id
 6175,"The Navigators","Dance and Sing",6,1,"Nancy (Song)",
 6175,"The Navigators","Dance and Sing",7,1,"Rabbits In A Basket",
 6175,"The Navigators","Dance and Sing",8,1,"Islander, The",
-6175,"The Navigators","Dance and Sing",9,1,"White Cockade, The",1612
+6175,"The Navigators","Dance and Sing",9,1,"White Cockade, The",
 6175,"The Navigators","Dance and Sing",10,1,"Norwegian Wood",
 6175,"The Navigators","Dance and Sing",11,1,"Chapel Bell, The",5405
 6175,"The Navigators","Dance and Sing",11,2,"Donegal Lasses",1497
@@ -170072,7 +170074,7 @@ id,artist,recording,track,number,tune,tune_id
 2946,"The Sevens","Celtic Groove Brand",8,1,"Carpenter's Helper",
 2946,"The Sevens","Celtic Groove Brand",8,2,"Palisades, The",6196
 2946,"The Sevens","Celtic Groove Brand",8,3,Morrison's,71
-2946,"The Sevens","Celtic Groove Brand",9,1,Redigan's,
+2946,"The Sevens","Celtic Groove Brand",9,1,Redigan's,613
 2946,"The Sevens","Celtic Groove Brand",9,2,"Dark Hollow (Song)",
 2946,"The Sevens","Celtic Groove Brand",10,1,"Valley Girl",
 2946,"The Sevens","Celtic Groove Brand",11,1,"Trip To Herve's",1026
@@ -178525,7 +178527,7 @@ id,artist,recording,track,number,tune,tune_id
 8545,Tulua,"In The Snug",2,1,"Dunlavin Green",
 8545,Tulua,"In The Snug",3,1,"Ebb And Flow",24742
 8545,Tulua,"In The Snug",3,2,"Dawn Of Dara",19179
-8545,Tulua,"In The Snug",3,3,Scartaglen,900
+8545,Tulua,"In The Snug",3,3,Scartaglen,
 8545,Tulua,"In The Snug",4,1,"Verdant Braes Of Skreen",
 8545,Tulua,"In The Snug",5,1,"Silver Strand, The",18293
 8545,Tulua,"In The Snug",5,2,"Porthole Of The Kelp",263
@@ -187963,7 +187965,7 @@ id,artist,recording,track,number,tune,tune_id
 1993,"Various Artists","Masters Of The Irish Guitar",5,2,"Collier's, The",2154
 1993,"Various Artists","Masters Of The Irish Guitar",6,1,"Mrs. Waller",
 1993,"Various Artists","Masters Of The Irish Guitar",7,1,"Gooseberry Bush, The",2732
-1993,"Various Artists","Masters Of The Irish Guitar",7,2,"Sailor's Return, The",
+1993,"Various Artists","Masters Of The Irish Guitar",7,2,"Sailor's Return, The",132
 1993,"Various Artists","Masters Of The Irish Guitar",8,1,"Rub The Bag",9623
 1993,"Various Artists","Masters Of The Irish Guitar",8,2,"Old Grey Goose, The",241
 1993,"Various Artists","Masters Of The Irish Guitar",9,1,"Lisa's Brook",
@@ -188064,7 +188066,7 @@ id,artist,recording,track,number,tune,tune_id
 2246,"Various Artists","Megin: Free Reed Music From Wales And The Marches",14,1,"Goronwy Owain",
 2246,"Various Artists","Megin: Free Reed Music From Wales And The Marches",14,2,"Ffarwel I'r Marian",1427
 3591,"Various Artists","Melodeon Greats: A Collection Of Melodeon Masterpieces",1,1,"Páidín Ó Reafartaigh",9657
-3591,"Various Artists","Melodeon Greats: A Collection Of Melodeon Masterpieces",1,2,"Jig Of Slurs, The",35
+3591,"Various Artists","Melodeon Greats: A Collection Of Melodeon Masterpieces",1,2,unknown,
 3591,"Various Artists","Melodeon Greats: A Collection Of Melodeon Masterpieces",1,3,"Gan Ainm",
 3591,"Various Artists","Melodeon Greats: A Collection Of Melodeon Masterpieces",2,1,"Flowers Of Edinburgh, The",2549
 3591,"Various Artists","Melodeon Greats: A Collection Of Melodeon Masterpieces",2,2,"Old Grey Cat, The",3420
@@ -199484,7 +199486,7 @@ id,artist,recording,track,number,tune,tune_id
 966,WhirlyGig,WhirlyGig,10,1,"Banks Of Red Roses, The",23701
 2975,Whisht!,Touchdown,1,1,McAuley's,8226
 2975,Whisht!,Touchdown,1,2,"Islandbawn, The",
-2975,Whisht!,Touchdown,2,1,"Flying Pig, The",
+2975,Whisht!,Touchdown,2,1,"Flying Pig, The",26847
 2975,Whisht!,Touchdown,2,2,"Moig Cross",12115
 2975,Whisht!,Touchdown,2,3,"An Coisir",110
 2975,Whisht!,Touchdown,3,1,"Broomfield Hill",
