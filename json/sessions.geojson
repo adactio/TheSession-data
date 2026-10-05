@@ -2119,7 +2119,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.92540503,52.37455368]},"properties":{"name":"The Shamrock Lounge","longitude":-7.92540503,"latitude":52.37455368}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.22422552,53.06146240]},"properties":{"name":"Kavanagh's Vartry House","longitude":-6.22422552,"latitude":53.06146240}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[6.02628899,47.23411942]},"properties":{"name":"Bar De L'U","longitude":6.02628899,"latitude":47.23411942}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.27583313,38.97111130]},"properties":{"name":"Dexter's Grill & Pub","longitude":-95.27583313,"latitude":38.97111130}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.27583313,38.97111130]},"properties":{"name":"John Eddy's Bar & Grill (Formerly Dexter's Grill & Pub)","longitude":-95.27583313,"latitude":38.97111130}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-8.48797894,51.89105606]},"properties":{"name":"Cissie Youngs","longitude":-8.48797894,"latitude":51.89105606}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.48068237,48.74633026]},"properties":{"name":"Bordertown Mexican Grill","longitude":-122.48068237,"latitude":48.74633026}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-2.22446918,52.44810104]},"properties":{"name":"The Vine Pub","longitude":-2.22446918,"latitude":52.44810104}},
@@ -2154,5 +2154,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-113.93818665,49.48588943]},"properties":{"name":"Lost Things Distillery","longitude":-113.93818665,"latitude":49.48588943}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.48466492,40.39238358]},"properties":{"name":"Founders Food Hall","longitude":-82.48466492,"latitude":40.39238358}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[7.45232153,46.96218491]},"properties":{"name":"The Tipsy Bear","longitude":7.45232153,"latitude":46.96218491}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-4.67594147,55.73875809]},"properties":{"name":"The Railway Inn","longitude":-4.67594147,"latitude":55.73875809}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-4.67594147,55.73875809]},"properties":{"name":"The Railway Inn","longitude":-4.67594147,"latitude":55.73875809}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.53328383,53.79642487]},"properties":{"name":"The Arches Social","longitude":-1.53328383,"latitude":53.79642487}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.56839752,45.48008728]},"properties":{"name":"The Common Loon","longitude":-122.56839752,"latitude":45.48008728}}
 ]}
