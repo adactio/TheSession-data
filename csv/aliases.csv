@@ -179,8 +179,8 @@ tune_id,alias,name
 19,Mooney's,"Connaughtman's Rambles, The"
 20,"An Cupán Sughtromáin","Cup Of Tea, The"
 20,"An Cupán Tae","Cup Of Tea, The"
-20,"Cup O' Tea, The","Cup Of Tea, The"
 20,"Cup Of Overdrawn Tea, The","Cup Of Tea, The"
+20,"Martin Wynne's #2","Cup Of Tea, The"
 20,"Sweet Cup Of Tea","Cup Of Tea, The"
 20,"Unfortunate Cup Of Tea, The","Cup Of Tea, The"
 21,"Caisleán Uí Cheallaigh","Castle Kelly"
@@ -392,6 +392,7 @@ tune_id,alias,name
 49,"Cork, The","Harvest Home, The"
 49,"Harvest Homes","Harvest Home, The"
 49,"Harvest Time","Harvest Home, The"
+49,"Super Fucking EVIL HORNPlPE, The","Harvest Home, The"
 50,"Farmer Moroney's","Jackie Coleman's"
 50,"Jackie Coleman's #1","Jackie Coleman's"
 52,"Bogadh Faoi Shúsa","Kid On The Mountain, The"
@@ -2322,6 +2323,7 @@ tune_id,alias,name
 367,"Mayor Harrison's Fedora","Mayor Harrison's Fedora"
 367,"Mayor Harrison's Gray Fedora","Mayor Harrison's Fedora"
 367,"Mayor Harrison's Grey Fedora","Mayor Harrison's Fedora"
+368,"Molly, Put The Kettle On","Old Torn Petticoat, The"
 368,"Old Torn Petticoat I Got In Mullingar, The","Old Torn Petticoat, The"
 368,"Torn Petticoat, The","Old Torn Petticoat, The"
 368,"Worn Torn Petticoat, The","Old Torn Petticoat, The"
@@ -6592,6 +6594,7 @@ tune_id,alias,name
 1139,"John Brennan's","Dick Sherlock's"
 1139,"Matt Molloy's","Dick Sherlock's"
 1139,"Night In Ennis, The","Dick Sherlock's"
+1139,"Night Menace, The","Dick Sherlock's"
 1139,"Packie Duignan's","Dick Sherlock's"
 1139,"Roger Sherlock's","Dick Sherlock's"
 1139,"Sean McGuire's","Dick Sherlock's"
@@ -9119,6 +9122,7 @@ tune_id,alias,name
 1731,"Bonny Bunch Of Ferns, The","Cal Callaghan's"
 1731,Callaghan's,"Cal Callaghan's"
 1731,"Doon, The","Cal Callaghan's"
+1731,"Nellie Donovan's","Cal Callaghan's"
 1731,O'Callaghan's,"Cal Callaghan's"
 1732,"Footing The Turf","Old Joe's"
 1732,"Gullane, The","Old Joe's"
@@ -14215,6 +14219,7 @@ tune_id,alias,name
 3687,"Four-Leaved Shamrock, The","Four-Leafed Shamrock, The"
 3688,"Jack Of The Green","Jack In The Green"
 3688,"Jack On The Green","Jack In The Green"
+3688,"Jack Upon The Green","Jack In The Green"
 3688,Jack-in-the-green,"Jack In The Green"
 3688,Jack-of-the-green,"Jack In The Green"
 3690,"Over The Sea To Skye","Skye Boat Song, The"
@@ -16062,6 +16067,7 @@ tune_id,alias,name
 4930,"Paddy Fahy's No. 4","Paddy Fahey's"
 4935,"I Hae Laid A Herring In Salt","I Ha'e Laid A Herring In Salt"
 4935,"I Laid A Herring In Salt","I Ha'e Laid A Herring In Salt"
+4937,"Blue And The Gold, The","Hot Punch"
 4937,"Orange And Blue","Hot Punch"
 4940,"Deirdre's Fancy","My Heather Hills"
 4940,"Heather Hills","My Heather Hills"
@@ -21275,6 +21281,7 @@ tune_id,alias,name
 8600,Carlisle,"Carlisle Reel, The"
 8601,"Motorway, The",Motorway
 8603,"Lame Foot, The","Top Of The Hill, The"
+8604,"Four Stroke","Four Strokes, The"
 8604,"Four Stroke, The","Four Strokes, The"
 8611,Ballyhauness,Ballyhaunis
 8612,Single,"A Quantum Singularity"
@@ -21709,6 +21716,7 @@ tune_id,alias,name
 8918,"John Walsh's","Daly's Mill"
 8918,"John Walsh's #2","Daly's Mill"
 8918,"John Walsh's No.2","Daly's Mill"
+8919,"Ar Reder Mor","Fear A' Bhàta"
 8919,"Fear A Bhata","Fear A' Bhàta"
 8919,"Fear A'Bhata","Fear A' Bhàta"
 8919,"Fear Ah Bhata","Fear A' Bhàta"
@@ -23497,7 +23505,8 @@ tune_id,alias,name
 11049,"Snows That Melt The Soonest, The","January Snows"
 11053,"Sullivans John","Sullivan's John"
 11056,Polska,Djarven
-11057,"Trip To Inishturk, The","Trip To Turk"
+11057,"Trip To Inishturk, The","Trip To Turk, The"
+11057,"Trip To Turk","Trip To Turk, The"
 11060,"An Seanchai Muimhneach","An Seanchaí Muimhneach"
 11060,"Bill The Weaver's","An Seanchaí Muimhneach"
 11060,"Johnny O'Leary's","An Seanchaí Muimhneach"
@@ -26488,6 +26497,7 @@ tune_id,alias,name
 15540,"Invergarry Well","Tobar Na'n Ceann"
 15546,"Beid Ril Againn","Up The Southern Shore"
 15546,"Beidh Ril Againn","Up The Southern Shore"
+15546,"Up And See Granny","Up The Southern Shore"
 15546,"Up To See Granny","Up The Southern Shore"
 15550,"Brig O' Blair, The","Brig O' Blair"
 15552,"Mormors Brudvals","Vals Från Enviken"
@@ -26692,6 +26702,7 @@ tune_id,alias,name
 16030,"5x8 Nito","Flying To Birmingham"
 16057,"Sabhal Iain 'Ic Ùistean","Sabhal Iain 'Ic Ùisdean"
 16063,"Nancy Hynes'","Hungry Rocks, The"
+16063,"Pádraig Mac Giollarnáth","Hungry Rocks, The"
 16070,Beoga!,Beoga!
 16070,"Exploding Bow",Beoga!
 16077,"Clog De Parizeau","Clog De Pariseau"
@@ -27328,6 +27339,7 @@ tune_id,alias,name
 17855,"Brave Raparee, The","Brave Rapparee, The"
 17855,"Brave Raperee, The","Brave Rapparee, The"
 17855,"Brave Rapperee, The","Brave Rapparee, The"
+17857,Scahill's,"Gan Ainm"
 17864,"John Brady's No.9","Brady's Number Nine"
 17865,"Miser's Pocket, The","John Stewart"
 17865,"Mr John Shaw Stewart's Strathspey","John Stewart"
@@ -29398,6 +29410,7 @@ tune_id,alias,name
 26207,"Bowmore, The",Bowmore
 26214,"Dunlewey Waterfall","Eas Dhún Luíche"
 26219,"Darkest Day Lament, The","Darkest Day, The"
+26219,"Lament The Darkest Day","Darkest Day, The"
 26228,"Esha Ness Two-Step","Eshaness Two-Step"
 26230,"Canadian Barndance #1","Big Eyed Rabbit"
 26230,"Southern Melodies","Big Eyed Rabbit"
@@ -29437,6 +29450,7 @@ tune_id,alias,name
 26522,"MacAllister's Dirk","Biodag Air Mac Alasdair"
 26522,"McAlister's Dirk","Biodag Air Mac Alasdair"
 26522,"McAllister's Dirk","Biodag Air Mac Alasdair"
+26530,Qaytarma,Haytarma
 26530,Trauma,Haytarma
 26532,"Nancy Bessent's #1","English, The"
 26533,"An Cuimhneachán","Keepsake, The"
@@ -29518,3 +29532,4 @@ tune_id,alias,name
 26918,"Evoke #1, Evoke Pt.1",Evoke
 26919,"My Wee Boat","Óró Mo Bháidín"
 26923,"Antarctic Ice","Antarctic Life"
+26928,"Ardgroom Polka #2",Ardgroom
