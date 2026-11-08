@@ -2814,30 +2814,30 @@ tune_id,alias,name
 447,"Rose And The Heather, The","Rose In The Heather, The"
 447,"Rose In The Garden, The","Rose In The Heather, The"
 447,"Rose On The Heather, The","Rose In The Heather, The"
-448,"Camp Jigg, The","Frost Is All Over, The"
-448,"D'imthig An Sioc","Frost Is All Over, The"
-448,"Damhsa Na gCoiníní","Frost Is All Over, The"
-448,"Frost Is Over","Frost Is All Over, The"
-448,"Hey To The Camp","Frost Is All Over, The"
-448,"Kettle Boiled Over, The","Frost Is All Over, The"
-448,"Kitty Lie Over","Frost Is All Over, The"
-448,"Kitty, Lie Over","Frost Is All Over, The"
-448,"Loughrea, The","Frost Is All Over, The"
-448,"Masque, The","Frost Is All Over, The"
-448,"Mist Of Clonmel, The","Frost Is All Over, The"
-448,"On A Monday Morning","Frost Is All Over, The"
-448,"Praties Are Dug And The Frost Is All Over, The","Frost Is All Over, The"
-448,"Praties Are Dug, The","Frost Is All Over, The"
-448,"Praties In A Bag","Frost Is All Over, The"
-448,"Rabbit's Dance, The","Frost Is All Over, The"
-448,"Slán Le Sioc","Frost Is All Over, The"
-448,"Tá'n Sioc Imithe","Frost Is All Over, The"
-448,"Tom Billy's The Frost Is All Gone","Frost Is All Over, The"
-448,"What Would I Do If The Kettle Boiled Over?","Frost Is All Over, The"
-448,"What Would You Do If The Kettle Boiled Over","Frost Is All Over, The"
-448,"What Would You Do If You Married A Soldier?","Frost Is All Over, The"
-448,"When The Kettle Boils Over","Frost Is All Over, The"
-448,"Young Tim Murphy","Frost Is All Over, The"
+448,"Camp Jigg, The",Blackthorn
+448,"D'imthig An Sioc",Blackthorn
+448,"Damhsa Na gCoiníní",Blackthorn
+448,"Frost Is Over",Blackthorn
+448,"Hey To The Camp",Blackthorn
+448,"Kettle Boiled Over, The",Blackthorn
+448,"Kitty Lie Over",Blackthorn
+448,"Kitty, Lie Over",Blackthorn
+448,"Loughrea, The",Blackthorn
+448,"Masque, The",Blackthorn
+448,"Mist Of Clonmel, The",Blackthorn
+448,"On A Monday Morning",Blackthorn
+448,"Praties Are Dug And The Frost Is All Over, The",Blackthorn
+448,"Praties Are Dug, The",Blackthorn
+448,"Praties In A Bag",Blackthorn
+448,"Rabbit's Dance, The",Blackthorn
+448,"Slán Le Sioc",Blackthorn
+448,"Tá'n Sioc Imithe",Blackthorn
+448,"Tom Billy's The Frost Is All Gone",Blackthorn
+448,"What Would I Do If The Kettle Boiled Over?",Blackthorn
+448,"What Would You Do If The Kettle Boiled Over",Blackthorn
+448,"What Would You Do If You Married A Soldier?",Blackthorn
+448,"When The Kettle Boils Over",Blackthorn
+448,"Young Tim Murphy",Blackthorn
 449,"An tSidh Bheag Agus An tSidh Mhor","Sí Bheag Sí Mhór"
 449,"Shee Beg & Shee Mor","Sí Bheag Sí Mhór"
 449,"Sheebag Sheemore","Sí Bheag Sí Mhór"
@@ -3489,6 +3489,7 @@ tune_id,alias,name
 543,"All Da Ships Ir Sailin","Ships Are Sailing, The"
 543,"All Da Ships Ir Sailin'","Ships Are Sailing, The"
 543,"All The Ships Are Sailing","Ships Are Sailing, The"
+543,"Bag Of Nails, The","Ships Are Sailing, The"
 543,"Seals Are Shaping, The","Ships Are Sailing, The"
 543,"Ships A Sailing, The","Ships Are Sailing, The"
 543,"Ships A-Sailing","Ships Are Sailing, The"
@@ -3726,9 +3727,9 @@ tune_id,alias,name
 577,"Rose In The Garden, The","Ah Surely"
 577,"Up Cloontia","Ah Surely"
 577,"Windy Gap, The","Ah Surely"
-578,McCabe's,"Paddy Taylor's"
-578,"Paddy Taylor's","Paddy Taylor's"
-578,"Tripping Up The Stairs","Paddy Taylor's"
+578,McCabe's,McCabe's
+578,"Paddy Taylor's",McCabe's
+578,"Tripping Up The Stairs",McCabe's
 579,"An Mála Fataí","Bag Of Spuds, The"
 579,"Bag O' Spuds, The","Bag Of Spuds, The"
 579,"Bag Of Potatoes, The","Bag Of Spuds, The"
@@ -4342,8 +4343,8 @@ tune_id,alias,name
 693,"Strope The Razor","Strop The Razor"
 693,"Tripping Up To Larne","Strop The Razor"
 694,"As A Thoiseach","Keep It Up"
-694,"As, A Thoisich","Keep It Up"
-694,"Às, A' Thòsich!","Keep It Up"
+694,"Às, A Thòisich","Keep It Up"
+694,"Às, A Thòsich!","Keep It Up"
 694,"Be Off","Keep It Up"
 694,"Keep It Up!","Keep It Up"
 694,"Off With You","Keep It Up"
@@ -10169,6 +10170,7 @@ tune_id,alias,name
 2051,"Whistle Oure The Leave O't","Whistle Ower The Lave O't"
 2051,"Whistle Over The Lave O't","Whistle Ower The Lave O't"
 2051,"Whistle Owre The Lave O't","Whistle Ower The Lave O't"
+2053,O'Leary's,"Pat McKenna's"
 2059,Sensommarvals,Sommarvals
 2060,"An Buachaillin Búi","Morning Lark, The"
 2060,"An Teac Annsa Feoran","Morning Lark, The"
@@ -10379,6 +10381,7 @@ tune_id,alias,name
 2127,"Crannciuil Chluain","Nelson, The"
 2127,"Lord Nelson's","Nelson, The"
 2128,Acadian,"La Reel Des Acadiens"
+2128,"Acadian , The","La Reel Des Acadiens"
 2128,"Le Reel Des Acadiens","La Reel Des Acadiens"
 2130,"Bridgie McGrath's","John Kelly's"
 2130,"Captain Jinks","John Kelly's"
@@ -10837,6 +10840,7 @@ tune_id,alias,name
 2277,"Pat Canny's","Rooms Of Dooagh, The"
 2277,"Petticoat Loose","Rooms Of Dooagh, The"
 2277,"Rooms Of Dooah, The","Rooms Of Dooagh, The"
+2277,"Stick It And Hold Her","Rooms Of Dooagh, The"
 2278,"Na Ceithre Cúirteanna","Four Courts, The"
 2280,"Saint Kevin Of Glendalough","Potlick, The"
 2281,"A Hard Road To Travel","Steeplechase, The"
@@ -11172,8 +11176,6 @@ tune_id,alias,name
 2373,"Beauty Of The North, The","Beauty Of The North"
 2373,"Mais' An Taobh Tuath","Beauty Of The North"
 2376,"Brid Harper's","Rock On The Clyde, The"
-2376,Geremy's,"Rock On The Clyde, The"
-2376,Jeremy's,"Rock On The Clyde, The"
 2376,"Morne's, The","Rock On The Clyde, The"
 2377,"Huish The Cat","Where Is The Cat?"
 2377,"Hush The Cat, Wallop The Cat","Where Is The Cat?"
@@ -15419,6 +15421,7 @@ tune_id,alias,name
 4493,"Maid That Dare Not Tell, The","Maid Of Athens, The"
 4494,"Paddy Cronin's Highland Fling","Paddy Cronin's"
 4495,"Am Muileann Dubh","Oyster Wife's Rant, The"
+4495,"An Muileann Dubh","Oyster Wife's Rant, The"
 4495,"Black Mill","Oyster Wife's Rant, The"
 4495,"Black Mill, The","Oyster Wife's Rant, The"
 4495,"Mary Elanor Cock His Hairs On't","Oyster Wife's Rant, The"
@@ -15643,6 +15646,7 @@ tune_id,alias,name
 4656,"Cooper O' Stannerton Heugh, The","Cooper, The"
 4656,"Cooper Of Stamfordham Heugh, The","Cooper, The"
 4657,Elmer's,"Elmer's Tune"
+4660,"Моминско Хоро","Mominsko Horo"
 4663,"Sandy M'Gaff's","Sandy M'Gaff"
 4663,"Sandy McGaff","Sandy M'Gaff"
 4663,"Sandy McGaff's","Sandy M'Gaff"
@@ -16199,6 +16203,7 @@ tune_id,alias,name
 5042,"Pipers' Picnic, The","Piper's Picnic, The"
 5043,"To Schottische Up Mount Snowdon","I Schottische Lan Yr Wyddfa"
 5046,"Beaumont Rag, The","Beaumont Rag"
+5046,"Beautiful Mountian Rag","Beaumont Rag"
 5047,"Father Eugene's","Father Eugene's Welcome To Cape North"
 5047,"Fr. Eugene's Welcome To Cape North","Father Eugene's Welcome To Cape North"
 5049,"Richard Deasy","Richard Deasy's"
@@ -19159,10 +19164,13 @@ tune_id,alias,name
 7091,"England's Motorway","Tramps And Hawkers"
 7091,"Fraughan Side, The","Tramps And Hawkers"
 7091,"Homes Of Donegal, The","Tramps And Hawkers"
+7091,"Lay Of Oliver Gogarty, The","Tramps And Hawkers"
 7091,"My Little Son","Tramps And Hawkers"
 7091,"Paddy West","Tramps And Hawkers"
+7091,"River Roe, The","Tramps And Hawkers"
 7091,"Tribute To Newfoundland","Tramps And Hawkers"
 7091,"Wind That Shakes The Corn, The","Tramps And Hawkers"
+7091,"Winding Banks Of Erne, The","Tramps And Hawkers"
 7093,Kemp's,"Kemp's Jig"
 7093,"Kemp's Jegg","Kemp's Jig"
 7093,"Will Kemp's","Kemp's Jig"
@@ -20960,6 +20968,10 @@ tune_id,alias,name
 8306,"Old Munster Slip Jig","Maid's Complaint, The"
 8307,"Rond De Saint Vincent","Les Anneaux D'Or"
 8307,"Rond De Saint-Vincent","Les Anneaux D'Or"
+8308,"Deartháirín Mo Chroí","Jimmy Mo Mhíle Stór"
+8308,"Drihaureen O Mo Chree","Jimmy Mo Mhíle Stór"
+8308,"Jimmy Mo Veela Stór","Jimmy Mo Mhíle Stór"
+8308,"Little Brother Of My Heart","Jimmy Mo Mhíle Stór"
 8310,"Homecoming, The","Trip Home, The"
 8310,"Welcome Home, The","Trip Home, The"
 8332,"Upperchurch #2, The","Upperchurch, The"
@@ -28577,7 +28589,7 @@ tune_id,alias,name
 21924,"Miss Anne MacNamara","Anne MacNamara"
 21928,"Jenny's Mantel","Mantell Siani"
 21940,"Mrs Stewart Fleming Of Killiechassie","Miss Fleming Of Moness"
-21944,"Violin Partita No. 3, BWV 1006",Bourrée
+21944,Bourée,"Violin Partita No. 3, BWV 1006"
 21947,"Ó Raghallaigh's Grave","O'Rahilly's Grave"
 21947,"Ó Ráthaille's Grave","O'Rahilly's Grave"
 21954,"Planxty Robert Jordan","Robert Jordan"
@@ -28714,6 +28726,7 @@ tune_id,alias,name
 22623,"Waltz Of The Kites","La Valse Des Cerfs-volants"
 22624,"Sara's Fancy",Sara's
 22633,"One Track Jack","One Track Zach"
+22636,"When She Cam Ben She Bobbit","When She Cam'Ben She Bobbit"
 22640,"Buachaill Sa Chrann","Boy In The Tree, The"
 22654,Derrygortnea,"Thornhill Road"
 22659,"Marching, The","Tom Doyle's Retreat"
@@ -28925,7 +28938,8 @@ tune_id,alias,name
 23450,"King Of The Sea, The","King Of The Sea"
 23450,"Ree Ny Marrey","King Of The Sea"
 23463,"Neither A High Place Nor A Low Place","Ní Ar Chnoc Ná Ar Ísleacht"
-23467,"Violin Sonata No.1","Violin Sonata"
+23467,"Violin Sonata","Violin Sonata No.1 In G Minor, Presto BWV 1001"
+23467,"Violin Sonata No. 1","Violin Sonata No.1 In G Minor, Presto BWV 1001"
 23474,"Mike Hoban's Joy","Mike Hoban's"
 23480,"Danny O'Donnell's #1","Danny O'Donnell's"
 23504,"Bonniest Lass In A' The Warld, The","Bonniest Lass In A' The World, The"
@@ -29291,6 +29305,10 @@ tune_id,alias,name
 25507,"Kitty Lyons' #1","Eily Keating's"
 25507,"Kitty Lyons' No. 1","Eily Keating's"
 25507,"Timmy O'Connor's Bedford Cross","Eily Keating's"
+25545,Humility,"Winter Snow"
+25545,"Hymn For Christmas Day","Winter Snow"
+25545,"Hymn For Christmas, The","Winter Snow"
+25545,"See, Amid The Winter's Snow","Winter Snow"
 25564,"Lilly Bear (No. 1)","Lilly Bear"
 25565,"Lilly Bear No. 2","Lilly Bear"
 25566,"Hoslegata Christmas Polka #2, The","Hoslegata Christmas, The"
@@ -29401,6 +29419,7 @@ tune_id,alias,name
 26107,"O'Brien's Hop","Pig That Couldn't Sneeze, The"
 26107,"Pig That Wouldn't Sneeze, The","Pig That Couldn't Sneeze, The"
 26114,"Rosaleen Stenson's #2","Rosaleen Stenson's"
+26122,"An Ghloine Airgid","Silver Glass, The"
 26124,"Boom Boom Geoffrion","Boom! Boom!"
 26124,Geoffrion,"Boom! Boom!"
 26125,"Laird Of St Johnston, The","Laird Of St. Johnston, The"
@@ -29540,3 +29559,7 @@ tune_id,alias,name
 26965,"Auchterarder, The","Auchterarder VIP, The"
 26965,"Paddy Neary","Auchterarder VIP, The"
 26968,"Snow Storm, The","Snowstorm, The"
+26983,"Bill's Trad Cave","Bill's Trad Cave"
+26985,"Seas They Ran Red With Blood, The","Na Farraigí Dearga"
+26987,"Pigeon On The Gatepost","Twin Sisters, The"
+26988,Marie's,"Marie Hogan's"
